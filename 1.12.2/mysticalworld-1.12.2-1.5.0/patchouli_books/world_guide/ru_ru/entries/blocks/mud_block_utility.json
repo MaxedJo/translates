@@ -1,0 +1,33 @@
+{
+  "name": "Грязевые механизмы",
+  "icon": "mysticalworld:mud_block_pressure_plate",
+  "category": "blocks",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:mud_block_pressure_plate",
+      "link_recipe": true,
+      "text": "Нажимные пластины могут быть изготовлены как из грязевых блоков, так и из грязевого кирпича. Как и каменные , они реагируют лишь на мобов и игроков."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:mud_block_pressure_plate",
+      "recipe2": "mysticalworld:mud_brick_pressure_plate",
+      "link_recipe": true,
+      "title": "Нажимные пластины"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:mud_block_button",
+      "link_recipe": true,
+      "text": "Кнопки могут быть изготовлены как из грязевых блоков, так и из грязевого кирпича."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:mud_block_button",
+      "recipe2": "mysticalworld:mud_brick_button",
+      "link_recipe": true,
+      "title": "Кнопки"
+    }
+  ]
+}

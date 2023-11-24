@@ -1,0 +1,63 @@
+grpg_Mining.name=Горное мастерство
+grpg_Digging.name=Мастерство вскапывания
+grpg_Chopping.name=Лесорубство
+grpg_Trimming.name=Парикмахер овец
+grpg_Protection.name=Защита
+grpg_Tempering.name=Огнеусточивость
+grpg_ToughSkin.name=Взрывоустойчивость
+grpg_FeatherFall.name=Воздушность
+grpg_LeaperH.name=Прыжки в длину
+grpg_LeaperV.name=Прыжки в высоту
+grpg_Swimming.name=Атлетизм
+grpg_Climbing.name=Взбирание
+grpg_Pugilism.name=Мастер кунг-фу
+grpg_Swordsmanship.name=Мастер меча
+grpg_Bowmanship.name= Мастер лука
+grpg_Reaper.name=Мастер души
+grpg_Treasure_Finder.name=Кладоискатель
+grpg_Furnace_Finesse.name=Быстрая плавка
+grpg_Steady_Guard.name=Страж
+grpg_Stealth.name=Ниндзя 
+grpg_Mining_Magician.name=Гендальф-шахтёр
+grpg_Roll.name=Рулон
+
+grpg_Mining.des=Добыча руд на %f%% быстрее.
+grpg_Digging.des=Вскапывание на %f%% быстрее.
+grpg_Chopping.des=Рубка на %f%% быстрее.
+grpg_Trimming.des=Подстригание на %f%% быстрее. А подстригание ли это вообще?
+grpg_Protection.des=Получайте на %f%% меньше урона от большинства атак врагов.
+grpg_Tempering.des=Получайте на %f%% меньше урона от огня и лавы, ибо Вам самому нужно вызвать пожарных~
+grpg_ToughSkin.des=Получайте на %f%% меньше урона от взрывов.
+grpg_FeatherFall.des=Получите на %1$f%% меньше урона от падения более чем на %2$f блоков;
+grpg_LeaperH.des=Прыгайте на %f%% дальше во время спринта.
+grpg_LeaperV.des=Прыгайте на %f%% выше во время спринта и Вы достанете Солнце!
+grpg_Swimming.des0=Плавайте на %f%% быстрее.
+grpg_Swimming.des1=Ничего не произойдет, если скачан Player API!
+grpg_Climbing.des0=Подъем на %f%% быстрее. Сквозь тернии к звездам!
+grpg_Climbing.des1= Ничего не произойдет, если скачан Player API!
+grpg_Pugilism.des=Наносите на %f%% больше урона свободной рукой.
+grpg_Swordsmanship.des=Наносите на %f%% больше урона мечом.
+grpg_Bowmanship.des=Наносите на %f%% больше урона с лука.
+grpg_Reaper.des=%1$f%% шанс сразу убить врага, если у того менее %2$f здоровья;
+grpg_Treasure_Finder.des0=Шанс получить дополнительные предметы при сборе блоков.
+grpg_Treasure_Finder.des1=Шанс получить более редкие дополнительные предметы при сборе блоков.
+grpg_Furnace_Finesse.des=Плавка на %1$f тик быстрее за %2$f%% времени, используя печь.
+grpg_Steady_Guard.des=На %f%% меньше отбрасывания при блоке.
+grpg_Stealth.des=Двигайтесь на %1$f%% быстрее и пожинайте на %2$f%% чаще (%3$f%%), когда крадетесь.
+grpg_Mining_Magician.des=Шанс найти дополнительные материалы при добыче руды.
+grpg_Roll.des=%f%% Шанс избежать урона и контратаковать противника.
+
+
+grpg_Roll.message=*Увернуться*
+grpg_Roll.knockback=*Оттолкнуть*
+
+
+ui.cost.name=Стоит опыта:  
+ui.max.name=Хватит, силач!
+ui.currentxp.name=Количество опыта: 
+ui.opmenu.name=Открыть меню stats
+ui.openhelper.name=Открыть помощь по совместимости stats
+ui.hover.name=ЛКМ для повышения уровня, Ctrl+ЛКМ для понижения
+ui.revert.name=ЛКМ для понижения уровня
+ui.reverted.name=Понижение уровня: %d/%d
+ui.norevert.name=Вы не можете больше повышать уровень!

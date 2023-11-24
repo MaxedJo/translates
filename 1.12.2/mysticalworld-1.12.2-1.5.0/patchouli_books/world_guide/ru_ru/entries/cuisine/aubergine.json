@@ -1,0 +1,25 @@
+{
+  "name": "Баклажан",
+  "icon": "mysticalworld:aubergine",
+  "category": "cuisine",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:cooked_aubergine",
+      "text": "Баклажаны можно вырастить из $(l:crops/aubergine)из семян баклажанов$() и использовать различными способами."
+    },
+    {
+      "type": "smelting",
+      "recipe": "mysticalworld:aubergine",
+      "title": "Приготовленный баклажан",
+      "text": "После приготовления и удаления семян в баклажан можно вносить дополнительные добавки, чтобы сделать его еще вкуснее!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:stuffed_aubergine",
+      "title": "Фаршированный баклажан",
+      "text": "Великолепное вегетарианское лакомство - баклажан в сочетании со свеклой, морковью и картофелем, для по-настоящему великолепного блюда!"
+    }
+  ]
+}

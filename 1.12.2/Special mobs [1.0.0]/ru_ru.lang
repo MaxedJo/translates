@@ -1,0 +1,145 @@
+potion.potency.-10=-X
+potion.potency.-9=-IX
+potion.potency.-8=-VIII
+potion.potency.-7=-VII
+potion.potency.-6=-VI
+potion.potency.-5=-V
+potion.potency.-4=-IV
+potion.potency.-3=-III
+potion.potency.-2=-II
+potion.potency.-1=-I
+potion.potency.4=V
+potion.potency.5=VI
+potion.potency.6=VII
+potion.potency.7=VIII
+potion.potency.8=IX
+potion.potency.9=X
+
+entity.EntityAreaEffectCloud.name=Облако Затяжного Зелья
+
+entity.SMFishHook.name=Рыболовный Крючок
+
+entity.SpecialBlaze.name=Ифрит
+entity.CinderBlaze.name=Огонёк
+entity.ConflagrationBlaze.name=Великий Пожар
+entity.EmberBlaze.name=Тлеющий Уголек
+entity.HellfireBlaze.name=Адское Пламя
+entity.InfernoBlaze.name=Огонь Преисподни
+entity.JoltBlaze.name=Сотрясающий Ифрит
+entity.WildfireBlaze.name=Блуждающий Пожар
+
+entity.SpecialCaveSpider.name=Пещерный Паук
+entity.BabyCaveSpider.name=Маленький Пещерный Паук
+entity.FlyingCaveSpider.name=Парящий Пещерный Паук
+entity.MotherCaveSpider.name=Мать Пещерный Паук
+entity.WebCaveSpider.name=Пещерный Паук Стрелок
+entity.WitchCaveSpider.name=Пещерный Паук Колдун
+
+entity.SpecialCreeper.name=Крипер
+entity.DarkCreeper.name=Мрачный Крипер
+entity.DeathCreeper.name=Гниющий Крипер
+entity.DirtCreeper.name=Зловонный Крипер
+entity.DoomCreeper.name=Крипер Ночной Погибели
+entity.DrowningCreeper.name=Крипер Утопленник
+entity.EnderCreeper.name=Эндер Крипер
+entity.FireCreeper.name=Пылающий Крипер
+entity.GravelCreeper.name=Крипер из Щебня
+entity.JumpingCreeper.name=Крипер-Скакун
+entity.LightningCreeper.name=Громовой Крипер
+entity.MiniCreeper.name=Миниатюрный Крипер
+entity.SplittingCreeper.name=Дробящийся Крипер
+
+entity.SpecialEnderman.name=Странник Края
+entity.BlindingEnderman.name=Ослепляющий Странник Края
+entity.IcyEnderman.name=Морозный Странник Края
+entity.LightningEnderman.name=Громовой Странник Края
+entity.MiniEnderman.name=Мелкий Странник Края
+entity.MirageEnderman.name=Иллюзорный Странник Края
+entity.ThiefEnderman.name=Воришка Края
+
+entity.SpecialGhast.name=Гаст
+entity.BabyGhast.name=Малыш Гаст
+entity.FighterGhast.name=Гаст Разбойник
+entity.KingGhast.name=Король Гаст
+entity.QueenGhast.name=Королева Гаст
+entity.UnholyGhast.name=Нечестивый Гаст
+
+entity.SpecialLavaSlime.name=Лавовый слизень
+entity.FlyingLavaSlime.name=Парящий Лавовый слизень
+entity.HardenedLavaSlime.name=Закаленный Лавовый слизень
+entity.StickyLavaSlime.name=Липкий Лавовый слизень
+entity.VolatileLavaSlime.name=Неустойчивый Лавовый слизень
+
+entity.SpecialPigZombie.name=Свинозомби
+entity.BrutePigZombie.name=Жестокий Свинозомби
+entity.FishingPigZombie.name=Свинозомби Рыбак
+entity.GiantPigZombie.name=Свинозомби Гигант
+entity.HungryPigZombie.name=Голодный Свинозомби
+entity.KnightPigZombie.name=Свинозомби Рыцарь
+entity.PlaguePigZombie.name=Заразный Свинозомби
+entity.VampirePigZombie.name=Вампиросвин
+
+entity.SpecialSilverfish.name=Чешуйница
+entity.BlindingSilverfish.name=Ослепительная Чешуйница
+entity.FishingSilverfish.name=Чешуйница Рыбак
+entity.FlyingSilverfish.name=Парящая Чешуйница
+entity.PoisonSilverfish.name=Токсичная Чешуйница
+entity.ToughSilverfish.name=Суровая Чешуйница
+
+entity.SpecialSkeleton.name=Скелет
+entity.BruteSkeleton.name=Жестокий Скелет
+entity.FireSkeleton.name=Пылающий Скелет
+entity.GatlingSkeleton.name=Быстрый Скелет
+entity.GiantSkeleton.name=Скелет Гигант
+entity.KnightSkeleton.name=Рыцарь Скелет
+entity.NinjaSkeleton.name=Ниндзя Скелет
+entity.PoisonSkeleton.name=Токсичный Скелет
+entity.SniperSkeleton.name=Меткий Скелет
+entity.SpitfireSkeleton.name=Вспыльчивый Скелет
+entity.StraySkeleton.name=Скелет Бродяга
+
+entity.SpecialSlime.name=Слизень
+entity.BlackberrySlime.name=Ежевичный Слизень
+entity.BlueberrySlime.name=Черничный Слизень
+entity.CaramelSlime.name=Карамельный Слизень
+entity.GrapeSlime.name=Виноградный Слизень
+entity.LemonSlime.name=Лемонный Слизень
+entity.StrawberrySlime.name=Клубничный Слизень
+entity.WatermelonSlime.name=Арбузный Слизень
+
+entity.SpecialSpider.name=Паук
+entity.BabySpider.name=Маленький Паук
+entity.DesertSpider.name=Пустнынный Паук
+entity.FlyingSpider.name=Парящий Паук
+entity.GiantSpider.name=Паук Гигант
+entity.HungrySpider.name=Голодный Паук
+entity.MotherSpider.name=Мать Паук
+entity.PaleSpider.name=Бледный Паук
+entity.PoisonSpider.name=Ядовитый Паук
+entity.WebSpider.name=Паук Стрелок
+entity.WitchSpider.name=Паук Колдун
+
+entity.SpecialWitch.name=Ведьма
+entity.DominationWitch.name=Доминирующая Ведьма
+entity.ShadowsWitch.name=Чернокнижница
+entity.UndeadWitch.name=Лич
+entity.WildsWitch.name=Хозяйка Леса
+entity.WindWitch.name=Повелительница Ветров
+
+entity.SpecialWitherSkeleton.name=Скелет Иссушитель
+entity.BruteWitherSkeleton.name=Жестокий Скелет Иссушитель
+entity.GatlingWitherSkeleton.name=Быстрый Скелет Иссушитель
+entity.GiantWitherSkeleton.name=Скелет Иссушитель Гигант
+entity.KnightWitherSkeleton.name=Скелет Иссушитель Рыцарь
+entity.NinjaWitherSkeleton.name=Ниндзя Скелет Иссушитель
+entity.SniperWitherSkeleton.name=Меткий Скелет Иссушитель
+entity.SpitfireWitherSkeleton.name=Вспыльчивый Скелет Иссушитель
+
+entity.SpecialZombie.name=Зомби
+entity.BruteZombie.name=Жестокий Зомби
+entity.FireZombie.name=Пылающий Зомби
+entity.FishingZombie.name=Зомби Рыбак
+entity.GiantZombie.name=Зомби Гигант
+entity.HungryZombie.name=Голодный Зомби
+entity.HuskZombie.name=Разлагающийся Зомби
+entity.PlagueZombie.name=Заразный Зомби

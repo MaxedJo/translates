@@ -1,0 +1,23 @@
+{
+  "name": "Лава-кот",
+  "icon": "minecraft:lava_bucket",
+  "category": "creatures",
+  "flag": "roots:lava_cat",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "lava_cat",
+      "breed": "Размножение: стержни ифрита.",
+      "tame": "Приручение: стержни ифрита.",
+      "blurb": "Ведро воды способно превратить этих кошек в обсидиан!"
+    },
+    {
+      "type": "entity",
+      "name": "Лава-кот",
+      "entity": "mysticalworld:entity_lava_cat",
+      "scale": 0.5,
+      "offset": -0.3,
+      "text": "Но ведро лавы все исправит."
+    }
+  ]
+}

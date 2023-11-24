@@ -1,0 +1,19 @@
+{
+  "name": "Шелковая нить",
+  "icon": "mysticalworld:silk_thread",
+  "category": "items",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:silk_thread",
+      "link_recipe": true,
+      "text": "Шелковая нить может быть получена путем обработки $(l:items/silk_cocoon)кокона шелкопряда$() , хотя количество будет варьироваться в зависимости от метода."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:spindle",
+      "recipe2": "mysticalworld:silk_thread_spindle",
+      "text": "Комбинирование кокона шелкопряда со шпинделем даст наилучшие результаты, хотя и потребит часть прочности шпинделя."
+    }
+  ]
+}

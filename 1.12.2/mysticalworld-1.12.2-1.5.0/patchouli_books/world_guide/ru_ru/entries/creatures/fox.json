@@ -1,0 +1,23 @@
+{
+  "name": "Лиса",
+  "icon": "mysticalworld:pelt",
+  "category": "creatures",
+  "flag": "roots:fox",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "fox",
+      "breed": "Размножение: яблоками.",
+      "tame": "Приручение: яблоками.",
+      "blurb": ""
+    },
+    {
+      "type": "entity",
+      "name": "Лиса",
+      "entity": "mysticalworld:entity_fox",
+      "scale": 0.8,
+      "offset": 0,
+      "text": "Будучи злобными убийцами цыплят и кроликов, они становятся послушными, когда их приручают!"
+    }
+  ]
+}

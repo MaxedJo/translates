@@ -98,6 +98,7 @@ chroma.smeltery=Smeltery Casting Distributor
 chroma.launchpad=Vertical Propulsion Panel
 chroma.toolstorage=Tool Compression Crate
 chroma.beestorage=Genetic Storage Container
+chroma.networkitem=Inventory Network Relay
 
 adjacency.black=Ядро эффективности
 adjacency.red=Ядро защиты
@@ -166,6 +167,12 @@ chroma.rfpod=Flux Pod
 chroma.encrusted=Lumen-Encrusted Crystals
 chroma.injectorfocus=Casting Stand Insertion Relay
 chroma.hoverpadaux=Physics Suspension Lamp
+chroma.dyevine=Dye Vine
+chroma.dyevinefertile=Fertile Dye Vine
+chroma.voidcave=Lifewater Spring
+chroma.panelswitch=Crystal Switch
+chroma.lightpanel=Indicator Panel
+chroma.mud=Muddy Residue
 
 chroma.bucket=Ведро
 chroma.invlink=Предметный телепортатор
@@ -226,6 +233,11 @@ chroma.probe=Examination Crystals
 chroma.telegatelock=Transposition Crystals
 chroma.enderbucket=Пустотное ведро
 chroma.widecollector=Кольцо поглощения
+chroma.structmap=Artifact Distribution Map
+chroma.netherkey=Nether Layer Crystal
+chroma.recipecapsule=Recipe Tablet
+chroma.patterncrystal=Pattern Crystal
+chroma.etherpendant=Luma Capsule
 
 chromability.reach=Досягаемость
 chromability.magnet=Магнетизм
@@ -306,6 +318,7 @@ chromastruct.playerinfusion=Infusion Fountain
 chromastruct.voidritual=Distortion Elimination Spiral
 chromastruct.nethertrap=Nether Relocation Focus
 chromastruct.launchpad=Vertical Propulsion Panel
+chromastruct.biomefrag=Magic Outpost
 
 crystal.cave=Пещерный кристал
 crystal.lamp=Кристальная лампа
@@ -539,6 +552,7 @@ chromaresearch.entry=Вступление
 chromaresearch.rawexplore=Исследование
 chromaresearch.basiccraft=Базовые крафты
 chromaresearch.runecraft=Руны
+chromaresearch.energy=Энергия
 chromaresearch.energyexplore=Энергия
 chromaresearch.chargeself=Зарядка
 chromaresearch.multicraft=Мультиблочные структуры
@@ -578,6 +592,7 @@ dragonapi.allele.Lethargic=Летаргический
 dragonapi.allele.Unproductive=Непродуктивный
 dragonapi.allele.Nonpollinating=Неопыляющий
 
+soundCategory.chroma_music=ChromatiCraft Music
 soundCategory.ChromatiCraft=ChromatiCraft Music
 
 material.chromastone=Хромакамень

@@ -6,3 +6,4 @@
  - tools
  - machines
  - enchants
+ - ru_RU

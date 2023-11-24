@@ -1,0 +1,13 @@
+#Backup
+aromabackup:backup.start.server=Начинаю бэкап. Сервер можеть зависать!
+aromabackup:backup.start.client=Начинаю бэкап. Мир можеть зависать!
+aromabackup:backup.done.server=Бэкап Сервера завершен!
+aromabackup:backup.done.client=Бэкап Мира завершен!
+aromabackup:backup.failed.server=Бэкап Сервера НЕ выполнен!
+aromabackup:backup.failed.client=Бэкап Мира НЕ выполнен!
+aromabackup:backup.next.server=Следующий бэкап через %s минут.
+aromabackup:backup.next.client=Следующий бэкап через %s минут.
+
+#Command
+aromabackup:command.alreadyrunning=Бэкап уже запущен.
+aromabackup:command.playerstarted=%s начинаю бэкап.

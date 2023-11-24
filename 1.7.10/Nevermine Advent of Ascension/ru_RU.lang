@@ -1,0 +1,3354 @@
+﻿#Перевод от TimeConqueror
+#Помогали: Mudresistor,HeBeDuMka
+key.skills=Показать лист умений
+key.cinfo=Вкл. информацию о существах
+key.skillnameleft=Переключ. имя умения (Вл.)
+key.skillnameright=Переключ. имя умения (Впр.)
+key.exped=Переключ. бонус от Скорости
+key.lognot=Подсказки при входе
+
+tile.tubeicles.name=Tubeicles
+
+tile.bloodPine.name=Кровавая сосна
+tile.bloodPineStem.name=Кровавая сосна
+
+tile.eyeShrub.name=Глазной куст
+tile.eyeShrubStem.name=Глазной куст
+
+tile.DivineStation.name=Божесвенная станция
+
+tile.MendingTable.name=Ремонтирующий стол
+
+tile.FiltrationSystemOn.name=Фильтрующая система (Кипящая)
+tile.FiltrationSystemOff.name=Фильтрующая система
+
+tile.darkstone.name=Темный камень
+tile.AbyssGrass.name=Стекло Бездны
+tile.stoneAbyss.name=Камень Бесдны
+tile.leavesBlood.name=Кровавые листья
+tile.leavesCycade.name=Листья цикадного дерева
+tile.leavesShadow.name=Теневые листья
+tile.WoodBlood.name=Кровавая древесина
+tile.animated/FireLamp.name=Огненная лампа
+tile.WoodCycade.name=Саговое дерево
+tile.WoodShadow.name=Теневая древесина
+tile.oreBloodstone.name=Каменно-кровавая руда
+
+item.UpgradeKitClown.name=Клоунский набор улучшения
+item.UpgradeKitDarkly.name=Тёмный набор улучшения
+item.UpgradeKitHaunted.name=Проклятый набор улучшения
+item.UpgradeKitSeaside.name=Прибрежный набор улучшения
+item.UpgradeKitLelyetian.name=Лелитейский набор улучшения
+item.UpgradeKitRocky.name=Каменный набор улучшения
+
+tile.bricksCrystevian.name=Кристевийские кирпичи
+tile.dirtCeleve.name=Земля Селева
+tile.CelevePortal.name=Портал в Селев
+tile.celevusRed.name=Красные листья селева
+tile.celevusGreen.name=Зеленые листья селева
+tile.celevusYellow.name=Желтые листья селева
+tile.celevusBlue.name=Синие листья селева
+tile.celevusPurple.name=Фиолетовые листья селева
+tile.celevusWhite.name=Белые листья селева
+tile.celeviansRed.name=Красный цветок селева
+tile.celeviansBlue.name=Синий цветок селева
+tile.celeviansPurple.name=Фиолетовый цветок селева
+tile.celeviansWhite.name=Белый цветок селева
+tile.celebulbsTopGreen.name=Зеленый гриб селева
+tile.celebulbsTopYellow.name=Желтый гриб селева
+tile.celebulbsStem.name=Грибной стержень
+tile.crystalBlue.name=Синий кристалл
+tile.crystalGreen.name=Зеленый кристалл
+tile.crystalYellow.name=Желтый кристалл
+tile.crystalWhite.name=Белый кристалл
+tile.crystalRed.name=Красный кристалл
+tile.crystalPurple.name=Фиолетовый кристалл
+
+tile.CrystalCreatorRed.name=Создатель кристала
+tile.CrystalCreatorGreen.name=Создатель кристала
+tile.CrystalCreatorYellow.name=Создатель кристала
+tile.CrystalCreatorPurple.name=Создатель кристала
+tile.CrystalCreatorBlue.name=Создатель кристала
+tile.CrystalCreatorWhite.name=Создатель кристала
+
+tile.crysteviaPortal.name=Портал в Кристевию
+
+tile.PowerStation.name=Электростанция
+tile.CrystalExtensionShrine.name=Святыня расширения кристалла
+
+
+tile.crystalBlockBlue.name=Блок синих кристалов
+tile.crystalBlockGreen.name=Блок зеленых кристалов
+tile.crystalBlockYellow.name=Блок желтых кристалов
+tile.crystalBlockWhite.name=Блок желтых кристалов
+tile.crystalBlockRed.name=Блок красных кристалов
+tile.crystalBlockPurple.name=Блок фиолетовых кристалов
+
+
+tile.spawnerArocknid.name=Спавнер Арокнид
+tile.CandyBlock.name=Блок конфет
+tile.CottonCandorStatue.name=Статуя Сладковатника
+tile.CottonCandorStatueGold.name=Золотая статуя Сладковатника
+tile.CandylandPortal.name=Портал в Конфетный мир
+tile.spawnerGingerbreadMan.name=Спавнер Пряничных человечков
+tile.spawnerOpteryx.name=Спавнер Оптериксов
+tile.gingerbread.name=Имбирный пряник
+tile.spawnerCaneBug.name=Спавней Жуткотростей
+tile.spawnerFungock.name=Cпаунер Грибонстров
+tile.spawnerGingerbird.name=Спавнер Пряничных птиц
+tile.rainbowGrass.name=Разноцветная трава
+tile.rainbowGrass2.name=Разноцветная трава
+tile.rainbowGrass3.name=Разноцветная трава
+tile.ShroomStem.name=Стебель грибочка
+tile.PurpleShroom.name=Фиолетовый грибочек
+tile.OrangeShroom.name=Оранжевый грибочек
+tile.YellowShroom.name=Жёлтый грибочек
+tile.GreenShroom.name=Зелёный грибочек
+tile.BlueShroom.name=Синий грибочек
+tile.GrassCandyland.name=Засахаренная трава
+tile.candyGrass.name=Засахаренная трава
+tile.candyGrassBlue.name=Засахаренная трава
+tile.candylandCotton.name=Сахарная вата
+tile.candylandCottonBlue.name=Сахарная вата
+tile.plasticPole.name=Пластик
+tile.candylandRedCandy.name=Красная конфета
+tile.candylandWhiteCandy.name=Белая конфета
+tile.candylandGreenCandy.name=Зеленая конфета
+tile.chocolateBlock.name=Шоколад
+tile.chocolateBlockWhite.name=Белый шоколад
+tile.chocolateBlockDark.name=Темный шоколад
+tile.candyTube.name=Конфета
+tile.plasticStick.name=Пластиковая палочка
+tile.lollypopRed.name=Леденец
+tile.lollypopYellow.name=Леденец
+tile.lollypopBlue.name=Леденец
+tile.spearmentGreen.name=Мятная конфета
+tile.spearmentRed.name=Перечно-мятная конфета
+tile.candyCane.name=Леденцы
+tile.dirtCandyland.name=Засахаренная земля
+
+tile.CreepStatue.name=Статуя К.Р.И.Па
+tile.CreepStatueGold.name=Золотая статуя К.Р.И.Па
+
+
+tile.crysteviaRock.name=Камень Кристевии
+tile.runePostCompass.name=Compass Rune post
+tile.GrassCeleve.name=Трава Селева
+tile.CeleveStem.name=Стебель Селева
+tile.ToyBox.name=Ящик для игрушек
+
+tile.oreCrystalRed.name=Руда красного кристалла
+tile.oreCrystalGreen.name=Руда зеленого кристалла
+tile.oreCrystalBlue.name=Руда синего кристалла
+tile.oreCrystalWhite.name=Руда белого кристалла
+tile.oreCrystalYellow.name=Руда желтого кристалла
+tile.oreCrystalPurple.name=Руда фиолетового кристалла
+
+
+tile.HydroTable.name=Гидростатический стол
+
+tile.lurchians.name=Лурчианы
+tile.irotops.name=Иротопы
+tile.labBrick.name=Кирпичи лаборатории
+tile.labWalls.name=Стены лаборатории
+tile.labBrickGreen.name=Зеленые кирпичи лаборатории
+tile.labGlassBasic.name=Базовое лабораторное стекло
+tile.labGlassSquares.name=Lab Glass Squares
+tile.labLampDonut.name=Donut Lab Lamp
+tile.leavesEternal.name=Эфирные листья
+tile.labPost.name=Lab Post
+tile.woodEternal.name=Эфирная древесина
+tile.spawnerNightwing.name=Спавнер Ночекрылов
+
+tile.leveledBrick.name=Выровненный кирпич
+tile.leveledBrickBrown.name=Выровненный кирпич
+tile.leveledWalls.name=Выровненный кирпич
+tile.darkinBrick.name=Темный кирпич
+tile.darkinWalls.name=Темный кирпич
+tile.darkinBrickRed.name=Темный кирпич
+
+tile.bubbleberries.name=Пузырчатые ягоды
+tile.heartfruit.name=Сердцефрукт
+tile.magicmarang.name=Волшебный маранг
+tile.thornyplant.name=Терновый росток
+
+
+tile.campfire.name=Костёр
+
+tile.heatLamp_0.name=Лампа жизни
+tile.heatLamp_1.name=Лампа жизни
+tile.heatLamp_2.name=Лампа жизни
+tile.heatLamp_3.name=Лампа жизни
+tile.heatLamp_4.name=Лампа жизни
+tile.heatLamp_5.name=Лампа жизни
+tile.heatLamp_6.name=Лампа жизни
+tile.heatLamp_7.name=Лампа жизни
+tile.heatLamp_8.name=Лампа жизни
+tile.heatLamp_9.name=Лампа жизни
+tile.heatLamp_10.name=Лампа жизни
+tile.heatLamp_11.name=Лампа жизни
+tile.heatLamp_12.name=Лампа жизни
+tile.heatLamp_13.name=Лампа жизни
+tile.heatLamp_14.name=Лампа жизни
+tile.heatLamp_15.name=Лампа жизни
+
+
+
+tile.GoldorthStatue.name=Статуя Голдорт
+tile.GoldorthStatueGold.name=Золотая статуя Голдорт
+
+tile.HoronStatue.name=Статуя Хорона
+tile.HoronStatueGold.name=Золотая статуя Хорона
+
+tile.ConiferonStatue.name=Статуя Хвойника
+tile.ConiferonStatueGold.name=Золотая статуя Хвойника
+
+tile.PenumbraStatue.name=Статуя Полутени
+tile.PenumbraStatueGold.name=Золотая статуя Полутени
+
+tile.GrawStatue.name=Статуя Гроу
+tile.GrawStatueGold.name=Золотая статуя Гроу
+
+tile.GyroStatue.name=Статуя Гиро
+tile.GyroStatueGold.name=Золотая статуя Гиро
+
+tile.CrystocoreStatue.name=Статуя Кристакора
+tile.CrystocoreStatueGold.name=Золотая статуя Кристакора
+
+tile.spawnerJawe.name=Спавнер Джейвов
+
+tile.abyssPortal.name=Портал в Бездну
+tile.havenPortal.name=Портал в Рай
+tile.precasiaPortal.name=Портал в Доисторический лес
+tile.mysteriumPortal.name=Портал в Мистериум
+
+item.GiantCrystal.name=Огромный кристалл
+
+item.tea.name=Чай
+item.fungalTea.name=Грибной чай
+item.gravitator.name=Гравитатор
+item.AtlanticStaff.name=Атлантический посох
+
+
+enchantment.control=Контроль
+enchantment.shell=Панцирь
+enchantment.recharge=Перезарядка
+enchantment.overpower=Подавление
+enchantment.crush=Давака
+enchantment.sever=Разрыв
+enchantment.archmage=Архимаг
+enchantment.windfury=Ярость ветра
+enchantment.slice=Нарезка
+enchantment.intervention=Вмешательство
+
+item.NatureMelonSlice.name=Ломтик природного арбуза
+item.FurlionChop.name=Отбивная Фурлиона
+item.FurlionChopRaw.name=Сырая отбивная Фурлиона
+item.NaturalTea.name=Натуральный чай
+item.HotRod.name=Горячий стержень
+
+item.FieryChops.name=Зажигательные отбивные
+item.Grandsword.name=Великий меч
+
+item.MilleniumUpgrader.name=Улучшение миллениума
+item.MoltenUpgrader.name=Улучшение плавителя
+
+item.RealmstoneLabricon.name=Странный камень измерения
+
+item.IngotRustedIron.name=Ржавый железный слиток
+item.FragmentedAnimaStone.name=Разбитый камень Анимы
+
+item.TabletHealth.name=Пластина здоровья
+item.TabletEnergy.name=Пластина энергии
+item.TabletVitality.name=Пластина ярости
+item.TabletCreation.name=Пластина создания
+item.TabletHunger.name=Пластина сытости
+item.TabletPeace.name=Пластина спокойствия
+item.TabletDebuff.name=Пластина успокоения
+item.TabletAirhop.name=Пластина сверхпрыжка
+item.TabletDivine.name=Пластина божественного вмешательства
+
+item.LuxonStickler.name=Луксонский липучкомёт
+item.ErebonStickler.name=Эребонский липучкомёт
+item.SelyanStickler.name=Селеанский липучкомёт
+item.PlutonStickler.name=Плутонский липучкомёт
+
+item.GhostStone.name=Призрачный камень
+
+item.RealmstoneCeleve.name=Камень измерения:Селев
+item.AnimaStone.name=Камень Анимы
+item.CompassRune.name=Руна объёма
+item.CoinCircus.name=Цирковая монета
+item.ToyGyrocopter.name=Игрушечный вертолёт
+item.UpgradeKitSmiley.name=Весёлый набор улучшения
+item.CoinsCeleve.name=Самоцветы Селева
+item.TotemWhimsyWinder.name=Тотем ветренной прихоти
+item.TotemGoofyGreatblade.name=Тотем глупого великого клинка
+
+item.Ultraflame.name= Ультрапламенный меч
+item.VoidSword.name=Пустотный меч
+
+item.Vulkram.name=Вулкрам
+item.Chakram.name=Шакрам
+item.SliceStar.name=Сюрикен
+item.GooBall.name=Липкий шар
+item.HellFire.name=Адское пламя
+
+
+item.TotemBoomBoom.name=Тотем Бум-бум
+item.TotemCreepoidGreatblade.name=Тотем великого крипоидного клинка
+
+item.HeartFruit.name=Сердцефрукт
+item.BubbleBerries.name=Пузырчатые ягоды
+item.ThornyPetals.name=Колючие лепестки
+item.MagicMarang.name=Волшебный маранг
+
+item.HeartFruitSeeds.name=Семена сердцефрукта
+item.BubbleBerrySeeds.name=Семена пузырчатой ягоды
+item.ThornyPlantSeeds.name=Семена терновника
+item.MagicMarangSeeds.name=Семена волшебного маранга
+
+item.MetalTub.name=Металлическая бадья
+item.MagicMendingCompound.name=Волшебная ремонтирующая смесь
+item.MagicMendingSolution.name=Волшебный ремонтирующий раствор
+
+item.BombLauncher.name=Гранатомёт
+item.BlastCannon.name=Взрывная пушка
+item.Proton.name=Протон
+item.LaserBlaster.name=Лазерный бластер
+
+
+item.GemstonesWhite.name=Белые драгоценные камни
+item.GemstonesGreen.name=Зеленые драгоценные камни
+item.GemstonesYellow.name=Желтые драгоценные камни
+item.GemstonesRed.name=красные драгоценные камни
+item.GemstonesBlue.name=Синие драгоценные камни
+item.GemstonesPurple.name=Фиолетовые драгоценные камни
+item.Gemstones.name=Драгоценные камни
+
+item.CrystalsWhite.name=Белые кристаллы
+item.CrystalsGreen.name=Зеленые кристаллы
+item.CrystalsYellow.name=Желтые кристаллы
+item.CrystalsRed.name=Красные кристаллы
+item.CrystalsBlue.name=Синие кристаллы
+item.CrystalsPurple.name=Фиолетовые кристаллы
+item.Crystals.name=Кристаллы
+
+item.RealmstoneCrystevia.name=Камень измерения:Кристевия
+item.CoinsCrystevia.name=Самоцветы Кристевии
+
+
+item.confettiCluster.name=Конфети кластер
+item.partyPopper.name=Разрушитель вечеринок
+item.ClownCannon.name=Пушка клоуна
+item.GoofyGreatblade.name=Глупый великий клинок
+item.BozoBlaster.name=Бозовзрыватель
+item.Gimmick.name=Гиммик
+item.bigTop.name=Большой Пик
+item.spectacle.name=Спектакль
+item.whimsyWinder.name=Ветренная прихоть
+item.ClownCracker.name=Разрушитель клоуна
+item.BalloonBomber.name=Воздушный шар бомбардировщик
+item.HappyHaunter.name=Счастливый охотник
+item.SmileBlaster.name=Веселый взрыватель
+item.BlissfulBlast.name=Счастливый взрыв
+item.JokerStaff.name=Посох Джокера
+item.ShowStaff.name=Показательный посох
+
+item.ShroomicGreatblade.name=Грибной великий клинок
+item.Orbocron.name=Орбокрон
+item.Augments.name=Усилители
+
+item.TotemCrystalMaul.name=Тотем кристальная кувадла
+item.TotemCrystaneer.name=Тотем Кристанера
+
+item.CrystalMaul.name=Кристальная кувалда
+item.Crystaneer.name=Кристанер
+item.CrystalGreatblade.name=Кристаллический великий клинок
+
+item.Construct.name=Создание
+item.CrystalCarver.name=Кристальный скульптор
+item.BlastBarrel.name=Взрывной ствол
+
+item.CrystonStaff.name=Посох Кристон
+item.CrystalStaff.name=Кристальный посох
+item.CrystikStaff.name=Crystik Staff
+
+item.SupremecySword.name=Меч превосходства
+item.HolySword.name=Святой Меч
+item.CandlefireSword.name=Candlefire Sword
+
+item.Balloon.name=Воздушный шар
+item.DiamondBowl.name=Алмазная миска
+
+item.RealmstoneAncientCavern.name=Камень измерения: Древняя пещера
+item.RealmstoneAbyss.name=Камень измерения: Бездна
+item.RealmstoneHaven.name=Камень измерения: Рай
+item.RealmstonePrecasia.name=Камень измерения: Доисторический лес
+item.RealmstoneMysterium.name=Камень измерения: Мистериум
+item.RealmstoneDustopia.name=Камень измерения: Дастопия
+item.RealmstoneDeeplands.name=Deeplands Realmstone
+item.RealmstoneIromine.name=Iromine Realmstone
+item.RealmstoneGardencia.name=Gardencia Realmstone
+item.RealmstoneBorean.name=L'Borean Realmstone
+item.RealmstoneBarathos.name=Barathos Realmstone
+item.RealmstoneLelyetia.name=Lelyetia Realmstone
+item.RealmstoneVoxPonds.name=Vox Ponds Realmstone
+item.EssenceDivine.name=Божественная эссенция
+item.EssenceAncient.name=Древняя эссенция
+item.EssenceLuminate.name=Яркая эссенция
+item.EssenceEmpowered.name=Усиленная эссенция
+item.EssenceCharged.name=Заряженная эссенция
+item.EssenceOminous.name=Зловещая эссенция
+item.EssenceMolten.name=Расплавленная эссенция
+item.EssenceWeak.name=Слабая эссенция
+item.EssenceDark.name=Тёмная эссенция
+item.EssenceEthereal.name=Неземная эссенция
+item.StoneBowl.name=Каменная миска
+item.iStoneGlistening.name=Сверкающий камень наполнения
+item.iStoneShining.name=Сияющий камень наполнения
+item.iStoneGlowing.name=Светящийся камень наполнения
+item.iStoneBlooming.name=Цветущий камень наполнения
+item.iStoneGleaming.name=Мерцающий камень наполнения
+item.iStoneGlaring.name=Яркий камень наполнения
+item.iStoneRadiant.name=Лучезарный камень наполнения
+item.pStoneGlistening.name=Сверкающий камень силы
+item.pStoneShining.name=Сияющий камень силы
+item.pStoneGlowing.name=Светящийся камень силы
+item.pStoneBlooming.name=Проклятый камень силы
+item.pStoneGleaming.name=Мерцающий камень силы
+item.pStoneGlaring.name=Яркий камень силы
+item.pStoneRadiant.name=Лучезарный камень силы
+item.pStoneAmbient.name=Чистый камень силы
+item.iStoneAmbient.name=Чистый камень наполнения
+item.ChiliPepper.name=Chili Pepper
+item.runePouch.name=Мешок для рун
+item.CoinsLelyetia.name=Самоцветы Лелйетии
+item.GuardiansEye.name=Глаз стража
+item.ZhinxDust.name=Пыль дурного глаза
+item.FleshyBones.name=Мясистые кости
+item.DarkBones.name=Тёмные кости
+item.TeaShreddings.name=Чайные листья
+item.Cup.name=Чашка
+item.TotemRoyalGreatblade.name=Royal Greatblade Totem
+item.TotemSwarmotron.name=Swarm-O-Tron Totem
+item.TeaSeeds.name=Семена чая
+item.ChiliSeeds.name=Chili Seeds
+item.UpgradeKitLunar.name=Лунный набор улучшения
+item.UpgradeKitPredator.name=Набор улучшения хищника
+item.UpgradeKitGolden.name=Золотой набор улучшения
+item.UpgradeKitLight.name=Световой набор улучшения
+item.WeaponParts.name=Детали оружия
+item.LelyetianGreatblade.name=Великий клинок Лелйетии
+item.RoyalGreatblade.name=Королевский великий клинок
+item.ErebonScythe.name=Коса Эребона
+item.PlutonScythe.name=Коса Плутона
+item.LuxonScythe.name=Коса Луксона
+item.SelyanScythe.name=Коса Селян
+item.skydriverBow.name=Лук Небесного Проводника
+item.atlanticBow.name=Атлантический лук
+item.PyroArchergun.name=Огненный арбалет
+item.CoreRifle.name=Ядровая винтовка
+item.Stormer.name=Штормер
+item.Wrecker.name=Разрушитель
+item.Stampede.name=Паника
+item.Cyclone.name=Циклон
+item.Overshot.name=Овершот
+item.Roulette.name=Рулетка
+item.Megagun.name=Мега-ган
+item.Artifact.name=Артифакт
+item.GaugeRifle.name=Винтовка Калибра
+item.CamoRifle.name=Камуфляжная винтовка
+item.HeadHunter.name=Охотник за головами
+item.Monster.name=Monster
+item.Decimator.name=Decimator
+item.PulseCannon.name=Импульсная пушка
+item.ChiliChugger.name=Chili Chugger
+item.CarrotCannon.name=Carrot Cannon
+item.Gardener.name=Gardener
+item.DischargeSniper.name=Discharge Sniper
+item.VortexBlaster.name=Вихревой бластер
+item.Swarmotron.name=Рой-О-Трон
+item.PowerStaff.name=Power Staff
+item.FireflyStaff.name=Посох огненного полёта
+item.MoonDestroyer.name=Moon Destroyer
+item.MoonCannon.name=Moon Cannon
+item.MoonMaker.name=Moon Maker
+item.PredatorianBlaster.name=Predatorian Blaster
+item.Predigun.name=Predigun
+item.Predator.name=Predator
+item.LightIron.name=Light Iron
+item.LightBlaster.name=Light Blaster
+item.LightSpark.name=Light Spark
+item.GoldBringer.name=Gold Bringer
+item.GoldenFury.name=Golden Fury
+item.GolderBomber.name=Golder Bomber
+item.AncientTeleporterBlueprint.name=Чертеж древнего телепорта
+
+item.CandyCane.name=Конфета
+item.SpearmintCandy.name=Мятный леденец
+item.PeppermintCandy.name=Леденец из перечной мяты
+item.SourPop.name=Кислый леденец
+item.SourGummy.name=Кислый мармелад
+item.SourCandy.name=Кислая конфета
+item.GingerbreadCookie.name=Имбирное печенье
+item.GingerbreadWing.name=Имбирное крыло
+item.CandyCorn.name=Кукурузная конфета
+
+item.TotemFroster.name=Froster Totem
+item.TotemMintMagnum.name=Mint Magnum Totem
+item.TreatBag.name=Лечебный мешок
+item.OpteryxFeather.name=Перо Оптерикса
+item.CoinsCandyland.name=Самоцветы Конфетного мира
+item.RealmstoneCandyland.name=Candyland Realmstone
+
+
+tile.leavesChurry.name=Churry Leaves
+tile.leavesAchony.name=Achony Leaves
+tile.lelyetianCore.name=Lelyetian Core
+tile.stoneLelyetia.name=Lelyetia Stone
+tile.lelyetianGrassDown.name=Lelyetian Grass Down
+tile.lelyetianGrassUp.name=Lelyetian Grass Up
+tile.woodAchony.name=Achony Wood
+tile.woodChurry.name=Churry Wood
+tile.lelyetiaPortal.name=Lelyetia Portal
+tile.ancientcavernPortal.name=Ancient Cavern Portal
+tile.GrassLelyetiaUp.name=Lelyetia Grass Up
+tile.GrassLelyetiaDown.name=Lelyetia Grass Down
+tile.ancientRock.name=Древний камень
+tile.carvedRune1.name=Резная руна
+tile.carvedRune2.name=Резная руна
+tile.carvedRune3.name=Резная руна
+tile.carvedRune4.name=Резная руна
+tile.ancientTileRed.name=Ancient Red Tile
+tile.ancientTileBright.name=Ancient Bright Tile
+tile.ancientTileBlack.name=Ancient Black Tile
+tile.ancientTileCore.name=Ancient Tile Core
+tile.ancientTileShrine.name=Ancient Shrine Tile
+tile.ancientGlass.name=Ancient Glass
+tile.lampAncient.name=Древняя лампа
+tile.ancientVines.name=Ancient Vines
+tile.ancientVineCap.name=Ancient Vine Cap
+tile.blockOrangeAcid.name=Orange Acid Block
+tile.chilis.name=Chilis
+tile.tea.name=Tea
+tile.spawnerExohead.name=Exohead Spawner
+tile.spawnerRawbone.name=Rawbone Spawner
+tile.spawnerParavite.name=Paravite Spawner
+tile.spawnerZhinx.name=Zhinx Spawner
+tile.spawnerBloodsucker.name=Bloodsucker Spawner
+tile.spawnerAutomaton.name=Automaton Spawner
+tile.spawnerCaveBug.name=Cave Bug Spawner
+tile.spawnerFlowerface.name=Flowerface Spawner
+tile.bricksLelyetian.name=Lelyetian Bricks
+tile.boneyBlock.name=Boney Block
+tile.zhinxGlass.name=Zhinx Glass
+tile.lelyetianGlass.name=Lelyetian Glass
+tile.SelyanShrine.name=Selyan Shrine
+tile.LuxonShrine.name=Luxon Shrine
+tile.ErebonShrine.name=Erebon Shrine
+tile.PlutonShrine.name=Pluton Shrine
+tile.paraviteHive.name=Paravite Hive
+tile.CreationForge.name=Кузница создания
+tile.InfusionTable.name=Стол наполнения
+tile.AscensionShrine.name=Святилище Вознесения
+tile.GrawAltar.name=Graw Altar
+tile.SpikeyPillar.name=Spikey Pillar
+tile.lelyetianStem.name=Lelyetian Stem
+tile.lelyetianStemCapUp.name=Lelyetian Stem Cap Up
+tile.lelyetianStemCapDown.name=Lelyetian Stem Cap Down
+tile.lelyetianWiggler.name=Lelyetian Wiggler
+tile.lelyetianWigglerTop.name=Lelyetian Wiggler Top
+tile.lelyetianWigglerBottom.name=Lelyetian Wiggler Bottom
+tile.GolderBomber.name=Golder Bomber
+tile.Teasink.name=Заварочная установка
+tile.TeasinkFull.name=Наполненная заварочная установка
+
+
+tile.planksChurry.name=Доски Чарри
+tile.planksAchony.name=Доски Акони
+
+tile.planksGreenshroom.name=GreenГрибные доски
+tile.planksYellowshroom.name=YellowГрибные доски
+tile.planksOrangeshroom.name=OrangeГрибные доски
+tile.planksPurpleshroom.name=PurpleГрибные доски
+tile.planksBlueshroom.name=BlueГрибные доски
+
+tile.stairsBloodwood.name=Bloodwood Stairs
+tile.stairsLucalus.name=Ступеньки из лукалусового дерева
+tile.stairsCycade.name=Ступеньки из сагового дерева
+tile.stairsShadow.name=Shadow Stairs
+tile.stairsStranglewood.name=Ступеньки из плющедуба
+tile.stairsLunide.name=Lunide Stairs
+tile.stairsDawnwood.name=Dawnwood Stairs
+tile.stairsIrowood.name=Irowood Stairs
+tile.stairsToxicwood.name=Toxicwood Stairs
+tile.stairsHauntedwood.name=Hauntedwood Stairs
+tile.stairsRunic.name=Runic Stairs
+tile.stairsChurry.name=Churry Stairs
+tile.stairsAchony.name=Achony Stairs
+
+tile.stairsGreenshroom.name=Greenshroom Stairs
+tile.stairsYellowshroom.name=Yellowshroom Stairs
+tile.stairsOrangeshroom.name=Orangeshroom Stairs
+tile.stairsPurpleshroom.name=Purpleshroom Stairs
+tile.stairsBlueshroom.name=Blueshroom Stairs
+
+
+item.RunationHelmet.name=Шлем Руноделия
+item.RunationChestplate.name=Нагрудник Руноделия
+item.RunationLeggings.name=Поножи Руноделия
+item.RunationBoots.name=Ботинки Руноделия
+
+item.ElecanyteHelmet.name=Elecanyte Helmet
+item.ElecanyteChestplate.name=Elecanyte Chestplate
+item.ElecanyteLeggings.name=Elecanyte Leggings
+item.ElecanyteBoots.name=Elecanyte Boots
+item.SharpshotHelmet.name=Sharpshot Helmet
+item.SharpshotChestplate.name=Sharpshot Chestplate
+item.SharpshotLeggings.name=Sharpshot Leggings
+item.SharpshotBoots.name=Sharpshot Boots
+item.RockboneHelmet.name=Rockbone Helmet
+item.RockboneChestplate.name=Rockbone Chestplate
+item.RockboneLeggings.name=Rockbone Leggings
+item.RockboneBoots.name=Rockbone Boots
+
+item.AuguryHelmet.name=Шлем Прорицания
+item.AuguryChestplate.name=Нагрудник Прорицания
+item.AuguryLeggings.name=Поножи Прорицания
+item.AuguryBoots.name=Ботинки Прорицания
+
+item.CreationHelmet.name=Шлем Создания
+item.CreationChestplate.name=Нагрудник Создания
+item.CreationLeggings.name=Поножи Создания
+item.CreationBoots.name=Ботинки Создания
+
+item.HunterHelmet.name=Шлем Охоты
+item.HunterChestplate.name=Нагрудник Охоты
+item.HunterLeggings.name=Поножи Охоты
+item.HunterBoots.name=Ботинки Охоты
+
+item.InfusionHelmet.name=Шлем Наполнения
+item.InfusionChestplate.name=Нагрудник Наполнения
+item.InfusionLeggings.name=Поножи Наполнения
+item.InfusionBoots.name=Ботинки Наполнения
+
+item.ForagingHelmet.name=Шлем Добывания
+item.ForagingChestplate.name=Нагрудник Добывания
+item.ForagingLeggings.name=Поножи Добывания
+item.ForagingBoots.name=Ботинки Добывания
+
+item.ThermalHelmet.name=Battleborn Helmet
+item.ThermalChestplate.name=Battleborn Chestplate
+item.ThermalLeggings.name=Battleborn Leggings
+item.ThermalBoots.name=Battleborn Boots
+item.ExoplateHelmet.name=Exoplate Helmet
+item.ExoplateChestplate.name=Exoplate Chestplate
+item.ExoplateLeggings.name=Exoplate Leggings
+item.ExoplateBoots.name=Exoplate Boots
+item.NightVisionGoggles.name=Night Vision Goggles
+item.FaceMask.name=Face Mask
+
+entity.nevermine.RunationMaster.name=Мастер Руноделия
+entity.nevermine.HagShot.name=Hag Sludge
+entity.nevermine.Bloodball.name=Bloodball
+entity.nevermine.LelyetianShot.name=Lelyetian Magic
+entity.nevermine.AnemiaShot.name=Anemia Bloodball
+entity.nevermine.CarrotBall.name=Carrot Ball
+entity.nevermine.FireBall.name=Fire Ball
+entity.nevermine.DischargeDamage.name=Discharge Damage
+entity.nevermine.Scythe.name=Scythe
+entity.nevermine.Vortex.name=Vortex
+entity.nevermine.SwarmShot.name=Swarm Shot
+entity.nevermine.MagickeShot.name=Magicke Shot
+entity.nevermine.StaffPower.name=Силовой посох
+entity.nevermine.MoonDestroyer.name=Moon Destroyer
+entity.nevermine.MoonCannon.name=Moon Cannon
+entity.nevermine.MoonMaker.name=Moon Maker
+entity.nevermine.PredatorionShot.name=Predatorion Shot
+entity.nevermine.SkeletalPellet.name=Skeletal Pellet
+entity.nevermine.LightSlug.name=Light Slug
+entity.nevermine.LightBlaster.name=Light Blaster
+entity.nevermine.LightSpark.name=Light Spark
+entity.nevermine.GoldBringer.name=Gold Bringer
+entity.nevermine.GoldenBullet.name=Golden Bullet
+entity.nevermine.GoldenCannonball.name=Golden Cannonball
+entity.nevermine.PenumbraShot.name=Penumbra Shot
+entity.nevermine.GrawShot.name=Graw Shot
+entity.nevermine.PixonBlooming.name=Цветущий пиксон
+entity.nevermine.PixonAmbient.name=Чистый пиксон
+entity.nevermine.PixonGlaring.name=Яркий пиксон
+entity.nevermine.PixonGleaming.name=Мерцающий пиксон
+entity.nevermine.PixonGlistening.name=Сверкающий пиксон
+entity.nevermine.PixonGlowing.name=Светящийся пиксон
+entity.nevermine.PixonRadiant.name=Лучезарный пиксон
+entity.nevermine.PixonShining.name=Сияющий пиксон
+entity.nevermine.Grobbler.name=Гробблер
+entity.nevermine.Tracker.name=Ищейка
+entity.nevermine.Trotter.name=Рысак
+entity.nevermine.Rawbone.name=Сырая кость
+entity.nevermine.Zhinx.name=Дурной глаз
+entity.nevermine.Exohead.name=Экзоголовый
+entity.nevermine.Paravite.name=Паравит
+entity.nevermine.Flye.name=Глазолёт
+entity.nevermine.LelyetianCaster.name=Лелйетийский Вредитель
+entity.nevermine.LelyetianWarrior.name=Лелйетийский Воин
+entity.nevermine.Pincher.name=Клешнехват
+entity.nevermine.Hag.name=Кикимора
+entity.nevermine.Spinux.name=Гребнеспин
+entity.nevermine.Dicer.name=Куб
+entity.nevermine.Anemia.name=Недосягаемый
+entity.nevermine.Linger.name=Замедлитель
+entity.nevermine.Bloodmist.name=Кровавый туман
+entity.nevermine.Penumbra.name=Penumbra
+entity.nevermine.Goldorth.name=Goldorth
+entity.nevermine.Horon.name=Horon
+entity.nevermine.Coniferon.name=Coniferon
+entity.nevermine.Graw.name=Graw
+entity.nevermine.Holder.name=Ancient Magic
+entity.nevermine.Holder2.name=Ancient Magic
+entity.nevermine.Holder3.name=Ancient Magic
+entity.nevermine.Holder4.name=Ancient Magic
+entity.nevermine.HunterMaster.name=Мастер Охоты
+entity.nevermine.AuguryMaster.name=Мастер Прорицания
+entity.nevermine.ForagingMaster.name=Мастер Добывания
+entity.nevermine.InfusionMaster.name=Мастер Наполнения
+entity.nevermine.CreationMaster.name=Мастер Создания
+entity.nevermine.LelyetianBanker.name=Lelyetian Banker
+entity.nevermine.LelyetianTrader.name=Lelyetian Trader
+entity.nevermine.LottomanLelyetia.name=Lelyetian Lottoman
+entity.nevermine.IdolRoyalGreatblade.name=Royal Greatblade Totem
+entity.nevermine.IdolSwarmotron.name=Swarmotron Totem
+
+
+entity.nevermine.Kranky.name=Кранки
+entity.nevermine.Jumbo.name=Джамбо
+entity.nevermine.Stitches.name=Штопаный
+entity.nevermine.Chocko.name=Чоко
+entity.nevermine.Koko.name=Коко
+entity.nevermine.Bobo.name=Бобо
+entity.nevermine.Tipsy.name=Пьяница
+entity.nevermine.Snappy.name=Остряк
+entity.nevermine.Sticky.name=Липкий
+entity.nevermine.Gyro.name=Gyro
+
+entity.nevermine.Crystocore.name=Crystocore
+
+entity.nevermine.Winder.name=Winder
+entity.nevermine.PopperShot.name=Popper Shot
+entity.nevermine.ClownBall.name=Clown Ball
+entity.nevermine.BozoBall.name=Bozo Ball
+
+entity.nevermine.BlissfulBlast.name=Blissful Blast
+entity.nevermine.SmileBlaster.name=Smile Blaster
+entity.nevermine.YellowBullet.name=Happy Bullet
+entity.nevermine.BalloonBomb.name=Balloon Bomb
+
+entity.nevermine.Wickett.name=Злыдень
+entity.nevermine.Magicke.name=Колдун
+entity.nevermine.Furlion.name=Фурлион
+entity.nevermine.AncientGolem.name=Древний голем
+entity.nevermine.Warclops.name=Боевой циклоп
+entity.nevermine.Natura.name=Леший
+entity.nevermine.Elkanyne.name=Лосище
+
+entity.nevermine.Horndron.name=Быкорог
+entity.nevermine.Skolle.name=Сколль
+entity.nevermine.Grunt.name=Ворчун
+
+entity.nevermine.Goalby.name=Голби
+entity.nevermine.Jawe.name=Джейв
+
+entity.nevermine.GhostlyCharger.name=Призрачный бегун
+entity.nevermine.GhostlyCyclops.name=Призрачный циклоп
+entity.nevermine.GhostlySasquatch.name=Призрачный снежный человек
+entity.nevermine.GhostlyBugeye.name=Призрачный жукоглаз
+entity.nevermine.GhostlyGoblin.name=Призрачный гоблин
+entity.nevermine.GhostlyNightReaper.name=Призрачный жнец
+
+entity.nevermine.Draggy.name=Дракончик
+entity.nevermine.Craggy.name=Вулканчик
+entity.nevermine.Waggy.name=Волновичок
+entity.nevermine.Shaddy.name=Теневичок
+entity.nevermine.Spraggy.name=Плющевичок
+
+entity.nevermine.Blissard.name=Навеватель счастья
+entity.nevermine.Hellcat.name=Огненная кошка
+
+entity.nevermine.AnimaMaster.name=Мастер Души
+entity.nevermine.VitalityMaster.name=Мастер Извлечения
+entity.nevermine.InnervationMaster.name=Мастер Чувствительности
+
+entity.nevermine.Orbiter.name=Кружитель
+
+entity.nevermine.ToyMerchant.name=Toy Merchant
+entity.nevermine.LottomanCeleve.name=Celeve Lottoman
+
+entity.nevermine.IdolGoofyGreatblade.name=Goofy Greatblade Idol
+entity.nevermine.IdolWhimsyWinder.name=Whimsy Winder Idol
+
+entity.nevermine.IdolCrystaneer.name=Crystaneer Idol
+entity.nevermine.IdolCrystalMaul.name=Crystal Maul Idol
+
+entity.nevermine.LottomanCrystevia.name=Crystal Lottoman
+entity.nevermine.CrystalTrader.name=Crystal Trader
+
+entity.nevermine.Flamewalker.name=Огненный странник
+entity.nevermine.Pigotron.name=Душегуб
+entity.nevermine.FakePigman.name=Свинозомби
+
+entity.nevermine.SwampCharger.name=Болотный бегун
+entity.nevermine.VoidCharger.name=Пустотный бегун
+entity.nevermine.DesertCharger.name=Пустынный бегун
+entity.nevermine.SnowCharger.name=Снежный бегун
+
+entity.nevermine.Fishix.name=Удильщик
+entity.nevermine.Fungung.name=Грибанг
+
+entity.nevermine.Angelica.name=Анжелика
+
+entity.nevermine.Skipper.name=Шкипер
+entity.nevermine.Boneback.name=Костоспин
+
+itemGroup.BlueprintsTab=AoA: Realm Travel
+itemGroup.WeaponsTab=AoA: Guns
+itemGroup.BowsTab=AoA: Луки
+itemGroup.StaffTab=AoA: Staves
+itemGroup.ArchergunTab=AoA: Стреломёты
+itemGroup.CannonsTab=AoA: Пушки
+itemGroup.SlabTab=AoA: Плиты
+itemGroup.SwordsTab=AoA: Мечи
+itemGroup.SnipersTab=AoA: Snipers
+itemGroup.GreatbladesTab=AoA: Greatblades
+itemGroup.AncientTab=AoA: Energy Items
+itemGroup.ToolsTab=AoA: Tools
+itemGroup.ArmorTab=AoA: Броня
+itemGroup.SoulTab=AoA: Soul Power Items
+itemGroup.MiscTab=AoA: Miscellaneous
+itemGroup.DecorativeBlocksTab=AoA: Decorative Blocks
+itemGroup.FurnitureTab=AoA: Furniture
+itemGroup.GenerationTab=AoA: Generation
+itemGroup.TotemsTab=AoA: Тотемы
+itemGroup.ScythesTab=AoA: Scythes
+itemGroup.TablesTab=AoA: Tables
+itemGroup.BossesTab=AoA: Boss Spawning
+itemGroup.RunesTab=AoA: Руны
+itemGroup.FarmingTab=AoA: Farming
+itemGroup.MineralsTab=AoA: Minerals
+itemGroup.ThrowablesTab=AoA: Throwables
+itemGroup.LightingTab=AoA: Lighting
+itemGroup.VulcanesTab=AoA: Vulcanes
+itemGroup.FishTab=AoA: Рыба
+
+
+tile.planksIrowood.name=Айродеревянные доски
+tile.planksToxicwood.name=Доски токсичного дерева
+tile.planksHauntedwood.name=Доски призрачного дерева
+tile.planksRunic.name=Рунические доски
+
+
+
+tile.orbSunfire.name=Сфера солнечного огня
+tile.orbDusk.name=Сфера рассвета
+tile.orbMoonlight.name=Сфера лунного света
+tile.orbDarklight.name=Сфера тёмного света
+tile.orbLunar.name=Лунная сфера
+
+tile.ClunkheadAltar.name=Clunkhead Altar
+tile.SilverfootAltar.name=Silverfoot Altar
+
+tile.VoxCrate.name=Lotto Vox Crate
+tile.VoxCrateStore.name=Store Vox Crate
+tile.oreRunium.name=Руниевая руда
+tile.oreChargedRunium.name=Заряженная руниевая руда
+
+tile.runicBrickU.name=Рунические кирпичи
+tile.runicGlassU.name=Runic Glass
+tile.ExoidStation.name=Exoid Station
+
+item.RunandorBlueprint.name=Чертеж структуры портала
+
+item.MegaRuneStone.name=Мега руна
+item.BucketHalyconMilk.name=Молоко Халикона
+
+item.IngotLunar.name=Lunar Ingot
+item.GhoulasmPrimed.name=Главный упырник
+item.UnchargedOrb.name=Разряженная сфера
+
+item.MarkMaker.name=Mark Maker
+
+item.HeartStone.name=Камень сердца
+
+item.RuneCharged.name=Заряженная руна
+item.RuniumChunk.name=Руниевый кусок
+item.RuniumChunkCharged.name=Заряженный руниевый кусок
+
+item.MegaRuneFragmentR.name=Фрагмент мега-руны
+item.MegaRuneFragmentB.name=Фрагмент мега-руны
+item.MegaRuneFragmentG.name=Фрагмент мега-руны
+item.MegaRuneFragmentY.name=Фрагмент мега-руны
+item.RunicEnergy.name=Рунная энергия
+
+item.ApocoStone.name=Apoco Stone
+item.DarklyPowder.name=Тёмный порошок
+
+item.ToxicLump.name=Токсичный комок
+item.SludgeParasite.name=Грязевой паразит
+item.DoomStone.name=Камень гибели
+
+item.UpgradeKitAbyssal.name=Бездновый набор улучшения
+item.UpgradeKitFloro.name=Растительный набор улучшения
+item.UpgradeKitApoco.name=Апокалипсический набор улучшения
+
+item.HydroStone.name=Гидро-камень
+
+
+entity.nevermine.Hydrolon.name=Гидролон
+entity.nevermine.Hydrolisk.name=Гидролиск
+entity.nevermine.HydroliskShield.name=Shielded Hydrolisk
+
+entity.nevermine.KingCharger.name=Король бегунов
+
+entity.nevermine.GhostineAncient.name=Древнее привидение
+entity.nevermine.Bugeye.name=Жукоглаз
+entity.nevermine.Nightfly.name=Ночной мотылёк
+entity.nevermine.HeadlessHunter.name=Безглавый охотник
+
+item.firestormStaff.name=Посох огненного шторма
+item.HiveStaff.name=Посох улья
+item.UnchargedOrb.name=Uncharged Orb
+item.IngotLunar.name=Лунный слиток
+
+item.ShinyBox.name=Блестящая коробка
+
+item.AlluricornSlab.name=Плита Дивнорога
+item.CompeerSlab.name=Плита Компаньона
+item.CorbySlab.name=Плита Рифовика
+item.GnawerSlab.name=Плита Зубастика
+item.HealingGolemSlab.name=Плита Исцеляющего голема
+item.HellquinSlab.name=Плита Адскогвина
+item.MechaCyclopsSlab.name=Плита Механического циклопа
+item.MechaSkelloxSlab.name=Плита Механического скелотавра
+item.PenguinSlab.name=Плита Пингвина
+item.RammerhornSlab.name=Плита Молоторога
+item.PlateosaurSlab.name=Плита Пластинозавра
+item.SpikebackSlab.name=Плита Шипоспина
+item.HorntailSlab.name=Плита Рогохвоста
+
+item.CraggySlab.name=Плита Вулканчика
+item.WaggySlab.name=Плита Волновичка
+item.DraggySlab.name=Плита Дракончика
+item.ShaddySlab.name=Плита Теневичка
+item.SpraggySlab.name=Плита Плющевичка
+
+item.BlissardSlab.name=Плита Навевателя счастья
+
+item.GooferSlab.name=Плита Дурачка
+item.ConstructServilitySlab.name=Плита Механического раба
+
+entity.nevermine.RunicLifeformBlue.name=Runic Lifeform
+entity.nevermine.RunicLifeformGreen.name=Runic Lifeform
+entity.nevermine.RunicLifeformRed.name=Runic Lifeform
+entity.nevermine.RunicLifeformYellow.name=Runic Lifeform
+
+
+entity.nevermine.RuneTemplarRed.name=Rune Templar
+entity.nevermine.RuneTemplarGreen.name=Rune Templar
+entity.nevermine.RuneTemplarYellow.name=Rune Templar
+entity.nevermine.RuneTemplarBlue.name=Rune Templar
+
+
+entity.nevermine.RuneTemplarYellowDisabled.name=Rune Templar
+entity.nevermine.RuneTemplarRedDisabled.name=Rune Templar
+entity.nevermine.RuneTemplarGreenDisabled.name=Rune Templar
+entity.nevermine.RuneTemplarBlueDisabled.name=Rune Templar
+
+entity.nevermine.FacelessFloater.name=Faceless Floater
+entity.nevermine.Exoid.name=Exoid
+
+entity.nevermine.Goofer.name=Дурачок
+entity.nevermine.ConstructServility.name=Механический раб
+
+entity.nevermine.ZalBanker.name=Zal Banker
+entity.nevermine.ZalChild.name=Zal Child
+entity.nevermine.ZalCitizen.name=Zal Citizen
+entity.nevermine.ZalFoodMarket.name=Zal Food Market
+entity.nevermine.ZalHerbalist.name=Zal Herbalist
+entity.nevermine.ZalLunarade.name=Zal Lunarade
+entity.nevermine.ZalSpellbinder.name=Zal Spellbinder
+entity.nevermine.LottomanLunalus.name=Lunalus Lottoman
+entity.nevermine.Destructor.name=Destructor
+entity.nevermine.LottomanRunandor.name=Runandor Lottoman
+entity.nevermine.EnderCarrier.name=Посыльный Края
+entity.nevermine.Quickpocket.name=Карманник
+entity.nevermine.Mechyon.name=Мехиен
+entity.nevermine.Polytom.name=Многотом
+entity.nevermine.Enforcer.name=Принудитель
+entity.nevermine.Mechamaton.name=Мехаматон
+entity.nevermine.Mechachron.name=Мехахрон
+entity.nevermine.Voltron.name=Вольтрон
+entity.nevermine.Explodot.name=Explodot
+entity.nevermine.Lunarcher.name=Lunarcher
+entity.nevermine.InmateX.name=Inmate X
+entity.nevermine.InmateY.name=Inmate Y
+entity.nevermine.Visular.name=Visular
+entity.nevermine.Visulon.name=Visulon
+entity.nevermine.Grillface.name=Grillface
+entity.nevermine.Hunter.name=Hunter
+entity.nevermine.Valkyrie.name=Valkyrie
+entity.nevermine.Sugarface.name=Sugarface
+entity.nevermine.SkullCreature.name=Skull Creature
+entity.nevermine.Shifter.name=Shifter
+entity.nevermine.Silencer.name=Silencer
+entity.nevermine.RockCrawler.name=Rock Crawler
+entity.nevermine.RockCritter.name=Rock Critter
+entity.nevermine.RockBiter.name=Rock Biter
+entity.nevermine.CaveCreep.name=Cave Creep
+entity.nevermine.Nipper.name=Nipper
+entity.nevermine.Dweller.name=Dweller
+entity.nevermine.Doubler.name=Doubler
+entity.nevermine.FlowerFace.name=Flower Face
+entity.nevermine.PodPlant.name=Pod Plant
+entity.nevermine.VineWizard.name=Vine Wizard
+entity.nevermine.Broccohead.name=Broccohead
+entity.nevermine.Carrotop.name=Carrotop
+entity.nevermine.Squasher.name=Squasher
+entity.nevermine.Corny.name=Corny
+entity.nevermine.Sunny.name=Sunny
+entity.nevermine.Alarmo.name=Alarmo
+entity.nevermine.Gadgetoid.name=Gadgetoid
+entity.nevermine.Centinel.name=Centinel
+entity.nevermine.Grocculate.name=Grocculate
+entity.nevermine.Nightwing.name=Nightwing
+entity.nevermine.Toxxulous.name=Toxxulous
+entity.nevermine.Dawnlight.name=Свет зари
+entity.nevermine.Coratee.name=Морская свинья
+entity.nevermine.Angler.name=Удильщик
+entity.nevermine.Coralon.name=Коралон
+entity.nevermine.Amphibior.name=Амфибиор
+entity.nevermine.Muncher.name=Измельчитель
+entity.nevermine.SeaViper.name=Морская гадюка
+entity.nevermine.Mermage.name=Русаломаг
+entity.nevermine.Neptuno.name=Нептун
+entity.nevermine.Basilisk.name=Basilisk
+entity.nevermine.LostSoul.name=LostSoul
+entity.nevermine.Devourer.name=Devourer
+entity.nevermine.Merkyre.name=Merkyre
+entity.nevermine.Dusteiva.name=Dusteiva
+entity.nevermine.Duston.name=Duston
+entity.nevermine.DustStrider.name=Dust Strider
+entity.nevermine.Lurker.name=Lurker
+entity.nevermine.Stalker.name=Stalker
+entity.nevermine.StalkerPrime.name=Stalker Prime
+entity.nevermine.EyeCreature.name=Eye Creature
+entity.nevermine.Bouncer.name=Bouncer
+entity.nevermine.Ariel.name=Ariel
+entity.nevermine.RunicGuardian.name=Runic Guardian
+entity.nevermine.Paladin.name=Paladin
+entity.nevermine.SpectralWizard.name=Spectral Wizard
+entity.nevermine.Runicorn.name=Runicorn
+entity.nevermine.RunicornRider.name=Runicorn Rider
+entity.nevermine.Arkback.name=Arkback
+entity.nevermine.EmperorBeast.name=Emperor Beast
+entity.nevermine.Nospike.name=Nospike
+entity.nevermine.Ramradon.name=Ramradon
+entity.nevermine.Tharafly.name=Tharafly
+entity.nevermine.Keeler.name=Keeler
+entity.nevermine.Parasect.name=Parasect
+entity.nevermine.Echodar.name=Echodar
+entity.nevermine.SoulAgent.name=Агент душ
+entity.nevermine.RealmShifter.name=Обменщик камней измерения
+entity.nevermine.Cryptid.name=Cryptid
+entity.nevermine.Squiggler.name=Squiggler
+entity.nevermine.Eilosapien.name=Eilosapien
+entity.nevermine.PortalMaster.name=Portal Master
+entity.nevermine.Professor.name=Professor
+entity.nevermine.StoreKeeper.name=StoreKeeper
+entity.nevermine.PrimordialGuide.name=Primordial Guide
+entity.nevermine.PrimordialMerchant.name=Primordial Merchant
+entity.nevermine.PrimordialWizard.name=Primordial Wizard
+entity.nevermine.PrimordialSpellbinder.name=Primordial Spellbinder
+entity.nevermine.PrimordialBanker.name=Primordial Banker
+entity.nevermine.LottomanAbyss.name=Abyssal Lottoman
+entity.nevermine.LottomanNether.name=Адский лотерейщик
+entity.nevermine.LottomanPrecasia.name=Лотерейщик Доисторического леса
+entity.nevermine.LottomanHaven.name=Мерцающий лотерейщик
+entity.nevermine.LottomanMysterium.name=Мистический лотерейщик
+entity.nevermine.LottomanIromine.name=Golden Lottoman
+entity.nevermine.LottomanDeeplands.name=Deeplands Lottoman
+entity.nevermine.LottomanGardencia.name=Gardencian Lottoman
+entity.nevermine.LottomanGreckon.name=Greckon Lottoman
+entity.nevermine.LottomanVoxPonds.name=Toxic Lottoman
+entity.nevermine.LottomanLborean.name=Boreic Lottoman
+entity.nevermine.LottomanBarathos.name=Baron Lottoman
+entity.nevermine.LottomanDustopia.name=Dustopian Lottoman
+entity.nevermine.NightReaper.name=Ночной жнец
+entity.nevermine.DemonReaper.name=Демонический жнец
+entity.nevermine.Terrestrial.name=Землянин
+entity.nevermine.Spikeback.name=Шипоспин
+entity.nevermine.Rammerhorn.name=Молоторог
+entity.nevermine.Plateosaur.name=Пластинозавр
+entity.nevermine.Hellquin.name=Адскогвин
+entity.nevermine.Horntail.name=Рогохвост
+entity.nevermine.Alluricorn.name=Дивнорог
+entity.nevermine.MechaSkellox.name=Механический скелотавр
+entity.nevermine.MechaCyclops.name=Механический циклоп
+entity.nevermine.HealingGolem.name=Исцеляющий голем
+entity.nevermine.Gnawer.name=Зубастик
+entity.nevermine.HiveSoldier.name=Hive Soldier
+entity.nevermine.Silverfoot.name=Silverfoot
+entity.nevermine.Visualent.name=Visualent
+entity.nevermine.KingShroomus.name=Король Грибус
+entity.nevermine.Kror.name=Kror
+entity.nevermine.Vinocorne.name=Vinocorne
+entity.nevermine.FlowerPurple.name=Purple Flower
+entity.nevermine.FlowerGreen.name=Green Flower
+entity.nevermine.FlowerYellow.name=Yellow Flower
+entity.nevermine.FlowerOrange.name=Orange Flower
+entity.nevermine.FlowerBlue.name=Blue Flower
+entity.nevermine.Bane.name=Bane
+entity.nevermine.BaneClone.name=Bane
+entity.nevermine.BaneBig.name=Mega Bane
+entity.nevermine.Dracyon.name=Dracyon
+entity.nevermine.Clunkhead.name=Clunkhead
+entity.nevermine.HiveKing.name=Hive King
+entity.nevermine.HiveWorker.name=Hive Worker
+entity.nevermine.Voxxulon.name=Voxxulon
+entity.nevermine.Harkos.name=Harkos
+entity.nevermine.Okazorr.name=Okazor
+entity.nevermine.Kajaros.name=Kajaros
+entity.nevermine.Miskel.name=Miskel
+entity.nevermine.Raxxan.name=Raxxan
+entity.nevermine.Rosid.name=Свёкла
+entity.nevermine.IdolAquaticStaff.name=Aquatic Staff Idol
+entity.nevermine.IdolBaronStaff.name=Baron Staff Idol
+entity.nevermine.IdolBaronSSR.name=Baron SSR Idol
+entity.nevermine.IdolBayonetteSR.name=BayonetteSR Idol
+entity.nevermine.IdolDaybreaker.name=Daybreaker Idol
+entity.nevermine.IdolExplochronSword.name=Explochron Sword Idol
+entity.nevermine.IdolFlamingFury.name=Flaming Fury Idol
+entity.nevermine.IdolFlowercorne.name=Flowercorne Idol
+entity.nevermine.IdolFormationStaff.name=Formation Staff Idol
+entity.nevermine.IdolHauntersRifle.name=Haunters Rifle Idol
+entity.nevermine.IdolLunaBlaster.name=Luna Blaster Idol
+entity.nevermine.IdolMechaBlaster.name=Mecha Blaster Idol
+entity.nevermine.IdolNoxiousGreatblade.name=Noxious Greatblade Idol
+entity.nevermine.IdolPredatiousBow.name=Predatious Bow Idol
+entity.nevermine.IdolPulsator.name=Pulsator Idol
+entity.nevermine.IdolRosidianArchergun.name=Rosidian Archergun Idol
+entity.nevermine.IdolTerminator.name=Terminator Idol
+entity.nevermine.IdolTidalGreatblade.name=Tidal Greatblade Idol
+entity.nevermine.IdolViper1.name=Viper-1 Idol
+entity.nevermine.IdolViralArchergun.name=Viral Archergun Idol
+entity.nevermine.IdolWizardStaff.name=Wizard Staff Idol
+entity.nevermine.DwellerClone.name=Dweller
+
+item.CoralCloggerWaterlogged.name=Коралловый Клоггер (Смоченный водой)
+item.ReeferWaterlogged.name=Рефрижератор (Смоченный водой)
+item.CoralArchergunWaterlogged.name=Коралловый арбалет (Смоченный водой)
+item.AquaCannonWaterlogged.name=Водяная пушка (Смоченная водой)
+item.CoralCannonWaterlogged.name=Коралловая пушка (Смоченная водой)
+item.GemBag.name=Мешок самоцветов
+item.PrimordialDust.name=Первобытная пыль
+item.PrimordialSkull.name=Первобытный череп
+item.DimensionTicket.name=Билет путешествия по измерениям
+item.MechaGear.name=Меха-шестерня
+item.IngotLyon.name=Лионовый слиток
+item.IngotVarsium.name=Слиток варзия
+item.IngotElecanium.name=Слиток элекания
+item.IngotBaronyte.name=Баронитный слиток
+item.IngotBlazium.name=Слиток блазия
+item.IngotGhastly.name=Призрачный слиток
+item.IngotGhoulish.name=Упырьевидный слиток
+item.MechanicalAssaultRifleIncomplete.name=Незаконченная механическая штурмовая винтовка
+item.MechaBowIncomplete.name=Незаконченный механический лук
+item.MechaArchergunIncomplete.name=Незаконченный механический арбалет
+item.MechyroIncomplete.name=Незаконченная механическая двустволка
+item.MechaCannonIncomplete.name=Незаконченная механическая пушка
+item.MechaStaffIncomplete.name=Незаконченный механический посох
+item.RockBones.name=Каменные кости
+item.CallOfTheDrake.name=Призыв Дрейка
+item.ObservingEye.name=Наблюдающий глаз
+item.HiveChunk.name=Кусок улья
+item.CoinSilvro.name=Серебряная монета
+item.ShroomStone.name=Грибной камень
+item.BoulderDash.name=Boulder Dash
+item.PedalPile.name=Груда лепестков
+item.SmallPedalPurple.name=Маленький пурпурный лепесток
+item.SmallPedalBlue.name=Маленький голубой лепесток
+item.SmallPedalGreen.name=Маленький зеленый лепесток
+item.SmallPedalRed.name=Маленький красный лепесток
+item.SmallPedalOrange.name=Маленький оранжевый лепесток
+item.HauntedIdol.name=Проклятый идол
+item.Ghoulasm.name=Упырник
+item.VileStone.name=Уродливый камень
+item.UnchargedStone.name=Разряженный камень
+item.PureCoralStone.name=Чистый коралловый камень
+item.PureRainStone.name=Чистый камень дождя
+item.PureWaterStone.name=Чистый камень воды
+
+tile.PedalCraftingStation.name=Petal Crafting Station
+tile.HauntingTable.name=Haunting Table
+
+tile.stoneIromine.name=Iromine Stone
+tile.iroBrick_striped.name=Striped Iro Brick
+tile.iroBrick_dotted.name=Dotted Iro Brick
+tile.iroBrick_dotted.name=Dotted Iro Brick
+tile.leavesIrogold.name=Irogold Leaves
+tile.leavesIrodust.name=Irodust Leaves
+tile.iroLamp.name=Iro Lamp
+tile.iroGrass.name=Iro Grass
+tile.oreLyon.name=Лионовая руда
+tile.WoodIromine.name=Iromine Wood
+tile.GrassIromine.name=Iromine Grass
+tile.dirtLunalyte.name=Lunalyte Dirt
+tile.dirtLunasole.name=Lunasole Dirt
+tile.GrassLunalyte.name=Lunalyte Grass
+tile.GrassLunasole.name=Lunasole Grass
+tile.leavesLunicia.name=Lunicia Leaves
+tile.leavesLunosso.name=Lunosso Leaves
+tile.WoodLunide.name=Lunide Wood
+tile.lunaLip.name=Lunalip
+tile.deepCrystal.name=Кристалл глубины
+tile.DeepCase.name=Руда глубокой случайности
+
+tile.spawnerMermage.name=Mermage Spawner
+tile.spawnerAmphibior.name=Amphibior Spawner
+tile.spawnerDawnlight.name=Dawnlight Spawner
+tile.spawnerEnforcer.name=Enforcer Spawner
+tile.spawnerMechyon.name=Mechyon Spawner
+tile.spawnerInmateX.name=InmateX Spawner
+tile.spawnerInmateY.name=InmateY Spawner
+tile.spawnerPodPlant.name=Pod Plant Spawner
+tile.spawnerMerkyre.name=Merkyre Spawner
+tile.spawnerRunicGuardian.name=Runic Guardian Spawner
+tile.spawnerSpectralWizard.name=Spectral Wizard Spawner
+tile.spawnerVineWizard.name=Vine Wizard Spawner
+tile.spawnerTharafly.name=Tharafly Spawner
+tile.spawnerFacelessFloater.name=Faceles Floater Spawner
+
+
+
+tile.dirtGardencia.name=Gardencia Dirt
+tile.stoneGardencia.name=Gardencia Stone
+tile.pedalsRose.name= Rose Petals
+tile.pedalsLightRose.name=Light Rose Petals
+tile.pedalsBlue.name=Blue Petals
+tile.pedalsLightBlue.name=Light Blue Petals
+tile.pedalsPurple.name=Purple Petals
+tile.pedalsLightPurple.name=Light Purple Petals
+tile.pedalsYellow.name=Yellow Petals
+tile.flowerCore.name=Flower Core
+tile.plantStem.name=Plant Stem
+tile.Iropole.name=Iropole
+tile.lylips.name=Lylips
+tile.daileers.name=Daileers
+tile.gardenGrass.name=Garden Grass
+tile.GrassGardencia.name=Gardencia Grass
+tile.dirtGreckon.name=Greckon Dirt
+tile.stoneGreckon.name=Greckon Stone
+tile.oreGhastly.name=Призрачная руда
+tile.oreGhoulish.name=Упыревидная руда
+tile.leavesHaunted.name=Haunted Leaves
+tile.hauntedFlower.name=Haunted Flower
+tile.woodHaunted.name=Haunted Wood
+tile.GrassGreckon.name=Greckon Grass
+tile.HauntedWoodFlashingFace.name=Haunted Flashing Face
+tile.HauntedWoodPurpling.name=Purpling Haunted Wood
+tile.HauntedWoodRedEyes.name=Haunted Red Eyes
+tile.HauntedWoodLargeEye.name=Haunted Large Eye
+tile.HauntedLeavesGhouls.name=Haunted Ghoul Leaves
+tile.dirtDustopia.name=Dustopia Dirt
+tile.stoneDustopia.name=Dustopia Stone
+tile.dawnBush.name=Dawn Bush
+tile.dawnFlower.name=Dawn Flower
+tile.leavesDawn.name=Dawn Leaves
+tile.woodDawn.name=Dawn Wood
+tile.GrassDustopia.name=Dustopia Grass
+tile.dawngrassTop.name=Dawn Grass Top
+tile.barsDawnwood.name=Dawnwood Bars
+tile.planksDawnwood.name=Доски рассветного дерева
+tile.LunarCreationTable.name=Lunar Creation Table
+tile.LunarPad.name=Lunar Pad
+tile.LunarPillar.name=Lunar Pillar
+tile.bricksLunar.name=Лунные кирпичи
+tile.planksLunide.name=Люнидные доски
+tile.carpetLunar.name=Lunar Carpet
+tile.lampLunar.name=Лунная лампа
+tile.stoneBorean.name=Borean Stone
+tile.stoneToxic.name=Toxic Stone
+tile.dirtBorean.name=Borean Dirt
+tile.dirtToxic.name=Toxic Dirt
+tile.coralPink.name=Coral Pink
+tile.coralGreen.name=Coral Green
+tile.coralYellow.name=Coral Yellow
+tile.coralOrange.name=Coral Orange
+tile.coralWhite.name=Coral White
+tile.degradedSteel.name=Degraded Steel
+tile.degradedLight.name=Steel Light
+tile.woodToxic.name=Toxic Wood
+tile.GrassBorean.name=Borean Grass
+tile.GrassToxic.name=Toxic Grass
+tile.ToxicWaste.name=Toxic Waste
+tile.burealStocks.name=Bureal Stocks
+tile.dustopianLampOn.name=Dustopian Lamp
+tile.DustopianLampOff.name=Dustopian Lamp Off
+tile.PrimordialShrine.name=Primordial Shrine
+tile.decayedBrick.name=Decayed Brick
+tile.runicBrick.name=Рунический кирпич
+tile.decayedGlass.name=Decayed Glass
+tile.runicLeaves.name=Runic Leaves
+tile.woodRunic.name=Runic Wood
+tile.GrassRunic.name=Runic Grass
+tile.runicBush.name=Runic Bush
+tile.runeBulbs.name=Rune Bulbs
+tile.magias.name=Magias
+tile.runicGlass.name=Runic Glass
+tile.runicConstructBricks.name=Runic Construct Bricks
+tile.animated/RunicNeon.name=Рунический неон
+tile.carpetBaron.name=Baron Carpet
+tile.baronBricks.name=Baron Bricks
+tile.baronCube.name=Baron Cube
+tile.baronGround.name=Baron Ground
+tile.baronStone.name=Baron Stone
+tile.baronStone.name=Baron Stone
+tile.baronGlass.name=Baron Glass
+tile.oreVarsium.name=Руда варзия
+tile.oreElecanium.name=Руда элекания
+tile.oreBaronyte.name=Баронитовая руда
+tile.darkBricks.name=Dark Bricks
+tile.greckonBricks.name=Greckon Bricks
+tile.animated/DarkBrickFace.name=Dark Face Brick
+tile.lunarGlass.name=Lunar Glass
+tile.LunarEnrichmentTable.name=Lunar Enrichment Table
+tile.mushroomBlack.name=Чёрный гриб
+tile.mushroomStemBlack.name=Стебель чёрного гриба
+tile.deepGrass.name=Deep Grass
+tile.deepBlooms.name=Deep Blooms
+tile.DeeplandsExplosionTrap.name=Deep Rock
+tile.DeeplandsLavaTrap.name=Deep Rocks
+tile.havenGrass.name=Райская трава
+tile.iroGlass.name=Iro Glass
+tile.luntar.name=Luntar
+tile.carpetIro.name=Iro Carpet
+tile.cogBlock.name=Cog Block
+tile.barathosHellstone.name=Barathos Hellstone
+tile.oreBlazium.name=Руда блазия
+tile.toxicStem.name=Toxic Stem
+tile.voxLamp.name=Лампа Вокс
+tile.deadGrass.name=Dead Grass
+tile.DeeplandsNipperTrap.name=Deep Rock
+tile.tangleThorn.name=Колючий кустик
+tile.luconGrass.name=Луконова трава
+tile.runePostLife.name=Life Rune Post
+tile.runePostWater.name=Water Rune Post
+tile.runePostFire.name=Fire Rune Post
+tile.runePostEnergy.name=Energy Rune Post
+tile.runePostPoison.name=Poison Rune Post
+tile.runePostWither.name=Wither Rune Post
+tile.runePostLunar.name=Lunar Rune Post
+tile.runePostKinetic.name=Kinetic Rune Post
+tile.runePostStorm.name=Storm Rune Post
+tile.runePostWind.name=Wind Rune Post
+tile.runePostStrike.name=Strike Rune Post
+tile.runePostPower.name=Power Rune Post
+tile.runePostDistortion.name=Distortion Rune Post
+tile.runeShrine.name=Rune Shrine
+tile.iroBrick_unbreakable.name=Unbreakable Iro Brick
+tile.unbreakableStem.name=Unbreakable Stem
+tile.pedalsBlack.name=Black Petals
+tile.bricksRosidian.name=Rosidian Bricks
+tile.bricksGardencian.name=Gardencian Bricks
+tile.hiveWall.name=Hive Wall
+tile.baronCastleWall.name=Baron Castle Wall
+tile.carpetGardencian.name=Gardencian Carpet
+tile.carpetBorean.name=Borean Carpet
+tile.aquaticGlass.name=Aquatic Glass
+tile.gardencianGlass.name=Gardencian Glass
+tile.voxGlass.name=Vox Glass
+tile.havenGlass.name=Райское стекло
+tile.abyssalGlass.name=AbyssalGlass
+tile.DecloggingTable.name=Declogging Table
+tile.lampAquatic.name=Водяная лампа
+tile.AquaticLampOff.name=Aquatic Lamp Off
+tile.coralCage.name=Coral Cage
+tile.KrorAltar.name=Kror Altar
+tile.VisualentAltar.name=Visualent Altar
+tile.DracyonAltar.name=Dracyon Altar
+tile.VinocorneShrine.name=Vinocorne Shrine
+tile.VoxxulonAltar.name=Voxxulon Altar
+tile.EnigmaTable.name=Enigma Table
+tile.MineralizationStation.name=Mineralization Station
+tile.RuneRandomizer.name=Rune Randomizer
+tile.RecreationStation.name=Recreation Station
+tile.HiveSpawner.name=Hive Spawner
+tile.hiveLight.name=Лампа улья
+tile.floracles.name= Floracles
+tile.goldicaps.name=Goldicaps
+tile.lunacrike.name=Lunacrike
+tile.lunaGlobe.name=Luna Globe
+tile.ChargingTable.name=Charging Table
+tile.IroCrate.name=Айроящик
+tile.rosidons.name=Rosidons
+tile.trilliads.name=Trilliads
+
+
+tile.greckonPortal.name=Greckon Portal
+tile.irominePortal.name=Iromine Portal
+tile.lunalusPortal.name=Lunalus Portal
+tile.precasiaPortal.name=Портал в Доисторический лес
+tile.havenPortal.name=Портал в Рай
+tile.abyssPortal.name=Abyss Portal
+tile.mysteriumPortal.name=Mysterium Portal
+tile.dustopiaPortal.name=Dustopia Portal
+tile.gardenciaPortal.name=Gardencia Portal
+tile.boreanPortal.name=L'Borean Portal
+tile.runandorPortal.name=Runandor Portal
+tile.barathosPortal.name=Barathos Portal
+tile.deeplandsPortal.name=Deeplands Portal
+tile.voxpondsPortal.name=Vox Ponds Portal
+
+
+tile.deeplandsRock.name=Deep Rock
+tile.lunalons.name=Lunalons
+item.CrystalliteStone.name=Кристаллитовый камень
+tile.TrapConfusion.name=Iro Confusion Trap
+item.HavenGems.name=Самоцветы Обители
+item.PrimordialHelmet.name=Primordial Helmet
+item.PrimordialChestplate.name=Primordial Chestplate
+item.PrimordialLeggings.name=Primordial Leggings
+item.PrimordialBoots.name=Primordial Boots
+item.RosidianHelmet.name=Rosidian Helmet
+item.RosidianChestplate.name=Rosidian Chestplate
+item.RosidianLeggings.name=Rosidian Leggings
+item.RosidianBoots.name=Rosidian Boots
+item.LyonicHelmet.name=Lyonic Helmet
+item.LyonicChestplate.name=Lyonic Chestplate
+item.LyonicLeggings.name=Lyonic Leggings
+item.LyonicBoots.name=Lyonic Boots
+item.GhoulishHelmet.name=Ghoulish Helmet
+item.GhoulishChestplate.name=Ghoulish Chestplate
+item.GhoulishLeggings.name=Ghoulish Leggings
+item.GhoulishBoots.name=Ghoulish Boots
+item.SubterraneanHelmet.name=Subterranean Helmet
+item.SubterraneanChestplate.name=Subterranean Chestplate
+item.SubterraneanLeggings.name=Subterranean Leggings
+item.SubterraneanBoots.name=Subterranean Boots
+item.LunarHelmet.name=Lunar Helmet
+item.LunarChestplate.name=Lunar Chestplate
+item.LunarLeggings.name=Lunar Leggings
+item.LunarBoots.name=Lunar Boots
+item.BoreicHelmet.name=Boreic Helmet
+item.BoreicChestplate.name=Boreic Chestplate
+item.BoreicLeggings.name=Boreic Leggings
+item.BoreicBoots.name=Boreic Boots
+item.PurityHelmet.name=Purity Helmet
+item.PurityChestplate.name=Purity Chestplate
+item.PurityLeggings.name=Purity Leggings
+item.PurityBoots.name=Purity Boots
+item.BaronHelmet.name=Baron Helmet
+item.BaronChestplate.name=Baron Chestplate
+item.BaronLeggings.name=Baron Leggings
+item.BaronBoots.name=Baron Boots
+item.GhastlyHelmet.name=Ghastly Helmet
+item.GhastlyChestplate.name=Ghastly Chestplate
+item.GhastlyLeggings.name=Ghastly Leggings
+item.GhastlyBoots.name=Ghastly Boots
+item.HydrangicHelmet.name=Гидрангитовый шлем
+item.HydrangicChestplate.name=Гидрангитовый нагрудник
+item.HydrangicLeggings.name=Гидрангитовые поножи
+item.HydrangicBoots.name=Гидрангитовые ботинки
+item.PredatiousHelmet.name=Predatious Helmet
+item.PredatiousChestplate.name=Predatious Chestplate
+item.PredatiousLeggings.name=Predatious Leggings
+item.PredatiousBoots.name=Predatious Boots
+item.HazmatHelmet.name=Hazmat Helmet
+item.HazmatChestplate.name=Hazmat Chestplate
+item.HazmatLeggings.name=Hazmat Leggings
+item.HazmatBoots.name=Hazmat Boots
+item.DemonicHelmet.name=Demonic Helmet
+item.DemonicChestplate.name=Demonic Chestplate
+item.DemonicLeggings.name=Demonic Leggings
+item.DemonicBoots.name=Demonic Boots
+item.slingShot.name=Sling Shot
+item.Baronator.name=Баронатор
+item.Dustometer.name=Дастометр
+item.MechanicalAssaultRifle.name=Mechanical Assault Rifle
+item.IonRevolver.name=Ионный револьвер
+item.HaunterRifle.name=Винтовка призраков
+item.PurityShotgun.name=Непорочный дробовик
+item.DestructionShotgun.name=Дробовик разрушения
+item.PurityRifle.name=Винтовка-чистильщик
+item.DestructionRifle.name=Ружьё разрушения
+item.DemonicDestroyer.name=Demonic Destroyer
+item.RockerRifle.name=Каменная винтовка
+item.VileVanquisher.name=Мерзкий покоритель
+item.IroRifle.name=Айро винтовка
+item.Draco.name=Драко
+item.CoralClogger.name=Коралл Клоггер
+item.FlowersFury.name=Цветочная ярость
+item.Mechyro.name=Механическая двустволка
+item.LunarAssaultRifle.name=Лунная штурмовая винтовка
+item.EchoGull.name=Эхо чайки
+item.Pulsator.name=Пульсатор
+item.FlamingFury.name=Яростный огонь
+item.DischargeRifle.name=Discharge Rifle
+item.ApocoRifle.name=Apoco Rifle
+item.Abyssro.name=Abyssro
+item.ApocoAssaultRifle.name=Apoco Assault Rifle
+item.FloroRifle.name=Floro Rifle
+item.GhoulCannon.name=Пушка вурдалака
+item.AquaCannon.name=Аквапушка
+item.FlowerCannon.name=Цветочная пушка
+item.BoulderBomber.name=Камнелом
+item.IroCannon.name=Айропушка
+item.HiveHowitzer.name=Гаубица улья
+item.VoxCannon.name=Голосовая пушка
+item.MechaCannon.name=Механическая пушка
+item.CoralCannon.name=Кораловая пушка
+item.FungalCannon.name=Fungal Cannon
+item.JackFunger.name=Jack Funger
+item.EnergyCannon.name=Энергетическая пушка
+item.RPGFloro.name=RPG Floro
+item.BulbCannon.name=Bulb Cannon
+item.GhastBlaster.name=Призрачный взрыватель
+item.Duster.name=Duster
+item.BoltRifle.name=Bolt Rifle
+item.BayonetteSR.name=BayonetteSR
+item.RosidRifle.name=Rosid Rifle
+item.SludgeSniper.name=Sludge Sniper
+item.Terminator.name=Terminator
+item.Viper1.name=Viper-1
+item.BaronSSR.name=Baron SSR
+item.Ka500.name=Ka500
+item.Floro500.name=Floro500
+item.HellHorn.name=Горн Преисподней
+item.GasBlaster.name=Газовый бластер
+item.MechaBlaster.name=Механический бластер
+item.LunaBlaster.name=Лунный бластер
+item.ApocoShower.name=Apoco Shower
+item.DeathRay.name=Death Ray
+item.DarkDestroyer.name=Тёмный разрушитель
+item.Flowercorne.name=Цветокорн
+item.GhoulGasser.name=Гессер вампир
+item.Reefer.name=Рефрижератор
+item.BubbleHorn.name=Пузырчатый рог
+item.Atomizer.name=Автомайзер
+item.PoisonPlunger.name=Ядовитый поршень
+item.IonBlaster.name=Ионовый бластер
+item.WindStaff.name=Посох ветра
+item.WaterStaff.name=Водный посох
+item.FireStaff.name=Огненный посох
+item.WitherStaff.name=Посох иссушения
+item.PoisonStaff.name=Ядовитый посох
+item.DestructionStaff.name=Посох разрушения
+item.UnderworldStaff.name=Посох Преисподней
+item.NatureStaff.name=Природный посох
+item.MoonlightStaff.name=Лунный посох
+item.LunarStaff.name=Лунный посох
+item.CelestialStaff.name=Небесный посох
+item.MeteorStaff.name=Метеоровый посох
+item.StrikerStaff.name=Посох стрелка
+item.LyonicStaff.name=Посох Лионика
+item.FormationStaff.name=Посох порядка
+item.FungalStaff.name=Грибковый посох
+item.PrimordialStaff.name=Первозданный посох
+item.MechaStaff.name=Меховой посох
+item.GhoulStaff.name=Посох вурдалака
+item.RosidianStaff.name=Розидановый посох
+item.AquaticStaff.name=Аква-посох
+item.BaronStaff.name=Посох барона
+item.HauntersStaff.name=Охотничий посох
+item.WizardsStaff.name=Колдовской посох
+item.ReefStaff.name=Посох рифа
+item.NoxiousStaff.name=Отравляющий посох
+item.SunStaff.name=Солнечный посох
+item.MechaArchergun.name=Механический арбалет
+item.SkeletalArchergun.name=Костяной арбалет
+item.RosidianArchergun.name=Розидовый арбалет
+item.SpectralArchergun.name=Призрачный арбалет
+item.ViralArchergun.name=Вирусный арбалет
+item.LunarArchergun.name=Лунный арбалет
+item.CoralArchergun.name=Коралловый арбалет
+item.ShroomusSword.name=Меч Грибуса
+item.HarvesterSword.name=Меч жнеца
+item.RunicSword.name=Рунический меч
+item.BaronSword.name=Меч барона
+item.CoralstormSword.name=Меч коралловой бури
+item.ExplochronSword.name=Меч парового взрыва
+item.RosidianSword.name=Розидиановый меч
+item.baronBow.name=Лук барона
+item.boreicBow.name=Дырявящий лук
+item.daybreakerBow.name=Разрушитель дня
+item.deepBow.name=Глубинный лук
+item.hauntedBow.name=Охотничий лук
+item.lunarBow.name=Лунный лук
+item.mechaBow.name=Меховой лук
+item.predatiousBow.name=Охотничий лук
+item.rosidianBow.name=Розидиановый лук
+item.primordialBow.name=Первозданный лук
+item.spectralBow.name=Призрачный лук
+item.demonBow.name=Демонический лук
+item.toxinBow.name=Токсический лук
+item.CoralGreatblade.name=Великий коралловый клинок
+item.BaronGreatblade.name=Великий клинок Барона
+item.HauntedGreatblade.name=Проклятый великий клинок
+item.LunarGreatblade.name=Лунный великий клинок
+item.LyonicGreatblade.name=Великий лионовый клинок
+item.NoxiousGreatblade.name=Ядовитый великий клинок
+item.PrimordialGreatblade.name=Первобытный великий клинок
+item.RosidianGreatblade.name=Великий розидиановый клинок
+item.RunicGreatblade.name=Великий рунический клинок
+item.SubterraneanGreatblade.name=Великий подземный клинок
+item.TidalGreatblade.name=Приливный великий клинок
+item.UnderworldGreatblade.name=Великий клинок Преисподней
+item.PopShot.name=Pop Shot
+item.Lunarade.name=Лунарад
+item.SilverCoin.name=Серебряная монета
+item.CopperCoin.name=Медная монета
+item.GoldCoin.name=Золотая монета
+item.LunaverCoin.name=Лунаверовая монета
+item.Rune.name=Руна
+item.EmptySlab.name=Пустая плита
+item.EnderCarrierSlab.name=Плита Посыльного Края
+item.LunacrikeSeeds.name=Lunacrike Seeds
+item.LunalonSeeds.name=Lunalon Seeds
+item.LunaglobeSeeds.name=Lunaglobe Seeds
+item.RosidonSeeds.name=Rosidon Seeds
+item.GoldicapSeeds.name=Goldicap Seeds
+item.FloracleSeeds.name=Floracle Seeds
+item.TrilliadSeeds.name=Trilliad Seeds
+item.Lunacrike.name=Lunacrike
+item.Lunalons.name=Lunalons
+item.LunaGlobe.name=Luna Globe
+item.Rosidons.name=Rosidons
+item.GoldicapPedals.name=Goldicap Petals
+item.FloracleSticks.name=Floracle Sticks
+item.TrilliadLeaves.name=Trilliad Leaves
+item.CoinsMysterium.name=Самоцветы Мистериума
+item.CoinsVoxPonds.name=Самоцветы Прудов Вокс
+item.CoinsDeeplands.name=Самоцветы Глубокоземья
+item.CoinsLunalus.name=Самоцветы Луналуса
+item.CoinsIromine.name=Самоцветы Айромайна
+item.CoinsGreckon.name=Самоцветы Грекона
+item.CoinsRunandor.name=Самоцветы Рунадора
+item.CoinsBarathos.name=Самоцветы Баратоса
+item.CoinsGardencia.name=Самоцветы Гарденсии
+item.CoinsLborean.name=Самоцветы Л'Бореана
+item.CoinsDustopia.name=Самоцветы Дастопии
+item.TotemAquaticStaff.name=Aquatic Staff Totem
+item.TotemBaronSSR.name=Baron SSR Totem
+item.TotemBaronStaff.name=Baron Staff Totem
+item.TotemBayonetteSR.name=BayonetteSR Totem
+item.TotemDaybreaker.name=Daybreaker Totem
+item.TotemExplochronSword.name=Explochron Sword Totem
+item.TotemFlamingFury.name=Flaming Fury Totem
+item.TotemFlowercorne.name=Flowercorne Totem
+item.TotemFormationStaff.name=Formation Staff Totem
+item.TotemHauntersRifle.name=Haunters Rifle Totem
+item.TotemLunaBlaster.name=Luna Blaster Totem
+item.TotemMechaBlaster.name=Mecha Blaster Totem
+item.TotemNoxiousGreatblade.name=Noxious Greatblade Totem
+item.TotemPredatiousBow.name=Predatious Bow Totem
+item.TotemPulsator.name=Pulsator Totem
+item.TotemRosidianArchergun.name=Rosidian Archergun Totem
+item.TotemTerminator.name=Terminator Totem
+item.TotemTidalGreatblade.name=Tidal Greatblade Totem
+item.TotemViper1.name=Viper-1 Totem
+item.TotemViralArchergun.name=Viral Archergun Totem
+item.TotemWizardStaff.name=Wizard Staff Totem
+entity.nevermine.PopShot.name=Pop Shot
+entity.nevermine.ValkyrieShot.name=Valkyrie Shot
+entity.nevermine.DestructorShot.name=Destructor Shot
+entity.nevermine.RockFragmentFungal.name=Fungal Rock Fragment
+entity.nevermine.FlowerBall.name=Flower Ball
+entity.nevermine.AquaBall.name=Aqua Ball
+entity.nevermine.IroBall.name=Iro Ball
+entity.nevermine.ToxicBall.name=Toxic Ball
+entity.nevermine.HiveBall.name=Hive Ball
+entity.nevermine.FungalBall.name=Fungal Ball
+entity.nevermine.GhoulBall.name=Ghoul Ball
+entity.nevermine.FloroRPG.name=Floro RPG
+entity.nevermine.EnergyShot.name=Energy Shot
+entity.nevermine.PenetrationBullet.name=Penetration Bullet
+entity.nevermine.SpecialBullet.name=Special Bullet
+entity.nevermine.FloroPellet.name=Floro Pellet
+entity.nevermine.FlowerShot.name=Flower Shot
+entity.nevermine.IonShot.name=Ion Shot
+entity.nevermine.DeathRayShot.name=DeathRay Shot
+entity.nevermine.LunaShot.name=Luna Shot
+entity.nevermine.BubbleShot.name=Bubble Shot
+entity.nevermine.HellBubbleShot.name=HellBubble Shot
+entity.nevermine.AtomizerShot.name=Atomizer Shot
+entity.nevermine.AtomizerBounce.name=Atomizer Bounce
+entity.nevermine.ReefShot.name=Reef Shot
+entity.nevermine.PoisonPlungerShot.name=Poison PlungerShot
+entity.nevermine.DestroyerShot.name=Destroyer Shot
+entity.nevermine.IroMineShot.name=Iro Mine Shot
+entity.nevermine.CelestialFall.name=Celestial Fall
+entity.nevermine.DestructionBall.name=Destruction Ball
+entity.nevermine.FireFall.name=Fire Fall
+entity.nevermine.HauntersShot.name=Haunters Shot
+entity.nevermine.LunarFall.name=Lunar Fall
+entity.nevermine.MeteorFall.name=Meteor Fall
+entity.nevermine.MoonlightFall.name=Moonlight Fall
+entity.nevermine.PolymorphShot.name=Polymorph Shot
+entity.nevermine.PrimordialShot.name=Primordial Shot
+entity.nevermine.RosidianShot.name=Rosidian Shot
+entity.nevermine.StaffAquatic.name=Aquatic Staff
+entity.nevermine.StaffBaron.name=Baron Staff
+entity.nevermine.StaffFire.name=Fire Staff
+entity.nevermine.StaffGhoul.name=Ghoul Staff
+entity.nevermine.StaffMecha.name=Mecha Staff
+entity.nevermine.StaffPoison.name=Poison Staff
+entity.nevermine.StaffWind.name=Ветряной посох
+entity.nevermine.StaffWater.name=Water Staff
+entity.nevermine.StaffWither.name=Иссушающий посох
+entity.nevermine.SunEmitter.name=Sun Emitte Staff
+entity.nevermine.SunShot.name=Sun Shot
+entity.nevermine.UnderworldBarrage.name=Underworld Barrage
+entity.nevermine.WitherPierce.name=Wither Pierce
+entity.nevermine.Greatblade.name=Greatblade
+entity.nevermine.PolytomShot.name=Polytom Shot
+entity.nevermine.RunicGuardianShot.name=Runic Guardian Shot
+entity.nevermine.SpectralShot.name=Spectral Shot
+entity.nevermine.Fungat.name=Гриболёт
+
+item.AmethystPickaxe.name=Аметистовая кирка
+item.AmethystAxe.name=Аметистовый топор
+item.AmethystShovel.name=Аметистовая лопата
+
+item.GoofyPickaxe.name=Goofy Pickaxe
+item.GoofyAxe.name=Goofy Axe
+item.GoofyShovel.name=Goofy Shovel
+
+item.EnergisticPickaxe.name=Energistic Pickaxe
+item.EnergisticAxe.name=Energistic Axe
+item.EnergisticShovel.name=Energistic Shovel
+
+item.AbyssalGems.name=Самоцветы Бездны
+item.CorbyEgg.name=Corby Egg
+item.AmphibiyteLung.name=Лёгкое Амфибиата
+item.AncientOrb.name=Древняя сфера
+item.Bloodstone.name=Кровавый камень
+item.BoneFlintSteel.name=Skeletal Flint
+item.ChestboneFragment.name=Фрагмент грудной кости
+item.ChimeraChopRaw.name=Сырая отбивная Химеры
+item.ChimeraChopCooked.name=Приготовленная отбивная Химеры
+item.CoralStone.name=Коралловый камень
+item.DesertShell.name=Пустынная оболочка
+item.ExplosiveIdol.name=Взрывной идол
+item.EyeBulb.name=Eye Bulb
+item.Lunarade.name=Lunarade
+item.PopShot.name=Пистон
+item.EyeBulbSeeds.name=Eye Bulb Seeds
+item.EyeCandy.name=Глазная конфета
+item.FireFlintSteel.name=Abyssal Flint
+item.FootboneFragment.name=Фрагмент кости стопы
+item.HavenShrooms.name=Мистические грибочки
+item.HavenShroomSeeds.name=Семена мистических грибочков
+item.HeavyBoulder.name=Крупный валун
+item.HollyTopPedals.name=Лепестки остролиста
+item.HollyTopSeeds.name=Семена остролиста
+item.IceCrystal.name=Ледяной кристалл
+item.IceFlintSteel.name=Heavenly Flint
+item.IngotEmberstone.name=Углекаменный слиток
+item.IngotJade.name=Нефритовый слиток
+item.IngotRosite.name=Розитовый слиток
+item.IngotLimonite.name=Лимонитовый слиток
+item.IngotSapphire.name=Сапфировый слиток
+item.IngotMystite.name=Миститовый слиток
+item.IngotSkeletal.name=Скелетоновый слиток
+item.JungleThorns.name=Шипы джунглей
+item.LegboneFragment.name=Фрагмент кости ноги
+item.MagicRepairDust.name=Магическая пыль ремонта
+item.Moonstone.name=Лунная пыль
+item.Mudball.name=Грязевой шар
+item.NethengeicCallstone.name=Камень призыва Незенджика
+item.RammerheadHide.name=Шкура тромбоголова
+item.SkullboneFragment.name=Фрагмент кости черепа
+item.TrollIdol.name=Троллейный идол
+item.UpgradeKitAncient.name=Древний набор улучшения
+item.UpgradeKitNether.name=Адский набор улучшения
+item.UpgradeKitPrecasian.name=Прекасийский набор улучшения
+item.UrkaHide.name=Шкура Урки
+item.UrsaCooked.name=Приготовленное мясо Урсы
+item.UrsaRaw.name=Сырое мясо Урсы
+item.Ivory.name=Слоновая кость
+item.ElementalArrow.name=Стрела из остролиста
+item.VoliantHeart.name=Доблестное сердце
+item.BookOfShadows.name=Книга теней
+
+item.EmptySlab.name=Пустая плита
+item.EnderCarrierSlab.name=Плита Посыльного Края
+
+item.SilverCoin.name=Серебряная монета
+item.GoldCoin.name=Золотая монета
+item.LunaverCoin.name=Lunaver Coin
+item.CopperCoin.name=Медная монета
+item.slingShot.name=Праща
+
+item.NetherGems.name=Адские самоцветы
+item.PrecasianGems.name=Самоцветы Прекасии
+item.IroMiner.name=Айрошахтёр
+item.AmethystSword.name=Аметистовый меч
+item.Bloodfury.name=Кровавая ярость
+item.BloodstoneSword.name=Каменно-кровавый меч
+item.CoralStoneSword.name=Каменно-коралловый меч
+item.CrystalliteSword.name=Кристаллитовый меч
+item.EmberstoneSword.name=Углекаменный меч
+item.FireborneSword.name=Огненосный меч
+item.GuardiansSword.name=Меч стражника
+item.HorizonMaul.name=Кувалда горизонта
+item.IllusionSword.name=Меч иллюзии
+item.JadeSword.name=Нефритовый меч
+item.LegboneSword.name=Меч Костяной Ноги
+item.LimoniteSword.name=Лимонитовый меч
+item.NethengeicSword.name=Незенджиковый меч
+item.RockPickSword.name=Меч каменного пика
+item.RockBasherSword.name=Меч-камнебой
+item.RositeSword.name=Розитовый меч
+item.SapphireSword.name=Сапфировый меч
+item.SkeletalSword.name=Скелетоновый меч
+item.ShadowSword.name=Теневой меч
+item.TrollBasherAxe.name=Тролльский топор
+item.AncientCrystalSword.name=Ancient-Crystal Sword
+item.NetherskullSword.name=Netherskull Sword
+item.PrecasianBloodSword.name=Precasian-Blood Sword
+
+
+item.alacrityBow.name=Лук живости
+item.ancientBow.name=Древний лук
+item.explosiveBow.name=Взрывной лук
+item.iceBow.name=Ледяной лук
+item.infernalBow.name=Адский лук
+item.poisonBow.name=Ядовитый лук
+item.skeletalBow.name=Скелетоновый лук
+item.soulfireBow.name=Лук огненной души
+item.speedBow.name=Лук скорости
+item.voidBow.name=Пустотный лук
+item.weakenBow.name=Лук слабости
+item.witherBow.name=Лук иссушения
+item.screamerBow.name=Лук испуга
+item.runicBow.name=Рунический лук
+item.nightmareBow.name=Лук ночного кошмара
+
+item.dragilator.name=Драгинатор
+item.electinator.name=Электинатор
+item.krilinator.name=Крилинатор
+item.frosticator.name=Фростикатор
+item.germinator.name=Герминатор
+item.mkFung.name=MK-Fung
+item.bloodIron.name=Кровавая сталь
+item.minigun.name=Миниган
+item.emberStaff.name=Углевой посох
+item.tangleStaff.name=Запутанный посох
+item.kaiyuStaff.name=Посох Кайу
+item.nightmareStaff.name=Кошмарный посох
+item.phantomStaff.name=Посох фантома
+item.gravityBlaster.name=Гравитационный бластер
+item.runicStaff.name=Рунический посох
+item.surgeStaff.name=Посох напряжения
+item.webStaff.name=Связывающий посох
+
+item.RunicLeggings.name=Рунические поножи
+item.RunicChestplate.name=Рунический нагрудник
+item.RunicBoots.name=Рунические ботинки
+item.RunicHelmet.name=Рунический шлем
+
+item.NightmareLeggings.name=Поножи ночных кошмаров
+item.NightmareHelmet.name=Шлем ночных кошмаров
+item.NightmareChestplate.name=Нагрудник ночных кошмаров
+item.NightmareBoots.name=Ботинки ночных кошмаров
+
+item.PhantasmBoots.name=Призрачные ботинки
+item.PhantasmChestplate.name=Призрачный нагрудник
+item.PhantasmHelmet.name=Призрачный шлем
+item.PhantasmLeggings.name=Призрачные поножи
+
+item.RuneStoneActive.name=Активный Рунный камень
+item.ScreamShield.name=Щит Крика
+item.StaringEye.name=Пристальный глаз
+item.NightmareFlakes.name=Хлопья кошмара
+item.GhostlyPowder.name=Призрачный порошок
+item.Phantasm.name=Фантазм
+item.TrollSkull.name=Череп тролля
+item.RuneStone.name=Рунный камень
+item.UpgradeKitRunic.name=Рунический набор улучшения
+item.RunicBomb.name=Руническая бомба
+item.soulSpark.name=Искра души
+item.confettiCannon.name=Конфетти-пушка
+item.spiritShower.name=Душа душа
+item.whitewashSolution.name=Белый промывочный раствор
+
+
+item.LimonitePickaxe.name=Лимонитовая кирка
+item.LimoniteAxe.name=Лимонитовый топор
+item.LimoniteShovel.name=Лимонитовая лопата
+item.RositePickaxe.name=Розитовая кирка
+item.RositeShovel.name=Розитовая лопата
+item.RositeAxe.name=Розитовый топор
+item.JadePickaxe.name=Нефритовая кирка
+item.JadeAxe.name=Нефритовый топор
+item.JadeShovel.name=Нефритовая лопата
+item.SapphireShovel.name=Сапфировая лопата
+item.SapphireAxe.name=Сапфировый топор
+item.SapphirePickaxe.name=Сапфировая кирка
+item.EmberstoneAxe.name=Углекаменный топор
+item.EmberstonePickaxe.name=Углекаменная кирка
+item.EmberstoneShovel.name=Углекаменная лопата
+item.SkeletalPickaxe.name=Костяная кирка
+item.SkeletalShovel.name=Костяная лопата
+item.SkeletalAxe.name=Костяной топор
+item.grounderSkeletal.name=Skeletal Grounder
+
+
+
+
+tile.EncrustedMechaBanner.name=Encrusted Mecha Banner
+tile.EncrustedLunarBanner.name=Encrusted Lunar Banner
+tile.EncrustedBoreicBanner.name=Encrusted Boreic Banner
+tile.EncrustedEnergyBanner.name=Инкрустированное знамя силы [Ретро]
+tile.EncrustedDustopianBanner.name=Encrusted Dustopian Banner
+tile.EncrustedGhoulBanner.name=Encrusted Ghoul Banner
+tile.EncrustedDeepBanner.name=Encrusted Deep Banner
+tile.EncrustedRosidianBanner.name=Encrusted Rosidian Banner
+tile.EncrustedRunicBanner.name=Encrusted Runic Banner
+tile.EncrustedBaronBanner.name=Encrusted Baron Banner
+tile.EncrustedVoxBanner.name=Encrusted Vox Banner
+tile.EncrustedHauntedBanner.name=Инкрустированное знамя с привидениями
+tile.EncrustedFungalBanner.name=Инкрустированное грибное знамя
+tile.EncrustedSkeletalBanner.name=Инкрустированное костяное знамя
+tile.EncrustedNethengeicBanner.name=Инкрустированное пылающее знамя
+tile.EncrustedLottoBanner.name=Инкрустированное лотерейное знамя
+tile.EncrustedShadowBanner.name=Encrusted Shadow Banner
+tile.EncrustedIllusionBanner.name=Инкрустированное знамя иллюзий
+tile.EncrustedNetherBanner.name=Инкрустированное адское знамя
+tile.EncrustedAncientBanner.name=Инкрустированное древнее знамя
+tile.EncrustedSoulBanner.name=Инкрустированное знамя душ [Ретро]
+tile.EncrustedUtopianBanner.name=Инкрустированное знамя мечтаний
+tile.EncrustedSeaBanner.name=Инкрустированное знамя моря
+tile.EncrustedLelyetianBanner.name=Encrusted Lelyetian Banner
+tile.LelyetianBanner.name=Lelyetian Banner
+tile.GildedLelyetianBanner.name=Gilded Lelyetian Banner
+tile.BejeweledLelyetianBanner.name=Bejeweled Lelyetian Banner
+
+tile.EncrustedClownBanner.name=Encrusted Clown Banner
+tile.ClownBanner.name=Clown Banner
+tile.GildedClownBanner.name=Gilded Clown Banner
+tile.BejeweledClownBanner.name=Bejeweled Clown Banner
+
+tile.EncrustedCrystalBanner.name=Encrusted Crystal Banner
+tile.CrystalBanner.name=Crystal Banner
+tile.GildedCrystalBanner.name=Gilded Crystal Banner
+tile.BejeweledCrystalBanner.name=Bejeweled Crystal Banner
+
+
+tile.EncrustedGingerbreadBanner.name=Encrusted Gingerbread Banner
+tile.GingerbreadBanner.name=Gingerbread Banner
+tile.GildedGingerbreadBanner.name=Gilded Gingerbread Banner
+tile.BejeweledGingerbreadBanner.name=Bejeweled Gingerbread Banner
+
+tile.EncrustedCreepyBanner.name=Encrusted Creepy Banner
+tile.CreepyBanner.name=Creepy Banner
+tile.GildedCreepyBanner.name=Gilded Creepy Banner
+tile.BejeweledCreepyBanner.name=Bejeweled Creepy Banner
+
+tile.EncrustedCreepoidBanner.name=Encrusted Creepoid Banner
+tile.CreepoidBanner.name=Creepoid Banner
+tile.GildedCreepoidBanner.name=Gilded Creepoid Banner
+tile.BejeweledCreepoidBanner.name=Bejeweled Creepoid Banner
+
+tile.EncrustedImmortalBanner.name=Encrusted Immortal Banner
+tile.ImmortalBanner.name=Immortal Banner
+tile.GildedImmortalBanner.name=Gilded Immortal Banner
+tile.BejeweledImmortalBanner.name=Bejeweled Immortal Banner
+
+tile.EncrustedFragmentBanner.name=Инкрустированное знамя осколков
+tile.FragmentBanner.name=Знамя осколков
+tile.GildedFragmentBanner.name=Позолоченное знамя осколков
+tile.BejeweledFragmentBanner.name=Драгоценное знамя осколков
+
+tile.EncrustedEnergy2Banner.name=Инкрустированное знамя энергии
+tile.Energy2Banner.name=Знамя энергии
+tile.GildedEnergy2Banner.name=Позолоченное знамя энергии
+tile.BejeweledEnergy2Banner.name=Драгоценное знамя энергии
+
+tile.EncrustedSoul2Banner.name=Инкрустированное знамя душ
+tile.Soul2Banner.name=Знамя душ
+tile.GildedSoul2Banner.name=Позолоченное знамя душ
+tile.BejeweledSoul2Banner.name=Драгоценное знамя душ
+
+tile.EncrustedCreation2Banner.name=Инкрустированное знамя Создания-2
+tile.Creation2Banner.name=Знамя Создания-2
+tile.GildedCreation2Banner.name=Позолоченное знамя Создания-2
+tile.BejeweledCreation2Banner.name=Драгоценное знамя Создания-2
+
+
+tile.SelyanBanner.name=Знамя Селиана
+tile.ErebonBanner.name=Знамя Эребона
+tile.LuxonBanner.name=Знамя Луксона
+tile.PlutonBanner.name=Знамя Плутона
+
+tile.EncrustedBloodBanner.name=Инкрустированное знамя крови
+tile.BloodBanner.name=Знамя крови
+tile.GildedBloodBanner.name=Позолоченное знамя крови
+tile.BejeweledBloodBanner.name=Драгоценное знамя крови
+
+tile.EncrustedGhostlyBanner.name=Инкрустированное призрачное знамя
+tile.GhostlyBanner.name=Призрачное знамя
+tile.GildedGhostlyBanner.name=Позолоченное призрачное знамя
+tile.BejeweledGhostlyBanner.name=Драгоценное призрачное знамя
+
+tile.EncrustedVoidBanner.name=Инкрустированное знамя пустоты
+tile.VoidBanner.name=Знамя пустоты
+tile.GildedVoidBanner.name=Позолоченное знамя пустоты
+tile.BejeweledVoidBanner.name=Драгоценное знамя пустоты
+
+tile.EncrustedCandyBanner.name=Encrusted Candy Banner
+tile.CandyBanner.name=Candy Banner
+tile.GildedCandyBanner.name=Gilded Candy Banner
+tile.BejeweledCandyBanner.name=Bejeweled Candy Banner
+
+
+tile.SeaBanner.name=Знамя моря
+tile.GildedSeaBanner.name=Позолоченное знамя моря
+tile.BejeweledSeaBanner.name=Драгоценное знамя моря
+tile.UtopianBanner.name=Знамя мечтаний
+tile.GildedUtopianBanner.name=Позолоченное знамя мечтаний
+tile.BejeweledUtopianBanner.name=Драгоценное знамя мечтаний
+tile.SoulBanner.name=Знамя душ [Ретро]
+tile.GildedSoulBanner.name=Позолоченное знамя душ [Ретро]
+tile.BejeweledSoulBanner.name=Драгоценное знамя душ [Ретро]
+tile.AncientBanner.name=Древнее знамя
+tile.GildedAncientBanner.name=Позолоченное древнее знамя
+tile.BejeweledAncientBanner.name=Драгоценное древнее знамя
+tile.NetherBanner.name=Адское знамя
+tile.GildedNetherBanner.name=Позолоченное адское знамя
+tile.BejeweledNetherBanner.name=Драгоценное адское знамя
+tile.IllusionBanner.name=Знамя иллюзий
+tile.GildedIllusionBanner.name=Позолоченное знамя иллюзий
+tile.BejeweledIllusionBanner.name=Драгоценное знамя иллюзий
+tile.ShadowBanner.name=Shadow Banner
+tile.GildedShadowBanner.name=Gilded Shadow Banner
+tile.BejeweledShadowBanner.name=Bejeweled Shadow Banner
+tile.LottoBanner.name=Лотерейное знамя
+tile.GildedLottoBanner.name=Позолоченное лотерейное знамя
+tile.BejeweledLottoBanner.name=Драгоценное лотерейное знамя
+tile.NethengeicBanner.name=Пылающее знамя
+tile.GildedNethengeicBanner.name=Позолоченное пылающее знамя
+tile.BejeweledNethengeicBanner.name=Драгоценное пылающее знамя
+tile.SkeletalBanner.name=Костяное знамя
+tile.GildedSkeletalBanner.name=Позолоченное костяное знамя
+tile.BejeweledSkeletalBanner.name=Драгоценное костяное знамя
+tile.FungalBanner.name=Грибное знамя
+tile.GildedFungalBanner.name=Позолоченное грибное знамя
+tile.BejeweledFungalBanner.name=Драгоценное грибное знамя
+tile.HauntedBanner.name=Знамя с привидениями
+tile.GildedHauntedBanner.name=Позолоченное знамя с привидениями
+tile.BejeweledHauntedBanner.name=Драгоценное знамя с привидениями
+
+
+tile.VoxBanner.name=Vox Banner
+tile.GildedVoxBanner.name=Gilded Vox Banner
+tile.BejeweledVoxBanner.name=Bejeweled Vox Banner
+
+tile.BaronBanner.name=Baron Banner
+tile.GildedBaronBanner.name=Gilded Baron Banner
+tile.BejeweledBaronBanner.name=Bejeweled Baron Banner
+
+
+tile.RunicBanner.name=Runic Banner
+tile.GildedRunicBanner.name=Gilded Runic Banner
+tile.BejeweledRunicBanner.name=Bejeweled Runic Banner
+
+
+tile.RosidianBanner.name=Rosidian Banner
+tile.GildedRosidianBanner.name=Gilded Rosidian Banner
+tile.BejeweledRosidianBanner.name=Bejeweled Rosidian Banner
+
+
+tile.DeepBanner.name=Deep Banner
+tile.GildedDeepBanner.name=Gilded Deep Banner
+tile.BejeweledDeepBanner.name=Bejeweled Deep Banner
+
+
+tile.GhoulBanner.name=Ghoul Banner
+tile.GildedGhoulBanner.name=Gilded Ghoul Banner
+tile.BejeweledGhoulBanner.name=Bejeweled Ghoul Banner
+
+
+tile.DustopianBanner.name=Dustopian Banner
+tile.GildedDustopianBanner.name=Gilded Dustopian Banner
+tile.BejeweledDustopianBanner.name=Bejeweled Dustopian Banner
+
+tile.EnergyBanner.name=Знамя силы [Ретро]
+tile.GildedEnergyBanner.name=Позолоченное знамя силы [Ретро]
+tile.BejeweledEnergyBanner.name=Драгоценное знамя силы [Ретро]
+
+
+tile.BoreicBanner.name=Boreic Banner
+tile.GildedBoreicBanner.name=Gilded Boreic Banner
+tile.BejeweledBoreicBanner.name=Bejeweled Boreic Banner
+
+
+tile.LunarBanner.name=Lunar Banner
+tile.GildedLunarBanner.name=Gilded Lunar Banner
+tile.BejeweledLunarBanner.name=Bejeweled Lunar Banner
+
+
+tile.MechaBanner.name=Mecha Banner
+tile.GildedMechaBanner.name=Gilded Mecha Banner
+tile.BejeweledMechaBanner.name=Bejeweled Mecha Banner
+
+
+tile.HiveKingStatue.name=Hive King Statue
+tile.BaneStatue.name=Bane Statue
+tile.KrorStatue.name=Kror Statue
+tile.SilverfootStatue.name=Silverfoot Statue
+tile.DracyonStatue.name=Dracyon Statue
+tile.VisualentStatue.name=Visualent Statue
+tile.VoxxulonStatue.name=Voxxulon Statue
+tile.VinocorneStatue.name=Vinocorne Statue
+tile.ClunkheadStatue.name=Clunkhead Statue
+tile.KingShroomusStatue.name=Статуя Короля Грибуса
+tile.OkazorStatue.name=Okazor Statue
+tile.HarkosStatue.name=Hakos Statue
+tile.KajarosStatue.name=Kajaros Statue
+tile.MiskelStatue.name=Miskel Statue
+tile.RaxxanStatue.name=Raxxan Statue
+
+
+tile.SmashStatue.name=Статуя Громилы
+tile.KingBamBamBamStatue.name=Статуя Короля БумБумБум
+tile.GuardianStatueRed.name=Статуя Красного Стража
+tile.GuardianStatueBlue.name=Статуя Синего Стража
+tile.GuardianStatueGreen.name=Статуя Зелёного Стража
+tile.GuardianStatueYellow.name=Статуя Жёлтого Стража
+tile.CorallusStatue.name=Статуя Кораллуса
+tile.NethengeicWitherStatue.name=Статуя Пылающего Иссушителя
+tile.ElusiveStatue.name=Elusive Statue
+tile.ShadowlordStatue.name=Shadowlord Statue
+tile.SkeletorStatue.name=Статуя Скелетрона
+tile.SkelemanStatue.name=Статуя Боевого скелета
+tile.SkeleelderStatue.name=Статуя Старейшего скелета
+tile.SkelepigStatue.name=Статуя Свиньи-скелета
+tile.SkeleHopperStatue.name=Статуя Скелета-прыгуна
+tile.RockriderStatue.name=Статуя Каменного наездника
+
+tile.HiveKingStatueGold.name=Golden Hive King Statue
+tile.BaneStatueGold.name=Golden Bane Statue
+tile.KrorStatueGold.name=Golden Kror Statue
+tile.SilverfootStatueGold.name=Golden Silverfoot Statue
+tile.DracyonStatueGold.name=Golden Dracyon Statue
+tile.VisualentStatueGold.name=Golden Visualent Statue
+tile.VoxxulonStatueGold.name=Golden Voxxulon Statue
+tile.VinocorneStatueGold.name=Golden Vinocorne Statue
+tile.ClunkheadStatueGold.name=Golden Clunkhead Statue
+tile.KingShroomusStatueGold.name=Золотая статуя Короля Грибуса
+tile.OkazorStatueGold.name=Golden Okazor Statue
+tile.HarkosStatueGold.name=Golden Hakos Statue
+tile.KajarosStatueGold.name=Golden Kajaros Statue
+tile.MiskelStatueGold.name=Golden Miskel Statue
+tile.RaxxanStatueGold.name=Golden Raxxan Statue
+tile.SmashStatueGold.name=Золотая статуя Громилы
+tile.KingBamBamBamStatueGold.name=Золотая статуя Короля БумБумБум
+tile.GuardianStatueRedGold.name=Золотая статуя Красного Стража
+tile.GuardianStatueBlueGold.name=Золотая статуя Синего Стража
+tile.GuardianStatueGreenGold.name=Золотая статуя Зелёного Стража
+tile.GuardianStatueYellowGold.name=Золотая статуя Жёлтого Стража
+tile.CorallusStatueGold.name=Золотая статуя Кораллуса
+tile.NethengeicWitherStatueGold.name=Золотая статуя Пылающего Иссушителя
+tile.ElusiveStatueGold.name=Golden Elusive Statue
+tile.ShadowlordStatueGold.name=Golden Shadowlord Statue
+tile.SkeletorStatueGold.name=Золотая статуя Скелетрона
+tile.SkelemanStatueGold.name=Золотая статуя Боевого скелета
+tile.SkeleelderStatueGold.name=Золотая статуя Старейшего скелета
+tile.SkelepigStatueGold.name=Золотая статуя Свиньи-скелета
+tile.SkeleHopperStatueGold.name=Золотая статуя Скелета-прыгуна
+tile.RockriderStatueGold.name=Золотая статуя Каменного наездника
+
+item.AnimaHelmet.name=Шлем Души
+item.AnimaChestplate.name=Нагрудник Души
+item.AnimaLeggings.name=Поножи Души
+item.AnimaBoots.name=Ботинки Души
+
+item.VitalityHelmet.name=Шлем Извлечения
+item.VitalityChestplate.name=Нагрудник Извлечения
+item.VitalityLeggings.name=Поножи Извлечения
+item.VitalityBoots.name=Ботинки Извлечения
+
+item.InnervationHelmet.name=Шлем Чувствительности
+item.InnervationChestplate.name=Нагрудник Чувствительности
+item.InnervationLeggings.name=Поножи Чувствительности
+item.InnervationBoots.name=Ботинки Чувствительности
+
+item.VoidHelmet.name=Пустотный шлем
+item.VoidChestplate.name=Пустотный нагрудник
+item.VoidLeggings.name=Пустотные поножи
+item.VoidBoots.name=Пустотные ботинки
+
+item.IceHelmet.name=Ледяной шлем
+item.IceChestplate.name=Ледяной нагрудник
+item.IceLeggings.name=Ледяные поножи
+item.IceBoots.name=Ледяные ботинки
+
+item.PoisonHelmet.name=Ядовитый шлем
+item.PoisonChestplate.name=Ядовитый нагрудник
+item.PoisonLeggings.name=Ядовитые поножи
+item.PoisonBoots.name=Ядовитые ботинки
+
+item.InfernalHelmet.name=Шлем Дьявола
+item.InfernalChestplate.name=Нагрудник Дьявола
+item.InfernalLeggings.name=Поножи Дьявола
+item.InfernalBoots.name=Ботинки Дьявола
+
+item.ExplosiveHelmet.name=Взрывной шлем
+item.ExplosiveChestplate.name=Взрывной нагрудник
+item.ExplosiveLeggings.name=Взрывные поножи
+item.ExplosiveBoots.name=Взрывные ботинки
+
+item.WeakenHelmet.name=Шлем слабости
+item.WeakenChestplate.name=Нагрудник слабости
+item.WeakenLeggings.name=Поножи слабости
+item.WeakenBoots.name=Ботинки слабости
+
+item.WitherHelmet.name=Шлем иссушения
+item.WitherChestplate.name=Нагрудник иссушения
+item.WitherLeggings.name=Поножи иссушения
+item.WitherBoots.name=Ботинки иссушения
+
+item.HydroplateHelmet.name=Hydroplate Helmet
+item.HydroplateChestplate.name=Hydroplate Chestplate
+item.HydroplateLeggings.name=Hydroplate Leggings
+item.HydroplateBoots.name=Hydroplate Boots
+
+item.AlacrityHelmet.name=Шлем рвения
+item.AlacrityChestplate.name=Нагрудник рвения
+item.AlacrityLeggings.name=Поножи рвения
+item.AlacrityBoots.name=Ботинки рвения
+
+item.RockboneHelmet.name=Rockbone Helmet
+item.RockboneChestplate.name=Rockbone Chestplate
+item.RockboneLeggings.name=Rockbone Leggings
+item.RockboneBoots.name=Rockbone Boots
+
+item.SharpshotHelmet.name=Sharpshot Helmet
+item.SharpshotChestplate.name=Sharpshot Chestplate
+item.SharpshotLeggings.name=Sharpshot Leggings
+item.SharpshotBoots.name=Sharpshot Boots
+
+item.ElecanyteHelmet.name=Elecanyte Helmet
+item.ElecanyteChestplate.name=Elecanyte Chestplate
+item.ElecanyteLeggings.name=Elecanyte Leggings
+item.ElecanyteBoots.name=Elecanyte Boots
+
+item.SpeedHelmet.name=Скоростной шлем
+item.SpeedChestplate.name=Скоростной нагрудник
+item.SpeedLeggings.name=Скоростные поножи
+item.SpeedBoots.name=Скоростные ботинки
+
+item.UtopianHelmet.name=Шлем мечтаний
+item.UtopianChestplate.name=Нагрудник мечтаний
+item.UtopianLeggings.name=Поножи мечтаний
+item.UtopianBoots.name=Ботинки мечтаний
+
+item.NecroHelmet.name=Necro Helmet
+item.NecroChestplate.name=Necro Chestplate
+item.NecroLeggings.name=Necro Leggings
+item.NecroBoots.name=Necro Boots
+
+item.CommanderHelmet.name=Шлем командира
+item.CommanderChestplate.name=Нагрудник командира
+item.CommanderLeggings.name=Поножи командира
+item.CommanderBoots.name=Ботинки командира
+
+item.NethengeicHelmet.name=Пылающий шлем
+item.NethengeicChestplate.name=Пылающий нагрудник
+item.NethengeicLeggings.name=Пылающие поножи
+item.NethengeicBoots.name=Пылающие ботинки
+
+item.CrystallisHelmet.name=Crystallis Helmet
+item.CrystallisChestplate.name=Crystallis Chestplate
+item.CrystallisLeggings.name=Crystallis Leggings
+item.CrystallisBoots.name=Crystallis Boots
+
+item.BiogenicHelmet.name=Биогенный шлем
+item.BiogenicChestplate.name=Биогенный нагрудник
+item.BiogenicLeggings.name=Биогенные поножи
+item.BiogenicBoots.name=Биогенные ботинки
+
+item.SkeletalHelmet.name=Костяной шлем
+item.SkeletalChestplate.name=Костяной нагрудник
+item.SkeletalLeggings.name=Костяные поножи
+item.SkeletalBoots.name=Костяные ботинки
+
+item.ExpeditionHelmet.name=Шлем Скорости
+item.ExpeditionChestplate.name=Нагрудник Скорости
+item.ExpeditionLeggings.name=Поножи Скорости
+item.ExpeditionBoots.name=Ботинки Скорости
+
+item.CandyHelmet.name=Candy Helmet
+item.CandyChestplate.name=Candy Chestplate
+item.CandyLeggings.name=Candy Leggings
+item.CandyBoots.name=Candy Boots
+
+item.FungalHelmet.name=Грибной шлем
+item.FungalChestplate.name=Грибной нагрудник
+item.FungalLeggings.name=Грибные поножи
+item.FungalBoots.name=Грибные ботинки
+
+item.VulcanismHelmet.name=Шлем Вулканизма
+item.VulcanismChestplate.name=Нагрудник Вулканизма
+item.VulcanismLeggings.name=Поножи Вулканизма
+item.VulcanismBoots.name=Ботинки Вулканизма
+
+item.LoggingHelmet.name=Шлем Лесоруба
+item.LoggingChestplate.name=Нагрудник Лесоруба
+item.LoggingLeggings.name=Поножи Лесоруба
+item.LoggingBoots.name=Ботинки Лесоруба
+
+item.HermetismHelmet.name=Шлем Алхимии
+item.HermetismChestplate.name=Нагрудник Алхимии
+item.HermetismLeggings.name=Поножи Алхимии
+item.HermetismBoots.name=Ботинки Алхимии
+
+item.ButcheryHelmet.name=Шлем Резни
+item.ButcheryChestplate.name=Нагрудник Резни
+item.ButcheryLeggings.name=Поножи Резни
+item.ButcheryBoots.name=Ботинки Резни
+
+item.SpaceKingHelmet.name=SpaceKing Helmet
+item.SpaceKingChestplate.name=SpaceKing Chestplate
+item.SpaceKingLeggings.name=SpaceKing Leggings
+item.SpaceKingBoots.name=SpaceKing Boots
+
+item.ZargoniteHelmet.name=Zargonite Helmet
+item.ZargoniteChestplate.name=Zargonite Chestplate
+item.ZargoniteLeggings.name=Zargonite Leggings
+item.ZargoniteBoots.name=Zargonite Boots
+
+item.MercurialHelmet.name=Mercurial Helmet
+item.MercurialChestplate.name=Mercurial Chestplate
+item.MercurialLeggings.name=Mercurial Leggings
+item.MercurialBoots.name=Mercurial Boots
+
+item.OmniHelmet.name=Omni Helmet
+item.OmniChestplate.name=Omni Chestplate
+item.OmniLeggings.name=Omni Leggings
+item.OmniBoots.name=Omni Boots
+
+item.LyndamyteHelmet.name=Линдамитовый шлем
+item.LyndamyteChestplate.name=Линдамитовый нагрудник
+item.LyndamyteLeggings.name=Линдамитовые поножи
+item.LyndamyteBoots.name=Линдамитовые ботинки
+
+item.HaulingHelmet.name=Шлем Ловли
+item.HaulingChestplate.name=Нагрудник Ловли
+item.HaulingLeggings.name=Поножи Ловли
+item.HaulingBoots.name=Ботинки Ловли
+
+item.AmethindHelmet.name=Алмазистовая броня
+item.AmethindChestplate.name=Алмазистовый нагрудник
+item.AmethindLeggings.name=Алмазистовые поножи
+item.AmethindBoots.name=Алмазистовые ботинки
+
+item.EmbrodiumHelmet.name=Тлеющий шлем
+item.EmbrodiumChestplate.name=Тлеющий нагрудник
+item.EmbrodiumLeggings.name=Тлеющие поножи
+item.EmbrodiumBoots.name=Тлеющие ботинки
+
+item.ArchaicHelmet.name=Archaic Helmet
+item.ArchaicChestplate.name=Archaic Chestplate
+item.ArchaicLeggings.name=Archaic Leggings
+item.ArchaicBoots.name=Archaic Boots
+
+item.CottonCrusher.name=Cotton Crusher
+item.CandyBlade.name=Candy Blade
+item.SweetSword.name=Sweet Sword
+item.CaramelCarver.name=Caramel Carver
+item.MintMagnum.name=Мятный Магнум
+item.SweetTooth.name=Sweet Tooth
+item.Froster.name=Замораживатель
+item.GingerBlaster.name=Пряничный балстер
+item.CandyStaff.name=Конфетный посох
+
+
+
+item.AmethystIngot.name=Аметистовый слиток
+item.DischargeCapsule.name=Разрывная капсула
+item.BonePellet.name=Bone Pellet
+item.MetalPellet.name=Металлическая дробинка
+item.MetalSlug.name=Металлическая пуля
+item.CannonBall.name=Пушечное ядро
+item.EverDust.name=Ever Dust
+item.Grenade.name=Граната
+item.SoulDust.name=Soul Dust
+item.ShadowDust.name=Shadow Dust
+item.WitherDust.name=Wither Dust
+
+item.TotemAbominator.name=Тотем ненавистника
+item.TotemAncientBow.name=Тотем древнего лука
+item.TotemBloodfury.name=Тотем ярости крови
+item.TotemGigaCannon.name=Тотем пушки Гаги
+item.TotemPurplePunisher.name=Тотем палача
+item.TotemSoulfireBow.name=Тотем лука огня душ
+item.TotemPenguinBlaster.name=Animal Blaster Totem
+item.TotemWartGun.name=Wart Gun Totem
+item.TotemSoundCannon.name=Sound Cannon Totem
+
+item.CoinsHaven.name=Райские самоцветы
+item.CoinsNether.name=Адские самоцветы
+item.CoinsAbyss.name=Глубинный камень
+item.CoinsPrecasian.name=Доисторические самоцветы
+
+
+item.TabletGills.name=Пластина жабр
+item.TabletCombat.name=Пластина боя
+item.TabletAgility.name=Пластина ловкости
+item.TabletFireResistance.name=Пластина огнестойкости
+item.TabletFuryMining.name=Пластина ярости
+item.TabletGravity.name=Пластина гравитации
+item.TabletNightVision.name=Пластина ночного зрения
+item.TabletRegeneration.name=Пластина регенерации
+item.TabletResistance.name=Пластина защиты
+item.TabletSpeed.name=Пластина скорости
+item.TabletStrength.name=Пластина силы
+item.TabletInvisibility.name=Пластина невидимости
+
+
+item.dischargeCannon.name=Разрывная пушка
+item.abominator.name=Отвратитель
+item.bayonetteRifle.name=Винтовка Байонетты
+item.blueBarrel.name=Синие дуло
+item.boneBlaster.name=Костяной бластер
+item.brownBlaster.name=Карий бластер
+item.chainWrecker.name=Разрушитель цепей
+item.dartGun.name=Метатель
+item.hotShot.name=Горячий выстрел
+item.huntersRifle.name=Охотничье ружьё
+item.longShot.name=Дальний выстрел
+item.nethengeicSlugger.name=Незенджиковый дробовик
+item.purplePunisher.name=Фиолетовый Каратель
+item.redRocket.name=Красная ракета
+item.squadGun.name=Составная пушка
+item.trollsArchergun.name=Арбалет тролля
+item.wartGun.name=Бородавка
+item.tommy.name=Томми
+item.mk.name=М-К
+
+item.ancientDischarger.name=Ancient Discharger
+item.ancientBomber.name=Ancient Bomber
+item.nethenetteRifle.name=Nethenette Rifle
+item.precasianSlugger.name=Precasian Slugger
+item.spineGun.name=Spine Gun
+item.flameWrecker.name=Огненный разрушитель
+item.iominator.name=Iominator
+item.tigerTommy.name=Tiger Tommy
+
+
+item.soulStorm.name=Шторм духов
+item.eradicator.name=Уничтожитель
+item.penguinBlaster.name=Пингвин-бластер
+item.colorCannon.name=Цветная пушка
+item.illusionSMG.name=Иллюзорное SMG
+item.illusionRevolver.name=Револьвер иллюзий
+item.shadowlordStaff.name=Посох Повелителя теней
+item.ligtningStaff.name=Посох молний
+item.rejuvenationStaff.name=Регенерирующий посох
+item.doomBringer.name=Подноситель гибели
+item.moonShiner.name=Лунный синяк
+item.powerRay.name=Силовой луч
+item.blastChiller.name=Взрыв Чиллер
+item.bloodDrainer.name=Кровавое крыло
+item.toxicTerrorizer.name=Токсичный терроризер
+
+
+item.Darkener.name=Darkener
+item.DarklyGuster.name=Darkly Guster
+item.DarkBeast.name=Dark Beast
+        
+item.Skullette.name=Skullette
+item.Skullifact.name=Skullifact
+item.SkulloBlaster.name=Skullo Blaster
+        
+item.HiveCracker.name=Hive Cracker
+item.Hiver.name=Hiver
+item.HiveBlaster.name=Hive Blaster
+        
+item.Clownershot.name=Clownershot
+item.ClownoPulse.name=Clowno Pulse
+item.Clownimator.name=Clownimator
+        
+item.Seaocron.name=Sea-O-Cron
+item.AquaMagnum.name=AquaMagnum
+item.WaterBalloonBomber.name=Water Balloon Bomber
+        
+item.Mineral.name=Mineral
+item.Fragment.name=Fragment
+item.Boulder.name=Boulder
+
+item.bigBlast.name=Большой взрыв
+item.boomCannon.name=Бум пушка
+item.gigaCannon.name=Гига пушка
+item.jackRocker.name=Камнемёт
+item.mindBlaster.name=Мозговой бластер
+item.miniCannon.name=Минипушка
+item.shadowBlaster.name=Теневой взрыватель
+item.superCannon.name=Суперпушка
+item.ultraCannon.name=Ультрапушка
+item.witherCannon.name=Пушка иссушения
+item.withersWrath.name=Ярость Иссушителя
+
+item.rpg.name=РПГ
+item.lightningStaff.name=Светящийся посох
+item.coralStaff.name=Коралловый посох
+item.beeBlaster.name=Bee Blaster
+item.deerDetonator.name=Deer Detonator
+item.dragonDestroyer.name=Dragon Destroyer
+item.fishFryer.name=Fish Fryer
+item.houndHoncho.name=Hound Honcho
+item.bearBlaster.name=Bear Blaster
+item.camelCannon.name=Camel Cannon
+
+item.soundCannonVibe.name=Vibe Sound Cannon
+item.soundCannonBeat.name=Beat Sound Cannon
+item.soundCannonStep.name=Step Sound Cannon
+item.soundCannonSynth.name=Synth Sound Cannon
+item.soundCannonElectro.name=Electro Sound Cannon
+
+
+item.AchelosHelmet.name=Водолазный шлем Ахелоса
+item.SealordHelmet.name=Водолазный шлем Повелителя морей
+item.OceanusHelmet.name=Водолазный океанический шлем
+
+tile.acidBlock.name=Кислота
+tile.crate.name=Ящик
+tile.Crystallanium.name=Кристалланий
+tile.Emberium.name=Emberium
+tile.dirtHaven.name=Райская земля
+tile.GrassHaven.name=Райская трава
+tile.GrassPrecasia.name=Доисторическая трава
+tile.GuardianAlter.name=Guardian Alter
+tile.leavesHavenBlue.name=Синие райские листья
+tile.leavesHavenYellow.name=Жёлтые райские листья
+tile.leavesHavenPink.name=Розовые райские листья
+tile.leavesHavenRed.name=Красные райские листья
+tile.leavesHavenPurple.name=Фиолетовые райские листья
+tile.leavesHavenTurq.name=Бирюзовые райские листья
+tile.leavesLucalus.name=Листья лукалусового дерева
+tile.leavesStranglewood.name=Листья плющедуба
+tile.oreAmethyst.name=Аметистовая руда
+tile.oreChestFragments.name=Фрагменты грудной кости
+tile.oreCrystallite.name=Кристаллитовая руда
+tile.oreFootFragments.name=Фрагменты костей стопы
+tile.oreEmberstone.name=Углекаменная руда
+tile.oreJade.name=Нефритовая руда
+tile.oreLegFragments.name=Фрагменты костей ноги
+tile.oreLimonite.name=Лимонитовая руда
+tile.oreRosite.name=Розитовая руда
+tile.oreSapphire.name=Сапфировая руда
+tile.oreSkullFragments.name=Фрагменты черепа
+tile.planksBloodwood.name=Доски кровавого дерева
+tile.planksLucalus.name=Лукаловые доски
+tile.planksCycade.name=Доски цикадного дерева
+tile.planksShadow.name=Теневые доски
+tile.planksStranglewood.name=Доски дерева-душителя
+tile.RockriderShrine.name=Святилище Каменного наездника
+tile.ShadowAltar.name=Shadow Altar
+tile.GuardianAltar.name=Алтарь Стражей
+tile.spawnerAmphibiyte.name=Amphibiyte Spawner
+tile.spawnerNethengeic.name=Пылающий спаунер
+tile.spawnerFlesh.name=Flesh Spawner
+tile.spawnerHaven.name=Спаунер искателей
+tile.spawnerHaven2.name=Спаунер смотрителей
+tile.spawnerHaven3.name=Спаунер ветерков
+tile.spawnerPrecasian.name=Спаунер иозавров
+tile.spawnerPrecasian2.name=Спаунер гребнеледонов
+tile.spawnerPrecasian3.name=Спаунер плащеносных львов
+tile.spawnerHaunted1.name=Спаунер банши
+tile.spawnerHaunted2.name=Спаунер фантомов
+tile.spawnerHaunted3.name=Спаунер пауков из ночных кошмаров
+tile.spawnerHaunted4.name=Спаунер троллей-мертвецов
+tile.spawnerRunic.name=Спаунер рунических големов
+tile.spawnerKaiyu.name=Спаунер кайя
+tile.stonePrecasiaLow.name=Доисторический камень
+tile.stonePrecasiaHigh.name=Доисторический камень
+tile.stoneHaven.name=Райский камень
+tile.twinklestone.name=Мерцающий камень
+tile.WhiteWashTable.name=White Wash Table
+tile.WoodLucalus.name=Лукалусовое дерево
+tile.WoodStranglewood.name=Плющедуб
+tile.skeletalBlock.name=Костяной блок
+tile.Shadonantium.name=Shadonantium
+tile.Skeletanium.name=Скелетоний
+tile.brick_0.name=Coloured Bricks
+tile.brick_1.name=Coloured Bricks
+tile.brick_2.name=Coloured Bricks
+tile.brick_3.name=Coloured Bricks
+tile.brick_4.name=Coloured Bricks
+tile.brick_5.name=Coloured Bricks
+tile.brick_6.name=Coloured Bricks
+tile.brick_7.name=Coloured Bricks
+tile.brick_8.name=Coloured Bricks
+tile.brick_9.name=Coloured Bricks
+tile.brick_10.name=Coloured Bricks
+tile.brick_11.name=Coloured Bricks
+tile.brick_12.name=Coloured Bricks
+tile.brick_13.name=Coloured Bricks
+tile.brick_14.name=Coloured Bricks
+tile.brick_15.name=Coloured Bricks
+tile.sbrick_0.name=Coloured Stairs
+tile.sbrick_1.name=Coloured Stairs
+tile.sbrick_2.name=Coloured Stairs
+tile.sbrick_3.name=Coloured Stairs
+tile.sbrick_4.name=Coloured Stairs
+tile.sbrick_5.name=Coloured Stairs
+tile.sbrick_6.name=Coloured Stairs
+tile.sbrick_7.name=Coloured Stairs
+tile.sbrick_8.name=Coloured Stairs
+tile.sbrick_9.name=Coloured Stairs
+tile.sbrick_10.name=Coloured Stairs
+tile.sbrick_11.name=Coloured Stairs
+tile.sbrick_12.name=Coloured Stairs
+tile.sbrick_13.name=Coloured Stairs
+tile.sbrick_14.name=Coloured Stairs
+tile.sbrick_15.name=Coloured Stairs
+tile.bricksWhitewash.name=Побелённые кирпичи
+tile.bricksDarkwash.name=Darkwash Bricks
+tile.bricksSkeletal.name=Костяные кирпичи
+tile.bricksCrystallite.name=Кристаллитовые кирпичи
+tile.bricksCoral.name=Коралловые кирпичи
+tile.bricksBloodstone.name=Bloodstone Bricks
+tile.bricksHaunted.name=Призрачные кирпичи
+tile.ivory.name=Слоновая кость
+tile.ivoryAmethyst.name=Аметистовая слоновая кость
+tile.ivoryRosite.name=Розитовая слоновая кость
+tile.ivoryLimonite.name=Лимонитовая слоновая кость
+tile.ivoryJade.name=Нефритовая слоновая кость
+tile.ivorySapphire.name=Сапфировая слоновая кость
+
+tile.ivoryP1.name=Узорчатая слоновая кость
+tile.ivoryAmethystP1.name=Узорчатая аметистовая слоновая кость
+tile.ivoryRositeP1.name=Узорчатая розитовая слоновая кость
+tile.ivoryLimoniteP1.name=Узорчатая лимонитовая слоновая кость
+tile.ivoryJadeP1.name=Узорчатая нефритовая слоновая кость
+tile.ivorySapphireP1.name=Узорчатая сапфировая слоновая кость
+
+tile.ivoryP3.name=Узорчатая слоновая кость
+tile.ivoryAmethystP3.name=Узорчатая аметистовая слоновая кость
+tile.ivoryRositeP3.name=Узорчатая розитовая слоновая кость
+tile.ivoryLimoniteP3.name=Узорчатая лимонитовая слоновая кость
+tile.ivoryJadeP3.name=Узорчатая нефритовая слоновая кость
+tile.ivorySapphireP3.name=Узорчатая сапфировая слоновая кость
+
+tile.ivoryP2.name=Узорчатая слоновая кость
+tile.ivoryAmethystP2.name=Узорчатая аметистовая слоновая кость
+tile.ivoryRositeP2.name=Узорчатая розитовая слоновая кость
+tile.ivoryLimoniteP2.name=Узорчатая лимонитовая слоновая кость
+tile.ivoryJadeP2.name=Узорчатая нефритовая слоновая кость
+tile.ivorySapphireP2.name=Узорчатая сапфировая слоновая кость
+
+tile.lampIvory.name=Лампа из слоновой кости
+tile.lampIvoryAmethyst.name=Лампа из аметистовой слоновой кости
+tile.lampIvoryLimonite.name=Лампа из лимонитовой слоновой кости
+tile.lampIvoryRosite.name=Лампа из розитовой слоновой кости
+tile.lampIvoryJade.name=Лампа из нефритовой слоновой кости
+tile.lampIvorySapphire.name=Лампа из сапфировой слоновой кости
+
+
+tile.ivoryStairs.name=Ступеньки из слоновой кости
+tile.ivoryAmethystStairs.name=Ступеньки из аметистовой слоновой кости
+tile.ivoryRositeStairs.name=Ступеньки из розитовой слоновой кости
+tile.ivoryLimoniteStairs.name=Ступеньки из лимонитовой слоновой кости
+tile.ivoryJadeStairs.name=Ступеньки из нефритовой слоновой кости
+tile.ivorySapphireStairs.name=Ступеньки из сапфировой слоновой кости
+
+tile.lampAmethyst.name=Аметистовая лампа
+tile.lampRosite.name=Розитовая лампа
+tile.lampLimonite.name=Лимонитовая лампа
+tile.lampJade.name=Нефритовая лампа
+tile.lampSapphire.name=Сапфировая лампа
+tile.lampEmberstone.name=Углекаменная лампа
+tile.lampBloodstone.name=Каменно-кровавая лампа
+tile.lampCrystallite.name=Кристаллитовая лампа
+tile.lampSkeletal.name=Скелетоновая лампа
+tile.animated/FireLampname=Огненная лампа
+tile.animated/RedstoneNeon.name=Неоновый красный камень
+tile.animated/RedstoneNeonCircling.name=Циркулирующий неоновый красный камень
+tile.animated/LapisNeon.name=Неоновый ляпис
+tile.animated/LapisNeonCircling.name=Циркулирующий неоновый ляпис
+tile.animated/LapisNeonTriangles.name=Треугольники из неонового ляписа 
+tile.animated/RedstoneNeonTriangles.name=Треугольники из неонового красного камня
+tile.eyeBulb.name=Eye Bulb
+tile.hollyTops.name=Куст остролиста
+tile.havenShroom.name=Mystic Shroom
+tile.bloodstoneBarBlock.name=Bloodstone Bars
+tile.bloodstoneBarBricks.name=Bloodstone Bars
+tile.BloodSpikes.name=Blood Spikes
+tile.BloodStrands.name=Blood Strands
+tile.EyeBlock.name=Eye Block
+tile.leavesShadowblood.name=Shadowblood Leaves
+tile.leavesVein.name=Vein Leaves
+tile.woodEyeball.name=Eyeball Wood
+tile.tentacleBlock.name=Tentacle
+tile.IllusionAltar.name=Illusion Altar
+tile.tentacleEyeOrange.name=Orange Tentacle Eye
+tile.tentacleEyeRed.name=Red Tentacle Eye
+tile.ToxicBlock.name=Toxic Block
+tile.mushroomOutsidePurple.name=Фиолетовый гриб
+tile.mushroomInsidePurple.name=Фиолетовый гриб
+tile.mushroomOutsideOrange.name=Оранжевый гриб
+tile.mushroomInsideOrange.name=Оранжевый гриб
+tile.mushroomOutsideGreen.name=Зелёный гриб
+tile.mushroomInsideGreen.name=Зелёный гриб
+tile.mushroomOutsideYellow.name=Жёлтый гриб
+tile.mushroomInsideYellow.name=Жёлтый гриб
+tile.mushroomOutsideBlue.name=Синий гриб
+tile.mushroomInsideBlue.name=Синий гриб
+tile.MushroomStemBlue.name=Стебель синего гриба
+tile.MushroomStemOrange.name=Стебель оранжевого гриба
+tile.MushroomStemGreen.name=Стебель зелёного гриба
+tile.MushroomStemYellow.name=Стебель жёлтого гриба
+tile.MushroomStemPurple.name=Стебель фиолетового гриба
+tile.oreMystite.name=Миститовая руда
+tile.mysteriumBricksBlack.name=Чёрные кирпичи Мистериума
+tile.mysteriumBricksGreen.name=Зелёные кирпичи Мистериума
+tile.stoneMysterium.name=Камень Мистериума
+tile.dirtMysterium.name=Земля Мистериума
+tile.lampMystic.name=Мистическая лампа
+tile.GrassMysterium.name=Трава Мистериума
+tile.mysticFerns.name=Мистический папоротник
+tile.mysticBush.name=Мистический куст
+tile.kaiyuTempleFace.name=Лицо храма Кайя
+tile.kaiyuTemplePattern1.name=Узорчатый блок храма Кайя
+tile.kaiyuTemplePattern2.name=Узорчатый блок храма Кайя
+tile.kaiyuTemplePattern3.name=Узорчатый блок храма Кайя
+tile.kaiyuTemplePattern4.name=Узорчатый блок храма Кайя
+tile.kaiyuTemplePattern5.name=Узорчатый блок храма Кайя
+tile.kaiyuTemplePlain.name=Узорчатый блок храма Кайя
+tile.TempleTrapFire.name=Узорчатый блок храма Кайя
+tile.TempleTrapWither.name=Узорчатый блок храма Кайя
+tile.TempleTrapPoison.name=Узорчатый блок храма Кайя
+tile.TempleTrapDamage.name=Узорчатый блок храма Кайя
+tile.RunicBlock.name=Рунический блок
+tile.ArmyBlock.name=Блок для призыва войска
+tile.BlockIroTrap.name=Striped Iro Brick
+
+
+entity.nevermine.Spinoledon.name=Спиноледон
+entity.nevermine.Cyclops.name=Циклоп
+entity.nevermine.Charger.name=Бегун
+entity.nevermine.Sasquatch.name=Снежный человек
+entity.nevermine.Ent.name=Древесный дух
+entity.nevermine.Goblin.name=Гоблин
+entity.nevermine.Chomper.name=Большезуб
+entity.nevermine.BushBaby.name=Маленький куст
+entity.nevermine.Stinger.name=Жало
+entity.nevermine.HillCharger.name=Горный бегун
+entity.nevermine.Muchopede.name=Грязноножка
+entity.nevermine.SandGolem.name=Песчаный голем
+entity.nevermine.Sphinx.name=Сфинкс
+entity.nevermine.Shadow.name=Мрак
+entity.nevermine.Chimera.name=Химера
+entity.nevermine.Rammerhead.name=Голова-молот
+entity.nevermine.Amphibiyte.name=Амфибиат
+entity.nevermine.SeaTroll.name=Морской тролль
+entity.nevermine.SeaCharger.name=Морской бегун
+entity.nevermine.Hunch.name=Сутулый
+entity.nevermine.PolarUrsa.name=Полярная медведица
+entity.nevermine.Yeti.name=Йети
+entity.nevermine.Urka.name=Урка
+entity.nevermine.Ursa.name=Чёрная медведица
+entity.nevermine.BombCarrier.name=Подрывник
+entity.nevermine.DarkBeast.name=Тёмный зверь
+entity.nevermine.NightWatcher.name=Ночной наблюдатель
+entity.nevermine.Scrubby.name=Низкорослик
+entity.nevermine.Skellox.name=Скелотавр
+entity.nevermine.FacelessRunner.name=Безликий бегун
+entity.nevermine.Ghost.name=Призрак
+entity.nevermine.VoidWalker.name=Демон Пустоты
+entity.nevermine.MotherVoidWalker.name=Мать демона Пустоты
+entity.nevermine.Shade.name=Тень
+entity.nevermine.Trickster.name=Ловкач
+entity.nevermine.TricksterClone.name=Ловкач
+entity.nevermine.Everbeast.name=Вечнозверь
+
+entity.nevermine.Brute.name=Жестокий циклоп
+entity.nevermine.Embrake.name=Зверина
+entity.nevermine.Hellspot.name=Местный чёрт
+entity.nevermine.BoneCreature.name=Костяное создание
+
+    
+entity.nevermine.NethengeicBeast.name=Незенджиковый зверь
+entity.nevermine.SkeletalCowman.name=Скелет-корова
+entity.nevermine.WitherWizard.name=Ведьма иссушения
+entity.nevermine.Infernal.name=Дьявол
+
+entity.nevermine.Automaton.name=Автомат
+entity.nevermine.Halycon.name=Халикон
+entity.nevermine.Rainicorn.name=Радужнорог
+entity.nevermine.Seeker.name=Искатель
+entity.nevermine.Surveyor.name=Инспектор
+entity.nevermine.Volar.name=Волар
+entity.nevermine.Voliant.name=Волиан
+
+entity.nevermine.Apparition.name=Призрак
+entity.nevermine.Distorter.name=Искривитель
+entity.nevermine.Fiend.name=Демон
+entity.nevermine.FleshEater.name=Пожиратель плоти
+entity.nevermine.Occulent.name=Скрытный
+entity.nevermine.Slimer.name=Слизняк
+entity.nevermine.Dyrehorn.name=Люторог
+entity.nevermine.Megatherium.name=Мегатерий
+entity.nevermine.Sabretooth.name=Саблезуб
+entity.nevermine.GiantSlug.name=Гигантская улитка
+entity.nevermine.Tortione.name=Черепахон
+entity.nevermine.Terradon.name=Террадон
+entity.nevermine.Diocus.name=Диокус
+entity.nevermine.Iosaur.name=Иозавр
+
+entity.nevermine.Penguin.name=Пингвин
+entity.nevermine.Compeer.name=Компаньон
+
+entity.nevermine.Smash.name=Громила
+entity.nevermine.KingBamBamBam.name=Король БумБумБум
+entity.nevermine.LittleBam.name=Маленький Бум
+entity.nevermine.NethengeicWither.name=Пылающий Иссушитель
+entity.nevermine.RockRider.name=Каменный наездник
+entity.nevermine.GuardianRed.name=Красный страж
+entity.nevermine.GuardianBlue.name=Синий страж
+entity.nevermine.GuardianGreen.name=Зелёный страж
+entity.nevermine.GuardianYellow.name=Жёлтый страж
+entity.nevermine.Shadowlord.name=Shadowlord
+entity.nevermine.Elusive.name=Elusive
+entity.nevermine.ElusiveClone.name=Elusive
+entity.nevermine.Skelepig.name=Свинья-скелет
+entity.nevermine.SkelepigStrong.name=Сильная свинья-скелет
+entity.nevermine.SkelepigElite.name=Элитная свинья-скелет
+entity.nevermine.SkeleHopper.name=Скелет-прыгун
+entity.nevermine.SkeleHopperStrong.name=Сильный скелет-прыгун
+entity.nevermine.SkeleHopperElite.name=Элитный скелет-прыгун
+entity.nevermine.Skeleman.name=Боевой скелет
+entity.nevermine.SkelemanStrong.name=Сильный боевой скелет
+entity.nevermine.SkelemanElite.name=Элитный боевой скелет
+entity.nevermine.SkeleElder.name=Старейший скелет
+entity.nevermine.Skeletron.name=Скелетрон
+entity.nevermine.ShadowStalker.name=Shadow Stalker
+
+entity.nevermine.LottoMan.name=Лотерейщик
+entity.nevermine.LottomanBulk.name=Lotto Man
+entity.nevermine.TrollTrader.name=Тролль-Торговец
+
+
+entity.nevermine.DischargeShot.name=Discharge Shot
+entity.nevermine.MetalPellet.name=Металлическая пуля
+entity.nevermine.BonePellet.name=Bone Pellet
+entity.nevermine.SeedDart.name=Seed Dart
+entity.nevermine.WartDart.name=Wart Dart
+entity.nevermine.MetalSlug.name=Металлический патрон
+entity.nevermine.NetherSlug.name=Nether Slug
+entity.nevermine.FireBullet.name=Fire Bullet
+entity.nevermine.IllusionShot.name=Illusion Shot
+entity.nevermine.FishShot.name=Fish Shot
+entity.nevermine.ColorShot.name=Color Shot
+entity.nevermine.StreamShot.name=Stream Shot
+entity.nevermine.CannonBall.name=Пушечное ядро
+entity.nevermine.CannonShot.name=Cannon Shot
+entity.nevermine.GrenadeShot.name=Grenade Shot
+entity.nevermine.ShadowBall.name=Shadow Ball
+entity.nevermine.WitherBall.name=Wither Ball
+entity.nevermine.WrathShot.name=Wrath Shot
+entity.nevermine.RockFragment.name=Rock Fragment
+entity.nevermine.MindShot.name=Mind Shot
+entity.nevermine.ElementalArrow.name=Elemental Arrow
+entity.nevermine.MagicBall.name=Magic Ball
+entity.nevermine.SkelemanShot.name=Magical Shot
+entity.nevermine.GuardianProjectileGreen.name=Green Guardian Projectile
+entity.nevermine.VolarShot.name=Volar Shot
+entity.nevermine.SurveyorShot.name=Surveyor Shot
+entity.nevermine.VoliantShot.name=Voliant Shot
+entity.nevermine.BamShot.name=Bam Shot
+entity.nevermine.NethengeicWitherShot.name=Nethengeic Wither Shot
+entity.nevermine.ShadowlordShot.name=Shadowlord Shot
+entity.nevermine.CompeerShot.name=Ice Blast Shot
+entity.nevermine.IceBlastShot.name=Discharge Shot
+entity.nevermine.MoonShineShot.name=Moon Shiner Shot
+entity.nevermine.ToxicShot.name=Toxic Shot
+entity.nevermine.BloodDrainShot.name=Blood Drain Shot
+entity.nevermine.PowerRayShot.name=Power Ray Shot
+entity.nevermine.DoomShot.name=Doom Shot
+entity.nevermine.MagicBallSeaTroll.name=Magic Troll Ball
+entity.nevermine.MagicBallWither.name=Magic Wither Ball
+entity.nevermine.GuardianProjectileYellow.name=Yellow Guardian Projectile
+entity.nevermine.GuardianProjectileBlue.name=Blue Guardian Projectile
+entity.nevermine.GuardianProjectileRed.name=Red Guardian Projectile
+entity.nevermine.AncientDischarger.name=Ancient Discharger
+entity.nevermine.BoomCannonGrenade.name=Boom Cannon Grenade
+entity.nevermine.EradicatorShot.name=Eradicator Shot
+entity.nevermine.IominatorShot.name=Iominator Shot
+entity.nevermine.MetalPelletFire.name=Metal Pellet
+entity.nevermine.TigerShot.name=Tiger Shot
+entity.nevermine.SpineShot.name=Spine Shot
+entity.nevermine.PrecasianSlug.name=Precasian Slug
+
+entity.nevermine.SoundCannon1.name=Sound Shot
+entity.nevermine.SoundCannon2.name=Sound Shot
+entity.nevermine.SoundCannon3.name=Sound Shot
+entity.nevermine.SoundCannon4.name=Sound Shot
+entity.nevermine.SoundCannon5.name=Sound Shot
+entity.nevermine.SoulSparkShot.name=Soul Spark
+entity.nevermine.ShowerShot.name=Spirit Shower
+entity.nevermine.ConfettiShot.name=Confetti
+entity.nevermine.GolemGunBullet.name=Metal Pellet
+entity.nevermine.SurgeRed.name=Red Surge
+entity.nevermine.SurgeBlue.name=Blue Surge
+entity.nevermine.FungiShot.name=Magical Fungi
+entity.nevermine.RunicBomb.name=Руническая бомба
+entity.nevermine.ReaperShot.name=Reaper Beam
+entity.nevermine.ClownShot.name=Конфетти
+entity.nevermine.NightmareFall.name=Nightmare Powder
+entity.nevermine.TangleFall.name=Tangle Powder
+entity.nevermine.MetalFung.name=Metal Pellet
+
+entity.nevermine.LivingFungi.name=Живой гриб
+entity.nevermine.HidingFungi.name=Hiding Fungi
+entity.nevermine.Corby.name=Рифовик
+entity.nevermine.Corallus.name=Кораллус
+
+entity.nevermine.Muckopede.name=Грязноножка
+entity.nevermine.Bloodsucker.name=Кровопийца
+entity.nevermine.WebReaper.name=Паутинный жнец
+entity.nevermine.Clown.name=Клоун
+entity.nevermine.Eeo.name=Эо
+entity.nevermine.EeoRunning.name=Иио
+entity.nevermine.SpiritGuardian.name=Душа Стража
+entity.nevermine.SpiritProtector.name=Душа Защитника
+entity.nevermine.Fungik.name=Грибной маг
+entity.nevermine.Fungback.name=Грибной пес
+entity.nevermine.UndeadTroll.name=Тролль-нежить
+entity.nevermine.Phantom.name=Фантом
+entity.nevermine.Banshee.name=Банши
+entity.nevermine.NightmareSpider.name=Кошмарный паук
+entity.nevermine.RunicGolem.name=Рунический голем
+entity.nevermine.Kaiyu.name=Кайю
+entity.nevermine.GorbCitizen.name=Горб-Житель
+entity.nevermine.GorbEngineer.name=Горб-Механик
+entity.nevermine.GorbArmsDealer.name=Горб-Торговец оружием
+
+entity.nevermine.ConstructRange.name=Construct of Range
+entity.nevermine.ConstructStrength.name=Construct of Strength
+entity.nevermine.ConstructResistance.name=Construct of Resistance
+entity.nevermine.ConstructFlight.name=Construct of Flight
+entity.nevermine.ConstructMind.name=Construct of Mind
+entity.nevermine.ConstructTerror.name=Construct of Terror
+entity.nevermine.ConstructSpeed.name=Construct of Speed
+
+entity.nevermine.Lollypopper.name=Lollypopper
+entity.nevermine.SpearmintSlug.name=Spearmint Slug
+entity.nevermine.PeppermintSlug.name=Peppermint Slug
+entity.nevermine.CherryBlaster.name=Cherry Blaster
+entity.nevermine.CherryBarrager.name=Cherry Barrager
+entity.nevermine.Airhead.name=Airhead
+entity.nevermine.GingerbreadMan.name=Gingerbread Man
+entity.nevermine.Gingerbird.name=Gingerbird
+entity.nevermine.CaneBug.name=Жуткотрость
+entity.nevermine.CandyCorny.name=Candy Corny
+
+entity.nevermine.Opteryx.name=Оптерикс
+entity.nevermine.Fungock.name=Грибок
+entity.nevermine.CaseConstruct.name=Case Construct
+entity.nevermine.Arocknid.name=Арокнида
+
+entity.nevermine.CottonCandor.name=Cotton Candor
+
+entity.nevermine.LottomanCandyland.name=Candied Lottoman
+entity.nevermine.ExpeditionMaster.name=Мастер Скорости
+
+entity.nevermine.TotemFroster.name=Froster Totem
+entity.nevermine.TotemMintMagnum.name=Mint Magnum Totem
+
+item.Demolisher.name=Подрывник
+item.Miasma.name=Миазма
+
+
+item.RealmstoneCreeponia.name=Creeponia Realmstone
+item.RealmstoneImmortallis.name=Immortallis Realmstone
+
+item.StartingCoin.name=Начальная монета
+item.ProgressCoin1.name=Монета Прогресса
+item.ProgressCoin2.name=Монета Прогресса
+item.ProgressCoin3.name=Монета Прогресса
+item.ProgressCoin4.name=Монета Прогресса
+
+item.ReturnCrystal.name=Кристалл Возвращения
+
+item.PureGold.name=Чистое золото
+item.ImpureGold.name=Нечистое золото
+
+item.DungeonTokens.name=Жетоны Данжа
+
+item.AugmentFire.name=Augment: Fire
+item.AugmentWither.name=Augment: Wither
+item.AugmentImpairment.name=Augment: Impairment
+item.AugmentEquality.name=Augment: Equality
+item.AugmentBattle.name=Augment: Battle
+item.AugmentPoison.name=Augment: Poison
+item.AugmentPower.name=Augment: Power
+
+item.BloodAccumulator.name=Накопитель крови
+
+item.Ornamyte.name=Орнамит
+item.Gemenyte.name=Кристанит
+item.Jewelyte.name=Ювелит
+
+item.ExplosiveGem.name=Взрывной самоцвет
+
+item.CoinsCreeponia.name=Самоцветы Крипонии
+
+item.InfusionBlueprint.name=Чертеж инфузии
+
+item.RealmstoneFragment1.name=Фрагмент царского камня
+item.RealmstoneFragment2.name=Фрагмент царского камня
+item.RealmstoneFragment3.name=Фрагмент царского камня
+item.RealmstoneFragment4.name=Фрагмент царского камня
+item.RealmstoneFragment5.name=Фрагмент царского камня
+
+item.MercurialHelmet.name=Mercurial Helmet
+item.MercurialChestplate.name=Mercurial Chestplate
+item.MercurialLeggings.name=Mercurial Leggings
+item.MercurialBoots.name=Mercurial Boots
+
+item.OmniHelmet.name=Omni Helmet
+item.OmniChestplate.name=Omni Chestplate
+item.OmniLeggings.name=Omni Leggings
+item.OmniBoots.name=Omni Boots
+
+item.OrnamytePickaxe.name=Ornamyte Pickaxe
+item.OrnamyteAxe.name=Ornamyte Axe
+item.OrnamyteShovel.name=Ornamyte Shovel
+
+item.SoulstonePickaxe.name=Soulstone Pickaxe
+item.SoulstoneAxe.name=Soulstone Axe
+item.SoulstoneShovel.name=Soulstone Shovel
+
+item.OccultPickaxe.name=Occult Pickaxe
+item.OccultAxe.name=Occult Axe
+item.OccultShovel.name=Occult Shovel
+
+item.CreepifiedSword.name=Меч Крипифид
+item.VulcammerSword.name=Вулкаммер
+
+item.EvermightStaff.name=Evermight Staff
+item.EverfightStaff.name=Everfight Staff
+item.ConcussionStaff.name=Concussion Staff
+
+item.CreepoidGreatblade.name=Великий крипоидный клинок
+item.MilleniumGreatblade.name=Millenium Greatblade
+
+item.Odious.name=Odious
+item.Beamer.name=Beamer
+
+item.Revolution.name=Revolution
+item.KrasaunsDawn.name=Восхождение Кросоуна
+
+item.HeatWave.name=Heat Wave
+item.MissileMaker.name=Missile Maker
+item.Vivo.name=Прощание
+item.DischargeShotgun.name=Discharge Shotgun
+
+item.Deadlock.name=Deadlock
+item.Sabbath.name=Sabbath
+item.DualSight.name=Dual Sight
+
+item.BoomBoom.name=Бум бум
+
+item.Vulcane.name=Vulcane
+item.BattleVulcane.name=Vulcane: Battle
+item.EqualityVulcane.name=Vulcane: Equality
+item.FireVulcane.name=Vulcane: Fire
+item.ImpairmentVulcane.name=Vulcane: Impairment
+item.PoisonVulcane.name=Vulcane: Poison
+item.PowerVulcane.name=Vulcane: Power
+item.WitherVulcane.name=Vulcane: Wither
+
+
+tile.archaicDirt.name=Archaic Dirt
+tile.archaicTiles.name=Archaic Tiles
+tile.archaicSquares.name=Archaic Squares
+tile.archaicRectangles.name=Archaic Rectangles
+
+tile.animated/archaicStreamHorizontal.name=Archaic Stream: Horizontal
+tile.animated/archaicStreamVertical.name=Archaic Stream: Vertical
+
+tile.archaicLamp.name=Archaic Lamp
+
+tile.creepGrass.name=Creep Grass
+tile.creepFlowers.name=Creep Flowers
+tile.creepVines.name=Creep Vines
+tile.dirtCreeponia.name=Creeponia Dirt
+tile.leavesCreep.name=Creep Leaves
+tile.GrassCreeponia.name=Creeponia Grass
+tile.woodCreep.name= Creep Wood
+
+tile.creeponiaPortal.name=Creeponia Portal
+
+tile.stoneCreep.name=Creep Stone
+tile.stoneUnstable.name=Unstable Stone
+tile.stonePrimed.name=Primed Stone
+
+tile.enhancerDamage.name=Enhancer: Damage
+tile.enhancerDurability.name=Enhancer: Durability
+tile.enhancerSpeed.name=Enhancer: Speed
+tile.enhancerWeight.name=Enhancer: Weight
+tile.enhancerMagical.name=Enhancer: Magic
+tile.enhancerResistance.name=Enhancer: Resistance
+
+tile.carvedRune5.name=Carved Rune
+
+tile.creepCrystal.name=Creep Crystal
+
+tile.oreJewelyte.name=Jewelyte Ore
+tile.oreGemenyte.name=Gemenyte Ore
+tile.oreOrnamyte.name=Ornamyte Ore
+
+tile.archaicGlass.name=Archaic Glass
+
+tile.spawnerGoldus.name=Goldus Spawner
+tile.spawnerGoldem.name=Goldem Spawner
+tile.spawnerVisage.name=Visage Spawner
+tile.spawnerGhastus.name=Ghastus Spawner
+tile.spawnerUrioh.name=Urioh Spawner
+tile.spawnerUrv.name=Urv Spawner
+tile.spawnerShavo.name=Shavo Spawner
+tile.spawnerFenix.name=Fenix Spawner
+tile.spawnerReaver.name=Reaver Spawner
+tile.spawnerSkeledon.name=Skeledon Spawner
+tile.spawnerSkelekyte.name=Skelekyte Spawner
+
+tile.goldAccumulator_top.name=Gold Accumulator
+tile.goldAccumulator_side.name=Pure Gold Accumulator
+tile.progressorImmortallis1.name=Immortallis Progressor
+tile.progressorImmortallis2.name=Immortallis Progressor
+tile.progressorImmortallis3.name=Immortallis Progressor
+tile.progressorImmortallis4.name=Immortallis Progressor
+tile.progressorImmortallis5.name=Immortallis Progressor
+tile.progressorImmortallis6.name=Immortallis Progressor
+tile.progressorImmortallis7.name=Immortallis Progressor
+tile.progressorImmortallis8.name=Immortallis Progressor
+tile.progressorImmortallis9.name=Immortallis Progressor
+
+tile.immortallisPortal.name=Immortallis Portal
+
+tile.archaicLadder.name=Archaic Ladder
+
+tile.extractionDevice.name=Extraction Device
+
+tile.spawnerZarg.name=Zarg Spawner
+tile.spawnerZorp.name=Zorp Spawner
+tile.spawnerBaumba.name=Baumba Spawner
+tile.spawnerRefluct.name=Refluct Spawner
+
+tile.spawnerMushroomSpider.name=Спаунер грибных пауков
+tile.spawnerDaysee.name=Daysee Spawner
+
+tile.spawnerArkzyne.name=Arkzyne Spawner
+tile.spawnerCrusilisk.name=Crusilisk Spawner
+
+tile.spawnerMegaGuardian.name=Спаунер мега-хранителей
+tile.spawnerTorano.name=Torano Spawner
+tile.spawnerPoseido.name=Poseido Spawner
+tile.spawnerFade.name=Fade Spawner
+tile.spawnerSceptron.name=Спаунер скептронов
+tile.spawnerCenturion.name=Centurion Spawner
+
+tile.bricksCreeponian.name=Creeponian Bricks
+tile.CreepAltar.name=Creep Altar
+
+
+tile.stairsCreep.name=Creep Stairs
+tile.planksCreep.name=Creep Planks
+
+tile.stairsCelevus.name=Celevus Stairs
+tile.planksCelevus.name=Celevus Planks
+
+
+tile.twinkleFence.name=Сверкающий забор
+
+entity.nevermine.Host.name=Повелитель
+entity.nevermine.DeathHunter.name=Смертоносный охотник
+
+
+entity.nevermine.IdolCreepoidGreatblade.name=Идол великиго крипоидного клинка
+entity.nevermine.IdolBoomBoom.name=Идол Бум-бум
+
+entity.nevermine.WingedCreeper.name=Крылатый крипер
+entity.nevermine.BoneCreeper.name=Костяной крипер
+entity.nevermine.CaveCreepoid.name=Пещерный крипер-мутант
+entity.nevermine.CreepCow.name=Крипер-корова
+entity.nevermine.Creeperlock.name=Замочный крипер
+entity.nevermine.Creepird.name=Крипер-птица
+entity.nevermine.KingCreeper.name=Крипер-король
+entity.nevermine.MagicalCreeper.name=Магический крипер
+entity.nevermine.Creepuple.name=Крипер-мутант
+
+entity.nevermine.Bloodlust.name=Bloodlust
+
+entity.nevermine.Arkzyne.name=Arkzyne
+entity.nevermine.Crusilisk.name=Crusilisk
+
+entity.nevermine.HermetismMaster.name=Мастер Алхимии
+entity.nevermine.VulcanismMaster.name=Мастер Вулканизма
+entity.nevermine.LoggingMaster.name=Мастер Рубки
+entity.nevermine.ButcheryMaster.name=Мастер Резни
+
+
+entity.nevermine.Zorp.name=Zorp
+entity.nevermine.Zarg.name=Zarg
+entity.nevermine.Refluct.name=Refluct
+entity.nevermine.Baumba.name=Baumba
+
+entity.nevermine.MushroomSpider.name=Грибной паук
+
+entity.nevermine.Poseido.name=Посейдон
+entity.nevermine.Torano.name=Torano
+entity.nevermine.Centurion.name=Centurion
+entity.nevermine.Fade.name=Увядающий
+entity.nevermine.Sceptron.name=Скипетрон
+entity.nevermine.MegaGuardian.name=Мегастраж
+
+entity.nevermine.Fenix.name=Fenix
+entity.nevermine.Shavo.name=Shavo
+entity.nevermine.Urioh.name=Urioh
+entity.nevermine.Reaver.name=Reaver
+entity.nevermine.Ghastus.name=Ghastus
+entity.nevermine.Visage.name=Visage
+entity.nevermine.Urv.name=Urv
+entity.nevermine.Skelekyte.name=Skelekyte
+entity.nevermine.Skeledon.name=Skeledon
+entity.nevermine.Goldus.name=Goldus
+entity.nevermine.Goldem.name=Goldem
+
+entity.nevermine.FakeZorp.name=Zorp
+entity.nevermine.Daysee.name=Daysee
+
+entity.nevermine.LottomanCreeponia.name=Creeponian Lottoman
+entity.nevermine.ExplosivesExpert.name=Explosives Expert
+entity.nevermine.CreepBanker.name=Creeponian Banker
+
+entity.nevermine.Flash.name=Flash
+entity.nevermine.Klobber.name=Klobber
+entity.nevermine.Mirage.name=Mirage
+entity.nevermine.Proshield.name=Proshield
+
+entity.nevermine.StoneGiant.name=Каменный гигант
+entity.nevermine.IceGiant.name=Ледяной гигант
+entity.nevermine.SandGiant.name=Песчаный гигант
+entity.nevermine.WoodGiant.name=Древесный гигант
+entity.nevermine.LeafyGiant.name=Лиственный гигант
+
+entity.nevermine.Creep.name=Creep
+
+entity.nevermine.SeaSpider.name=Морской паук
+entity.nevermine.SeaSkeleton.name=Морской скелет
+
+entity.nevermine.DungeonKeeper.name=Dungeon Keeper
+entity.nevermine.TokenTrader.name=TokenTrader
+
+entity.nevermine.HaulingMaster.name=Мастер Ловли
+
+entity.nevermine.Triclops.name=Триклоп
+entity.nevermine.HeadlessDestroyer.name=Безглавый разрушитель
+entity.nevermine.ReaperTwins.name=Жнецы-близнецы
+entity.nevermine.Fischer.name=Fischer
+
+
+entity.nevermine.Modulo.name=Модуль
+entity.nevermine.Vertebron.name=Зелёный
+entity.nevermine.Roloscope.name=Ролоскоп
+entity.nevermine.Irkling.name=Раздражатель
+entity.nevermine.Walker.name=Пришелец
+
+entity.nevermine.Orbling.name=Глазик
+
+
+tile.havendalesBlueStem.name=Райский долинник
+tile.havendalesBlue.name=Райский долинник
+tile.havendalesYellowStem.name=Райский долинник
+tile.havendalesYellow.name=Райский долинник
+tile.havendalesPinkStem.name=Райский долинник
+tile.havendalesPink.name=Райский долинник
+tile.waterweedsGreen.name=Waterweeds
+tile.waterweedsYellow.name=Waterweeds
+tile.waterweedsWhite.name=Waterweeds
+tile.ocealites.name=Ocealites
+tile.voxFungi.name=Fungi
+tile.voxFungiStem.name=Fungi
+tile.miniTentacles.name=Tentacle
+tile.miniTentaclesTop.name=Tentacle
+tile.tentacleBlockGreen.name=Tentacle
+tile.tentacleDotsLeft.name=Tentacle
+tile.tentacleDotsRight.name=Tentacle
+tile.dayloomsYellow.name=Солнечный отблеск
+tile.dayloomsPink.name=Солнечный отблеск
+tile.dayloomsBlue.name=Солнечный отблеск
+tile.VoxLog1.name=Vox Log
+tile.VoxLog2.name=Vox Log
+tile.VoxShroom.name=Vox Shroom
+
+item.HalyconBeef.name=Приготовленная отбивная Халикона
+item.HalyconBeefRaw.name=Сырая отбивная Халикона
+
+item.Orbulon.name=Сферулон
+
+item.FingerFish.name=Рыбная палочка
+item.PearlStripefish.name=Жемчужная полосатая рыба
+item.Limefish.name=Рыба-лайм
+item.Sailback.name=Рыба с задним плавником
+item.GoldenGullfish.name=Золотая рыба-чайка
+item.TurquoiseStripefish.name=Бирюзовая полосатая рыба
+item.VioletSkipper.name=Фиолетовый Шкипер
+item.Rocketfish.name=Рыба-ракета
+item.CrimsonStripefish.name=Багровая полосатая рыба
+item.CrimsonSkipper.name=Багровый шкиппер
+item.SapphireStrider.name=Сапфировый Страйдер
+item.Candlefish.name=Свечная рыба
+item.DarkHatchetfish.name=Темная рыба-топорик
+item.Ironback.name=Железобетонная рыба
+item.Rainbowfish.name=Радужная рыба
+item.Razorfish.name=Рыба-бритва
+
+
+item.SkillCrystalSmall.name=Small Skill Crystal
+item.SkillCrystalMedium.name=Medium Skill Crystal
+item.SkillCrystalLarge.name=Large Skill Crystal
+item.SkillCrystalGiant.name=Giant Skill Crystal
+
+item.TreasureBox.name=Ларец с сокровищами
+item.FishCase.name=Ящик с рыбой
+item.CrystalBox.name=Crystal Box
+item.WeaponsBox.name=Weapons Box
+item.RuneBox.name=Rune Box
+
+
+item.FireRune.name=Руна огня
+item.WaterRune.name=Руна воды
+item.DistortionRune.name=Руна искажения
+item.LifeRune.name=Руна жизни
+item.PoisonRune.name=Руна яда
+item.LunarRune.name=Руна Луны
+item.EnergyRune.name=Руна энергии
+item.PowerRune.name=Руна силы
+item.KineticRune.name=Руна движения
+item.StormRune.name=Руна шторма
+item.StrikeRune.name=Руна удара
+item.WitherRune.name=Руна иссушения
+item.WindRune.name=Руна ветра
+
+item.Rune.name=Незаряженная руна
+
+##################Дополнение от TimeConqueror:
+entity.nevermine.CorallusShot.name=Бомба Кораллуса
+entity.nevermine.Assassin.name=Ассасин
+entity.nevermine.Naturalist.name=Натуралист
+entity.nevermine.Metalloid.name=Металлоид

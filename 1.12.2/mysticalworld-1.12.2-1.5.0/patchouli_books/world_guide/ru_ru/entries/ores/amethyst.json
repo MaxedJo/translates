@@ -1,0 +1,37 @@
+{
+  "name": "Аметист",
+  "icon": "mysticalworld:amethyst_ore",
+  "category": "ores",
+  "flag": "roots:amethyst",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:amethyst_ore",
+      "text": "Аметистовая руда является источником кристаллов аметиста. Аметист, в целом, аналогичен алмазам."
+    },
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:amethyst_gem",
+      "title": "Аметист",
+      "text": "Аметистовые инструменты и оружие идентичны, по своим характеристикам, алмазным."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:amethyst_axe",
+      "recipe2": "mysticalworld:amethyst_hoe",
+      "title": "Аметистовые инструменты"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:amethyst_knife",
+      "recipe2": "mysticalworld:amethyst_pickaxe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:amethyst_shovel",
+      "recipe2": "mysticalworld:amethyst_sword"
+    }
+  ]
+}

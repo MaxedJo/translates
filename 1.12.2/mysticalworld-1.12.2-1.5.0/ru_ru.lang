@@ -1,0 +1,225 @@
+itemGroup.mysticalworld=Мистический мир
+
+entity.entity_fox.name=Лиса
+entity.entity_frog.name=Лягушка
+entity.entity_beetle.name=Жук
+entity.entity_deer.name=Олень
+entity.entity_sprout.name=Росток
+entity.entity_endermini.name=Эндер-мини
+entity.entity_owl.name=Сова
+entity.entity_silkworm.name=Шелкопряд
+entity.entity_lava_cat.name=Лава-кот
+entity.entity_obsidian_cat.name=Обсидиановый кот
+
+item.carapace.name=Панцирь
+item.pelt.name=Шкура
+item.raw_squid.name=Щупальце спрута
+item.cooked_squid.name=Приготовленный спрут
+item.epic_squid.name=Эпичный спрут
+item.unripe_pearl.name=Незрелая жемчужина
+item.silk_thread.name=Шелковая нить
+item.silk_cocoon.name=Кокон шелкопряда
+item.spindle.name=Шпиндель
+item.silkworm_egg.name=Яйцо шелкопряда
+item.cooked_apple.name=Приготовленное яблоко
+
+# Ingots
+item.copper_ingot.name=Медный слиток
+item.tin_ingot.name=Оловянный слиток
+item.silver_ingot.name=Серебряный слиток
+item.lead_ingot.name=Свинцовый слиток
+item.nickel_ingot.name=Никилевый слиток
+item.aluminum_ingot.name=Алюминиевый слиток
+item.zinc_ingot.name=Цинковый слиток
+item.invar_ingot.name=Инваровый слиток
+item.electrum_ingot.name=Электрумовый слиток
+item.brass_ingot.name=Латунный слиток
+item.bronze_ingot.name=Бронзовый слиток
+item.amethyst_gem.name=Аметист
+
+# Nuggets
+item.copper_nugget.name=Медный самородок
+item.tin_nugget.name=Оловянный самородок
+item.silver_nugget.name=Серебряный самородок
+item.lead_nugget.name=Свинцовый самородок
+item.nickel_nugget.name=Никелевый самородок
+item.aluminum_nugget.name=Алюминиевый самородок
+item.zinc_nugget.name=Цинковый самородок
+item.invar_nugget.name=Инваровый самородок
+item.electrum_nugget.name=Электрумовый самородок
+item.brass_nugget.name=Латунный самородок
+item.bronze_nugget.name=Бронзовый самородок
+
+# Metal Blocks
+tile.copper_block.name=Медный блок
+tile.tin_block.name=Оловянный блок
+tile.silver_block.name=Серебряный блок
+tile.lead_block.name=Свинцовый блок
+tile.nickel_block.name=Никелевый блок
+tile.aluminum_block.name=Алюминиевый блок
+tile.zinc_block.name=Цинковый блок
+tile.invar_block.name=Инваровый блок
+tile.electrum_block.name=Электрумовый блок
+tile.brass_block.name=Латунный блок
+tile.bronze_block.name=Бронзовый блок
+tile.amethyst_block.name=Аметистовый блок
+
+# Dusts
+item.copper_dust.name=Медная пыль
+item.tin_dust.name=Оловянная пыль
+item.silver_dust.name=Серебряная пыль
+item.lead_dust.name=Свинцовая пыль
+item.nickel_dust.name=Никелевая пыль
+item.aluminum_dust.name=Алюминиевая пыль
+item.zinc_dust.name=Цинковая пыль
+item.invar_dust.name=Инваровая пыль
+item.electrum_dust.name=Электрумовая пыль
+item.brass_dust.name=Латунная пыль
+item.bronze_dust.name=Бронзовая пыль
+
+item.iron_dust.name=Железная пыль
+item.gold_dust.name=Золотая пыль
+
+# Tiny Dusts
+item.copper_dust_tiny.name=Кучка медной пыли
+item.tin_dust_tiny.name=Кучка оловянной пыли
+item.silver_dust_tiny.name=Кучка серебряной пыли
+item.lead_dust_tiny.name=Кучка свинцовой пыли
+item.nickel_dust_tiny.name=Кучка никелевой пыли
+item.aluminum_dust_tiny.name=Кучка алюминиевой пыли 
+item.zinc_dust_tiny.name=Кучка цинковой пыли
+item.invar_dust_tiny.name=Кучка инваровой пыли
+item.electrum_dust_tiny.name=Кучка электрумовой аыли
+item.brass_dust_tiny.name=Кучка латунной пыли
+item.bronze_dust_tiny.name=Кучка бронзовой пыли
+	
+item.iron_dust_tiny.name=Кучка железной пыли
+item.gold_dust_tiny.name=Кучка золотой пыли
+
+# Ores
+tile.copper_ore.name=Медная руда
+tile.tin_ore.name=Оловянная руда 
+tile.silver_ore.name=Серебряная руда
+tile.lead_ore.name=Свинцовая руда
+tile.nickel_ore.name=Никелевая руда
+tile.aluminum_ore.name=Алюминиевая руда
+tile.zinc_ore.name=Цинковая руда
+tile.amethyst_ore.name=Аметистовая руда
+
+#Tools
+item.copper_axe.name=Медный топор
+item.silver_axe.name=Серебряный топор
+item.amethyst_axe.name=Аметистовый топор
+item.copper_hoe.name=Медная мотыга
+item.silver_hoe.name=Серебряная мотыга
+item.amethyst_hoe.name=Аметистовая мотыга
+item.copper_pickaxe.name=Медная кирка
+item.silver_pickaxe.name=Серебряная кирка
+item.amethyst_pickaxe.name=Аметистовая кирка
+item.copper_shovel.name=Медная лопата
+item.silver_shovel.name=Серебряная лопата
+item.amethyst_shovel.name=Аметистовая лопата
+item.copper_sword.name=Медный меч
+item.silver_sword.name=Серебряный меч
+item.amethyst_sword.name=Аметистовый меч
+item.silver_knife.name=Серебряный нож
+item.copper_knife.name=Медный нож
+item.amethyst_knife.name=Аметистовый нож
+
+# Embers Metals
+item.dawnstone_ingot.name=Слиток рассвета
+item.sooty_iron_ingot.name=Закалённый железный слиток
+
+item.dawnstone_nugget.name=Самородок рассвета
+item.sooty_iron_nugget.name=Закалённый железный самородок
+
+tile.dawnstone_block.name=Блок рассвета
+tile.sooty_iron_block.name=Блок закалённого железа
+
+# Caminite
+tile.caminite.name=Каминитовый блок
+tile.caminite_stairs.name=Каминитовые ступеньки
+tile.caminite_slab.name=Каминитовая плита
+tile.caminite_double_slab.name=Каминитовая двойная плита
+tile.caminite_wall.name=Каминитовая ограда
+
+tile.caminite_bricks.name=Каминитовые кирпичи
+tile.caminite_bricks_stairs.name=Каминитовые кирпичные ступеньки
+tile.caminite_bricks_slab.name=Каминитовая кирпичная плита
+tile.caminite_bricks_double_slab.name=Каминитовая кирпичная двойная плита
+tile.caminite_bricks_wall.name=Каминитовая кирпичная ограда
+
+# Mud Brick
+tile.wet_mud_brick.name=Кирпич мокрой грязи
+tile.wet_mud_block.name=Блок мокрой грязи
+tile.mud_brick.name=Грязевой кирпич
+tile.mud_block.name=Грязевой блок
+tile.mud_block_stairs.name=Грязевые ступеньки
+tile.mud_block_slab.name=Грязевая плита
+tile.mud_block_wall.name=Грязевая ограда
+tile.mud_block_button.name=Грязевая кнопка
+tile.mud_block_pressure_plate.name=Грязевая нажимная пластина
+tile.mud_block_fence.name=Грязевой забор
+tile.mud_block_fence_gate.name=Грязевые ворота
+tile.mud_brick_stairs.name=Грязевые кирпичные ступеньки
+tile.mud_brick_slab.name=Грязевая кирпичная плита
+tile.mud_brick_wall.name=Грязевая кирпичная ограда
+tile.mud_brick_button.name=Грязевая кирпичная кнопка
+tile.mud_brick_pressure_plate.name=Грязевая кирпичная нажимная пластина
+tile.mud_brick_fence.name=Грязевой кирпичный забор
+tile.mud_brick_fence_gate.name=Грязевые кирпичные ворота
+
+# Charred
+tile.charred_planks.name=Обугленные доски
+tile.charred_log.name=Обугленные бревна
+tile.charred_stairs.name=Обугленные ступеньки
+tile.charred_slab.name=Обугленная плита
+tile.charred_wall.name=Обугленная ограда
+tile.charred_button.name=Обугленная кнопка
+tile.charred_pressure_plate.name=Обугленная нажимная пластина
+tile.charred_fence.name=Обугленный забор
+tile.charred_fence_gate.name=Обугленные ворота
+
+tile.thatch.name=Сено
+
+#Solar Infused
+tile.solar_infused_stone.name=Солнце-камень
+tile.solar_infused_stone_stairs.name=Солнце-каменные ступеньки
+tile.solar_infused_stone_slab.name=Солнце-каменная плита
+tile.solar_infused_stone_double_slab.name=Солнце-каменная двойна плита
+tile.solar_infused_stone_wall.name=Солнце-каменная ограда
+
+#Advancements
+advancement.mysticalworld.root=Мистический мир
+advancement.mysticalworld.root.desc=Вдыхните полной грудью в совершенно новом, мистическом мире!
+advancement.mysticalworld.amethyst=Тест трезвости
+advancement.mysticalworld.amethyst.desc=Отыщите камень более божественный, чем алмаз
+advancement.mysticalworld.aubergine=Это не морковь ...
+advancement.mysticalworld.aubergine.desc=Однажды, одна фиолетовая морковь была в ярости. Но это баклажан.
+advancement.mysticalworld.epic_squid=Эпичный спрут!
+advancement.mysticalworld.epic_squid.desc=Насладитесь вкусом божественного Эпичного Спрута.
+
+item.venison.name=Оленина
+item.cooked_venison.name=Приготовленная оленина
+item.antlers.name=Оленьи рога
+item.ink_bottle.name=Пузырёк чернил
+item.aubergine_seed.name=Семена баклажана
+item.aubergine.name=Баклажан
+item.cooked_aubergine.name=Приготовленный баклажан
+item.stuffed_aubergine.name=Фаршированный баклажан
+
+message.squid.cooldown=Дайте время, чтобы изготовить больше чернил!
+
+item.charm.plain.name=Неправильный амулет
+item.charm.iron.emerald.name=Железно-изумрудный амулет
+item.charm.iron.diamond.name=Железно-алмазный амулет
+item.charm.iron.amethyst.name=Железно-аметистовый амулет
+item.charm.silver.emerald.name=Серебряно-изумрудный амулет
+item.charm.silver.diamond.name=Серебряно-алмазный амулет
+item.charm.silver.amethyst.name=Серебряно-аметистовый амулет
+item.charm.copper.emerald.name=Медно-изумрудный амулет
+item.charm.copper.diamond.name=Медно-алмазный амулет
+item.charm.copper.amethyst.name=Медно-аметистовый амулет
+item.charm.gold.emerald.name=Золото-изумрудный амулет
+item.charm.gold.diamond.name=Золото-алмазный амулет
+item.charm.gold.amethyst.name=Золото-аметистовый амулет

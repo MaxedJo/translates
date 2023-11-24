@@ -1,0 +1,13 @@
+{
+  "name": "Кокон шелкопряда",
+  "icon": "mysticalworld:silk_cocoon",
+  "category": "items",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:silk_cocoon",
+      "link_recipe": true,
+      "text": "Эти коконы создаются $(l:creatures/silkworm)шелкопрядами$() по завершению процесса роста. Процесс роста может быть ускорен путем сбрасывания листьев на землю поблизости, которые затем съедят шелкопряды."
+    }
+  ]
+}

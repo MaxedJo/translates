@@ -1,0 +1,115 @@
+itemGroup.rotd=Realm Of The Dragons
+
+entity.RealmOfTheDragon.amethyst.name=Аметистовый Дракон
+entity.RealmOfTheDragon.end.name=Дракон Края
+entity.RealmOfTheDragon.garnet.name=Гранатовый Дракон
+entity.RealmOfTheDragon.jade.name=Изумрудный Дракон
+entity.RealmOfTheDragon.sapphire.name=Сапфировый Дракон
+entity.RealmOfTheDragon.name=Дракон Края
+entity.RealmOfTheDragon.nether.name=Адский Дракон
+entity.RealmOfTheDragon.ruby.name=Рубиновый Дракон
+entity.RealmOfTheDragon.skeleton.name=Дракон Скелет
+entity.RealmOfTheDragon.wither.name=Дракон Иссушитель
+
+commands.dragon.nodragons=Рядом нет ни одного дракона
+commands.dragon.canttame=Ты не можешь приручать драконов
+
+item.diamond_shears.name=Алмазные ножницы
+item.structure_spawner.name=Спавнер Структур (Debug)
+tile.rotd:pileofsticks.name=Гнездо
+
+item.dragonEgg.name=%s Яйцо
+
+item.ender_dragonscales.name=Чешуйки Дракона Края
+item.ender_dragon_pickaxe.name=Кирка Дракона Края
+item.ender_dragon_axe.name=Топор Дракона Края
+item.ender_dragon_shovel.name=Лопата Дракона Края
+item.ender_dragon_sword.name=Меч Дракона Края
+item.ender_dragonscale_cap.name=Шлем Дракона Края
+item.ender_dragonscale_chestplate.name=Нагрудник Дракона Края
+item.ender_dragonscale_leggings.name=Легинсы Дракона Края
+item.ender_dragonscale_boots.name=Ботинки Дракона Края
+
+item.nether_dragonscales.name=Чешуйки Адского Дракона
+item.nether_dragon_pickaxe.name=Кирка Адского Дракона
+item.nether_dragon_axe.name=Топор Адского Дракона
+item.nether_dragon_shovel.name=Лопата Адского Дракона
+item.nether_dragon_sword.name=Меч Адского Дракона
+item.nether_dragonscale_cap.name=Шлем Адского Дракона
+item.nether_dragonscale_chestplate.name=Нагрудник Адского Дракона
+item.nether_dragonscale_leggings.name=Легинсы Адского Дракона
+item.nether_dragonscale_boots.name=Ботинки Адского Дракона
+
+item.jade_dragonscales.name=Чешуйки Изумрудного Дракона
+item.jade_dragon_pickaxe.name=Кирка Изумрудного Дракона
+item.jade_dragon_axe.name=Топор Изумрудного Дракона
+item.jade_dragon_shovel.name=Лопата Изумрудного Дракона
+item.jade_dragon_hoe.name=Мотыга Изумрудного Дракона
+item.jade_dragon_sword.name=Меч Изумрудного Дракона
+item.jade_dragonscale_cap.name=Шлем Изумрудного Дракона
+item.jade_dragonscale_chestplate.name=Нагрудник Изумрудного Дракона
+item.jade_dragonscale_leggings.name=Легинсы Изумрудного Дракона
+item.jade_dragonscale_boots.name=Ботинки Изумрудного Дракона
+
+item.ruby_dragonscales.name=Чешуйки Рубинового Дракона
+item.ruby_dragon_pickaxe.name=Кирка Рубинового Дракона
+item.ruby_dragon_axe.name=Топор Рубинового Дракона
+item.ruby_dragon_shovel.name=Лопата Рубинового Дракона
+item.ruby_dragon_sword.name=Меч Рубинового Дракона
+item.ruby_dragonscale_cap.name=Шлем Рубинового Дракона
+item.ruby_dragonscale_chestplate.name=Нагрудник Рубинового Дракона
+item.ruby_dragonscale_leggings.name=Легинсы Рубинового Дракона
+item.ruby_dragonscale_boots.name=Ботинки Рубинового Дракона
+
+item.amethyst_dragonscales.name=Чешуйки Аметистового Дракона
+item.amethyst_dragon_pickaxe.name=Кирка Аметистового Дракона
+item.amethyst_dragon_axe.name=Топор Аметистового Дракона
+item.amethyst_dragon_shovel.name=Лопата Аметистового Дракона
+item.amethyst_dragon_sword.name=Меч Аметистового Дракона
+item.amethyst_dragonscale_cap.name=Шлем Аметистового Дракона
+item.amethyst_dragonscale_chestplate.name=Нагрудник Аметистового Дракона
+item.amethyst_dragonscale_leggings.name=Легинсы Аметистового Дракона
+item.amethyst_dragonscale_boots.name=Ботинки Аметистового Дракона
+
+item.garnet_dragonscales.name=Чешуйки Гранатового Дракона
+item.garnet_dragon_pickaxe.name=Кирка Гранатового Дракона
+item.garnet_dragon_axe.name=Топор Гранатового Дракона
+item.garnet_dragon_shovel.name=Лопата Гранатового Дракона
+item.garnet_dragon_sword.name=Меч Гранатового Дракона
+item.garnet_dragonscale_cap.name=Шлем Гранатового Дракона
+item.garnet_dragonscale_chestplate.name=Нагрудник Гранатового Дракона
+item.garnet_dragonscale_leggings.name=Легинсы Гранатового Дракона
+item.garnet_dragonscale_boots.name=Ботинки Гранатового Дракона
+
+item.sapphire_dragonscales.name=Чешуйки Сапфирового Дракона
+item.sapphire_dragon_pickaxe.name=Кирка Сапфирового Дракона
+item.sapphire_dragon_axe.name=Топор Сапфирового Дракона
+item.sapphire_dragon_shovel.name=Лопата Сапфирового Дракона
+item.sapphire_dragon_sword.name=Меч Сапфирового Дракона
+item.sapphire_dragonscale_cap.name=Шлем Сапфирового Дракона
+item.sapphire_dragonscale_chestplate.name=Нагрудник Сапфирового Дракона
+item.sapphire_dragonscale_leggings.name=Легинсы Сапфирового Дракона
+item.sapphire_dragonscale_boots.name=Ботинки Сапфирового Дракона
+
+key.categories.RealmOfTheDragon = Управление драконом
+key.dragon.flyUp=Лететь вверх
+key.dragon.flyDown=Лететь вниз
+
+entity.RealmOfTheDragons.RealmOfTheDragon.amethyst.name=Аметистовый Дракон
+entity.RealmOfTheDragons.RealmOfTheDragon.end.name=Дракон Края
+entity.RealmOfTheDragons.RealmOfTheDragon.garnet.name=Гранатовый Дракон
+entity.RealmOfTheDragons.RealmOfTheDragon.jade.name=Изумрудный Дракон
+entity.RealmOfTheDragons.RealmOfTheDragon.sapphire.name=Сапфировый Дракон
+entity.RealmOfTheDragons.RealmOfTheDragon.name=Дракон Края
+entity.RealmOfTheDragons.RealmOfTheDragon.nether.name=Адский Дракон
+entity.RealmOfTheDragons.RealmOfTheDragon.ruby.name=Рубиновый Дракон
+entity.RealmOfTheDragons.RealmOfTheDragon.skeleton.name=Дракон Скелет
+entity.RealmOfTheDragons.RealmOfTheDragon.wither.name=Дракон Иссушитель
+
+item.dragonarmor_diamond.name=Алмазная Драконья Броня
+item.dragonarmor_iron.name=Железная Драконья Броня
+item.dragonarmor_gold.name=Золотая Драконья Броня
+
+entity.dragon.tooYounng=Дракон еще мал, пусть подрастет.
+
+

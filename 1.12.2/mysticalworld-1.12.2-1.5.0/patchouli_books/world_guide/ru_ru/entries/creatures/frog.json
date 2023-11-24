@@ -1,0 +1,23 @@
+{
+  "name": "Лягушка",
+  "icon": "minecraft:slime_ball",
+  "category": "creatures",
+  "flag": "roots:frog",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "frog",
+      "breed": "Размножение: грибы.",
+      "tame": "Приручение: нет.",
+      "blurb": ""
+    },
+    {
+      "type": "entity",
+      "name": "Frog",
+      "entity": "mysticalworld:entity_frog",
+      "scale": 1.5,
+      "offset": -0.3,
+      "text": "Прыгая, эти лягкушки, оставляют сгустки слизи."
+    }
+  ]
+}

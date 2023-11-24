@@ -1,0 +1,37 @@
+{
+  "name": "Серебро",
+  "icon": "mysticalworld:silver_ore",
+  "category": "ores",
+  "flags": "roots:silver",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:silver_ore",
+      "text": "Серебряная руда может быть найдена в тех же местах и глубинах, что и золотая руда. Переплавляется в серебряные слитки, которые могут быть использованы в изготовлении инструментов."
+    },
+    {
+      "type": "smelting",
+      "link_recipe": true,
+      "recipe": "mysticalworld:silver_ore",
+      "title": "Серебряные слитки",
+      "text": "Серебряные инструменты и оружие идентичны, по своим характеристикам, золотым, но имееют больший запас прочности."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:silver_axe",
+      "recipe2": "mysticalworld:silver_hoe",
+      "title": "Серебряные инструменты"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:silver_knife",
+      "recipe2": "mysticalworld:silver_pickaxe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:silver_shovel",
+      "recipe2": "mysticalworld:silver_sword"
+    }
+  ]
+}

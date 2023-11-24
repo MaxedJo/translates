@@ -1,0 +1,20 @@
+{
+  "name": "Незрелая жемчужина",
+  "icon": "mysticalworld:unripe_pearl",
+  "category": "items",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:unripe_pearl",
+      "text": "Незрелый жемчуг можно найти у незрелых детенышей Эндермэна, известных как 'Эндер-мини'."
+    },
+    {
+      "type": "crafting",
+      "link_recipe": true,
+      "recipe": "mysticalworld:ender_pearl",
+      "text": "При использовании, в качестве предмета, она случайным образом телепортирует вас. Совместив с восьмию другими жемчужинами можно получить эндер-жемчуг",
+      "title": "Эндер-жемчуг"
+	  }
+  ]
+}

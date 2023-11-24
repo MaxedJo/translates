@@ -1,0 +1,19 @@
+{
+  "name": "Оленина",
+  "icon": "mysticalworld:cooked_venison",
+  "category": "cuisine",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:venison",
+      "text": "Оленину можно получить убив $(l:creatures/deer)оленя$(), после приготовить плотный обед."
+    },
+    {
+      "type": "smelting",
+      "recipe": "mysticalworld:venison",
+      "title": "Приготовленная оленина",
+      "text": "Приготовленная форма сырого мяса, которую также можно получить с оленя убитого огнем."
+    }
+  ]
+}

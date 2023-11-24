@@ -1,0 +1,37 @@
+{
+  "name": "Медь",
+  "icon": "mysticalworld:copper_ore",
+  "category": "ores",
+  "flags": "roots:copper",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:copper_ore",
+      "text": "Медная руда может быть найдена на разной высоте и с достаточно высоким шансом. Переплавляется в медные слитки, которые могут быть использованы в изготовлении инструментов и оружия."
+    },
+    {
+      "type": "smelting",
+      "link_recipe": true,
+      "recipe": "mysticalworld:copper_ore",
+      "title": "Медные слитки",
+      "text": "Медные инструменты и оружие идентичны, по своим характеристикам, железным."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:copper_axe",
+      "recipe2": "mysticalworld:copper_hoe",
+      "title": "Медные инструменты"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:copper_knife",
+      "recipe2": "mysticalworld:copper_pickaxe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:copper_shovel",
+      "recipe2": "mysticalworld:copper_sword"
+    }
+  ]
+}

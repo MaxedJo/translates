@@ -1,0 +1,39 @@
+
+itemGroup.hearthstones=Hearthstones
+
+item.hearthstone.name=Камень возвращения
+item.red_leather.name=Кожа таверны
+item.aquamarine.name=Аквамарин
+
+tile.tavern.name=Таверна
+tile.aquamarine_block.name=Блок аквамарина
+tile.aquamarine_ore.name=Аквамариновая руда
+
+info.gui.empty=Ты не посетил еще ни одной таверны. Построй хотя бы одну!
+info.gui.tavern.2=§8координаты %d [%d, %d, %d] %s
+
+info.gui.howtouse.1=§6§lLeft click§r чтобы остаться в этой таверне.
+info.gui.howtouse.2=§6§lRight click§r чтобы убрать из списка (Нельзя отменить!)
+
+info.tavern_skin=%s
+
+info.tavern.help=§6§lSHIFT+Right click§7 чтобы добавить имя или поменять внешний вид
+info.tavern.noName=Безымяная таверна
+info.tavern.noOwner=Нет владельца
+info.tavern.ownedBy=Владелец: %s
+info.tavern.noPermission=У тебя нет доступа к этой таверне
+info.tavern.teError=§cTile Entity error
+info.tavern.name=§l%s
+info.tavern.skin=§a%s
+info.tavern.owner=Владелец: §a%s (%s)
+info.tavern.n_meter_away=§a%dm отсюда
+info.tavern.another_dim=§cдругое измерение
+info.tavern.far_away=§слишком далеко
+info.tavern.nearby=§a§lрядом
+
+info.hearthstone.dest=Место назначения:
+info.hearthstone.help=§6§lSHIFT+Right click§r чтобы выбрать эту таверну
+info.hearthstone.hearthing=§b§l...Телепортация...
+info.hearthstone.tavernMissing=Не получается найти выбраную таверну.
+info.hearthstone.noSelected=Сначала выбери таверну.
+info.hearthstone.cooldown=Нужно подождать, прежде чем снова воспользоваться.

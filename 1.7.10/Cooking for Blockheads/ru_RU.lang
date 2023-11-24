@@ -1,0 +1,45 @@
+item.cookingbook:recipebook_tier0.name=Готовка для Чайников
+item.cookingbook:recipebook_tier1.name=Готовка для Чайников I
+item.cookingbook:recipebook_tier2.name=Готовка для Чайников II
+
+tile.cookingbook:cookingtable.name=Кухонный стол
+tile.cookingbook:cookingoven.name=Плита для готовки
+tile.cookingbook:fridge.name=Холодильник
+tile.cookingbook:sink.name=Раковина
+tile.cookingbook:toolrack.name=Стойка для посуды
+
+container.cookingbook:cookingoven=Плита для готовки
+container.cookingbook:fridge=Холодильник
+
+itemGroup.cookingbook=Готовка для Чайников
+
+cookingbook:recipebook_tier0.tooltip=#NoFilter Edition
+cookingbook:recipebook_tier0.tooltipDesc=Показывает все рецепты готовки.
+
+cookingbook:recipebook_tier1.tooltip=Книга Рецептов
+cookingbook:recipebook_tier1.tooltipDesc=Показывает еду, которую вы можете приготовить из\nвещей из вашего инвентаря.
+
+cookingbook:recipebook_tier2.tooltip=Книга Рецептов
+cookingbook:recipebook_tier2.tooltipDesc=Можно приготовить из\nвещей из вашего инвентаря.
+
+cookingbook:multiblockKitchen=Многоблочная Кухня
+cookingbook:dyeable=Можно покрасить
+cookingbook:cookingtable.tooltipDesc=Включает возможность крафта
+cookingbook:cookingoven.tooltipDesc=Включает возможность жарить.
+cookingbook:sink.tooltipDesc=Создает воду для рецептов.
+cookingbook:fridge.tooltipDesc=Создает предметы для готовки.
+cookingbook:toolrack.tooltipDesc=Создает инструменты для готовки.
+
+cookingbook:sort_by_name.tooltip=Сортировка по Имени
+cookingbook:sort_by_hunger.tooltip=Сортировка по Пищевой Ценности
+cookingbook:sort_by_saturation.tooltip=Сортировка по Насыщению
+
+cookingbook:no_ingredients=Не\nхватает\nингредиетнов
+cookingbook:no_selection=Выберите предмет\nсправа- \nрецепт.
+cookingbook:click_to_see_recipe=Нажмите, что-бы увидеть рецепт
+cookingbook:click_to_craft_one=Нажмите еще раз для создания.
+cookingbook:click_to_smelt_one=Нажмите еще для приготовления.
+cookingbook:click_to_craft_all=Shift-Клик для создания стэка.
+cookingbook:click_to_smelt_all=Shift-Клик для приготовления стэка.
+cookingbook:missing_tools=Не хватает инструментов для крафта.
+cookingbook:missing_oven=Не хватает плиты для готовки.

@@ -1,0 +1,195 @@
+﻿# Thaumic Additions Russian Translation (by Gus`)
+
+itemGroup.thaumadditions=Thaumic Additions: Reconstructed
+tc.research_category.THAUMADDITIONS=Thaumic Additions
+tc.aspect.fluctus=Волна, Пульсуция
+tc.aspect.sonus=Звук, Шум
+tc.aspect.exitium=Разрушение, Повреждение
+tc.aspect.caeles=Бог, Суперсила
+tc.aspect.draco=Дракон
+tc.aspect.infernum=Ад, Демоны
+tc.aspect.ventus=Воздух, Ветер
+tc.aspect.visum=Зрение
+
+##BLOCKS##
+
+tile.thaumadditions:crafting_furnace.name=Ремесленная Печь
+tile.thaumadditions:mithrillium_smelter.name=Мифрилиумовая Плавильня
+tile.thaumadditions:mithminite_smelter.name=Митминитовая Плавильня
+tile.thaumadditions:adaminite_smelter.name=Адаминитовая Плавильня
+
+tile.thaumadditions:aspect_combiner.name=Алхимическая Аспектная Центрифуга
+tile.thaumadditions:aura_charger.name=Наполнитель Ауры
+tile.thaumadditions:crystal_crusher.name=Дробитель Кристаллов
+tile.thaumadditions:aura_disperser.name=Aura Disperser
+tile.thaumadditions:crystal_bore.name=Кристальный Бур
+tile.thaumadditions:entity_summoner.name=Призыватель Сущностей
+tile.thaumadditions:puriflower.name=Чистоцвет
+tile.thaumadditions:crystal_block.name=Кластер @ASPECT
+
+tile.thaumadditions:jar_brass.name=Латунная Банка
+tile.thaumadditions:jar_thaumium.name=Таумиумовая Банка
+tile.thaumadditions:jar_eldritch.name=Пустотная Банка
+tile.thaumadditions:jar_mithrillium.name=Мифрилиумовая Банка
+tile.thaumadditions:jar_adaminite.name=Адаминитовая Банка
+tile.thaumadditions:jar_mithminite.name=Митминитовая Банка
+
+##########
+
+
+
+##FLUIDS##
+
+fluid.thaumadditions:crystal_water=Кристалический Раствор
+
+##########
+
+
+
+##POTIONS##
+
+potion.thaumadditions:sonus=Звуковая Восприимчивость
+
+##########
+
+
+
+##ITEMS##
+
+item.thaumadditions:mithrillium_nugget.name=Мифрилиумовый самородок
+item.thaumadditions:adaminite_nugget.name=Адаминитовый самородок
+item.thaumadditions:mithrillium_ingot.name=Мифрилиумовый слиток
+item.thaumadditions:adaminite_ingot.name=Адаминитовый слиток
+item.thaumadditions:mithminite_ingot.name=Митминитовый слиток
+item.thaumadditions:mithrillium_plate.name=Мифрилиумовая пластина
+item.thaumadditions:adaminite_plate.name=Адаминитовая пластина
+item.thaumadditions:mithminite_plate.name=Митминитовая пластина
+item.thaumadditions:salt_essence.name=Вис-соль
+
+item.thaumadditions:zeith_scale.name=Zeitheron's Curiosity
+item.thaumadditions:zeith_scale.tip=Drops from a mystical scalie
+
+item.thaumadditions:dna_sample.name=Сфера Заточения
+item.thaumadditions:dna_sample.blank=Бланк
+item.thaumadditions:dna_sample.entity=Существо
+item.thaumadditions:recharge_charm.name=Recharge Charm
+item.thaumadditions:recharge_charm.tooltip0=Ещё нет рецепта/исследования!
+
+#########
+
+
+
+##MISC MESSAGES##
+
+status.thaumadditions:dna_unpickable=Это существо слишком сильно для взятия пробы!
+status.thaumadditions:dna_unpickable.1=Это неодушевлённый предмет!
+
+#################
+
+
+
+##RESEARCH##
+
+research_name.thaumadditions:thaumadds=Thaumic Additions
+research_stage.thaumadditions:thaumadds.1=Ко мне в голову пришла весьма интересная теория, которая, похоже, очень сильно облегчит мой путь как Таумотурга. Кажется, впереди меня ждёт много нового, но для начала мне нужно закончить это исследование...
+research_stage.thaumadditions:thaumadds.2=Остановлюсь на том, что Thaumic Additions - есть магическое расширение моих способностей различными способами.
+
+research_name.thaumadditions:essence_salt=Солёный Вис?
+research_stage.thaumadditions:essence_salt.1=Мне всегда было интересно, каковы Вис Кристаллы на вкус... Учитывая, что Кристаллы достаточно хрупки, их можно с легкостью раздробить в пыль. Не думаю, что это будет сложно...
+research_stage.thaumadditions:essence_salt.2=Гха! Что произошло?! Соль, что я сделал, была настолько неустойчивой, что просто исчезла? Нужно попробовать ещё! На этот раз спрыгну на несколько Кристаллов с высокого места!
+research_stage.thaumadditions:essence_salt.3=Хм... Не думал, что это сработает, но Соль, полученная таким, казалось бы, абсурдным путём, более стабильна. Очевидно, что Соль каждого кристалла вкусна по-своему! Учитывая, что аспекты содержат магические силы, я могу применить их в готовке пищи.<LINE>Я уже знаю как получить Соль: просто прыгай на 2 Кристалла с высоты!
+
+research_name.thaumadditions:mithrillium=Мифрилиумовый Металл
+research_stage.thaumadditions:mithrillium.1=Думаю, я нашёл неплохую замену Пустотному металлу. Мифрилиум не только имеет более высокуюю скорость восстановления, он, кажется, пульсирует высокими таумическими вибрациями. Этот металл стоит того! Я должен продолжить экспериментировать. 
+research_stage.thaumadditions:mithrillium.2=Ха! Даже понимая, как работает Пустотный металл, этот Мифрилиум не так уж и прост! Думаю, он послужит хорошим материалом для улучшения моего оборудования. Интересно, что я могу ещё с ним сделать? 
+
+research_name.thaumadditions:mithminite=Митминитовый Металл
+research_stage.thaumadditions:mithminite.1=Адаминит оказался весьма сильным металлом, с помощью которого можно создавать такие безумные вещи как Адаминитовая Плавильня. Но я думаю это лишь малая часть того, что он может. Идея! А что если соединить его с Мифрилиумом и Ртутью? 
+research_stage.thaumadditions:mithminite.2=Эврика! В результате экперимента на выходе я получил совершенно новый металл - Адаминит! Жду не дождусь узнать, в каких областях можно применить его!
+
+research_name.thaumadditions:adaminite=Адаминитовый Металл
+research_stage.thaumadditions:adaminite.1=Мифрилиумовый металл - довольно странный материал. Уверен, его можно использовать для получения чего-то нового. Необходимо поэкспериментировать, и, возможно, я смогу узнать, где он может пригодится.
+research_stage.thaumadditions:adaminite.2=Мой экперимент удался! В книге этот металл называется как "Адаминит". Отлично, теперь я схожу с ума... Я слышал о неком Ихоре, чьи свойства очень схожи с Адаминитом, но не думаю, что он лучше того, что я создал недавно.  
+
+research_name.thaumadditions:mithrillium_smelter=Мифрилиумовая Плавильня
+research_stage.thaumadditions:mithrillium_smelter.1=У меня есть идея! Что если использовать Мифрилиум для улучшения моей Пустотной Плавильни? Думаю, это обновление позволит снизить процент потери эссенции.
+research_stage.thaumadditions:mithrillium_smelter.2=Так и знал! Благодаря Мифрилиуму, плавильна вовсе перестала терять эссенцию! Невероятно!
+
+research_name.thaumadditions:adaminite_smelter=Адаминитовая Плавильня
+research_stage.thaumadditions:adaminite_smelter.1=Мифрилиумовая Плавильня безусловно лучшее, что у меня сейчас есть. Но что если у меня получится заставить её извлекать из суспензии ещё больше эссенции? Надо попробовать.  
+research_stage.thaumadditions:adaminite_smelter.2=Ха! Получилось! Благодаря Адаминиту, Плавильна стала производить на 20% больше эссенции!
+
+research_name.thaumadditions:mithminite_smelter=Митминитовая Плавильня
+research_stage.thaumadditions:mithminite_smelter.1=Я планирую улучшение Адаминитовой Плавильни, а именно, повысить скорость её работы. Думаю, Митминит мне поможет. Необходимо поэкспериментировать, чтобы удостовериться в моих догадках. 
+research_stage.thaumadditions:mithminite_smelter.2=Эта новая Плавильня оказалась слишком ресурсо-затратной... Тем не менее, я сделаю закладку для её рецепта на будущее...
+
+research_name.thaumadditions:brass_jar=Латунные Банки
+research_stage.thaumadditions:brass_jar.1=Обычные банки хороши, но они вмещают все лишь по 250 Вис. Латунь поможет обойти это ограничение и расширит их вместимость.
+research_stage.thaumadditions:brass_jar.2=Есть! Как я и думал, Латунные Банки хранят хоть и немного больше, но это лучше, чем ничего. Уверен, это ещё не предел их улучшений.
+
+research_name.thaumadditions:thaumium_jar=Таумиумовая Банка
+research_stage.thaumadditions:thaumium_jar.1=Латунь является хорошим материалом для расширения хранилища Вис, но этого недостаточно. Может, эксперименты с Таумиумом дадут какие-либо результаты?
+research_stage.thaumadditions:thaumium_jar.2=Таумиумовые Банки имеют куда большую вместимость. В книге сказано, что они способны хранить до 350 единиц Вис. Невероятно, мне нравится!
+
+
+
+############
+
+
+
+research_name.thaumadditions:eldritch_jar=Пустотная Банка
+research_stage.thaumadditions:eldritch_jar.1=Таумиум является хорошим выбором для хранения жидкой эссенции, но и этого порой недостаточно. Нужно поэкспериментировать с Пустотным металлом. Кто знает, к чему я смогу прийти в конечном итоге?
+research_stage.thaumadditions:eldritch_jar.2=Благодаря особенностям структуры Пустотной пластины, банки теперь могут хранить до 500 единиц эссенции. Я уже представляю, как они  стоят в моей лаборатории... о даа... (?!)кхм, о чём это я. Но вот незадача, они весьма дорогостоящие в своём создании.
+
+research_name.thaumadditions:mithrillium_jar==Мифрилиумовая Банка
+research_stage.thaumadditions:mithrillium_jar.1=Пустотный металл хорошо послужил для хранения эссенции, но пришло время перейти на новый уровень. Мифрилиум будет отличной заменой. Время исследовать!
+research_stage.thaumadditions:mithrillium_jar.2=Обновление Пустотных Банок до Мифрилиумовых определённо стоило всех усилий и времени, что мне пришлось затратить. Моё новое детище способно хранить в себе до 1000 единиц эссенции! Поверить не могу, что такое возможно!
+
+research_name.thaumadditions:adaminite_jar==Адаминитовая Банка
+research_stage.thaumadditions:adaminite_jar.1=Мифрилиумовые Банки невероятны, но, думаю, Адаминит будет прекрасной заменой. На создание такого хранилища Эссенции может уйти очень много ресурсов и времени, но, надеюсь, оно будет того стоить.
+research_stage.thaumadditions:adaminite_jar.2=Как и думал, Адаминит способен сдерживать до 2000 единиц эссенции. Предел ли это?
+research_stage.thaumadditions:adaminite_jar.3=Я слышал о неком Zeitheron`е, одном из тех, кто создал этот мир. Он шепчит, что при определённых условиях эта Банка дестабилизируется: "Я не думаю, что заполнение этой Банки Flux - хорошая идея...". Так же он говорит, что очень удивлён, что я смог создать хранилище такой ёмкости, ведь лишь немногим довилось достичь такого мастерства.
+
+research_name.thaumadditions:mithminite_jar=Митминитовая Банка 
+research_stage.thaumadditions:mithminite_jar.1=Теперь, когда я знаю, что Адаминит может быть пробуждён слиянием Мифрилиума и Ртути, мне нужно знать, могу я использовать Митминит, как материал для изготовления Банок.
+research_stage.thaumadditions:mithminite_jar.2=Моя теория была верна. Адаминитовая Банка может быть создана с использованием сложного слияния с участием Митминитового сплава. Эта новая(и, надеюсь, последняя) Банка, что может хранить до 4000 единиц Эссенции. Так же я заметил, что эта Банка уничтожает избыток Эссенции, что поможет избежать взрыва из-за переполнения.
+
+research_name.thaumadditions:aspect_combiner=Смешивание Эссенций
+research_stage.thaumadditions:aspect_combiner.1=Мне всегда было интересно, смогу ли повернуть процесс Центрифуги вспять? Если это возможно, то создание сложных слияний было бы гораздо проще.
+research_stage.thaumadditions:aspect_combiner.2=Я поэкспериментировал с Алхимической Центрифугой, Митфрилиумом и Пузырьком с Эссенцией Permutatio, и действительно нашёл способ смешать два Аспекта для создания нового. Я назвал своё творение Алхимический Аспектный Комбайнер 
+
+research_name.thaumadditions:aura_charger=Наполнение Ауры
+research_stage.thaumadditions:aura_charger.1=Мне всегда было интересно, смогу ли пополнить Ауру используя Алхимию и силу Слияния? Для эксперимента мне понадобится Алхимическая Аспектная Центрифуга и некоторое колличество Auram.
+research_stage.thaumadditions:aura_charger.2=Наполнитель Ауры - удивительный блок, способный не только восстановить Ауру, но и преумножить её в 3 раза по сравнению с изначальными значениями. Это устройство использует Auram для восстановления 10 Вис в окружающей среде.
+
+research_name.thaumadditions:crystal_crusher=Дробитель Кристаллов
+research_stage.thaumadditions:crystal_crusher.1=Мне было интересно, может ли Кристаллическое дробление быть автоматизированным ... Я устал прыгать на Кристалл, чтобы раздробить его в Соль. Мне понадобятся некоторые механизмы для экспериментов.
+research_stage.thaumadditions:crystal_crusher.2=Я случайно сломал Простой Магический Механизм, но я думаю, что знаю способ, как это исправить! Мне нужно наполнить Сложный Магический Механизм всеми основными Вис-кристаллами, несколькими Таумиевыми плитами, Магическими каменными плитами и некоторым колличеством... Соли? Для работа нужна эссенция Machina. 
+
+research_name.thaumadditions:aura_disperser=Aura Disperser
+research_stage.thaumadditions:aura_disperser.1=Использование Соли с пищей очень полезно, но я могу применить это к области сущностей, может быть, к моей ферме? Нужно узнать об этом больше....
+research_stage.thaumadditions:aura_disperser.2=Aura Disperser - это машина, которая использует Вис-соль и применяет её на небольшой площади, куда обращена машина. Может быть полезно во многих областях, таких как фермы, дробилки для толпы, ловушки и другое.
+
+research_name.thaumadditions:crystal_bore=Кристальный Бур
+research_stage.thaumadditions:crystal_bore.1=Мне нужно добывать Вис-кристаллы без разрушения их месторождения. По возможности, нужно это автоматизировать. Я продолжу изучение Големоведения и постараюсь понять, как же реализовать мою задумку.
+research_stage.thaumadditions:crystal_bore.2=Кристальный Бур способен добывать Кристаллы перед ним при небольшой стоимости Вис в близлежащей ауре. С задней стороны он может выводить предметы в сундук. Присутствунет функция отключения сигналом красного камня.
+
+research_name.thaumadditions:crystal_water=Жидкий Кристалл
+research_stage.thaumadditions:crystal_water.1=Моя теория заключается в том, что я мог бы добавить некоторые Аспекты к воде, чтобы заставить её реагировать на Кристаллы несколько иначе.
+research_stage.thaumadditions:crystal_water.2=Кристаллический Раствор способен ускорить рост Кристалла, окруженного восемью блоками этой жидкости. Переходя на новую стадию роста, Кристалл будет потреблять раствор. Я сделал закладку для структуры, что нужно построить.
+research_name.thaumadditions:enchanted_golden_apple=Зачарованное Золотое Яблоко
+research_stage.thaumadditions:enchanted_golden_apple.1=Легенды гласят, что в подземельях можно найти Зачарованные Золотые Яблоки. Думаю, Таумотургия может предложить способ сделать это Яблоко, используя Desiderium.
+research_stage.thaumadditions:enchanted_golden_apple.2=Удивительно, но Зачарованное Золотое Яблоко не так уж и дорого в создании, как говорят легенды. Вероятно потому, что я использовал другой метод их создания. Мне нужно немного Desiderium и Золотых блоков, чтобы зачаровать обычное Золотое яблоко.
+
+research_name.thaumadditions:mob_summoning=Воссоздание Сущности
+research_stage.thaumadditions:mob_summoning.1=У меня есть теория воссоздания Сущности, которая включает в себя Вис и четвертое измерение. Мне нужно захватить Моба, чтобы использовать его в качестве «образца» или Шаблона.
+research_stage.thaumadditions:mob_summoning.2=Медленно но верно я продвигаюсь в этом исследовании. Думаю, что теперь, когда у меня есть способ захватить Мобов, мне нужно как-то их воссоздать.
+research_stage.thaumadditions:mob_summoning.3=Я нашёл способ призывания Сущности, используя образец, который я могу захватить с помощью Сферы Заточения. Теперь мне нужно наполнить Таумиевый блок некоторыми предметами и... хреновой тучей аспектов.
+
+research_name.thaumadditions:puriflower=Чистоцвет
+research_stage.thaumadditions:puriflower.1=Я поэкспериментировал с Вишрумами, пытаясь найти для них хоть какое-то применение. Я могу использовать их в чистке ауры, поскольку они кажутся мощным источником Вис.
+research_stage.thaumadditions:puriflower.2=Соединив Вишрум с Auram, Herba и Praecantatio путём слияния, получается совершенно новое растение: Чистоцвет. Он медленно очищает Ауру вокруг себя от Flux. Если разместить их достаточное коллличество, то проблемы с Flux вряд ли когда-то настигнут меня. 
+
+research_name.thaumadditions:crystal_block=Кристальные Блоки
+research_stage.thaumadditions:crystal_block.1=Я думал о способе размещения Кристаллов в качестве декоративных блоков в моем доме. Возможно, для их создания, понадобится Магический верстак.
+research_stage.thaumadditions:crystal_block.2=Мои догадки были верны! Направив Вис в 9 кристаллов, можно создать нечто, похожее на Кристалл. Думаю они послужат хорошей заменой старым Кристалическим Кластерам, которые раньше использовали мои предки.

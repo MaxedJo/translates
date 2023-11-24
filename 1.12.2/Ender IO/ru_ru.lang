@@ -1,0 +1,1841 @@
+﻿#PARSE_ESCAPES
+# ^ having this in the first line allows us to use "\uXXXX" escapes in this file
+
+#***  Ender IO *****#
+
+# Translators, check your ".guess" file to see which keys your
+# language is missing and which keys it has that do not exist anymore.
+
+# Names for the creative tabs
+itemGroup.enderio.machines=Ender IO Машины
+itemGroup.enderio.items=Ender IO Предметы
+itemGroup.enderio.materials=Ender IO Материалы
+itemGroup.enderio.main=Ender IO Блоки
+itemGroup.enderio.mobs=Ender IO Души
+
+item.item_alloy_ingot_conductive_iron.name=Проводящее Железо
+item.item_alloy_ingot_dark_steel.name=Слиток Тёмной Стали
+item.item_alloy_ingot_electrical_steel.name=Наэлектризованная Сталь
+item.item_alloy_ingot_energetic_alloy.name=Энергетический Сплав
+item.item_alloy_ingot_pulsating_iron.name=Пульсирующее Железо
+item.item_alloy_ingot_redstone_alloy.name=Редстоуновый Сплав
+item.item_alloy_ingot_soularium.name=Соуларий
+item.item_alloy_ingot_vibrant_alloy.name=Вибрирующий Сплав
+item.item_alloy_ingot_end_steel.name=Энд-Сталь
+
+item.item_alloy_ball_conductive_iron.name=Шарик Проводящего Железа
+item.item_alloy_ball_dark_steel.name=Шарик из Тёмной Стали
+item.item_alloy_ball_electrical_steel.name=Шарик Наэлектризованной Стали
+item.item_alloy_ball_energetic_alloy.name=Шарик Энергетического Сплава
+item.item_alloy_ball_pulsating_iron.name=Шарик Пульсирующего Железа
+item.item_alloy_ball_redstone_alloy.name=Шарик Редстоунового Слпава
+item.item_alloy_ball_soularium.name=Шарик Соулария
+item.item_alloy_ball_vibrant_alloy.name=Шарик Вибрирующего Сплава
+item.item_alloy_ball_end_steel.name=Шарик Энд-Сталь
+
+item.item_alloy_nugget_conductive_iron.name=Кусочек Проводящего Железа
+item.item_alloy_nugget_dark_steel.name=Кусочек Тёмной Стали
+item.item_alloy_nugget_electrical_steel.name=Кусочек Наэлектризованной Стали 
+item.item_alloy_nugget_energetic_alloy.name=Кусочек Энергетического Сплава
+item.item_alloy_nugget_pulsating_iron.name=Кусочек Пульсирующего железа
+item.item_alloy_nugget_redstone_alloy.name=Кусочек Редстоунового Сплава
+item.item_alloy_nugget_soularium.name=Кусочек Соулария
+item.item_alloy_nugget_vibrant_alloy.name=Кусочек Вибрирующего Сплава
+item.item_alloy_nugget_end_steel.name=Кусочек Энд-Сталь
+
+item.item_basic_capacitor.activated.name=Двухслойный Конденсатор
+item.item_basic_capacitor.basic.name=Основной Конденсатор
+item.item_basic_capacitor.ender.name=Восьмислойный Конденсатор
+enderio.activated.name=Двухслойный Конденсатор
+enderio.ender.name=Восьмислойный Конденсатор
+
+item.item_broken_spawner.name=Сломанный Спаунер
+item.item_broken_spawner.tooltip.detailed.line1=Совместить с заряженым спаунером
+item.item_broken_spawner.tooltip.detailed.line2=на наковальне, чтобы получить работающий спаунер.
+
+item.item_cold_fire_igniter.name=Воспламенитель Холодного Огня
+item.item_cold_fire_igniter.tooltip.detailed.line1=Позволяет размещать холодный огонь.
+item.item_cold_fire_igniter.tooltip.detailed.line2=Холодный огонь не распространится на другие блоки.
+item.item_cold_fire_igniter.chat.outoffluid=Ошибка: не хватает %s
+
+item.item_conduit_facade.name=Фасад для Труб
+item.item_conduit_facade.tooltip.detailed.line1=Окрашивается в покрасочной машине.
+item.item_conduit_facade.tooltip.detailed.line2=ПКМ по трубе, чтобы поставить.
+item.item_conduit_facade.tooltip.detailed.line3=Скрыт, когда гаечный ключ или труба
+item.item_conduit_facade.tooltip.detailed.line4=в руке.
+
+item.item_conduit_facade.hardened.name=Прочный фасад для труб
+item.item_conduit_facade.hardened.tooltip.detailed.line1=Упрочнён: Выдерживает удары и взрывы.
+
+item.item_conduit_facade.transparent.name=Прозрачный Фасад для Труб
+item.item_conduit_facade.transparent.tooltip.detailed.line1=Прозрачность: Скрывает фасады, покрашенные в нетвёрдые блоки.
+
+item.item_conduit_facade.transparent.hardened.name=Прозрачный Прочный Фасад для Труб
+item.item_conduit_facade.transparent.hardened.tooltip.detailed.line1=Прозрачность: скрывает фасады, покрашенные в нетвёрдые блоки.
+item.item_conduit_facade.transparent.hardened.tooltip.detailed.line2=Упрочнён: выдерживает удары и взрывы.
+
+item.item_conduit_probe.name=Зонд для Труб
+item.item_conduit_probe.tooltip.detailed.line1=В зондовом режиме ПКМ по трубе,
+item.item_conduit_probe.tooltip.detailed.line2=чтобы отобразить сведения о сети.
+item.item_conduit_probe.tooltip.detailed.line3=В режиме копирования/вставки SHIFT+ПКМ, чтобы
+item.item_conduit_probe.tooltip.detailed.line4=скопировать настройки соединения трубы.
+item.item_conduit_probe.tooltip.detailed.line5=ПКМ, чтобы вставить их.
+item.item_conduit_probe.tooltip.detailed.line6=Используйте SHIFT+КОЛЕСО МЫШИ или 'Y', чтобы изменить режим.
+
+item.item_coord_selector.name=Настройщик Координат
+item.item_coord_selector.tooltip.detailed.line1=Печатает координаты блока.
+item.item_coord_selector.tooltip.detailed.line2=ПКМ по блоку, чтобы выбрать
+item.item_coord_selector.tooltip.detailed.line3=блок рядом с этой стороной.
+item.item_coord_selector.tooltip.detailed.line4=Shift+ПКМ по блоку, чтобы
+item.item_coord_selector.tooltip.detailed.line5=выбрать конкретный блок.
+item.item_coord_selector.tooltip.detailed.line6=Можно выбирать блоки на расстоянии.
+
+item.item_dark_steel_sword.name=Край
+item.item_dark_steel_sword.tooltip.detailed.line1=Увеличен шанс выпадения черепа странника края и жемчуга края.
+item.item_dark_steel_sword.tooltip.detailed.line2=Когда заряжен: странник края не может телепортироваться от одного удара, дополнительный урон и скорость.
+
+item.item_dark_steel_pickaxe.name=Тёмная Кирка
+item.item_dark_steel_pickaxe.tooltip.effPowered=%s+%s Эффективность, когда заряжен.
+item.item_dark_steel_pickaxe.tooltip.effObs=%s+%s Эффективность добычи обсидиана.
+item.item_dark_steel_pickaxe.tooltip.cost=%s     (стоит %s)
+
+item.item_dark_steel_axe.name=Тёмный Топор
+item.item_dark_steel_axe.tooltip.effPowered=%s Эффективность когда заряжен: %s
+item.item_dark_steel_axe.tooltip.multiHarvest=Срубает дерево целиком, когда заряжен (красться, чтобы предотвратить это).
+
+item.item_dark_steel_shears.name=Тёмные Ножницы
+item.item_dark_steel_shears.tooltip.effPowered=%s Эффективность когда заряжен: %s
+item.item_dark_steel_shears.tooltip.multiHarvest=Стрижет по области блоки/овец, когда заряжен.
+
+item.item_dark_steel_bow.name=Тёмный Лук
+
+item.item_dark_steel_armor.tooltip.line1=%s Алмазный уровень защиты, когда заряжен.
+item.item_dark_steel_armor.tooltip.levelcost.line1=%s%s:
+item.item_dark_steel_armor.tooltip.levelcost.line2=%s%s  %s + %s уровня.
+
+item.item_dark_steel_boots.name=Тёмные Ботинки
+item.item_dark_steel_boots.tooltip.line1=Полность поглащает урон от падения, когда заряжен.
+
+item.item_dark_steel_chestplate.name=Тёмный Нагрудник
+
+item.item_dark_steel_helmet.name=Тёмный Шлем
+
+item.item_dark_steel_leggings.name=Тёмные Поножи
+
+item.item_ender_food.enderios.name="Эндериос"
+item.item_ender_food.enderios.tooltip.common.line1=Часть сбалансированного завтрака!
+item.item_ender_food.enderios.tooltip.detailed.line1=Не полезно для здоровья. Содержит 253г сахара, 53г жира, и 394г эндер пыли.
+item.item_ender_food.enderios.tooltip.detailed.line2=Побочные эффекты Эндер пыли включают в себя: тошноту, головокружение, спутанность сознания, и случайные телепортации.
+
+item.item_location_printout.name=Разметка Местности
+item.item_location_printout.tooltip.detailed.line1=Создаётся Настройщиком Координат.
+item.item_location_printout.tooltip.detailed.line2=Используется для добавления мест для телепада.
+item.item_location_printout.chat.setTarget=Цель установлена на
+item.item_location_printout.chat.addTarget=Добавлена цель
+item.item_location_printout.chat.noPaper=Нет бумаги в инвентаре
+item.item_location_printout.chat.privateBlock=Только %s имеет доступ к этому предмету.
+
+item.item_magnet.name=Электромагнит 
+item.item_magnet.tooltip.detailed.line1=Тянет ближайшие к вам предметы.
+item.item_magnet.tooltip.detailed.line2=Shift+ПКМ, чтобы включить/выключить.
+item.item_magnet.tooltip.detailed.line3=Должен быть заряжен, активен и находиться на
+item.item_magnet.tooltip.detailed.line4=панели быстрого доступа (или в слоте Baubles) для функционирования.
+item.item_magnet.everywhere.tooltip.detailed.line1=Тянет ближайшие к вам предметы.
+item.item_magnet.everywhere.tooltip.detailed.line2=Shift+ПКМ, чтобы включить/выключить.
+item.item_magnet.everywhere.tooltip.detailed.line3=Должен быть заряжен, активен и находиться на
+item.item_magnet.everywhere.tooltip.detailed.line4=панели быстрого доступа (или в слоте Baubles) для функционирования.
+
+item.item_material.attractor_crystal.name=Привлекающий Кристалл
+item.item_material.binder_composite.name=Составной Связующий Элемент
+item.item_material.chassi_parts.name=Деталь Машины
+item.item_material.conduit_binder.name=Связующий Элемент Труб
+item.item_material.dust_wheat.name=Мука
+item.item_material.ender_crystal.name=Кристалл Края
+item.item_material.ender_crystal_powder.name=Крупинки Кристалла Края
+item.item_material.gear_energized.name=Энергетическая Шестерня
+item.item_material.gear_iron.name=Железная Шестерня
+item.item_material.gear_stone.name=Каменная Шестерня
+item.item_material.gear_vibrant.name=Вибрирующая Шестерня
+item.item_material.gear_wood.name=Деревянная Шестерня
+item.item_material.glider_wing.name=Крыло Планера
+item.item_material.glider_wings.name=Планер
+item.item_material.glider_wings.tooltip.detailed.line1=Улучшения для Тёмного Нагрудника
+item.item_material.ingot_enderium_base.name=Эндериумовый Слиток
+item.item_material.machine_chassi.name=Промышленный Корпус Машины
+item.item_material.nutritious_stick.name=Пропитанная Палка
+item.item_material.plantbrown.name=Веточки и Обрезки
+item.item_material.plantgreen.name=Вырезки и Обрезки
+item.item_material.powder_ardite.name=Ардитовая Пыль
+item.item_material.powder_coal.name=Угольная Пыль
+item.item_material.powder_cobalt.name=Кобальдитовая Пыль
+item.item_material.powder_copper.name=Медная Пыль
+item.item_material.powder_ender.name=Крупинки Жемчуга Края
+item.item_material.powder_gold.name=Золотая Пыль
+item.item_material.powder_infinity.name=Крупинки Бесконечности
+item.item_material.powder_iron.name=Железная Пыль
+item.item_material.powder_obsidian.name=Обсидиановая Пыль
+item.item_material.powder_tin.name=Оловянная Пыль
+item.item_material.precient_crystal.name=Провидческий Кристалл
+item.item_material.precient_powder.name=Крупинки Провидческого Кристалла
+item.item_material.pulsating_crystal.name=Пульсирующий Кристалл
+item.item_material.pulsating_powder.name=Крупинки Пульсирующего Кристалла
+item.item_material.silicon.name=Кремний
+item.item_material.skull_ender_resonator.name=Резонирующий Странник Края
+item.item_material.skull_sentient_ender.name=Разумный Странник Края
+item.item_material.skull_skeletal_contractor.name=Скелетный Контроллер
+item.item_material.skull_zombie_controller.name=Логический Зомби Контроллер
+item.item_material.skull_zombie_electrode.name=Зомби Электрод
+item.item_material.skull_zombie_frankenstien.name=Фрэнк'Н'Зомби
+item.item_material.skull_guardian_diode.name=Страж Диод
+item.item_material.vibrant_crystal.name=Вибрирующий Кристалл
+item.item_material.vibrant_powder.name=Крупинки Вибрирубщего Кристалла
+item.item_material.weather_crystal.name=Погодный Кристалл
+item.item_material.organic_green_dye.name=Органическая Зеленая Краска
+item.item_material.powder_photovoltaic.name=Составной Фотоэлемент
+item.item_material.plate_photovoltaic.name=Фотоэлементная Плата
+item.item_material.organic_green_dye.tooltip.detailed.line1=Промышленно обработанное растительное вещество с" естественным " размытым цветом.
+item.item_material.organic_green_dye.tooltip.detailed.line2=§7Не съедобно. Избегайте контакта с глазами. При попадании в глаза немедленно промыть большим количеством воды и обратиться к врачу.
+item.item_material.organic_brown_dye.name=Органическая коричневая краска
+item.item_material.organic_brown_dye.tooltip.detailed.line1=Промышленно обработанное растительное вещество с" естественным " размытым цветом.
+item.item_material.organic_brown_dye.tooltip.detailed.line2=§7Не съедобно. Избегайте контакта с глазами. При попадании в глаза немедленно промыть большим количеством воды и обратиться к врачу.
+item.item_material.organic_black_dye.name=Органическая чёрная краска
+item.item_material.organic_black_dye.tooltip.detailed.line1=Промышленно обработанное растительное вещество с" естественным " размытым цветом.
+item.item_material.organic_black_dye.tooltip.detailed.line2=§7Не съедобно. Избегайте контакта с глазами. При попадании в глаза немедленно промыть большим количеством воды и обратиться к врачу.
+item.item_material.powder_lapis_lazuli.name=Пыль Лазурита
+item.item_material.powder_quartz.name=Пыль Кварца
+item.item_material.machine_dye.name=Промышленное Покрытие Корпуса Машины
+item.item_material.machine_dye.tooltip.detailed.line1=Промышленно произведенная краска с органическими и неорганическими компонентами. Не биоразлагаемый.
+item.item_material.machine_dye.tooltip.detailed.line2=§7Не съедобно. Избегайте контакта с глазами. При попадании в глаза немедленно промыть большим количеством воды и обратиться к врачу.
+item.item_material.simple_machine_chassi.name=Простой Корпус Машины
+# Note: Misspelling below is on purpose. Trying for "chenglish"
+item.item_material.simple_machine_chassi.tooltip.detailed.line1=Высококачетсвенный набор инструментов для создания вашей собственные машины. Сделано в Германии! Высокое качество, мой друг!
+item.item_material.simple_machine_chassi.tooltip.detailed.line2=§7Нержавеющий. Хранить вдали от влаги. Сделано в городе Гемания, Китай.
+item.item_material.soul_machine_chassi.name=Корпус Машины Душ
+item.item_material.soul_machine_chassi.tooltip.detailed.line1=Сложные рамки совмещая прочность стали с упругостью души.
+item.item_material.soul_machine_chassi.tooltip.detailed.line2=§7Если ваша машина начинает издавать кричащие звуки, пожалуйста, позвоните GHAST BUSTERS на 1800 GHASTS.
+item.item_material.soul_machine_dye.name=Покрытие Корпуса Машины Душ
+item.item_material.soul_machine_dye.tooltip.detailed.line1=Промышленно произведенная краска с органическими и неорганическими компонентами. Не биоразлагаемый. Может содержать следы эктоплазмы.
+item.item_material.soul_machine_dye.tooltip.detailed.line2=§7Не съедобные. Избегайте контакта с глазами. При попадании в глаза немедленно промыть святой водой и обратиться за советом к верующим.
+item.item_material.enhanced_machine_chassi.name=Улучшенный Корпус Машины
+item.item_material.enhanced_machine_chassi.tooltip.detailed.line1=Усиленная конструкция для построения крепкой машины.
+item.item_material.unsouled_machine_chassi.name=Бездушный Корпус Машины
+item.item_material.unsouled_machine_chassi.tooltip.detailed.line1=Продвинутая рама для машин, но, кажется, чего-то не хватает...
+item.item_material.grinding_ball_signalum.name=Шарик Сигналиума
+item.item_material.grinding_ball_enderium.name=Шарик Эндериума
+item.item_material.grinding_ball_lumium.name=Шарик Ламиума
+item.item_material.redstone_filter_base.name=Основной Редстоуновый Фильтр
+item.item_material.confusing_dust.name=Смущающий Порошок
+item.item_material.ender_fragment.name=Фрагмент Края
+item.item_material.withering_dust.name=Иссушающая Пыль
+
+item.item_rod_of_return.name=Жезл Возвращения
+item.item_rod_of_return.tooltip.detailed.line1=Возвращает пользователя на Телепад.
+item.item_rod_of_return.tooltip.detailed.line2=Синхронизация с Телепадом с помощью SHIFT+ПКМ.
+item.item_rod_of_return.tooltip.detailed.line3=Требуется энергия и %s.
+item.item_rod_of_return.tooltip.fluid=%s
+item.item_rod_of_return.tooltip.power=%s
+item.item_rod_of_return.chat.notEnoughPower=%sНе хватает энергии.
+item.item_rod_of_return.chat.notEnoughFluid=%sНедостаточно.
+item.item_rod_of_return.chat.targetNotSet=%sНет места назначения.
+item.item_rod_of_return.chat.sync=Синхронизировано с местом.
+item.item_rod_of_return.chat.sync.telepad=Синхронизировано с Телепадом.
+
+item.item_soul_vial.name=Флакон Души
+item.item_soul_vial.tooltip.detailed.line1=ПКМ, чтобы заточить душу в флакон.
+item.item_soul_vial.tooltip.detailed.line2=ПКМ снова, чтобы высвободить её.
+item.item_soul_vial.tooltip.health=Здоровье: %s
+item.item_soul_vial.tooltip.fluidname=Имя жидкости: %s
+item.item_soul_vial.tooltip.color=Цвет: %s
+item.item_soul_vial.tooltip.empty=Пусто.
+
+item.item_travel_staff.name=Посох Путешествия 
+item.item_travel_staff.tooltip.detailed.line1=Если навести на Якорь Путешествия и другие Ender IO
+item.item_travel_staff.tooltip.detailed.line2=блоки, то они станут видимыми и на них можно будет
+item.item_travel_staff.tooltip.detailed.line3=телепортироваться с помощью SHIFT+ПКМ.
+item.item_travel_staff.tooltip.detailed.line4=SHIFT+ПКМ телепортирует
+item.item_travel_staff.tooltip.detailed.line5=игрока на короткую дистанцию
+item.item_travel_staff.chat.notEnoughPower=Недостаточно энергии
+
+item.item_staff_of_levity.name=Посох Левитации
+item.item_staff_of_levity.tooltip.detailed.line1=Применяется анти-гравитация на
+item.item_staff_of_levity.tooltip.detailed.line2=игрока нажатием SHIFT+ПКМ
+
+item.item_xp_transfer.name=Жезл Опыта
+item.item_xp_transfer.tooltip.detailed.line1=ПКМ по Жидкостному Резервуару содержащему
+item.item_xp_transfer.tooltip.detailed.line2=Жидкий Опыт, чтобы получить уровни
+item.item_xp_transfer.tooltip.detailed.line3=SHIFT+ПКМ, чтобы передать опыт 
+item.item_xp_transfer.tooltip.detailed.line4=в резервуар.
+
+item.item_yeta_wrench.name=Гаечный Ключ Йэта
+item.item_yeta_wrench.tooltip.detailed.line1=Скрывает Фасады для Труб держа в руках.
+item.item_yeta_wrench.tooltip.detailed.line2=SHIFT+ПКМ, чтобы сломать машину
+item.item_yeta_wrench.tooltip.detailed.line3=или трубу немедленно.
+item.item_yeta_wrench.tooltip.detailed.line4=SHIFT+ЛКМ по трубе, чтобы 
+item.item_yeta_wrench.tooltip.detailed.line5=открыть графический интерфейс труб для её настройки.
+item.item_yeta_wrench.tooltip.detailed.line6=Используйте Shift+КОЛЕСО МЫШИ или '%s', чтобы
+item.item_yeta_wrench.tooltip.detailed.line7=отображать только один вид труб.
+
+item.item_enderface.name=Лицо Странника Края
+
+tile.block_infinity_fog.name=Пыль Бесконечности
+tile.block_infinity_fog.tooltip.common.line1=§4§oОПАСНО!
+tile.block_infinity_fog.tooltip.detailed.line1=Когда Крупинки Бесконечности измельчаются до очень мелкой пыли, пыль начинает развивать свойства бесконечной основы, из которой она была сделана.
+tile.block_infinity_fog.tooltip.detailed.line2=Выпущенный в воздух он формирует испаряющее облако пыли.Если докоснуться это будет вредно по крайней мере. И когда пыль осядет, это может оставить некоторые неприятные вещи позади.
+tile.block_infinity_fog.tooltip.detailed.line3=§6Есть шанс появления §lСтранника края§6 и других монстров.
+
+tile.block_alloy.name=Блок Сплава
+tile.block_alloy.conductive_iron.name=Блок Проводящего Железа
+tile.block_alloy.dark_steel.name=Блок Тёмной Стали
+tile.block_alloy.electrical_steel.name=Блок Наэлектризованной Стали
+tile.block_alloy.energetic_alloy.name=Блок Энергетического Сплава
+tile.block_alloy.pulsating_iron.name=Блок Пульсирующего Железа
+tile.block_alloy.redstone_alloy.name=Блок Редстоунового Сплава
+tile.block_alloy.soularium.name=Блок Соулария
+tile.block_alloy.vibrant_alloy.name=Блок Вибрирубщего Сплава
+tile.block_alloy.end_steel.name=Блок Энд-Стали
+
+tile.block_cold_fire.name=Холодный Огонь
+
+tile.block_dark_fused_glass.name=Тёмное Чистое Стекло
+
+tile.block_dark_fused_quartz.name=Тёмный Расплавленный Кварц
+
+tile.block_dark_iron_bars.name=Прутья из Тёмной Стали
+
+tile.block_dark_steel_anvil.name=Наковальня из Тёмной Стали
+tile.block_dark_steel_anvil.tooltip.common.line1=Устойчива к повреждениям.
+tile.block_dark_steel_anvil.tooltip.detailed.line1=Намного прочнее чем обычная наковальня.
+tile.block_dark_steel_anvil.intact.name=Наковальня из Тёмной Стали
+tile.block_dark_steel_anvil.slightlyDamaged.name=Немного повреждённая Наковальня из Тёмной Стали
+tile.block_dark_steel_anvil.veryDamaged.name=Сильно повреждённая Наковальня из Тёмной Стали
+
+tile.block_dark_steel_ladder.name=Лестница из Тёмной Стали
+tile.block_dark_steel_ladder.tooltip.common.line1=Вы взбираетесь быстрее, чем на обычной лестнице.
+
+tile.block_dark_steel_trapdoor.name=Люк из Тёмной Стали
+tile.block_dark_steel_trapdoor.tooltip.detailed.line1=ЭТО ЛОВУШКА!
+
+item.block_dark_steel_door.name=Дверь из Тёмной Стали
+
+tile.block_decoration1.name=Декоративные Блоки
+tile.block_decoration1.type00.name=Корпус Машины (декоративный блок)
+tile.block_decoration1.type01.name=Пустая Машина (декоративный блок)
+tile.block_decoration1.type02.name=Верх Машины (декоративный блок)
+tile.block_decoration1.type03.name=Стороны Машины (декоративный блок)
+tile.block_decoration1.type04.name=Зад Машины (декоративный блок)
+tile.block_decoration1.type05.name=Машина со Строронами (декоративный блок)
+tile.block_decoration1.type06.name=Машина с Задом (декоративный блок)
+tile.block_decoration1.type07.name=Пустая Машина Душ (декоративный блок)
+tile.block_decoration1.type08.name=Верх Машины Душ (декоративный блок)
+tile.block_decoration1.type09.name=Стороны Машины Душ (декоративный блок)
+tile.block_decoration1.type10.name=Зад Машины Душ (декоративный блок)
+tile.block_decoration1.type11.name=Машина Душ со Строронами (декоративный блок)
+tile.block_decoration1.type12.name=Машина Душ с Задом (декоративный блок)
+tile.block_decoration1.type13.name=Красная Машина (декоративный блок)
+tile.block_decoration1.type14.name=Сломанный Спаунер (декоративный блок)
+tile.block_decoration1.type15.name=Невидимый Блок (декоративный блок)
+
+tile.block_decoration2.name=Декоративные Блоки
+tile.block_decoration2.type00.name=Завод Сплавов (декоративный блок)
+tile.block_decoration2.type01.name=Предметный Буффер (декоративный блок)
+tile.block_decoration2.type02.name=Энергетический Буффер (декоративный блок)
+tile.block_decoration2.type03.name=Совмещённый Буффер (декоративный блок)
+tile.block_decoration2.type04.name=Творческий Буффер (декоративный блок)
+tile.block_decoration2.type05.name=Крафтер (декоративный блок)
+tile.block_decoration2.type06.name=Покрасочная Машина (декоративный блок)
+tile.block_decoration2.type07.name=Энергетический Экран
+tile.block_decoration2.type08.name=Дробитель (декоративный блок)
+tile.block_decoration2.type09.name=«Отрубатель и Сращиватель» (декоративный блок)
+tile.block_decoration2.type10.name=Генератор Стирлинга (декоративный блок)
+tile.block_decoration2.type11.name=Жидкостный Резервуар (декоративный блок)
+tile.block_decoration2.type12.name=Жидкостный Резервуар под Давлением (декоративный блок)
+tile.block_decoration2.type13.name=Якорь Путешествия (декоративный блок)
+tile.block_decoration2.type14.name=Вакуумный Сундук (декоративный блок)
+tile.block_decoration2.type15.name=Беспроводная Зарядная Станция (декоративный блок)
+
+tile.block_decoration3.name=Декоративные Блоки
+tile.block_decoration3.type00.name=Вакуум Опыта (декоративный блок)
+tile.block_decoration3.type01.name=Простой Завод Сплавов (декоративный блок)
+tile.block_decoration3.type02.name=Простой Генератор Стирлинга (декоративный блок)
+tile.block_decoration3.type03.name=Зарядная Станция
+tile.block_decoration3.type04.name=Простой Дробитель (декоративный блок)
+tile.block_decoration3.type05.name=n/a (декоративный блок)
+tile.block_decoration3.type06.name=n/a (декоративный блок)
+tile.block_decoration3.type07.name=n/a (декоративный блок)
+tile.block_decoration3.type08.name=n/a (декоративный блок)
+tile.block_decoration3.type09.name=n/a (декоративный блок)
+tile.block_decoration3.type10.name=n/a (декоративный блок)
+tile.block_decoration3.type11.name=n/a (декоративный блок)
+tile.block_decoration3.type12.name=n/a (декоративный блок)
+tile.block_decoration3.type13.name=n/a (декоративный блок)
+tile.block_decoration3.type14.name=n/a (декоративный блок)
+tile.block_decoration3.type15.name=n/a (декоративный блок)
+
+tile.block_detector_block.name=Детектор Блока
+tile.block_detector_block_silent.name=Детектор Блока (Бесшумный)
+
+tile.block_enderman_skull.name=Череп Странника Края
+tile.block_enderman_skull.base.name=Голова Странника Края
+tile.block_enderman_skull.tormented.name=Измученная Голова Странника Края
+tile.block_enderman_skull.reanimated.name=Реанимированная Голова Странника Края
+tile.block_enderman_skull.reanimated_tormented.name=Реанимированная Изм Голова Странника Края
+
+tile.block_enlightened_fused_glass.name=Освещённое Чистое Стекло
+
+tile.block_enlightened_fused_quartz.name=Освещённый Расплавленный Кварц
+
+tile.block_exit_rail.name=Выход Железнодорожного Пути
+
+tile.block_fused_glass.name=Довольно Чистое Стекло
+
+tile.block_fused_quartz.name=Расплавленный Кварц
+
+tile.block_machine_base.name=(технический блок)
+tile.block_machine_io.name=(технический блок)
+
+tile.block_painted_carpet.name=Окрашенный Ковёр
+tile.block_painted_dark_steel_trapdoor.name=Окрашенный Люк из Тёмной Стали
+tile.block_painted_double_slab.name=Окрашенная Плита
+tile.block_painted_fence.name=Окрашенный Забор
+tile.block_painted_fence_gate.name=Окрашенная Калитка
+tile.block_painted_fused_quartz.name=Окрашенный Расплавленный Кварц
+tile.block_painted_glowstone.name=Окрашенный Светокамень
+tile.block_painted_glowstone_solid.name=Окрашенный Светокамень
+tile.block_painted_iron_trapdoor.name=Окрашенный Железный Люк
+
+tile.block_painted_pressure_plate.name=Окрашенная Нажимная Плита
+tile.block_painted_pressure_plate.darksteel.name=Нажимная Плита из Тёмной Стали
+tile.block_painted_pressure_plate.darksteel.tooltip.detailed.line1=Активирется только игроком.
+tile.block_painted_pressure_plate.darksteel.tooltip.detailed.line2=Может быть покрашена в покрасочном механизме, невидима, когда покрашена в  Довольно Чистое Стекло.
+tile.block_painted_pressure_plate.darksteel.silent.name=Нажимная Плита из Тёмной Стали (Бесшумная)
+tile.block_painted_pressure_plate.darksteel.silent.tooltip.detailed.line1=Активирется только игроком.
+tile.block_painted_pressure_plate.darksteel.silent.tooltip.detailed.line2=Может быть покрашена в покрасочном механизме, невидима, когда покрашена в  Довольно Чистое Стекло.
+tile.block_painted_pressure_plate.gold.name=Весовая Нажимная Плита (Светлая)
+tile.block_painted_pressure_plate.gold.tooltip.detailed.line1=Переменный сигнал редстоуна: Один за существо.
+tile.block_painted_pressure_plate.gold.tooltip.detailed.line2=Может быть покрашена в покрасочном механизме, невидима, когда покрашена в  Довольно Чистое Стекло.
+tile.block_painted_pressure_plate.gold.silent.name=Весовая Нажимная Плита (Светлая) (Бесшумная)
+tile.block_painted_pressure_plate.gold.silent.tooltip.detailed.line1=Переменный сигнал редстоуна: Один за существо.
+tile.block_painted_pressure_plate.gold.silent.tooltip.detailed.line2=Может быть покрашена в покрасочном механизме, невидима, когда покрашена в  Довольно Чистое Стекло.
+tile.block_painted_pressure_plate.iron.name=Весовая Нажимная Плита (Тяжёлая)
+tile.block_painted_pressure_plate.iron.tooltip.detailed.line1=Переменный сигнал редстоуна: Один за существо.
+tile.block_painted_pressure_plate.iron.tooltip.detailed.line2=Может быть покрашена в покрасочном механизме, невидима, когда покрашена в  Довольно Чистое Стекло.
+tile.block_painted_pressure_plate.iron.silent.name=Весовая Нажимная Плита (Тяжёлая) (Бесшумная)
+tile.block_painted_pressure_plate.iron.silent.tooltip.detailed.line1=Переменный сигнал редстоуна: Один за существо.
+tile.block_painted_pressure_plate.iron.silent.tooltip.detailed.line2=Может быть покрашена в покрасочном механизме, невидима, когда покрашена в  Довольно Чистое Стекло.
+tile.block_painted_pressure_plate.soularium.name=Нажимная Плитав зи Соулария
+tile.block_painted_pressure_plate.soularium.tooltip.detailed.line1=Активируется только враждебными мобами.
+tile.block_painted_pressure_plate.soularium.tooltip.detailed.line2=Может быть покрашена в покрасочном механизме, невидима, когда покрашена в  Довольно Чистое Стекло.
+tile.block_painted_pressure_plate.soularium.tooltip.detailed.line3=Может быть настроена в Связыватели Душ.
+tile.block_painted_pressure_plate.soularium.silent.name=Нажимная Плитав зи Соулария (Бесшумная)
+tile.block_painted_pressure_plate.soularium.silent.tooltip.detailed.line1=Активируется только враждебными мобами.
+tile.block_painted_pressure_plate.soularium.silent.tooltip.detailed.line2=Может быть покрашена в покрасочном механизме, невидима, когда покрашена в  Довольно Чистое Стекло.
+tile.block_painted_pressure_plate.soularium.silent.tooltip.detailed.line3=Может быть настроена в Связыватели Душ.
+tile.block_painted_pressure_plate.stone.name=Каменная Нажимная Плита
+tile.block_painted_pressure_plate.stone.tooltip.detailed.line1=Активируется только мобами и игроками.
+tile.block_painted_pressure_plate.stone.tooltip.detailed.line2=Может быть покрашена в покрасочном механизме, невидима, когда покрашена в  Довольно Чистое Стекло.
+tile.block_painted_pressure_plate.stone.silent.name=Каменная нажимная плита (Тихая)
+tile.block_painted_pressure_plate.stone.silent.tooltip.detailed.line1=Активируется только мобами и игроками.
+tile.block_painted_pressure_plate.stone.silent.tooltip.detailed.line2=Может быть покрашена в покрасочном механизме, невидима, когда покрашена в  Довольно Чистое Стекло.
+tile.block_painted_pressure_plate.tuned.name=Нажимная Плита из Соулария (Настроенная)
+tile.block_painted_pressure_plate.tuned.tooltip.detailed.line1=Активируется только конкретными мобами.
+tile.block_painted_pressure_plate.tuned.tooltip.detailed.line2=Может быть покрашена в покрасочном механизме, невидима, когда покрашена в  Довольно Чистое Стекло.
+tile.block_painted_pressure_plate.tuned.tooltip.detailed.line3=Может быть настроена в Связыватели Душ.
+tile.block_painted_pressure_plate.tuned.tooltip=Настроена на: %s
+tile.block_painted_pressure_plate.tuned.silent.name=Нажимная Плита из Соулария (Настроенная) (Бесшумная)
+tile.block_painted_pressure_plate.tuned.silent.tooltip.detailed.line1=Активируется только конкретными мобами.
+tile.block_painted_pressure_plate.tuned.silent.tooltip.detailed.line2=Может быть покрашена в покрасочном механизме, невидима, когда покрашена в  Довольно Чистое Стекло.
+tile.block_painted_pressure_plate.tuned.silent.tooltip.detailed.line3=Может быть настроена в Связыватели Душ
+tile.block_painted_pressure_plate.wood.name=Деревянная Нажимная Плита
+tile.block_painted_pressure_plate.wood.tooltip.detailed.line1=Может быть покрашена в покрасочном механизме, невидима, когда покрашена в  Довольно Чистое Стекло.
+tile.block_painted_pressure_plate.wood.silent.name=Деревянная Нажимная Плита (Бесшумная)
+tile.block_painted_pressure_plate.wood.silent.tooltip.detailed.line1=Может быть покрашена в покрасочном механизме, невидима, когда покрашена в  Довольно Чистое Стекло.
+
+tile.block_painted_redstone.name=Окрашенный Редстоун
+tile.block_painted_redstone_solid.name=Окрашенный Редстоун
+tile.block_painted_slab.name=Окрашенная Плита
+tile.block_painted_stair.name=Окрашенные Ступеньки
+tile.block_painted_stone.name=Окрашенный Булыжник
+tile.block_painted_stone_double_slab.name=Окрашенная Каменная Плита
+tile.block_painted_stone_fence.name=Окрашенный Каменный Забор
+tile.block_painted_stone_slab.name=Окрашенная Каменная Плита
+tile.block_painted_stone_stair.name=Окрашенные Каменные Ступеньки
+tile.block_painted_wall.name=Окрашенная Стена
+tile.block_painted_wooden_trapdoor.name=Окрашенный Люк
+
+tile.block_painted_wooden_door.name=Окрашенная Деревянная Дверь
+tile.block_painted_iron_door.name=Окрашенная Железная Дверь
+tile.block_painted_dark_steel_door.name=Окрашенная Дверь из Тёмной Стали
+
+tile.block_reinforced_obsidian.name=Усиленный Обсидиан
+tile.block_reinforced_obsidian.tooltip.common.line1=Иссушитель тому докаозание.
+tile.block_industrial_insulation.name=Промышленная Изоляция
+tile.block_industrial_insulation.tooltip.common.line1=Поглощает близлежащие жидкости, как губка.
+
+tile.block_self_resetting_lever5.name=Рычаг с самовозвратом (5 секунд)
+tile.block_self_resetting_lever10.name=Рычаг с самовозвратом (10 секунд)
+tile.block_self_resetting_lever30.name=Рычаг с самовозвратом (30 секунд)
+tile.block_self_resetting_lever60.name=Рычаг с самовозвратом (1 минута)
+tile.block_self_resetting_lever300.name=Рычаг с самовозвратом (5 минут)
+
+
+
+enderio.machine.tooltip.configured=%s (Настроенный)
+enderio.machine.tooltip.upgrade=Улучшение для машины
+enderio.machine.tooltip.upgrade.tooltip.detailed.line1=Увеличивает хранимую энергию и скорость работы/дальность работы машин.
+
+enderio.block.tooltip.blastResistant=Взрыво-Устойчивый
+enderio.block.tooltip.lightEmitter=Излучает Свет
+enderio.block.tooltip.lightBlocker=Блокирует Свет
+
+
+enderio.grindingball.tooltip.line1=%sШарик для Дробителя
+enderio.grindingball.tooltip.line2=%sОсновной выход %s
+enderio.grindingball.tooltip.line3=%sБонусный выход %s
+enderio.grindingball.tooltip.line4=%sЭнергии использует %s
+
+enderio.gui.permission.denied=Отказано в доступе
+
+enderio.gui.conduit.io_mode.in_out=Ввод/Вывод
+enderio.gui.conduit.io_mode.input=Извлекать
+enderio.gui.conduit.io_mode.output=Вводить
+enderio.gui.conduit.io_mode.disabled=Выключено
+enderio.gui.conduit.io_mode.not_set=По умолчанию
+
+enderio.gui.tooltip.redstoneControlMode=Режим Красного Камня
+
+enderio.config.title=Конфигурация Ender IO
+enderio.config.power=Настройки энергии
+enderio.config.power.tooltip=Так много значений для изменения...
+enderio.config.item=Настройки Предметов
+enderio.config.item.tooltip=Если вам не нравятся некоторые из моих удивительных вещей :(
+enderio.config.efficiency=Настройки эффективности
+enderio.config.efficiency.tooltip=Где заканчиваются значения?
+enderio.config.personal=Личные настройки
+enderio.config.personal.tooltip=Я никому не скажу, обещаю.
+enderio.config.anchor=Настройки якорей
+enderio.config.anchor.tooltip=рочь якоря!
+enderio.config.staff=Посох Путешествия
+enderio.config.staff.tooltip=Будь осторожен с этой штукой, ты можешь телепортироваться не туда.
+enderio.config.darksteel=Тёмная Сталь
+enderio.config.darksteel.tooltip=Это не просто обычная сталь, это §oтёмная§r§e сталь.
+enderio.config.aesthetic=Эстетические настройки
+enderio.config.aesthetic.tooltip=Ооо, аааа, хорошенькие.
+enderio.config.advanced=Продвинутые настройки
+enderio.config.advanced.tooltip=Для тех, кому недостаточно настроек.
+enderio.config.magnet=Настройки магнитов
+enderio.config.magnet.tooltip=Как они работают?
+enderio.config.fluid=Настройки жидкостей
+enderio.config.fluid.tooltip=Чистая энергия жидкостей!
+
+enderio.config.capacitor=Значения Конденсатора
+enderio.config.enchanter=Зачарователь
+enderio.config.enchantments=Зачарования
+enderio.config.hoes=Мотыги для Станции Фермера
+enderio.config.misc=Остальные настройки
+enderio.config.rod=Жезл Возвращения
+enderio.config.soulbinder=Связыватель душ рецепты
+enderio.config.soulvial= Флакон Души
+enderio.config.top=The One Probe интеграция
+enderio.config.wireless=Беспроводная Зарядная Станция
+enderio.config.brokenspawner=Сломанный Спаунер
+
+enderio.config.items=Предметы
+enderio.config.items.infinitypowder=Крупинки Бесконечности
+enderio.config.items.darksteel.coldfire=Воспламенитель Холодного Огня
+enderio.config.items.darksteel=Предметы из Тёмной Стали
+enderio.config.items.darksteel.tooltip=Это не просто обычная сталь, это §oтёмная§r§e сталь.
+enderio.config.items.darksteel.sword=Край
+enderio.config.items.darksteel.pickaxe=Кирка
+enderio.config.items.darksteel.axe=Топор
+enderio.config.items.darksteel.upgrades=Улучшение Тёмной Стали
+enderio.config.items.darksteel.upgrades.explosive=Улучшение Взрывчатость
+enderio.config.items.darksteel.upgrades.speed=Улучшение Скорости
+
+enderio.config.recipe=Настройки Рецептов
+enderio.config.recipe.tooltip=Настрой ВСЕ вещи!
+enderio.config.recipe.alloy=Завод Сплавов рецепты.
+enderio.config.recipe.painter=Покрасочная Машина рецепты.
+
+enderio.config.diagnostics=Параметры Диагностики
+enderio.config.diagnostics.tooltip=Используйте с осторожностью!
+
+enderio.config.blocks=Блоки
+enderio.config.blocks.charges=Бомбы
+enderio.config.blocks.charges.confusion=Бомба Тошноты
+enderio.config.blocks.charges.concussion=Бомба Сотрясения
+enderio.config.blocks.charges.ender=Зарядки Края
+
+
+enchantment.enderio.soulbound=Печать Души
+description.enchantment.enderio.soulbound=Предотвращает потерю предмета из инвентаря после смерти
+enchantment.enderio.witherarrow=Иссушающий
+enchantment.enderio.witherweapon=Разложение
+
+potion.effect.enderio.withering=Зелье Иссушения
+splash_potion.effect.enderio.withering=Взрывное Зелье Иссушения
+lingering_potion.effect.enderio.withering=Туманное Зелье Иссушения
+tipped_arrow.effect.enderio.withering=Стрела Разложения
+
+potion.effect.enderio.confusion=Зелье Замешательства
+splash_potion.effect.enderio.confusion=Взрывное Зелье Тошноты
+lingering_potion.effect.enderio.confusion=Туманное Зелье Тошноты
+tipped_arrow.effect.enderio.confusion=Стрела Замешательства
+
+potion.effect.enderio.floating=Зелье Левитации
+splash_potion.effect.enderio.floating=Взрывное Зелье Левитации
+lingering_potion.effect.enderio.floating=Туманное Зелье Левитации
+tipped_arrow.effect.enderio.floating=Стрела Роста
+
+
+enderio.farm.note.outputFull=Выход полон
+enderio.farm.note.noSeeds=Нет семян
+enderio.farm.note.noAxe=Нет топора
+enderio.farm.note.noHoe=Нет мотыги
+enderio.farm.note.noShears=Нет ножниц
+enderio.farm.note.noTreetap=Нет удобрения
+enderio.farm.note.noPower=Нет энергии
+
+enderio.power.symbol=µI
+enderio.power.format=%s µI
+enderio.power.format.of=%s / %s µI
+enderio.power.format.pertick=%s µI/t
+enderio.power.format.name=Микро-Безграничность (%s)
+enderio.power.format.details=Единица энергии
+
+enderio.fluid.millibucket.format=%s mB
+enderio.fluid.millibucket.format.name=%s mB of %s
+enderio.fluid.millibucket.format.of=%s / %s mB
+enderio.fluid.millibucket.format.ofname=%s / %s mB of %s
+enderio.fluid.millibucket.format.tickper=%s t/mB
+
+enderio.fuel.tooltip.heading=Информация о топливе
+enderio.fuel.tooltip.generates=Генерируется %s по %s
+enderio.fuel.tooltip.burnTime=время горения %s тиков
+enderio.coolant.tooltip.heading=Хладагент
+enderio.coolant.tooltip.degreesPerBucket=%s°C за ведро
+
+
+enderio.tooltip.anvilupgrades=Улучшения на наковальне:
+
+enderio.darksteel.upgrade.empowered_one.name=Усиление
+enderio.darksteel.upgrade.empowered_one.tooltip.detailed.line1=Энергия: $P
+enderio.darksteel.upgrade.empowered_one.tooltip.detailed.line2=$D% урона поглащается энергией
+
+enderio.darksteel.upgrade.empowered_two.name=Усиление II
+enderio.darksteel.upgrade.empowered_two.tooltip.detailed.line1=Энергия: $P
+enderio.darksteel.upgrade.empowered_two.tooltip.detailed.line2=$D% урона поглащается энергией
+
+enderio.darksteel.upgrade.empowered_three.name=Усиление III
+enderio.darksteel.upgrade.empowered_three.tooltip.detailed.line1=Энергия: $P
+enderio.darksteel.upgrade.empowered_three.tooltip.detailed.line2=$D% урона поглащается энергией
+
+enderio.darksteel.upgrade.empowered_four.name=Усиление IV
+enderio.darksteel.upgrade.empowered_four.tooltip.detailed.line1=Энергия: $P
+enderio.darksteel.upgrade.empowered_four.tooltip.detailed.line2=$D% урона поглащается энергией
+
+enderio.darksteel.upgrade.travel.name=Путешествие
+enderio.darksteel.upgrade.travel.tooltip.detailed.line1=Удерживайте Shift-ПКМ, для телепортации или активации якоря путешествия, или Эндер-интерфейса.
+
+enderio.darksteel.upgrade.spoon.name=Ложка
+enderio.darksteel.upgrade.spoon.tooltip.detailed.line1=Кому нужна лопата, когда есть ложка.
+
+enderio.darksteel.upgrade.hoe.name=Вилка
+enderio.darksteel.upgrade.hoe.tooltip.detailed.line1=Кому нужна мотыга, когда есть вилка.
+
+enderio.darksteel.upgrade.tnt.name=Взрывчатость
+enderio.darksteel.upgrade.tnt.tooltip.detailed.line1=Добавляет взрывную силу кирке, повреждая окружающие блоки во время добычи.
+enderio.darksteel.upgrade.tnt.tooltip.detailed.line2=Для проблем, которые выглядят как ногти.
+
+enderio.darksteel.upgrade.glider.name=Планер
+enderio.darksteel.upgrade.glider.tooltip.detailed.line1=Включает планирование
+enderio.darksteel.upgrade.glider.enabled=Планер включен.
+enderio.darksteel.upgrade.glider.disabled=Планер выключен.
+
+enderio.darksteel.upgrade.elytra.name=Элитры
+enderio.darksteel.upgrade.elytra.tooltip.detailed.line1=Включает полёт элитры
+enderio.darksteel.upgrade.elytra.tooltip.detailed.line2=§4(Это означает, что полет, как если бы Элитры были оборудованы, а не" творческий " полет!)
+enderio.darksteel.upgrade.elytra.enabled=Элитры включены.
+enderio.darksteel.upgrade.elytra.disabled=Элитры выключены.
+
+enderio.darksteel.upgrade.sound.name=Звуколокатор
+enderio.darksteel.upgrade.sound.tooltip.detailed.line1=Отображает расположение ближайших звуков.
+enderio.darksteel.upgrade.sound.enabled=Звуколокатор включен.
+enderio.darksteel.upgrade.sound.disabled=Звуколокатор выключен.
+
+enderio.darksteel.upgrade.gogglesOfRevealing.name=Откровение
+enderio.darksteel.upgrade.gogglesOfRevealing.tooltip.detailed.line1=Снижение затрат Вис: 5%
+enderio.darksteel.upgrade.gogglesOfRevealing.enabled=Магия раскрывается
+enderio.darksteel.upgrade.gogglesOfRevealing.disabled=Магия скрыта от обычного взгляда
+
+enderio.darksteel.upgrade.thaumaturge_robes.chest.name=Мантия Тауматурга
+enderio.darksteel.upgrade.thaumaturge_robes.chest.tooltip.detailed.line1=Снижение затрат Вис: 3%
+enderio.darksteel.upgrade.thaumaturge_robes.legs.name=Шаровары Тауматурга
+enderio.darksteel.upgrade.thaumaturge_robes.legs.tooltip.detailed.line1=Снижение затрат Вис: 3%
+enderio.darksteel.upgrade.thaumaturge_robes.feet.name=Сапоги Тауматурга
+enderio.darksteel.upgrade.thaumaturge_robes.feet.tooltip.detailed.line1=Снижение затрат Вис 2%
+
+enderio.darksteel.upgrade.jump.enabled=Прыжок включен
+enderio.darksteel.upgrade.jump.disabled=Прыжок выключен
+
+enderio.darksteel.upgrade.jump_one.name=Прыжок
+enderio.darksteel.upgrade.jump_one.tooltip.detailed.line1=Увеличивает шаг и высоту прыжка
+enderio.darksteel.upgrade.stepAssist.enabled=Помощь в шаге включена
+enderio.darksteel.upgrade.stepAssist.disabled=Помощь в шаге выключена
+
+enderio.darksteel.upgrade.jump_two.name=Прыжок II
+enderio.darksteel.upgrade.jump_two.tooltip.detailed.line1=Увеличивает шаг и высоту прыжка
+enderio.darksteel.upgrade.jump_two.tooltip.detailed.line2=Позволяет делать двойные прыжки
+
+enderio.darksteel.upgrade.jump_three.name=Прыжок III
+enderio.darksteel.upgrade.jump_three.tooltip.detailed.line1=Увеличивает шаг и высоту прыжка
+enderio.darksteel.upgrade.jump_three.tooltip.detailed.line2=Позволяет делать тройные прыжки
+
+enderio.darksteel.upgrade.speed_one.name=Скорость
+enderio.darksteel.upgrade.speed_one.tooltip.detailed.line1=Увеличивает скорость передвижения
+enderio.darksteel.upgrade.speed.enabled=Скорость включена
+enderio.darksteel.upgrade.speed.disabled=Скорость выключена
+
+enderio.darksteel.upgrade.speed_two.name=Скорость II
+enderio.darksteel.upgrade.speed_two.tooltip.detailed.line1=Увеличивает скорость передвижения
+
+enderio.darksteel.upgrade.speed_three.name=Скорость III
+enderio.darksteel.upgrade.speed_three.tooltip.detailed.line1=Увеличивает скорость передвижения
+
+enderio.darksteel.upgrade.swim.name=Ласты
+
+enderio.darksteel.upgrade.nightVision.name=Ночное зрение
+enderio.darksteel.upgrade.nightVision.enabled=Ночное зрение включено
+enderio.darksteel.upgrade.nightVision.disabled=Ночное зрение выключено
+
+enderio.darksteel.upgrade.top.name=The One Probe
+
+# These are used for the "The One Probe" integration
+enderio.top.action.header.pre=§e
+enderio.top.action.header.post=:
+enderio.top.action.none=§4ничего
+
+enderio.top.range.header.pre=§eДиапазон: §f
+enderio.top.range.header.post=
+# enderio.top.range is server-side only
+enderio.top.range=%sx%sx%s
+
+enderio.top.machine.side.pre=§eСторона: §f
+enderio.top.machine.side.post=
+enderio.top.machine.side.north=Север
+enderio.top.machine.side.south=Юг
+enderio.top.machine.side.west=Запад
+enderio.top.machine.side.east=Восток
+enderio.top.machine.side.up=Верх
+enderio.top.machine.side.down=нищ
+enderio.top.machine.ioMode.pre=§eРежим: §f
+enderio.top.machine.ioMode.post=
+enderio.top.machine.outofpower=§4Нет энергии
+enderio.top.machine.active=Активный
+enderio.top.machine.idle=Бездействующий
+
+enderio.top.progress.outofpower=§4Нет энергии
+
+enderio.top.redstone.header.pre=§eСейчас: §f
+enderio.top.redstone.header.post=
+enderio.top.redstone.true=Вкл
+enderio.top.redstone.false=Выкл
+
+enderio.top.paint.header=§eПокрашено в:
+enderio.top.owner.header=§eВладелец:
+enderio.top.rf.header.maxin=§eМакс. вход:
+enderio.top.rf.header.maxout=§eМакс. выход:
+enderio.top.rf.header.avg=§eI/O:
+enderio.top.rf.value.pre=§f
+enderio.top.rf.value.post=\u0020µI/t
+
+# All suffixes are server-side
+enderio.top.suffix.rf=\u0020µI
+enderio.top.suffix.levels=\u0020уровней
+enderio.top.suffix.items=\u0020предметов
+enderio.top.suffix.percent=\u0020%
+
+enderio.top.tank.content.pre=
+enderio.top.tank.content.middle=/
+enderio.top.tank.content.post=\u0020mB
+enderio.top.tank.content.empty=Пусто
+
+enderio.top.tank.header.input.pre=§eВход резервуара: §f
+enderio.top.tank.header.input.post=
+enderio.top.tank.header.output.pre=§eВыход резервуара: §f
+enderio.top.tank.header.output.post=
+enderio.top.tank.header.storage.pre=§f
+enderio.top.tank.header.storage.post=
+
+
+# Fluids
+fluid.nutrient_distillation=Питательный дистиллят
+tile.fluid.nutrient_distillation.name=Питательный дистиллят
+
+fluid.ender_distillation=Роса пустоты
+tile.fluid.ender_distillation.name=Роса пустоты
+
+fluid.vapor_of_levity=Пар левитации
+tile.vapor_of_levity.name=Пар левитации
+
+fluid.hootch=Самогон
+tile.fluid.hootch.name=Самогон
+
+fluid.fire_water=Огненная вода
+tile.fluid.fire_water.name=Огненная вода
+
+fluid.rocket_fuel=Ракетное топливо
+tile.fluid.rocket_fuel.name=Ракетное топливо
+
+fluid.liquid_sunshine=Жидкий солнечный свет
+tile.fluid.liquid_sunshine.name=Жидкий солнечный свет
+
+fluid.cloud_seed=Облако семян
+tile.fluid.cloud_seed.name=Облако семян
+
+fluid.cloud_seed_concentrated=Концентрированное облако семян
+tile.fluid.cloud_seed_concentrated.name=Концентрированное облако семян
+
+fluid.xpjuice=Жидкий опыт
+tile.fluid.xpjuice.name=Жидкий опыт
+
+enderio.item_item_filter_upgrade=Улучшения для предметной трубы.
+item.item_existing_item_filter.tooltip.detailed.line1=Фильтрует предметы на основе моментального снимка
+item.item_existing_item_filter.tooltip.detailed.line2=привязанного инвентаря.
+item.item_mod_item_filter.tooltip.detailed.line1=Фильтрует предметы на основе мода, из которого они поступают.
+item.item_power_item_filter.tooltip.detailed.line1=Фильтрует предметы на основе их текущего заряда.
+item.item_basic_item_filter.tooltip.detailed.line1=Фильтрует предметы согласованно с белым списком и параметрам соответствия метаданных.
+item.item_advanced_item_filter.tooltip.detailed.line1=Фильтрует предметы с дополнительными параметрами конфигурации.
+item.item_limited_item_filter.tooltip.detailed.line1=Фильтрует предметы на основе их колличества в 
+item.item_limited_item_filter.tooltip.detailed.line2=дополнение к функциям расширенного фильтра предметов.
+item.item_big_item_filter.tooltip.detailed.line1=Фильтрует еще больше предметов.
+item.item_big_advanced_item_filter.tooltip.detailed.line1=Фильтрует ещё больше предметов с
+item.item_big_advanced_item_filter.tooltip.detailed.line2=дополнительными параметрами конфигурации.
+
+item.item_fluid_filter.tooltip.detailed.line1=Фильтрует жидкости согласованно с настройками.
+
+enderio.item_item_filter_upgrade.configured=%sConfigured
+enderio.item_item_filter_upgrade.clear_config_method=%sPlace in crafting grid to clear
+enderio.item_item_filter_upgrade.clear_config_warning=%sThis will clear all stored filter settings!
+
+enderio.gui.generic.max=Макс.: %s
+enderio.gui.generic.progress=Прогресс %s%%
+enderio.gui.generic.ioMode.overlay.tooltip=Настроить вход/выход
+enderio.gui.generic.ioMode.overlay.tooltip.visible.line1=Настроить вход/выход
+enderio.gui.generic.ioMode.overlay.tooltip.visible.line2=Shift+ЛКМ, чтобы сбросить все стороны
+enderio.gui.generic.ioMode.overlay.tooltip.visible.line3=на настройки по-умолчанию
+enderio.gui.generic.nocap.line1=§3Конденсатор отсутствует
+enderio.gui.generic.nocap.line2=Вставьте любой конденсатор, чтобы
+enderio.gui.generic.nocap.line3=эта машина могла работать!
+
+
+# consumed by EntityAction, displayed in TOP
+enderio.entity_action.block_attractor_obelisk.action=Привлекает
+enderio.entity_action.block_aversion_obelisk.action=Предотвращает спаун
+enderio.entity_action.block_powered_spawner.action=Спаунет
+enderio.entity_action.block_relocator_obelisk.action=Перемещает
+
+# Redstone controls
+enderio.gui.tooltip.redstoneControlMode.ignore=Всегда активен
+enderio.gui.tooltip.redstoneControlMode.on=Активен по сигналу
+enderio.gui.tooltip.redstoneControlMode.off=Активен без сигнала
+enderio.gui.tooltip.redstoneControlMode.never=Всегда выключен
+
+# IO Modes
+enderio.gui.machine.ioMode.none=Нет
+enderio.gui.machine.ioMode.pull=Тянуть
+enderio.gui.machine.ioMode.push=Толкать
+enderio.gui.machine.ioMode.disabled=Выключен
+enderio.gui.machine.ioMode.pullPush=Толкать/Тянуть
+
+enderio.gui.machine.ioMode.none.colored=§7Нет
+enderio.gui.machine.ioMode.pull.colored=§bТянуть
+enderio.gui.machine.ioMode.push.colored=§6Толкать
+enderio.gui.machine.ioMode.disabled.colored=§cВыключен
+enderio.gui.machine.ioMode.pullPush.colored=§6Тянуть §f/ §bТолкать
+
+enderio.recipe.tooltip.clearConfig=§c§oЭто очистит всю сохраненную информацию!
+enderio.block.tooltip.isBeaconBase=Может быть использовано как основание маяка.
+
+# Colors e.g. for Colored Fused Quartz
+enderio.color.black=Чёрный
+enderio.color.red=Красный
+enderio.color.green=Зелёный
+enderio.color.brown=Коричневый
+enderio.color.blue=Синий
+enderio.color.purple=Фиолетовый
+enderio.color.cyan=Бирюзовый
+enderio.color.silver=Светло-Серый
+enderio.color.gray=Серый
+enderio.color.pink=Розовый
+enderio.color.lime=Лаймовый
+enderio.color.yellow=Жёлтый
+enderio.color.lightBlue=Голубой
+enderio.color.magenta=Пурпурный
+enderio.color.orange=Оранжевый
+enderio.color.white=Белый
+
+enderio.generic.tooltip.paintedWith=Покрашено в: %s
+enderio.generic.tooltip.unpainted=Не окрашено.
+
+enderio.wrench.permission.denied=Отказано в §cдоступе§r!
+enderio.soulvial.denied=Отказано в §cдоступе§r!
+enderio.soulvial.owned.denied=Отказано в §cдоступе§r - только владельцы могут подбирать своих животных
+enderio.soulvial.player.denied=§cНет!$r Как бы вы себя чувствовали, если бы вам пришлось играть в эту игру внутри бутылки?
+enderio.soulvial.blacklisted.denied=Отказано в §cdenied§r - этот объект занесен в черный список
+
+# There's a 1% change that a soul vial containing a pig is named this:
+enderio.easteregg.piginabottle=Бекон в бутылке
+
+## Names for random capacitors. These are layered ("level"+"type")xN "baselevel", e.g.
+## "Failed Smelting Simple Hungry Nice Insatiable Impossible Capacitor"
+
+# Types. intake=all machines max power input, buffer=all
+# machines buffer size
+enderio.loot.capacitor.intake=Голодный %s
+enderio.loot.capacitor.buffer=Ненасытный %s
+
+# Names for capacitor levels, the number is the upper boundary of the range (e.g. "25" is used for capacitors level 1.51 to 2.5)
+# This is the general level of the capacitor
+enderio.loot.capacitor.baselevel.10=%s Dud
+enderio.loot.capacitor.baselevel.15=%s
+enderio.loot.capacitor.baselevel.25=Усиленный %s
+enderio.loot.capacitor.baselevel.35=Изумительный %s
+enderio.loot.capacitor.baselevel.45=Невозможный %s
+enderio.loot.capacitor.name=Конденсатор
+
+# As above but for the special attribute
+enderio.loot.capacitor.level.10=Неудачный %s
+enderio.loot.capacitor.level.15=Простой %s
+enderio.loot.capacitor.level.25=Хороший %s
+enderio.loot.capacitor.level.30=Отличный %s
+enderio.loot.capacitor.level.35=Усиленный %s
+enderio.loot.capacitor.level.40=Премиумный %s
+enderio.loot.capacitor.level.42=Невероятный %s
+enderio.loot.capacitor.level.45=Нестабильный %s
+
+enderio.loot.capacitor.entry.count=8
+enderio.loot.capacitor.entry.0=Прилагаемая записка описывает это как "%s"
+enderio.loot.capacitor.entry.1=Вы смогли расшифровать древние руны, которые переводились примерно как "%s". Странно...
+enderio.loot.capacitor.entry.2=Из-за силы Головы Эндермена, у меня появился %s!
+enderio.loot.capacitor.entry.3=Если бы вам пришлось описать это, "%s" было бы хорошим именем.
+enderio.loot.capacitor.entry.4=Если бы вам пришлось описать это, "%s" было бы плохим именем.
+enderio.loot.capacitor.entry.5=Этот "%s" является собственностью Рэндальфа Тинкерера. Неразрешенное удаление не разрешено!
+enderio.loot.capacitor.entry.6=Этот "%s" является собственностью Рэндальфа Экс-Тинкерера. Неразрешенное удаление приветствуется!
+enderio.loot.capacitor.entry.7=Ваш "%s" теперь может быть повышен в заряде до "Конденсатор 1". Нажмите OK или отмените, чтобы сделать это.
+enderio.loot.capacitor.entry.8=Поместите этот "%s " в разные машины, чтобы узнать, что он делает. Или спроси у тети Гугл.
+
+enderio.loot.capacitor.title.count=22
+enderio.loot.capacitor.title.0=Примечательный конденсатор.
+enderio.loot.capacitor.title.1=Не примечательный конденсатор.
+enderio.loot.capacitor.title.2=Найденный конденсатор.
+enderio.loot.capacitor.title.3=Потерянный конденсатор.
+enderio.loot.capacitor.title.4=Древний конденсатор.
+enderio.loot.capacitor.title.5=Магический конденсатор.
+enderio.loot.capacitor.title.6=Конденсатор удержания.
+enderio.loot.capacitor.title.7=Конденсатор южных ветров.
+enderio.loot.capacitor.title.8=Конденсатор "Что это здесь делает?".
+enderio.loot.capacitor.title.9=Модифицированная мощность удерживающего устройства.
+enderio.loot.capacitor.title.10=Тайна, завёрнутая в фольгу.
+enderio.loot.capacitor.title.11=Что-то замечательное.
+enderio.loot.capacitor.title.12=Конденсатор. Возможно.
+enderio.loot.capacitor.title.13=Небесный цент.
+enderio.loot.capacitor.title.14=Не включайте его, лучше разберите!
+enderio.loot.capacitor.title.15=Не синий. Не коробка.
+enderio.loot.capacitor.title.16=Шокирующее приспособление.
+enderio.loot.capacitor.title.17=Технологическое чудо.
+enderio.loot.capacitor.title.18=Безымянная Вещь
+enderio.loot.capacitor.title.19=Вещь
+enderio.loot.capacitor.title.20=Нечто
+enderio.loot.capacitor.title.21=Ничего
+
+enderio.keybind.glidertoggle=Переключение Планера/Элитр
+enderio.keybind.soundlocator=Звуколокатор
+enderio.keybind.nightvision=Ночное зрение
+enderio.keybind.gogglesofrevealing=Очки откровения
+enderio.keybind.stepassist=Помощь в шаге
+enderio.keybind.speed=Скорость
+enderio.keybind.jump=Прыжок
+enderio.keybind.top=Переключение The One Probe (Улучшение шлема)
+enderio.keybind.yetawrenchmode=Режимы Гаечного Ключа Йэта
+enderio.keybind.magnet=Переключение Электромагнита
+enderio.keybind.fovplus=Камера: уменьшить
+enderio.keybind.fovminus=Камера: увеличить
+enderio.keybind.fovplusfast=Камера: уменьшить быстро
+enderio.keybind.fovminusfast=Камера: увеличение быстро
+enderio.keybind.fovreset=Камера: сброс масштаба
+key.category.darksteelarmor=Броня из Тёмной Стали
+key.category.tools=инструменты
+
+enderio.gui.probe.copied=Скопированные настройки трубопровода
+
+# unless we want to copy the sound, it will always show this subtitle.
+subtitles.entity.enderman.teleport=Что-то телепортирует
+# just because I feel that way...
+container.chestDouble=Двойной Сундук
+
+# Achie...um...Advancements
+
+enderio.advancement.root.name=Ender IO Основы
+enderio.advancement.root.desc=На шаг ближе к бесконечности
+
+enderio.advancement.start.1_infinity_powder_get.name=Соберите Бесконечность
+enderio.advancement.start.1_infinity_powder_get.desc=Подожгите Бедрок и получите награду.
+
+enderio.advancement.start.2_simple_chassis_get.name=Три 'Б' Бесшумности
+enderio.advancement.start.2_simple_chassis_get.desc=Создайте свой первый Машинный Корпус
+
+enderio.advancement.gears.g1_wooden_gear.name=Древесная Механика
+enderio.advancement.gears.g1_wooden_gear.desc=Создайте Деревянную Шестерню
+
+enderio.advancement.gear.g2_stone_gear.name=Геологическая Механика
+enderio.advancement.gear.g2_stone_gear.desc=Создайте Каменную Шестерню
+
+enderio.advancement.gear.g3_iron_gear.name=Железистая Механика
+enderio.advancement.gear.g3_iron_gear.desc=Создайте Железную Шестерню
+
+enderio.advancement.gear.g4_energized_gear.name=Блестящая Механика
+enderio.advancement.gear.g4_energized_gear.desc=Создайте Энергетическую Шестерню
+
+enderio.advancement.gear.g5_vibrant_gear.name=Мистическая Механика
+enderio.advancement.gear.g5_vibrant_gear.desc=Создайте Вибрирующую Шестерню
+
+# Filters
+enderio.gui.item_filter.damage.disabled=Игнорирует повреждения
+enderio.gui.item_filter.damage.damage_00_25=До 25% повреждений.
+enderio.gui.item_filter.damage.damage_25_00=Более 25% повреждений.
+enderio.gui.item_filter.damage.damage_00_50=Более 50% повреждений.
+enderio.gui.item_filter.damage.damage_50_00=Более 50% повреждений.
+enderio.gui.item_filter.damage.damage_00_75=Более 75% повреждений.
+enderio.gui.item_filter.damage.damage_75_00=Более 75% повреждений.
+enderio.gui.item_filter.damage.damage_00_00=Не повреждён.
+enderio.gui.item_filter.damage.damage_01_00=Повреждён.
+enderio.gui.item_filter.damage.damage_yes=Может быть повреждён.
+enderio.gui.item_filter.damage.damage_not=Не может быть повреждён.
+
+enderio.gui.edit_item_filter=Изменить настройки фильтра
+enderio.gui.item_filter.close=Закрыть фильтр
+enderio.gui.item_filter.close2=Вернуться к предыдущему инвентарю
+
+enderio.gui.item_filter.whitelist=Белый список
+enderio.gui.item_filter.blacklist=Чёрный список
+enderio.gui.item_filter.match_meta=Соответствовать Метаданным
+enderio.gui.item_filter.ignore_meta=Игнорировать Метаданные
+enderio.gui.item_filter.sticky_enabled=Включен липкий режим
+enderio.gui.item_filter.sticky_enabled2=Выбранные предметы будут отправляться только на этот или другие липкие выходы.
+enderio.gui.item_filter.sticky_disabled=Липкий режим выключен
+enderio.gui.item_filter.ore_dic_enabled=Использовать словарь руд
+enderio.gui.item_filter.ore_dic_disabled=Игнорировать словарь руд
+enderio.gui.item_filter.match_nbt=Соответствовать NBT
+enderio.gui.item_filter.ignore_nbt=Игнорировать NBT
+
+enderio.gui.existing.item_filter.snapshot=Снимок
+enderio.gui.existing.item_filter.merge=Соединить
+enderio.gui.existing.item_filter.clear=Очистить
+enderio.gui.existing.item_filter.show=Показать
+enderio.gui.existing.item_filter.snapshot2=Необязательный, если не один снимок не установлен, то содержимое инвентаря будет использоваться в качестве фильтра
+enderio.gui.existing.item_filter.merge2=Объединить снимок с новым
+enderio.gui.existing.item_filter.clear2=Очистить снимок
+enderio.gui.existing.item_filter.show2=Показать текущий снимок
+enderio.item.item_existing_item_filter.filter_not_updated=Фильтр не обновлен
+enderio.item.item_existing_item_filter.filter_updated=Фильтр обновлен
+
+enderio.gui.basic_item_filter=Основной Предметный Фильтр
+enderio.gui.advanced_item_filter=Расширенный Предметный Фильтр
+enderio.gui.limited_item_filter=Количественный Предметный Фильтр
+enderio.gui.big_item_filter=Большой Предметный Фильтр
+enderio.gui.big_advanced_item_filter=Фильтр
+enderio.gui.existing_item_filter=Существующий Предметный Фильтр
+enderio.gui.mod_item_filter=Фильтр по Предметам Модификаций
+enderio.gui.power_item_filter=Фильтр по Заряжаемым Предметам
+enderio.gui.species_item_filter=Специальный Предметный Фильтр
+
+enderio.gui.fluid_filter=Жидкостный Фильтр
+
+enderio.gui.redstone_filter.and=Редстоун И Фильтр
+enderio.gui.redstone_filter.or=Редстоун ИЛИ Фильтр
+enderio.gui.redstone_filter.nor=Редстоун НЕ Фильтр
+enderio.gui.redstone_filter.nand=Редстоун NAND Фильтр
+enderio.gui.redstone_filter.xor=Редстоун ИСКЛЮЧАЮЩИЙ ИЛИ Фильтр
+enderio.gui.redstone_filter.xnor=Редстоун XNOR Фильтр
+enderio.gui.redstone_filter.counting=Редстоун Счетный Фильтр
+enderio.gui.redstone_filter.timer=Редстоун Временной Фильтр
+
+enderio.gui.mod.item_filter.delete=Удалить
+enderio.gui.mod.item_filter.slot=Вставить в слот
+
+enderio.gui.power.item_filter.compare=Режим Сравнения
+enderio.gui.power.item_filter.percent=Процент Энергии
+
+enderio.gui.redstone_filter.signal_color=Цвет Редстоун сигнала
+enderio.gui.redstone_filter.input_signal=Входной сигнал
+enderio.gui.redstone_filter.count=Счёт
+enderio.gui.redstone_filter.time=Время
+
+enderio.gui.infinity_recipe_dimensions=Только Обычный Мир
+
+item.item_basic_item_filter.name=Основной Предметный Фильтр
+item.item_advanced_item_filter.name=Расширенный Предметный Фильтр
+item.item_limited_item_filter.name=Количественный Предметный Фильтр
+item.item_big_item_filter.name=Большой Предметный Фильтр
+item.item_big_advanced_item_filter.name=Расширенный Большой Предметный Фильтр
+item.item_existing_item_filter.name=Существующий Предметный Фильтр
+item.item_mod_item_filter.name=Фильтр по Предметам Модификаций
+item.item_power_item_filter.name=Фильтр по Заряжаемым Предметам
+
+item.item_fluid_filter.name=Жидкостный Фильтр
+
+item.item_redstone_not_filter.name=Редстоун Не Фильтр
+item.item_redstone_or_filter.name=Редстоун ИЛИ Фильтр
+item.item_redstone_and_filter.name=Редстоун И Фильтр
+item.item_redstone_nor_filter.name=Редстоун НЕ Фильтр
+item.item_redstone_nand_filter.name=Редстоун NAND Фильтр
+item.item_redstone_xor_filter.name=Редстоун ИСКЛЮЧАЮЩИЙ ИЛИ Фильтр
+item.item_redstone_xnor_filter.name=Редстоун XNOR Фильтр
+item.item_redstone_toggle_filter.name=Редстоун Переключить Защелку Фильтр
+item.item_redstone_sensor_filter.name=Редстоун Сенсорный Фильтр
+item.item_redstone_counting_filter.name=Редстоун Счетный Фильтр
+item.item_redstone_timer_filter.name=Редстоун Временной Фильтр
+
+tile.block_confusion_charge.name=Бомба Тошноты
+tile.block_ender_charge.name=Бомба Телепортации
+tile.block_concussion_charge.name=Бомба Сотрясения
+
+enderio.owlegg.no_owl=Сова не найдена (Установите Ender IO Zoo!)
+item.item_owl_egg.name=Совиное Яйцо
+
+entity.enderio.owl_egg.name=Совиное Яйцо
+entity.enderio.enderio.owl_egg.name=Совиное Яйцо
+
+entity.enderio.primed_charge.name=Левитирубщая Бомба
+entity.enderio.enderio.primed_charge.name=Левитирубщая Бомба
+
+# Conduits
+enderio.block_conduit_bundle=Связка Труб
+tile.block_conduit_bundle.name=Подключённая Труба
+
+enderio.item_power_conduit.name=Энергетическая Труба
+enderio.item_power_conduit_enhanced.name=Улучшенная Энергетическая Труба
+enderio.item_power_conduit_ender.name=Энергетическая Эндер-Труба
+enderio.power.max_output=Макс. Выход
+
+enderio.item_redstone_conduit_insulated.name=Редстоуновая Труба
+
+enderio.item_liquid_conduit.name=Жидкостная Труба
+enderio.item_liquid_conduit_advanced.name=Жидкостная Труба Высокого Давления
+enderio.item_liquid_conduit_ender.name=Жидкостная Эндер-Труба
+enderio.item_liquid_conduit.locked_type=Тип жидкости установлен на
+enderio.item_liquid_conduit.unlocked_type=Тип жидкости не установлен
+enderio.item_liquid_conduit.locked_waila=Установленная жидкость
+
+enderio.fluid.millibuckets_tick=mB/t
+enderio.item_liquid_conduit.tooltip.max_extract=Макс. Извлечение:
+enderio.item_liquid_conduit.tooltip.max_io=Макс. IO:
+enderio.item_liquid_conduit.tooltip.detailed.line1=Жидкости не будут течь вверх.
+enderio.item_liquid_conduit.tooltip.detailed.line2=Скорость потока зависит от вязкости жидкости.
+
+enderio.item_liquid_conduit_ender.tooltip.detailed.line1=Мгновенная телепортация жидкости.
+enderio.item_liquid_conduit_ender.tooltip.detailed.line2=Позволяет нескольким жидкостям проходить по одной линии.
+
+enderio.item_item_conduit.name=Предметная Труба
+
+# CapBanks
+tile.block_cap_bank.creative.name=Творческое Энергохранилище
+tile.block_cap_bank.simple.name=Основное Энергохранилище
+tile.block_cap_bank.activated.name=Энергохранилище
+tile.block_cap_bank.vibrant.name=Вибрирующее Энергохранилище
+tile.block_cap_bank.tooltip.detailed.line1=Многоблочное хранилище энергии.
+tile.block_cap_bank.tooltip.detailed.line2=Может заряжать предметы. (было удалено)
+tile.block_cap_bank.tooltip.detailed.line3=Shift+ПКМ, по экрану пустой рукой,
+tile.block_cap_bank.tooltip.detailed.line4=чтобы изменить отображаемую информацию.
+tile.block_cap_bank.tooltip.has_items=§6Содержит §4{0,number,integer}§6 {0,choice,1#item|1<items} в инвенторе.
+
+# TODO dedupe these?
+enderio.capbank.max_io=Макс. I/O
+enderio.capbank.max_in=Макс. Вход
+enderio.capbank.max_out=Макс. Выход
+enderio.capbank.change=I/O
+enderio.capbank.iodisplay.stable=I/O
+enderio.capbank.iodisplay.gain=Ввод
+enderio.capbank.iodisplay.loss=Вывод
+enderio.capbank.iodisplay.input=Вход
+enderio.capbank.iodisplay.output=Выход
+
+enderio.gui.cap_bank.input_rs=Вход режима Редстоуна
+enderio.gui.cap_bank.output_rs=Выход режима Редстоуна
+enderio.gui.cap_bank.max_io=Макс. I/O
+enderio.gui.cap_bank.max_input=Макс. Вход
+enderio.gui.cap_bank.max_output=Макс. Выход
+enderio.gui.cap_bank.input_mode=Вход
+enderio.gui.cap_bank.output_mode=Выход
+
+# Power Monitor
+tile.block_power_monitor.name=Энергетический Экран
+tile.block_power_monitor.tooltip.detailed.line1=Отображение сведений об использовании и хранении энергии.
+tile.block_power_monitor.tooltip.detailed.line3=Может испускать сигнал красного камня на основаннии хранимой энергии.
+tile.block_power_monitor.tooltip.detailed.line5=Должен быть соединён с сетью EnderIO трубой.
+
+tile.block_advanced_power_monitor.name=Графический Энергетический Экран
+tile.block_advanced_power_monitor.tooltip.detailed.line1=Отображение сведений об использовании и хранении энергии.
+tile.block_advanced_power_monitor.tooltip.detailed.line3=Может испускать сигнал красного камня на основаннии хранимой энергии.
+tile.block_advanced_power_monitor.tooltip.detailed.line5=Должен быть соединён с сетью EnderIO трубой.
+
+enderio.gui.power_monitor.engine_control=Управление двигателем
+enderio.gui.power_monitor.emit=Подавать сигнал
+enderio.gui.power_monitor.engine_section1=Подать сигнал, если хранилище заполнено меньше
+enderio.gui.power_monitor.engine_section2=чем на
+enderio.gui.power_monitor.engine_section3=% от максимального.
+enderio.gui.power_monitor.engine_section4=Остановиться, если хранилище заполнено более
+enderio.gui.power_monitor.engine_section5=или точно
+enderio.gui.power_monitor.of=на
+enderio.gui.power_monitor.conduit_storage=Хранилище Труб
+enderio.gui.power_monitor.capbank_storage=Хранилище Энергохранилищ
+enderio.gui.power_monitor.machine_buffer=Буффер Машин
+enderio.gui.power_monitor.average_output=Средний выход за 5 секунд
+enderio.gui.power_monitor.average_input=Средний вход за 5 секунд
+enderio.gui.power_monitor.no_network_error=Нет соединения с сетью. Индикатор энергии должен быть подключён к сети для считывания информации.
+
+# Conduit Probe
+enderio.gui.conduit_probe.network_heading=Энергетическая сеть
+enderio.gui.conduit_probe.conduit_buffer=Встроенный буфер
+enderio.gui.conduit_probe.request_range=Диапазон запросов за тик
+enderio.gui.conduit_probe.current_request=Текущее потребление
+enderio.gui.conduit_probe.item_heading=Предметная труба
+enderio.gui.conduit_probe.item_no_connections=не имеет внешних соединений
+enderio.gui.conduit_probe.no_power_from_side=не может получать энергию с этой стороны
+enderio.gui.conduit_probe.connection_dir=соединение с:
+enderio.gui.conduit_probe.extracted_items=Экспортируемые предметы
+enderio.gui.conduit_probe.extracted_item=Предмет
+enderio.gui.conduit_probe.no_outputs=нет доступных выходов
+enderio.gui.conduit_probe.inserted_into=будет направлен:
+enderio.gui.conduit_probe.no_items=Не получает предметов.
+enderio.gui.conduit_probe.no_item=Не может получать
+enderio.gui.conduit_probe.receive_items=Может получать предметы от:
+enderio.gui.conduit_probe.receive_item1=Может получать
+enderio.gui.conduit_probe.receive_item2=от:
+
+enderio.gui.conduit_energy.header=Энергетическая Труба
+enderio.gui.conduit_item.header=Предметная Труба
+enderio.gui.conduit_fluid.header=Жидкостная Труба
+enderio.gui.conduit_redstone.header=Редстоуновая Труба
+
+enderio.gui.conduit_bundle_full=Полный комплект
+
+# Gauge
+tile.block_gauge.name=Измеритель µI
+tile.block_gauge.tooltip.detailed.line1=Отображает уровень µI в прилегающих блоках.
+
+
+enderio.config.capbank=Энергохранилище
+enderio.config.condit=Трубы
+enderio.config.condit.energy=Энергетические Трубы
+enderio.config.condit.fluid=Жидкостные Трубы
+enderio.config.condit.item=Предметные Трубы
+enderio.config.condit.redstone=Редстовые Трубы
+
+# Upgrades
+
+item.item_extract_speed_upgrade.name=Улучшение скорости извлечения для предметной трубы
+item.item_extract_speed_downgrade.name=Снижение скорости извлечения для предметной трубы
+item.item_inventory_panel_upgrade.name=Улучшеие панели инвентаря
+
+# GUI
+enderio.gui.conduit_insert_mode=Выводить
+enderio.gui.conduit_extract_mode=Извлекать
+enderio.gui.conduit_enabled_mode=Включено
+enderio.gui.conduit_disabled_mode=Выключено
+enderio.gui.redstone_conduit_input_mode=Ввод
+enderio.gui.redstone_conduit_output_mode=Вывод
+
+enderio.gui.conduit_channel=Канал
+enderio.gui.round_robin_enabled=Цикл включен
+enderio.gui.round_robin_disabled=Цикл выключен
+enderio.gui.self_feed_enabled=Авто-подача активна
+enderio.gui.self_feed_disabled=Авто-подача выключена
+enderio.gui.item_filter_upgrade=Улучшение Фильтра
+enderio.gui.item_function_upgrade=Возможные функциональные улучшения:
+enderio.gui.item_function_upgrade2=Макс. Скорость Улучшения 15
+enderio.gui.item_function_upgrade3=Макс. Снижение Скорости 1
+enderio.gui.signal_color=Цвет сигнала
+enderio.gui.priority=Приоритет
+
+enderio.gui.liquid_auto_extract=Авто-извлечение
+enderio.gui.liquid_filter=Фильтр
+enderio.gui.liquid_whitelist=Белый список
+enderio.gui.liquid_blacklist=Чёрный список
+
+enderio.gui.redstone_signal_strength=Сильный сигнал
+
+# Advancements
+
+enderio.advancement.conduits.root.name=Ender IO Трубы
+enderio.advancement.conduits.root.desc=Как много труб в одном блоке?
+
+enderio.advancement.conduits.binder_composite.name=Я не Грут!
+enderio.advancement.conduits.binder_composite.desc=Создайте немного Составного Связующего Элемента.
+
+# Temp?
+enderio.advancement.conduits.conduit_binder.name=Универсальное Связующее
+enderio.advancement.conduits.conduit_binder.desc=Создайте немного Связующего Элемента Труб.
+
+# Temp
+enderio.advancement.conduits.energy_conduit.basic.name=Базовая Энергетика
+enderio.advancement.conduits.energy_conduit.basic.desc=Создайте немного Энергетических Труб.
+
+# Temp
+enderio.advancement.conduits.energy_conduit.enhanced.name=Улучшенная Энергетика
+enderio.advancement.conduits.energy_conduit.enhanced.desc=Создайте немного Улучшенных Энергетических Труб. 
+
+# Temp
+enderio.advancement.conduits.energy_conduit.ender.name=Энергетика Края
+enderio.advancement.conduits.energy_conduit.ender.desc=Создайте немного Энергетических Эндер-Труб.
+
+# Temp
+enderio.advancement.conduits.fluid_conduit.basic.name=Основная Жидкость
+enderio.advancement.conduits.fluid_conduit.basic.desc=Создайте немного Жидкостных Труб.
+
+# Temp?
+enderio.advancement.conduits.fluid_conduit.pressurized.name=Под Давлением
+enderio.advancement.conduits.fluid_conduit.pressurized.desc=Создайте немного Жидкостных Труб под Давлением.
+
+enderio.advancement.conduits.fluid_conduit.ender.name=Немедленное Перемещение, Просто Добавьте Края
+enderio.advancement.conduits.fluid_conduit.ender.desc=Создайте немного Жидкостных Эндер-Труб.
+
+# Temp
+enderio.advancement.conduits.item_conduit.name=Транспортировка Предметов
+enderio.advancement.conduits.item_conduit.desc=Создайте немного Предметных Труб.
+
+enderio.advancement.conduits.basic_filter.name=Фильтрация для Чайников
+enderio.advancement.conduits.basic_filter.desc=Создайте Основной Предметный Фильтр.
+
+enderio.advancement.conduits.advanced_filter.name=Максимальный Контроль
+enderio.advancement.conduits.advanced_filter.desc=Создайте Расширенный Предметный Фильтр.
+
+enderio.advancement.conduits.big_filter.name=Максимальный Размер
+enderio.advancement.conduits.big_filter.desc=Создайте Большой Предметный Фильтр.
+
+enderio.advancement.conduits.big_advanced_filter.name=Один фильтр, чтобы управлять ими всеми
+enderio.advancement.conduits.big_advanced_filter.desc=Создайте Расширенный Большой Предметный Фильтр.
+
+# Temp
+enderio.advancement.conduits.redstone_conduit.name=Передача Редстоуна
+enderio.advancement.conduits.redstone_conduit.desc=Создайте немного Редстоуновых Труб.
+
+# Temp?
+enderio.advancement.conduits.all_conduits.name=Мастер на все руки
+enderio.advancement.conduits.all_conduits.desc=Создайте все существующие трубы.
+
+# Temp?
+enderio.advancement.conduits.all_filters.name=Максимальная Точность!
+enderio.advancement.conduits.all_filters.desc=Создайте все существующие фильтры.
+# Conduits
+enderio.item_me_conduit.name=ME Кабель
+enderio.item_me_conduit_dense.name=Умный ME Кабель
+# Conduits
+enderio.item_opencomputers_conduit.name=OC Кабель
+# Conduits
+enderio.item_refined_storage_conduit.name=Refined Storage Кабель
+# forestry
+
+enderio.darksteel.upgrade.naturalist_eye.name=Глаз натуралиста
+enderio.darksteel.upgrade.naturalist_eye.tooltip.detailed.line1=Показывает опыленные листья деревьев
+
+enderio.darksteel.upgrade.apiarist_armor.head.name=Шляпа Пчелова
+enderio.darksteel.upgrade.apiarist_armor.head.tooltip.detailed.line1=Защита от пчел
+
+enderio.darksteel.upgrade.apiarist_armor.chest.name=Рубашка Пчеловодоа 
+enderio.darksteel.upgrade.apiarist_armor.chest.tooltip.detailed.line1=Защита от пчел
+
+enderio.darksteel.upgrade.apiarist_armor.legs.name=Брюки Пчелова
+enderio.darksteel.upgrade.apiarist_armor.legs.tooltip.detailed.line1=Защита от пчел
+
+enderio.darksteel.upgrade.apiarist_armor.feet.name=Обувь Пчеловода 
+enderio.darksteel.upgrade.apiarist_armor.feet.tooltip.detailed.line1=Защита от пчел
+
+enderio.config.items.darksteel.upgrades.forestry=Forestry улучшения
+
+item.item_species_item_filter.name=Спецальный Предметный Фильтр
+
+# Tool Material Names
+material.dark_steel.name=Тёмная Сталь
+material.conductive_iron.name=Проводящее Железо
+material.electrical_steel.name=Наэлектризованная Сталь
+material.energetic_alloy.name=Энергетический Сплав
+material.pulsating_iron.name=Пульсирующее Железо
+material.redstone_alloy.name=Редстоуновый Сплав
+material.soularium.name=Соуларий
+material.vibrant_alloy.name=Вибрирющий Сплав
+material.end_steel.name=Энд-Сталь
+
+material.dark_steel.prefix=Тёмная %s
+material.conductive_iron.prefix=Проводящее %s
+material.electrical_steel.prefix=Наэлектризованная %s
+material.energetic_alloy.prefix=Энергетический %s
+material.pulsating_iron.prefix=Пульсирующее %s
+material.redstone_alloy.prefix=Редстоуновый %s
+material.soularium.prefix=Соуларий %s
+material.vibrant_alloy.prefix=Вибрирующий %s
+material.end_steel.prefix=%s Энда
+
+modifier.enderport.name=Исчезающий
+modifier.enderport.desc=§oПрочь с дороги!§r\nШанс телепортировать врагов.
+
+modifier.enderpickup.name=Прямой
+modifier.enderpickup.desc=§oЭто моё! Всё моё!§r\nТелепортирует добывают вещи прямо в ваш инвентарь.
+
+fluid.electrical_steel=Расплавленная Наэлектризованная Сталь
+tile.fluid.electrical_steel.name=Расплавленная Наэлектризованная Сталь
+fluid.energetic_alloy=Расплавленный Энергетический Сплав
+tile.fluid.energetic_alloy.name=Расплавленный Энергетический Сплав
+fluid.vibrant_alloy=Расплавленный Вибрирующий Сплав
+tile.fluid.vibrant_alloy.name=Расплавленный Вибрирующий Сплав
+fluid.redstone_alloy=Расплавленный Редстоуновый Сплав
+tile.fluid.redstone_alloy.name=Расплавленный Редстоуновый Сплав
+fluid.conductive_iron=Рассплавленное Проводящее Железо
+tile.fluid.conductive_iron.name=Расплавленное Проводящее Железо
+fluid.pulsating_iron=Расплавленное Пульсирующее Железо
+tile.fluid.pulsating_iron.name=Расплавленное Пульсирующее Железо
+fluid.dark_steel=Расплавленная Тёмная Сталь
+tile.fluid.dark_steel.name=Расплавленная Тёмная Сталь
+fluid.soularium=Расплавленный Соуларий
+tile.fluid.soularium.name=Расплавленный Соуларий
+fluid.end_steel=Расплавленная Энд-Сталь
+tile.fluid.end_steel.name=Расплавленная Энд-Сталь
+
+fluid.enderio.glowstone=Светогаз
+tile.fluid.enderio.glowstone.name=Светогаз
+fluid.enderio.redstone=Расплавлнный Редстоун
+tile.fluid.enderio.redstone.name=Расплавленный Редстоун
+fluid.enderio.ender=Сжиженный Жемчуг Края
+tile.fluid.enderio.ender.name=Сжиженный Жемчуг Края
+
+
+#PARSE_ESCAPES
+# ^ having this in the first line allows us to use "\uXXXX" escapes in this file
+
+#***  Ender IO Machines *****#
+
+# Translators, check your ".guess" file to see which keys your
+# language is missing and which keys it has that do not exist anymore.
+
+enderio.gui.combustion_generator.output=Генерируется: %s
+enderio.gui.combustion_generator.coolantTank.empty=Хладагент
+enderio.gui.combustion_generator.coolantTank=Хладагент: %s
+enderio.gui.combustion_generator.fuelTank.empty=Топливо
+enderio.gui.combustion_generator.fuelTank=Топливо: %s
+
+enderio.gui.alloy.mode.heading=Режим Печи
+enderio.gui.alloy.mode.all=Совмещённый Режим
+enderio.gui.alloy.mode.alloy=Только Сплавлять
+enderio.gui.alloy.mode.furnace=Только Печь
+
+enderio.gui.buffer.in=Макс. Ввод:
+enderio.gui.buffer.out=Макс. Вывод:
+enderio.gui.buffer.maxio=Ввод/Вывод Макс.: %s
+
+enderio.gui.farm.baseUse=Базвое потребление: %s
+
+enderio.gui.ranged.showRange=Показать Дальность
+enderio.gui.ranged.hideRange=Скрыть Дальность
+enderio.gui.ranged.range=Дальность: %s
+
+enderio.gui.stirling_generator.output=Генерируется: %s
+enderio.gui.stirling_generator.burnRate=Время сгорания: %s%%
+enderio.gui.stirling_generator.upgradeslot=Слот для Улучшения
+enderio.gui.stirling_generator.upgrades={0} даёт {2}{1,number,#.#}x{3} эффективности.
+enderio.gui.stirling_generator.remaining=Осталось {0,number,percent}|{1,choice,0#|0<{1}m }{2,number}s|{3,number,#,###} µI
+
+enderio.gui.zombie_generator.output=Генерирует: %s
+enderio.gui.zombie_generator.fuelTank=Резервуар для Питательного Дистиллята
+enderio.gui.zombie_generator.fluid.minReq=%s Требуется для активации
+
+enderio.gui.killerJoe.fuelTank=Резервуар для Питательного Дистиллята
+enderio.gui.killerJoe.fluid.minReq=%s Требуется для активации
+
+enderio.gui.weather_obelisk.fuelTank=Резервуар для Катализатора
+
+enderio.gui.xp_obelisk.button.store.1.line1=Отдать 1
+enderio.gui.xp_obelisk.button.store.1.line2=уровень опыта игрока.
+enderio.gui.xp_obelisk.button.store.10.line1=Отдать 10
+enderio.gui.xp_obelisk.button.store.10.line2=уровней опыта игрока.
+enderio.gui.xp_obelisk.button.store.all.line1=Отдать весь
+enderio.gui.xp_obelisk.button.store.all.line2=опыт игрока.
+enderio.gui.xp_obelisk.button.retrieve.1.line1=Забрать 1
+enderio.gui.xp_obelisk.button.retrieve.1.line2=уровень опыта игроку.
+enderio.gui.xp_obelisk.button.retrieve.10.line1=Забрать 10
+enderio.gui.xp_obelisk.button.retrieve.10.line2=уровней опыта игроку.
+enderio.gui.xp_obelisk.button.retrieve.all.line1=Забрать все
+enderio.gui.xp_obelisk.button.retrieve.all.line2=уровни опыта игроку.
+enderio.gui.xp_obelisk.button.retrieve.all.line3=§aДаст тебе %d
+enderio.gui.xp_obelisk.button.retrieve.empty=§4Обелиск Опыта пуст!
+enderio.gui.xp_obelisk.button.store.empty=§4У тебя нет опыта!
+
+enderio.block_solar_panel.tooltip.maxoutput=Макс. выход: %s
+
+enderio.gui.soul_binder.useplayerxp=Использует Опыт Игрока
+
+enderio.block_powered_spawner.tooltip.empty=Пусто
+enderio.gui.powered_spawner.capture=Захватить
+enderio.gui.powered_spawner.spawn=Спаунить
+enderio.block_powered_spawner.note.areaFull=Слишком много мобов!
+enderio.block_powered_spawner.note.noLocationFound=Не найдено места
+enderio.block_powered_spawner.note.noLocationAtAll=Нет жизнеспособного пространства
+enderio.block_powered_spawner.note.badSoul=Плохая душа, не могу создать сущность.
+enderio.block_powered_spawner.note.noPlayer=Нет игрока в диапазоне
+
+enderio.gui.tank.tank=Резервуар
+enderio.gui.tank.void.slot=Пустотный Слот
+enderio.gui.tank.void.mode=Пустотный Режим
+enderio.gui.tank.void.mode.always=Всегда
+enderio.gui.tank.void.mode.always.desc=Пустотный слот принимает все предметы
+enderio.gui.tank.void.mode.if_not_container=Если нет контейнера
+enderio.gui.tank.void.mode.if_not_container.desc=Пустотный слот принимает все предметы, которые не являются жидкими контейнерами.
+enderio.gui.tank.void.mode.never=Никогда
+enderio.gui.tank.void.mode.never.desc=Пустотный слот не принимает предметы
+
+enderio.gui.vat.inputTank=Вводый Резервуара
+enderio.gui.vat.outputTank=Выводный Резервуара
+enderio.gui.vat.dump=Переместить жидкость из Вводного Резервуара в Выводный Резервуар
+enderio.gui.vat.void=Пустотный Выводный Резервуар
+enderio.chat.vat.dump.fail=Ошибка перемещения, Выводный Резервуар не пуст.
+enderio.chat.vat.dump.active=Ошибка перемещения, невозможно переместить жидкость в Выводный Резервуар, пока Чан работает!
+
+enderio.gui.vacuum.range=Сила всасывания
+enderio.gui.vacuum.header.chest=Вакуумный Сундук
+enderio.gui.vacuum.header.filter=Предметный Фильтр
+enderio.gui.vacuum.header.range=Дальность
+enderio.gui.vacuum.xp.header=Вакуум Опыта
+enderio.gui.vacuum.prime=Чтобы активировать, ПКМ по Вакууму Опыта с ведром Жидкого Опыта.
+
+enderio.gui.trans.publicChannel=Публичный Канал
+enderio.gui.trans.privateChannel=Приватный Канал
+enderio.gui.trans.addChannel=Добавить Канал
+enderio.gui.trans.deleteChannel=Удалить Канал
+enderio.gui.trans.available=Доступный
+enderio.gui.trans.receive=Получить
+enderio.gui.trans.send=Отправить
+enderio.gui.trans.buffer.local=Локальный Буффер
+enderio.gui.trans.buffer.local.upkeep=Содержание: %s
+enderio.gui.trans.buffer.shared=Буфер Отправки/Получения
+enderio.gui.trans.buffer.shared.maxIo=Макс. IO: %s
+enderio.gui.trans.buffer.item.stacks=Принять стак предметов
+enderio.gui.trans.buffer.item.single=Ограничение на отдельные предметы
+enderio.gui.trans.channel.receive=Получить
+enderio.gui.trans.channel.send=Отправить
+
+enderio.gui.travel_accessable.public=Публичный
+enderio.gui.travel_accessable.private=Приватный
+enderio.gui.travel_accessable.protected=Защита
+enderio.gui.travel_accessable.prompt=Код Доступа
+enderio.gui.travel_accessable.promp.login=Авторизация
+enderio.chat.travel_accessable.error.private=Только §4%s §fможет изменить настройки этого блока.
+enderio.chat.travel_accessable.error.harvest=Только §4%s §fможет собрать этот блок.
+enderio.gui.travel_accessable.visible.line1=Видимость
+enderio.gui.travel_accessable.visible.line2=Этот блок можно увидеть держа, Посох Путешествия или встав на Якорь Путешествия.
+
+enderio.chat.telepad.noFluid=Недостаточно %s для телепортации!
+enderio.gui.telepad.configure.travel=Настройки Путешествия.
+enderio.gui.telepad.configure.telepad=Настройки Телепада.
+enderio.gui.telepad.blocked=Телепортация Заблокирован!
+enderio.gui.telepad.teleport=Телепортация!
+enderio.gui.telepad.tank=Резервуар для Реагента
+enderio.gui.telepad.max=Макс.: %s
+enderio.status.telepad.unformed=§4Телепад должен быть структурой 3x3
+enderio.gui.telepad.unnamed_location=Безымянный
+enderio.gui.telepad_travel_settings.close=Закрыть настройки Путешествия.
+enderio.gui.telepad_travel_settings.close2=Вернуться к предыдущему инвентарю.
+
+enderio.gui.impulse_hopper.locked=Ввод Заблокирован.
+enderio.gui.impulse_hopper.unlocked=Вывод Заблокирован.
+enderio.gui.impulse_hopper.locked.tooltip=Останавливает Предметную Воронку от сортировать детали в слот выхода если детали внутри там уже.
+
+enderio.gui.crafter.buffering_stack=Хранит стак предметов
+enderio.gui.crafter.buffering_single=Хранит один предмет
+
+tile.block_alloy_smelter.name=Завод Сплавов
+tile.block_alloy_smelter.tooltip.detailed.line1=Используется для создания слпавов EnderIO.
+tile.block_alloy_smelter.tooltip.detailed.line2=Может использоваться, как энергетическая печь.
+tile.block_alloy_smelter.tooltip.detailed.line3=Улучшается с помощью конденсаторов, чтобы увеличить скорость и хранимую энергию.
+
+tile.block_simple_alloy_smelter.name=Простой Завод Сплавов
+tile.block_simple_alloy_smelter.tooltip.detailed.line1=Используется для создания сплавов EnderIO.
+
+tile.block_buffer.item.name=Предметный Буффер
+tile.block_buffer.power.name=Энергетический Буффер
+tile.block_buffer.omni.name=Совмещённый Буффер
+tile.block_buffer.creative.name=Творческий Буффер
+
+tile.block_enchanter.name=Зачарователь
+tile.block_enchanter.tooltip.detailed.line1=Использует опыт, чтобы объединять предметы с §6Книгой и Пером§r для создания Чародейский Книг.
+
+tile.block_farm_station.name=Фермерская Станция
+tile.block_farm_station.tooltip.detailed.line1=Сажает и собирает культуры.
+tile.block_farm_station.tooltip.detailed.line2=Требуется энергия и соответствующие инструменты (мотыга, топор, ножницы, удобрение)
+tile.block_farm_station.tooltip.detailed.line3=Добыча/Удача на инструментах применяется при сборке культур
+tile.block_farm_station.tooltip.detailed.line4=Улучшение с помощью конденсаторов увеличивает дальность работы, улучшение так же увеличивает энергопотребление.
+
+enderio.gui.obelisk.no_vials=Нехватает Флаконов с Душами!
+
+#lights
+
+tile.block_electric_light.electric.name=Электрический Светильник
+
+tile.block_electric_light.electric.inverted.name=Электрический Светильник (Инвертированный)
+
+tile.block_electric_light.name=Светильник
+
+tile.block_electric_light.inverted.name=Светильник (Инвертированный)
+
+tile.block_electric_light.wireless.name=Беспроводной Светильник
+
+tile.block_electric_light.wireless.inverted.name=Беспроводной Светильник (Инвертированный)
+
+#generators
+
+tile.block_enhanced_combustion_generator.name=Улучшеный Генератор Внутреннего Сгорания
+
+tile.block_combustion_generator.name=Генерато Внутреннего Сгорания
+tile.block_combustion_generator.tooltip.detailed.line1=Сжигает жидкое топливо для производства энергии.
+tile.block_combustion_generator.tooltip.detailed.line2=Требует охладитель (например воду).
+tile.block_combustion_generator.tooltip.detailed.line3=Выход зависит от топлива.
+
+tile.block_simple_stirling_generator.name=Простой Генератор Стирлинга
+
+tile.block_stirling_generator.name=Генератор Стирлинга
+tile.block_stirling_generator.tooltip.detailed.line1=Сжигает твёрдое топливо для производства энергии.
+tile.block_stirling_generator.tooltip.detailed.line2=Может быть улучшен конденсаторами,чтобы увеличить выход и эффективность.
+
+tile.block_zombie_generator.name=Зомби Генератор
+tile.block_zombie_generator.tooltip.detailed.line1=Потребляет Питательный Дистиллят для производства энергии.
+
+tile.block_killer_joe.name=Убийца Джо
+tile.block_killer_joe.tooltip.detailed.line1=Аттакует ближайших существ, когда снабжён мечом и Питательным Дистиллятом
+
+#Obelisks
+
+tile.block_attractor_obelisk.name=Привлекающий Обелиск
+tile.block_attractor_obelisk.tooltip.detailed.line1=Привлекает мобов к себе.
+tile.block_attractor_obelisk.tooltip.detailed.line2=Укажите мобов для привлечения, поместив Флакон с Душой в Обелиск.
+
+tile.block_aversion_obelisk.name=Обелиск Отвращения
+tile.block_aversion_obelisk.tooltip.detailed.line1=Запрещает мобам появляться в радиусе действия обелиска.
+
+tile.block_inhibitor_obelisk.name=Обелиск Замедления
+tile.block_inhibitor_obelisk.tooltip.detailed.line1=Запрещает телепортироваться в радиусе действия обелиска.
+
+tile.block_relocator_obelisk.name=Обелиск Перемещение
+tile.block_relocator_obelisk.tooltip.detailed.line1=Перемещает мобов, которые появляются в радиусе действия обелиска.
+
+tile.block_weather_obelisk.name=Погодный Обелиск
+tile.block_weather_obelisk.tooltip.detailed.line1=Изменяет текущую погоду.
+tile.block_weather_obelisk.tooltip.detailed.line2=Требует много энергии и жидкого катализатора.
+
+tile.block_experience_obelisk.name=Обелиск Опыта
+tile.block_experience_obelisk.tooltip.detailed.line1=Хранит Опыт
+tile.block_experience_obelisk.tooltip.detailed.line2=Может выводить Жидкий Опыт в прилегающие резервуары.
+
+# no description
+tile.block_painter.name=Покрасочная Машина
+
+tile.block_reservoir.name=Резервуар
+tile.block_reservoir.tooltip.detailed.line1=Когда совмещён с други таким же резервуаром:
+tile.block_reservoir.tooltip.detailed.line2=Добавьте два ведра воды, чтобы получить бесконченый источник.
+tile.block_reservoir.tooltip.detailed.line3=Производит одно ведро в секунду.
+tile.block_reservoir.tooltip.detailed.line4=ПКМ Гаечным Ключом Йэта, чтобы включить авто-выход.
+
+tile.block_sag_mill.name=Дробитель
+tile.block_sag_mill.tooltip.detailed.line1=Измельчает руды и другие предметы.
+tile.block_sag_mill.tooltip.detailed.line2=Добавьте Шарики для увеличения выхода и эффективности.
+tile.block_sag_mill.tooltip.detailed.line3=Улучшается с помощью конденсаторов, чтобы увеличить скорость и хранимую энергию.
+
+tile.block_simple_sag_mill.name=Простой Дробитель
+tile.block_simple_sag_mill.tooltip.detailed.line1=Измельчает руды и другие предметы.
+
+tile.block_slice_and_splice.name=«Отрубатель и Сращиватель»
+tile.block_slice_and_splice.tooltip.detailed.line1=Отрубает головы и превращает их во всякие полезные вещи.
+
+tile.block_solar_panel.simple.name=Простая Фотоэлементная Ячейка
+tile.block_solar_panel.name=Фотоэлементная Ячейка
+tile.block_solar_panel.advanced.name=Продвинутая Фотоэлементная Ячейка
+tile.block_solar_panel.vibrant.name=Вибрирующая Фотоэлементная Ячейка
+tile.block_solar_panel.tooltip.common.line1=Солнечная Энергия!
+tile.block_solar_panel.tooltip.detailed.line1=Производит энергию в светлое время суток.
+tile.block_solar_panel.tooltip.detailed.line2=Должна иметь чистое пространство к небу.
+enderio.jei.solar_panel.output=Генерирует
+enderio.jei.solar_panel.range.line1=Фактическая мощность зависит от погоды и угла падения солнечных лучей.
+
+tile.block_soul_binder.name=Связыватель Душ
+tile.block_soul_binder.tooltip.detailed.line1=Используется для преобразования типа сломанного спаунера.
+
+tile.block_powered_spawner.name=Заряженый Спаунер
+
+tile.block_powered_spawner.empty.tooltip.detailed.line1=Совместите со сломанным спаунером на наковальне.
+tile.block_powered_spawner.tooltip.detailed.line1=Подайте энергию, чтобы активировать
+tile.block_powered_spawner.tooltip.detailed.line2=Добавьте конденсаторы, чтобы увеличить скорость и хранимую энергию.
+
+tile.block_tank.name=Жидкостный Резервуар
+tile.block_tank.advanced.name=Жидкостный Резервуар под Давлением
+tile.block_tank.tooltip.detailed.line1=Переносной жидкостный резервуар.
+tile.block_tank.tooltip.detailed.line2=Может быть использован для опустошения и заполнения жидкостных контейнеров.
+
+#Travel
+tile.block_travel_anchor.name=Якорь Путешествия
+tile.block_travel_anchor.tooltip.detailed.line1=Позволяет телепортироваться между якорями.
+tile.block_travel_anchor.tooltip.detailed.line2=Встаньте на один якорь, посмотрите на другой и прыгните для путешествия.
+tile.block_travel_anchor.tooltip.detailed.line4=Может также использоваться с Посохом Путешествия.
+tile.block_travel_anchor.tooltip.detailed.line6=Может быть покрашен в Покрасочной Машине.
+
+
+tile.block_tele_pad.name=Блок Телепада
+tile.block_tele_pad.tooltip.detailed.line1=Использует энергию, чтобы телепортировать объекты в определенное место или измерение.
+tile.block_tele_pad.tooltip.detailed.line2=Необходимо разместить,как многоблочную струтуру 3x1x3.
+
+tile.block_dialing_device.name=Наборное Устройство
+tile.block_dialing_device.tooltip.detailed.line1=Располагается рядом с Телепадом.
+tile.block_dialing_device.tooltip.detailed.line2=Хранит и устанавливает места назначения.
+
+
+tile.block_transceiver.name=Пространственный Трансивер
+tile.block_transceiver.tooltip.detailed.line1=Транспортирует предметы, жидкости и энергию без проводов через любое расстояние и между измерениями.
+
+tile.block_vacuum_chest.name=Вакуумный Сундук
+tile.block_vacuum_chest.tooltip.detailed.line1=Тянет близлежащие предметы в свой инвентарь.
+
+
+tile.block_xp_vacuum.name=Вакуум Опыта
+tile.block_xp_vacuum.tooltip.detailed.line1=Тянет близлежащие сферы опыта и выталкивает в прилегающие резервуары/трубы.
+tile.block_xp_vacuum.tooltip.detailed.line2=Необходимо активировать с помощью ведра с Жидким Опытом.
+
+tile.block_vat.name=Чан
+tile.block_vat.tooltip.detailed.line1=Используется для варки жидкостей EnderIO.
+
+tile.block_wired_charger.name=Зарядная Станция
+tile.block_wired_charger.tooltip.detailed.line1=Заряжает предметы с µI
+
+tile.block_wireless_charger.name=Беспроводная Зарядная Станция
+tile.block_wireless_charger.tooltip.detailed.line1=Заряжает предметы в ближайшем инветоре игрока.
+
+tile.block_impulse_hopper.name=Импульсная Воронка
+tile.block_impulse_hopper.tooltip.detailed.line1=Принимает встроенные предметы и выводит их только в том случае, если во входных данных имеется полный набор необходимых элементов.
+
+tile.block_crafter.name=Крафтер
+
+tile.block_simple_crafter.name=Простой Крафтер
+
+# Types. smelting=Alloy Smelter Speed,
+# area=all machines "area" attribute (e.g. farm),
+# green=Farming Station area, red=Stirling Generator power generation, mobby=spawner speedup,
+# crushed=sag mill speed, cleancut=slice'n'splice speed, tight=soul binder speed, aa=painter,
+# wet=vat, kaboom=combustion gen power gen, fatman=codename for the atomic bomb that was
+# detonated over Nagasaki 
+enderio.loot.capacitor.smelting=Плавильный %s
+enderio.loot.capacitor.area=Большое %s
+enderio.loot.capacitor.green=Засаживающий %s
+enderio.loot.capacitor.red=Горячий %s
+enderio.loot.capacitor.mobby=Злодейский %s
+enderio.loot.capacitor.crushed=Измельчающий %s
+enderio.loot.capacitor.cleancut=Чисто срезанный %s
+enderio.loot.capacitor.tight=Плотный %s
+enderio.loot.capacitor.aa=Скрытый %s
+enderio.loot.capacitor.wet=Готовящий %s
+enderio.loot.capacitor.kaboom=Взрывной %s
+enderio.loot.capacitor.fatman=Атомный %s
+
+enderio.jei.sagmill.outputchance=Чанс: {0,choice,0#'<1'|0<{0,number}}%
+enderio.jei.combustion_generator.range.line1=В зависимости от модели конденсатора и генератора.
+enderio.jei.combustion_generator.range.line2=Более лучший конденсатор дает более высокий выход на более высокой стоимости топлива.
+enderio.jei.combustion_generator.range.line3=Более лучшая модель дает больше выхода на таких же топливных затратах.
+enderio.jei.combustion_generator.range.line4=Некоторые древние конденсаторы, которые можно найти в мире, могут дать даже лучшие результаты, чем показано здесь.
+enderio.jei.stirling_generator.range.line1=Актуальная генерируемая энергия зависит
+enderio.jei.stirling_generator.range.line2=от модели конденсатора и генератора.
+enderio.jei.stirling_generator.notSimple.line1=Это топливо нельзя использовать в
+enderio.jei.stirling_generator.notSimple.line2=Простом Генераторе Стирлинга.
+enderio.jei.alloy_smelter.notSimple.line1=Этот рецепт не может быть создан в 
+enderio.jei.alloy_smelter.notSimple.line2=Простом Заводе Сплавов
+enderio.jei.grinding_ball.main.line1=Добавляет шанс удвоить все выходы.
+enderio.jei.grinding_ball.bonus.line1=Увеличивает шансы на любые случайные выходы, но не принесет их выше 100%%
+enderio.jei.grinding_ball.bonus.line2=Рассчитывается как оригинальный шанс * бонусный шанс.
+enderio.jei.grinding_ball.power.line1=Влияет на силу используемую в деятельности, быстро проходит-вверх или замедляюет машину.
+
+
+enderio.darksteel.upgrade.solar_1.name=Солнечна Ячейка I
+enderio.darksteel.upgrade.solar_1.tooltip.detailed.line1=Генерирует энергию от солнца.
+
+enderio.darksteel.upgrade.solar_2.name=Солнечна Ячейка II
+enderio.darksteel.upgrade.solar_2.tooltip.detailed.line1=Генерирует энергию от солнца.
+
+enderio.darksteel.upgrade.solar_3.name=Солнечна Ячейка III
+enderio.darksteel.upgrade.solar_3.tooltip.detailed.line1=Генерирует энергию от солнца.
+
+enderio.config.capacitor=Зеачение Конденсаторов
+enderio.config.client=Настройки Клиента
+
+enderio.config.soulbinder=Связыватель Душ
+enderio.config.spawner=Энергетический Спаунер
+enderio.config.spawner.tooltip=У меня кончились остроумные подсказки.
+enderio.config.vacuum=Вакуумный Сундук/Вакуум Опыта
+enderio.config.vat=Чан
+enderio.config.telepad=Телепад
+enderio.config.weather=Погодный Обелиск
+enderio.config.farm=Фермерская Фермерская
+enderio.config.farm.tooltip="Коммуна на всю жизнь!"
+enderio.config.inhibitor=Обелиск Замедления
+enderio.config.killerjoe=Убийца Джо
+enderio.config.experience=Обелтск Опыта
+enderio.config.tank=Резервуар
+enderio.config.tranceiver=Трансивер
+
+enderio.config.generator=Генераторы
+enderio.config.generator.combustion=Генератор Внутреннего Сгорания
+enderio.config.generator.zombie=Зомби Генератор
+enderio.config.generator.solar=Фотоэлементная Ячейка
+
+# Achie...um...Advancements
+
+enderio.advancement.alloy.1_alloy_smelter_get.name=Сплавы и Существа
+enderio.advancement.alloy.1_alloy_smelter_get.desc=Создайте Простой Завод Сплавов.
+
+enderio.advancement.alloy.2_energetic_alloy_get.name=Энергетческий металл
+enderio.advancement.alloy.2_energetic_alloy_get.desc=Совместите золото, редстоун, и светопыль.
+
+enderio.advancement.alloy.machine_chassis_get.name=Вершина!
+enderio.advancement.alloy.machine_chassis_get.desc=Создайте Промышленный Корпус Машины.
+
+enderio.advancement.challenge.1_all_simple_get.name=Начало начала
+enderio.advancement.challenge.1_all_simple_get.desc=Создайте все простые машины.
+
+enderio.advancement.sagmill.1_sagmill_get.name=Полу-Автогенное Измельчение
+enderio.advancement.sagmill.1_sagmill_get.desc=Создайте Простой Дробитель
+
+enderio.advancement.sagmill.2_sagmill_flowers.name=Разруште что-то красивое
+enderio.advancement.sagmill.2_sagmill_flowers.desc=Измельчите некоторые растения.
+
+enderio.advancement.sagmill.3_sagmill_bushes.name=Полезно в Смерти
+enderio.advancement.sagmill.3_sagmill_bushes.desc=Измельчите Мёртый Куст
+
+enderio.advancement.sagmill.4_brown.name=Кому нужны джунгли?
+enderio.advancement.sagmill.4_brown.desc=Совместите некоторые хворостинки и органическую краску.
+
+enderio.advancement.sagmill.5_green.name=Внимание: Не Ешьте!
+enderio.advancement.sagmill.5_green.desc=Совместите немного растительного вещества и продукты животного происхождения в краску.
+
+enderio.advancement.sagmill.6_coal.name=Пережёванное Мёртвое Дерево
+enderio.advancement.sagmill.6_coal.desc=Измельчите немного угля
+
+enderio.advancement.sagmill.7_black.name=Кому нужны спруты?
+enderio.advancement.sagmill.7_black.desc=Совместите немного угольной пыли и продукты животного происхождения в краску.
+
+enderio.advancement.sagmill.8_blue.name=Украшенный Драгоценными Камнями
+enderio.advancement.sagmill.8_blue.desc=Измельчите Лазурит.
+
+enderio.advancement.sagmill.9_white.name=Украшенный Драгоценными Камнями 2
+enderio.advancement.sagmill.9_white.desc=Измельчите Кварц.
+
+enderio.advancement.sagmill.a_powder_coating.name=Классический Цвет
+enderio.advancement.sagmill.a_powder_coating.desc=Создайте немного Промышленного Покрытия Корпуса Машины.
+
+enderio.advancement.stirling.1_stirling_generator_get.name=Используйте Тепло!
+enderio.advancement.stirling.1_stirling_generator_get.desc=Создайте Просто Генератор Стирлинга
+
+enderio.advancement.machines.root.name=Ender IO Машины
+enderio.advancement.machines.root.desc=Начните свое приключение автоматизации
+

@@ -1,0 +1,109 @@
+# ru_RU
+#
+#############
+#   Items   #
+#############
+#
+# Resources
+item.resource.diamond_lattice.name=Алмазная Решетка
+item.resource.crystal_matrix_ingot.name=Слиток Кристаллической Матрицы
+item.resource.neutron_pile.name=Кучка Нейронов
+item.resource.neutron_nugget.name=Нейтронный Самородок
+item.resource.neutronium_ingot.name=Нейтронный Слиток
+item.resource.infinity_catalyst.name=Катализатор Бесконечности
+item.resource.infinity_ingot.name=Бесконечный Слиток
+item.resource.record_fragment.name=Фрагмент Записи
+#
+# Singularities
+item.singularity.iron.name=Железная Сингулярность
+item.singularity.gold.name=Золотая Сингулярность
+item.singularity.lapis.name=Лазуритовая Сингулярность
+item.singularity.redstone.name=Редстоуновая Сингулярность
+item.singularity.quartz.name=Кварцевая Сингулярность
+item.singularity.copper.name=Медная Сингулярность
+item.singularity.tin.name=Оловянная Сингулярность
+item.singularity.lead.name=Свинцовая Сингулярность
+item.singularity.silver.name=Серебряная Сингулярность
+item.singularity.nickel.name=Никелевая Сингулярность
+item.singularity.diamond.name=Алмазная Сингулярность
+item.singularity.emerald.name=Изумрудная Сингулярность
+item.singularity.fluxed.name=Флаксовая Сингулярность
+item.singularity.platinum.name=Платиновая Сингулярность
+item.singularity.iridium.name=Иридиевая Сингулярность
+#
+# Tools
+item.avaritia:infinity_sword.name=Меч Космоса
+item.avaritia:infinity_bow.name=Небесный Лук
+item.avaritia:infinity_pickaxe.name=Мировой Прерыватель
+item.avaritia:infinity_shovel.name=Пожиратель Планет
+item.avaritia:infinity_axe.name=Руина природы
+item.avaritia:infinity_hoe.name=Мотыга Зеленой Земли
+item.avaritia:skullfire_sword.name=Меч Огненного Черепа
+#
+# Armor
+item.avaritia:infinity_helmet.name=Бесконечный Шлем
+item.avaritia:infinity_chestplate.name=Бесконечный Нагрудник
+item.avaritia:infinity_pants.name=Бесконечные Поножи
+item.avaritia:infinity_boots.name=Бесконечные Ботинки
+#
+# Misc
+item.avaritia:endest_pearl.name=Крайняя Жемчужина
+item.avaritia:cosmic_meatballs.name=Космические Фрикадельки
+item.avaritia:ultimate_stew.name=Предельное Блюдо
+item.avaritia:cosmic_meatballs.name=Космические Фрикадельки
+item.avaritia_fracturedore.name=Неизвестная Трещиноватая Руда
+item.avaritia_fracturedore.prefix=Трещиноватая
+item.avaritia:matter_cluster.name=Кластер Материи
+item.avaritia:matter_cluster.full.name=Кластер Критических Веществ
+#
+#
+##############
+#   Blocks   #
+##############
+#
+# Crafting
+tile.avaritia:compressed_crafting_table.name=Сжатый Верстак
+tile.avaritia:double_compressed_crafting_table.name=Дважды Сжатый Верстак
+tile.avaritia:extreme_crafting_table.name=Крайний Верстак
+#
+# Resource
+tile.avaritia:block_resource.neutronium.name.name=Блок Нейтрония
+tile.avaritia:block_resource.infinity.name.name=Блок Бесконечности
+tile.avaritia:block_resource.crystal_matrix.name.name= Кристаллическая Матрица
+#
+# Machines
+tile.avaritia:neutron_collector.name=Нейтронный Коллектор
+tile.avaritia:neutronium_compressor.name=Нейтронный Компрессор
+
+############
+#   Misc   #
+############
+#
+#
+# Tooltips
+tooltip.item.resource.crystal_matrix_ingot.desc=Это даже не окончательная форма.
+tooltip.item.resource.neutron_pile.desc=Старайся не думать об этом.
+tooltip.item.resource.neutron_nugget.desc=Около 35,6 млн тонн.
+tooltip.item.resource.neutronium_ingot.desc=Плотное сердце звезды в удобной форме слитка.
+tooltip.item.resource.infinity_catalyst.desc=Одно есть все, и все есть одно.
+tooltip.item.resource.infinity_ingot.desc=Ярость Вселенной в вашей ладони.
+tooltip.item.resource.record_fragment.desc=Нравится верить в свободу музыки~
+tooltip.skullfire_sword.desc=Обезглавливает скелеты и выжигает их черным.
+tooltip.matter_cluster.desc=Используется для деконструкции.
+tooltip.matter_cluster.desc2=Удерживайте SHIFT для содержимого.
+tooltip.matter_cluster.counter=items
+#
+# Other
+itemGroup.avaritia=Avaritia
+container.neutron_collector=Нейтронный Коллектор
+container.neutronium_compressor=Нейтронный Компрессор
+crafting.extreme=Крайний Верстак
+crafting.extreme.shapeless=Крайний Верстак (бесформенный)
+crafting.extreme_compression=Нейтронный Компрессор
+tip.infinity=Бесконечность
+death.attack.infinity=%1$s was obliterated by %2$s
+death.attack.infinity.item=%1$s was obliterated by %2$s
+death.attack.infinity.1=%1$s was sliced to ribbons by %2$s
+death.attack.infinity.2=%1$s was excised from existence by %2$s
+death.attack.infinity.3=%1$s was overkilled by %2$s
+death.attack.infinity.4=%1$s was annihilated by %2$s

@@ -1,0 +1,23 @@
+{
+  "name": "Жук",
+  "icon": "mysticalworld:carapace",
+  "category": "creatures",
+  "flag": "roots:beetle",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "beetle",
+      "breed": "Размножение: арбуз.",
+      "tame": "Приручение: семена арбуза.",
+      "blurb": "SHIFT+ПКМ свободной рукой позволяет посадить жука себе на плечи!"
+    },
+    {
+      "type": "entity",
+      "name": "Жук",
+      "entity": "mysticalworld:entity_beetle",
+      "scale": 1.5,
+      "offset": -0.3,
+      "text": "Повторное нажатие SHIFT+ПКМ рукой отпускает жука на землю."
+    }
+  ]
+}

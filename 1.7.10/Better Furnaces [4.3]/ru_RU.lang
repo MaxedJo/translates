@@ -1,0 +1,41 @@
+tile.flabs.bf.0.name=Железная печь
+tile.flabs.bf.1.name=Золотая печь
+tile.flabs.bf.2.name=Алмазная печь
+tile.flabs.bf.3.name=Адская печь
+tile.flabs.bf.4.name=Экстремальная печь
+
+item.flabs.upender.name=Улучшение эффективности топлива
+item.flabs.upore.name=Улучшение обработки руды
+item.flabs.upstorage.name=Улучшение хранилища
+item.flabs.upliquid.name=Улучшение жидкого топлива
+item.flabs.upadvender.name=Продвинутое улучшение эффективности топлива
+item.flabs.upadvore.name=Продвинутое улучшение обработки руды
+item.flabs.upcolor.name=Улучшение цвета
+item.flabs.upoutput.name=Улучшение авто-вывода
+item.flabs.upinput.name=Улучшение авто-ввода
+item.flabs.upfactory.name=Улучшение автоматизации
+item.flabs.upfactory.desc=Не влияет на соединения труб
+item.flabs.uporedict.name=Улучшение рудного словаря
+item.flabs.uppackage.name=Улучшение упаковки
+item.flabs.uppiping.name=Улучшение труб
+item.flabs.uppiping.desc1=Изменяет стороны, на которых
+item.flabs.uppiping.desc2=печь соединяется с воронками и трубами
+
+gui.flabs.outdir=Направление вывода:
+gui.flabs.indir=Направление ввода:
+gui.flabs.findir=Направление ввода топлива:
+gui.flabs.top=Сверху
+gui.flabs.bot=Снизу
+gui.flabs.lef=Слева
+gui.flabs.rig=Справа
+gui.flabs.bac=Сзади
+gui.flabs.red=Красный
+gui.flabs.gre=Зелёный
+gui.flabs.blu=Синий
+
+achievement.buildBetterFurnace = Железная плавильня
+achievement.buildBetterFurnace.desc = Сделать железную печь
+achievement.buildExtremeFurnace = Максимально
+achievement.buildExtremeFurnace.desc = Сделать экстремальную печь
+
+itemGroup.flabs.bfct=Better Furnaces

@@ -1,0 +1,312 @@
+#Tab
+itemGroup.tabTeaStory=TeaStory: Чайный листок
+itemGroup.tabTeaRice=TeaStory: Рис
+itemGroup.tabTeaDrink=TeaStory: Чайный напиток
+
+#Tooltip
+teastory.tooltip.tea_seeds.height=Suitable altitude：80~110m
+teastory.tooltip.tea_seeds.temperature=Suitable temperature: warm
+teastory.tooltip.tea_seeds.humidity=Suitable humidity: humid
+teastory.tooltip.tea_residue=Can be used as bonemeal
+teastory.tooltip.soil_detection_meter=Right click for details
+teastory.tooltip.shennong_ruler=Right click for regeneration; poison attacks
+teastory.tooltip.kettle.remain=Remaining capacity: %1$s / %2$s
+teastory.tooltip.kettle.tips=Right click with empty hand to pick up
+teastory.tooltip.cup=Right click with empty hand while sneaking to place or pick up
+teastory.tooltip.shiftfordetail=Hold Shift for Details
+teastory.tooltip.rice_seedling.temperature=Suitable temperature: warm or hot
+teastory.tooltip.rice_seedling.humidity=Suitable humidity: semi-humid or humid
+teastory.tooltip.sickle=Right click ripe crops Harvest
+
+#Items
+item.tea_leaf.name=Свежий чайный лист
+item.half_dried_tea.name=Полусушенный чайный лист
+item.dried_tea.name=Сушеный чайный лист
+item.broken_tea.name=Измельченный чайный лист
+item.wet_tea.name=Мокрый чайный лист
+item.matcha_powder.name=Matcha Powder
+item.matcha_leaf.name=Matcha Leaf
+item.black_tea_leaf.name=Черный чайный лист
+item.yellow_tea_leaf.name=Желтый чайный лист
+item.white_tea_leaf.name=Белый чайный лист
+item.oolong_tea_leaf.name=Oolong Tea Leaf
+item.puer_tea_leaf.name=Pu'er Tea Leaf
+item.tea_residue.green.name=Зеленый чайный остаток
+item.tea_residue.black.name=остатки черного чая
+item.tea_residue.yellow.name=Желтый чайный остаток
+item.tea_residue.white.name=White Tea Residue
+item.tea_residue.oolong.name=Oolong Tea Residue
+item.tea_residue.puer.name=Pu'er Tea Residue
+item.tea_seeds.name=Семена чайного растения
+item.wooden_mortar_and_pestle.name=Деревянный раствор
+item.soil_detection_meter.name=Soilmeter
+item.shennong_ruler.name=Правитель Shennong
+item.tea_egg.name=Чайное яйцо
+item.record_caichawuqu_g20.name=Музыкальный диск
+item.record.caichawuqu_g20.desc=§o§nTea Picking (версия Gangzhou G20) §r
+item.record_caichawuqu_folk.name=Музыкальный диск
+item.record.caichawuqu_folk.desc=§o§nTea Picking (Народная музыка) §r
+item.matcha_cookie.name=Matcha Cookie
+item.empty_tea_bag.name=пустой чайный пакетик
+item.green_tea_bag.name=Зеленый чайный пакет
+item.black_tea_bag.name=Черный чайный пакет
+item.yellow_tea_bag.name=Желтый чайный пакетик
+item.white_tea_bag.name=Белый чайный пакетик
+item.oolong_tea_bag.name=Сумка для чая Oolong
+item.puer_tea_bag.name=Pu'er Tea Bag
+
+item.zisha_clay.name=Zisha Clay
+item.zisha_clay_cup.name=Неуправляемый Кубок Зиши
+item.clay_cup.name=Неоконченный белый фарфоровый кубок
+item.cup.wood.name=Деревянный кубок
+item.cup.stone.name=Каменный кубок
+item.cup.glass.name=Стеклянный кубок
+item.cup.porcelain.name=Белый фарфоровый кубок
+item.cish.name=Zisha Cup
+item.green_tea.wood.name=Зеленый чай (деревянный)
+item.green_tea.stone.name=Зеленый чай (камень)
+item.green_tea.glass.name=Зеленый чай (стекло)
+item.green_tea.porcelain.name=Зеленый чай (фарфор)
+item.green_tea.zisha.name=Зеленый чай (Zisha)
+item.matcha_drink.wood.name=Matcha (Деревянный)
+item.matcha_drink.stone.name=Matcha (Stone)
+item.matcha_drink.glass.name=Matcha (Glass)
+item.matcha_drink.porcelain.name=Matcha (Фарфор)
+item.matcha_drink.zisha.name=Matcha (Zisha)
+item.black_tea.wood.name=Черный чай (деревянный)
+item.black_tea.stone.name=Черный чай (камень)
+item.black_tea.glass.name=Черный чай (стекло)
+item.black_tea.porcelain.name=Черный чай (фарфор)
+item.black_tea.zisha.name=Черный чай (Zisha)
+item.milk_tea.wood.name=Молочный чай (деревянный)
+item.milk_tea.stone.name=Молочный чай (камень)
+item.milk_tea.glass.name=Молочный чай (стекло)
+item.milk_tea.porcelain.name=Молочный чай (фарфор)
+item.milk_tea.zisha.name=Молочный чай (Zisha)
+item.lemon_tea.wood.name=Лимонный чай (деревянный)
+item.lemon_tea.stone.name=Лимонный чай (камень)
+item.lemon_tea.glass.name=Лимонный чай (стекло)
+item.lemon_tea.porcelain.name=чай лимона (фарфор)
+item.lemon_tea.zisha.name=чай лимона (Zisha)
+item.yellow_tea.wood.name=Желтый чай (деревянный)
+item.yellow_tea.stone.name=Желтый чай (камень)
+item.yellow_tea.glass.name=Желтый чай (стекло)
+item.yellow_tea.porcelain.name=Желтый чай (фарфор)
+item.yellow_tea.zisha.name=Желтый чай (Zisha)
+item.white_tea.wood.name=Белый чай (деревянный)
+item.white_tea.stone.name=Белый чай (камень)
+item.white_tea.glass.name=Белый чай (стекло)
+item.white_tea.porcelain.name=Белый чай (фарфор)
+item.white_tea.zisha.name=Белый чай (Zisha)
+item.oolong_tea.wood.name=Чай Олонг (деревянный)
+item.oolong_tea.stone.name=Oolong Tea (Stone)
+item.oolong_tea.glass.name=Oolong Tea (Glass)
+item.oolong_tea.porcelain.name=Чай Олонг (фарфор)
+item.oolong_tea.zisha.name=Чай Олонг (Зиша)
+item.puer_tea.wood.name=чай Pu'er (деревянный)
+item.puer_tea.stone.name=Pu'er Tea (Stone)
+item.puer_tea.glass.name=чай Pu'er (стекло)
+item.puer_tea.porcelain.name=чай Pu'er (фарфор)
+item.puer_tea.zisha.name=Чай Pu'er (Zisha)
+item.tea_whisk.name=Tea Whisk
+item.pot_stone.name=Каменный горшок
+item.pot_iron.name=Железный горшок
+item.pot_porcelain.name=Белый фарфоровый горшок
+item.pot_zisha.name=Zisha Pot
+item.pot_clay.name=Неопознанный белый фарфоровый горшок
+item.pot_zisha_clay.name=Unfired Zisha Pot
+item.cold_water_pot_stone.name=Каменный горшок (холодная вода)
+item.cold_water_pot_iron.name=Железный горшок (холодная вода)
+item.cold_water_pot_porcelain.name=Белый фарфоровый горшок (холодная вода)
+item.cold_water_pot_zisha.name=Zisha Pot (Холодная вода)
+item.boiled_water_pot_stone.name=Каменный горшок (вареная вода)
+item.boiled_water_pot_iron.name=Железный горшок (вареная вода)
+item.boiled_water_pot_porcelain.name=Белый фарфоровый горшок (вареная вода)
+item.boiled_water_pot_zisha.name=Zisha Pot (вареная вода)
+item.lemon.name=Лимон
+
+item.xian_rice_seeds.name=семена риса
+item.item_xian_rice_seedling.name=Rice Seedling
+item.xian_rice.name=Райс
+item.washed_rice.name=промытый рис
+item.straw.name=Стро
+item.waterploughing_hoe.name=Water Hoe
+item.sickle.name=серп
+item.wooden_lid.name=Деревянная крышка
+item.rice_ball.name=Rice Ball
+item.porkchop_rice.name=Porkchop Rice
+item.steak_rice.name=стейк-рис
+item.chicken_rice.name=Куриный рис
+item.potato_rice.name=Картофельный рис
+item.rabbit_rice.name=Rabbit Rice
+item.straw_rope.name=Ветвь соломы
+item.item_straw_blanket.name=Соломенное одеяло
+
+#Blocks
+tile.teapan.name=Чайная чаша
+tile.barrel.name=Баррель
+tile.half_dried_leaf_block.leaf.name=Полусушенный блок листа
+tile.half_dried_leaf_block.puer.name=Pu'er Tea Leaf block
+tile.teaplant.name=Чайный завод
+tile.tea_drying_pan.name=Сушка (кулинария)
+tile.tea_stove.name=Чайная печь
+tile.lit_tea_stove.name=Чайная печь (горящая)
+tile.lit_cooking_pan.name=Cooking Pan (Burning)
+tile.clay_kettle.name=Неокрашенный белый фарфоровый чайник
+tile.empty_kettle.name=Белый фарфоровый чайник
+tile.green_tea_porcelain_kettle.name=Белый фарфоровый чайник (зеленый чай)
+tile.matcha_drink_porcelain_kettle.name=Белый фарфоровый чайник (Матча)
+tile.black_tea_porcelain_kettle.name=Белый фарфоровый чайник (черный чай)
+tile.milk_tea_porcelain_kettle.name=Белый фарфоровый чайник (молочный чай)
+tile.lemon_tea_porcelain_kettle.name=Белый фарфоровый чайник (лимонный чай)
+tile.yellow_tea_porcelain_kettle.name=Белый фарфоровый чайник (желтый чай)
+tile.white_tea_porcelain_kettle.name=Белый фарфоровый чайник (белый чай)
+tile.oolong_tea_porcelain_kettle.name=Белый фарфоровый чайник (чай Улун)
+tile.puer_tea_porcelain_kettle.name=Белый фарфоровый чайник (чай Pu'er)
+tile.zisha_clay_kettle.name=Неуправляемый чайник Zisha
+tile.empty_zisha_kettle.name=Чайник Zisha
+tile.green_tea_zisha_kettle.name=Чай Zisha (Зеленый чай)
+tile.matcha_drink_zisha_kettle.name=Zisha Kettle (Матча)
+tile.black_tea_zisha_kettle.name=Чайник Zisha (Черный чай)
+tile.milk_tea_zisha_kettle.name=Чайник Zisha (Молочный чай)
+tile.lemon_tea_zisha_kettle.name=Чай Zisha (лимонный чай)
+tile.yellow_tea_zisha_kettle.name=Чайник Zisha (Желтый чай)
+tile.white_tea_zisha_kettle.name=Чай Zisha (Белый чай)
+tile.oolong_tea_zisha_kettle.name=Чай Zisha (Чай Олун)
+tile.puer_tea_zisha_kettle.name=чайник Zisha (чай Pu'er)
+tile.green_tea_zisha_kettle2.name=Чайник Zisha (Зеленый чай)
+tile.matcha_drink_zisha_kettle2.name=Zisha Kettle (Матча)
+tile.black_tea_zisha_kettle2.name=Чай Zisha (Черный чай)
+tile.milk_tea_zisha_kettle2.name=Чайник Zisha (Молочный чай)
+tile.lemon_tea_zisha_kettle2.name=Чайник Zisha (лимонный чай)
+tile.yellow_tea_zisha_kettle2.name=Чай Zisha (Желтый чай)
+tile.white_tea_zisha_kettle2.name=Чайник Zisha (Белый чай)
+tile.oolong_tea_zisha_kettle2.name=Чай Zisha (чай Олонг)
+tile.puer_tea_zisha_kettle2.name=Чай Zisha (чай Pu'er)
+tile.straw_cushion.name=Соломенная подушка
+tile.tea_table.name=Чайный стол
+
+#Potion
+potion.agility=ловкость
+potion.life_drain=живая-пиявка
+potion.photosynthesis=Фотосинтез
+teastory.potion.defence=Непроницаемая защита
+teastory.potion.excitement=Азарт
+
+#Achievements[WIP]
+success.teastory.teaSeeds=Чайный лист, другое путешествие
+success.teastory.teaSeeds.desc=Получить семена чайного растения из чайных листьев
+success.teastory.soilDetectionMeter=Температура почв и рук
+success.teastory.soilDetectionMeter.desc=Использовать почвенный метр один раз
+достижение.teastory.teaPlant=Мистические заводы с юга
+success.teastory.teaPlant.desc=Растениеводство
+
+achievement.teastory.teaDryingPan=Teacraftmanship
+success.teastory.teaDryingPan.desc=Панировочные чайные листья
+success.teastory.burntLeaf=Потерянный провал
+success.teastory.burntLeaf.desc=Невозможно высушить чай
+
+success.teastory.wetTea=Сезон «Хорошего» дождя
+success.teastory.wetTea.desc=Получить влажный лист
+success.teastory.halfDriedTea=Испытание чайного листа
+success.teastory.halfDriedTea.desc=Полу-высушенный чайный лист с чайником
+achievement.teastory.teaStove=Revolution
+достижение.teastory.teaStove.desc=Сделать чай в чайной печи
+success.teastory.whiteDrink=Время остановилось, за чашкой чая
+достижение.teastory.whiteDrink.desc=выпить чашку белого чая
+
+success.teastory.puerDrink=Дружба и чай
+success.teastory.puerDrink.desc=Пить чашку чая Pu'er
+
+success.teastory.blackTea=Подарок времени
+достижение.teastory.blackTea.desc=Получить черный чай с бочкой
+
+success.teastory.woodenCup=Дерево, приятное
+success.teastory.woodenCup.desc=Создать деревянную чашку
+success.teastory.stoneCup=Cobble, мелодия
+success.teastory.stoneCup.desc=Создание каменной чашки
+success.teastory.glassCup=Кристалл, чистый
+success.teastory.glassCup.desc=Создание стеклянной чашки
+достижение.этосторие.порфелинКуп=фарфор, безупречный
+success.teastory.porcelainCup.desc=Пожар белого фарфорового чашки
+достижение.teastory.zishaCup=Zisha, нежный
+достижение.teastory.zishaCup.desc=Огонь чаша зиша
+success.teastory.hotWater=Вещи о кипящей воде и пивоваренном чае
+достижение.teastory.hotWater.desc=кипятить воду
+
+#Info
+teastory.info.welcome=[§2§oTeaStory§f] Спасибо за использование §2§oTea: The Story§f, версия %1$s
+
+#Message
+teastory.message.teapan.tips=Чтобы начать сушить, положите подходящие чайные листья в чайную чашку.
+teastory.message.teapan.notenough=чайных листьев недостаточно.
+teastory.message.barrel.tips=Положить полусухие чайные листья, чтобы начать брожение.
+teastory.message.barrel.notenough=Полусухих чайных листьев недостаточно.
+teastory.message.barrel.knead=Щелкните правой кнопкой мыши, чтобы замесить чайные листья.
+teastory.message.barrel.fermentation.1=Прогресс ферментации: 1/2; чтобы вернуть чайные листья, правый ствол с пустой ручкой, крадущийся.
+teastory.message.barrel.fermentation.2=Прогресс брожения: 2/2, собираемся закончить; чтобы вернуть чайные листья, правый ствол с пустой ручкой, крадущийся.
+teastory.message.soil_detection_meter.total=Температура области:% 1 $ s; влажность:% 2 $ s; высота:% 3 $ s §8m§r; климат:% 4 $ s.
+teastory.message.soil_detection_meter.drying=Скорость высыхания: дневное время:% 1 $ s (% 2 $ s); Ночь:% 3 $ s (% 4 $ s, Необходимые огни).
+teastory.message.soil_detection_meter.fermentation=Скорость ферментации: в помещении:% 1 $ s (% 2 $ s); наружная:% 3 $ s (% 4 $ s).
+teastory.message.soil_detection_meter.teaplant=Чайные растения имеют шансы% 1 $ s здесь расти; % 2 $ s
+teastory.message.soil_detection_meter.temperature.snowy=§1Snowy
+teastory.message.soil_detection_meter.temperature.cold=§9Cold
+teastory.message.soil_detection_meter.temperature.warm=§cWarm
+teastory.message.soil_detection_meter.temperature.hot=§4Hot
+teastory.message.soil_detection_meter.humidity.arid=§6Arid
+teastory.message.soil_detection_meter.humidity.semi-засушливый=§eSemi-засушливый
+teastory.message.soil_detection_meter.humidity.semi-влажно=§aSemi-влажный
+teastory.message.soil_detection_meter.humidity.humid=§2Wet
+teastory.message.soil_detection_meter.height.low=верхняя высота слишком низкая!
+teastory.message.soil_detection_meter.height.medium=что высота подходит.
+teastory.message.soil_detection_meter.height.high=верхняя высота слишком велика!
+teastory.message.soil_detection_meter.fast=§aFast
+teastory.message.soil_detection_meter.normal=§eNormal
+teastory.message.soil_detection_meter.slow=§cSlow
+teastory.message.tea_drying_pan.tips=Освежите его с кремнем и стали сначала, чтобы высушить листья чая или положить немного промытого риса, чтобы приготовить.
+teastory.message.tea_drying_pan.leaf=Пожалуйста, положите свежие или полусухие чайные листья.
+teastory.message.tea_drying_pan.notenough=чайных листьев недостаточно.
+teastory.message.tea_drying_pan.time.1=%1$ секунд осталось до следующего хода.
+teastory.message.tea_drying_pan.speedup=первая сушка завершена; ускоренный% 1 $ s секунд
+teastory.message.tea_drying_pan.time.2=%1$ секунд осталось до конечного прогресса.
+teastory.message.tea_drying_pan.dried=Вторая сушка завершена, щелкните правой кнопкой мыши, чтобы получить сушеные листья.
+teastory.message.tea_drying_pan.failure=Упс, листья сожжены, извините! И попробуйте еще раз.
+teastory.message.cooking_pan.notenough=риса недостаточно.
+teastory.message.cooking_pan.water=Пожалуйста, вылейте ведро с водой.
+teastory.message.cooking_pan.lid=Пожалуйста, прикройте крышку.
+teastory.message.cooking_pan.ignite=Просветите его с помощью кремня и стали.
+teastory.message.cooking_pan.rice=%1$ секунд осталось до окончания приготовления.
+teastory.message.bed.excited=Ты слишком взволнован, чтобы уснуть сейчас.
+teastory.message.rice_seedling=растениям риса требуется более теплая или влажная среда для роста.
+
+#Container Title
+teastory.container.tea_stove=Чайная печь
+teastory.container.tea_table=Чайный стол
+
+#JEI
+jei.teastory.category.teastove=(Пропаривание) Сушка
+jei.teastory.category.teatable=Изготовление чая
+jei.teastory.category.barrel=Брожение
+jei.teastory.category.cookingpan=Приготовление
+jei.teastory.category.dryingpan=Сушка
+jei.teastory.category.teapan=Сушка Солнца
+
+#Waila
+waila.teastory.hud.fermentation.step=Брожение:
+waila.teastory.hud.fermentation.empty=Empty
+waila.teastory.hud.teapan.step=Present Листья:
+waila.teastory.hud.teapan.empty=Empty
+waila.teastory.hud.teapan.next=Next Листья:
+waila.teastory.hud.teapan.progress=Прогресс:
+
+#Config
+teastory.config.general.enableinfo=Включить информацию
+teastory.config.drink.greentea=Эффект времени зеленого чая
+teastory.config.drink.matchadrink=Эффект Время матча
+teastory.config.drink.blacktea=Время воздействия черного чая
+teastory.config.drink.milktea=Время воздействия молочного чая
+teastory.config.drink.lemontea=Время воздействия чая лимона
+teastory.config.drink.yellowtea=Время воздействия желтого чая
+teastory.config.drink.whitetea=Время воздействия белого чая
+teastory.config.drink.oolongtea=Время воздействия чая Улун
+teastory.config.drink.puertea=Время воздействия чая Pu'er

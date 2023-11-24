@@ -1,0 +1,23 @@
+{
+  "name": "Сова",
+  "icon": "minecraft:feather",
+  "category": "creatures",
+  "flag": "roots:owl",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "owl",
+      "breed": "Размножение: крольчатина.",
+      "tame": "Приручние: нет.",
+      "blurb": ""
+    },
+    {
+      "type": "entity",
+      "name": "Сова",
+      "entity": "mysticalworld:entity_owl",
+      "scale": 0.7,
+      "offset": 0.3,
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Спрут",
+  "icon": "minecraft:dye:0",
+  "category": "creatures",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "squid",
+      "breed": "Размножение: нет.",
+      "tame": "Приручение: нет.",
+      "blurb": "Использовав пузырёк с водой на спруте — получите пузырёк чернил!"
+    },
+    {
+      "type": "entity",
+      "name": "Спрут",
+      "entity": "minecraft:squid",
+      "scale": 0.5,
+      "offset": -0.65,
+      "text": "Отведайте щупальце спрута, предварительно их приготовив!"
+    }
+  ]
+}

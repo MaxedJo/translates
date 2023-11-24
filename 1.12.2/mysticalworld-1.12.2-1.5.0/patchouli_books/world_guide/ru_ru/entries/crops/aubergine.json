@@ -1,0 +1,20 @@
+{
+  "name": "Баклажаны",
+  "icon": "mysticalworld:aubergine",
+  "category": "crops",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:aubergine_seed",
+      "text": "Семена баклажна можно найти повсюду, разрушая траву."
+    },
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:aubergine",
+      "text": "Собрав урожай вы получаете вкуснейшую закуску, которую можно использовать и в других блюдах!",
+      "title": "Баклажан"
+    }
+  ]
+}

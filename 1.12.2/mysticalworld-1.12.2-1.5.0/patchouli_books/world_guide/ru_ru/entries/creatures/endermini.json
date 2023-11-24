@@ -1,0 +1,23 @@
+{
+  "name": "Эндер-мини",
+  "icon": "mysticalworld:unripe_pearl",
+  "category": "creatures",
+  "flag": "roots:endermini",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "endermini",
+      "breed": "Размножение: нет.",
+      "tame": "Приручение: нет.",
+      "blurb": "Эти милые, маленькие существа все еще не любят, когда на них смотрят!"
+    },
+    {
+      "type": "entity",
+      "name": "Эндер-мини",
+      "entity": "mysticalworld:entity_endermini",
+      "scale": 0.7,
+      "offset": 0,
+      "text": "Этих существ проще всего найти в Краю, среди своих старших братьев и сестр"
+    }
+  ]
+}
