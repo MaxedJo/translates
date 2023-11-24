@@ -1,7 +1,3 @@
-# Переводы модов
-- The Vault
-- ChromatiCraft
-
 ## Моды на русском
 
 
