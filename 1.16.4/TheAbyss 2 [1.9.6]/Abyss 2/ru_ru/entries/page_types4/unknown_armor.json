@@ -1,0 +1,35 @@
+{
+	"name": "Неизвестная Броня Бездны",
+	"icon": "theabyss:unknown_armor_chestplate",
+"category": "page_types4",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+
+		{
+			"type": "spotlight",
+			"item": "theabyss:unknown_ore",
+			"title": "Неизвестная Руда Бездны",
+			"link_recipe":false,
+			"text": "высота: 6-14$(br)биом: во всех биомах бездны, но очень редко!"
+		},
+		{
+			"type": "crafting",
+			"title": "Неизвестная Броня Бездны",
+			"recipe": "theabyss:unknown_armor_helmet_recipe",
+			"recipe2": "theabyss:unknown_armor_body_recipe"
+
+		},
+		{
+			"type": "crafting",
+			"title": "Неизвестная Броня Бездны",
+			"recipe": "theabyss:unknown_armor_leggings_recipe",
+			"recipe2": "theabyss:unknown_armor_boots_recipe"
+
+		}
+	]
+}

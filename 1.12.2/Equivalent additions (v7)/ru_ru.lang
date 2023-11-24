@@ -1,0 +1,20 @@
+## Русская локлизация (by Yalix-Tig)
+
+itemGroup.equivadditions=Еквивалентное дополнение
+
+tile.equivadditions:pipe_emc_mk1.name=Труба для ЕМС МК1
+tile.equivadditions:pipe_emc_mk2.name=Труба для ЕМС МК2
+tile.equivadditions:pipe_emc_mk3.name=Труба для ЕМС МК3
+tile.equivadditions:pipe_emc_mk4.name=Труба для ЕМС МК4
+tile.equivadditions:zeitheron_fuel_block.name=Блок Топлива Зейтерона
+tile.equivadditions:blue_matter_block.name=Блок Голубой Материи
+tile.equivadditions:collector_mk4.name=Сборщик энергии МК4
+tile.equivadditions:emc_proxy.name=ЕМС Прокси
+
+item.equivadditions:blue_matter.name=Голубая материя
+item.equivadditions:zeitheron_fuel.name=Топливо Зейтерона
+
+tooltip.equivadditions.transfer=Перемещение?
+tooltip.equivadditions.stored=Проводимый?
+tooltip.equivadditions.owner=Cоздатель
+gui.equivadditions.emcpt=ЕМС/тик

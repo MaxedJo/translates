@@ -1,0 +1,87 @@
+{
+///////////////////////////////////////////////////////////[ITEMS]///////////////////////////////////////////////////////////
+	"item.survive.purified_water_bottle": "Очищенная бутылка для воды",
+	"item.survive.wool_hat": "Шерстяная шапка",
+	"item.survive.wool_jacket": "Шерстяная куртка",
+	"item.survive.wool_pants": "Шерстяные штаны",
+	"item.survive.wool_boots": "Шерстяные ботинки",
+	"item.survive.canteen": "Фляга",
+	"item.survive.water_canteen": "Фляга с водой",
+	"item.survive.purified_water_canteen": "Фляга с очищенной водой",
+	"item.survive.water_bowl": "Чаша с водой",
+	"item.survive.ice_cube": "Кубик льда",
+	"item.survive.charcoal_filter": "Угольный фильтр",
+	"item.survive.purified_water_bucket": "Ведро очищенной воды",
+	"item.survive.purified_water_bowl": "Чаша c очищенной воды",
+	"item.survive.magma_paste": "Магматическая паста",
+	"item.survive.stiffened_honey": "Затвердевший мёд",
+	"item.survive.stiffened_honey_helmet": "Шлем из затвердевшего мёда",
+	"item.survive.stiffened_honey_chestplate": "Нагрудник из затвердевшего мёда",
+	"item.survive.stiffened_honey_leggings": "Поножи из затвердевшего мёда",
+	"item.survive.stiffened_honey_boots": "Ботинки из затвердевшего мёда",
+	"item.survive.sugar_water_bottle": "Бутылка сахарной воды",
+	"item.survive.bath_sponge": "Губка для ванны",
+///////////////////////////////////////////////////////////[BLOCKS]///////////////////////////////////////////////////////////
+	"block.survive.serable_block": "Serable Block",
+///////////////////////////////////////////////////////////[BIOMES]///////////////////////////////////////////////////////////
+	"biome.survive.acrotlest_river": "Acrotlest River",
+///////////////////////////////////////////////////////////[ENTITIES]///////////////////////////////////////////////////////////
+	"entity.survive.chakram": "Чакрам",
+///////////////////////////////////////////////////////////[ITEM_GROUPS]///////////////////////////////////////////////////////////
+	"itemGroup.survive": "Survive",
+///////////////////////////////////////////////////////////[MISC]///////////////////////////////////////////////////////////
+	"text.drinksLeft": "Напитки остались",
+///////////////////////////////////////////////////////////[POTIONS_&_EFFECTS]///////////////////////////////////////////////////////////
+	"effect.survive.thirst": "Жажда",
+	"effect.survive.tiredness": "Утомление",
+	"effect.survive.hypothermia": "Переохлаждение",
+	"effect.survive.hyperthermia": "Гипертермия",
+	"effect.survive.heated": "Горячий",
+	"effect.survive.chilled": "Охлажденный",
+	"effect.survive.energized": "Возбужденный",
+	"effect.survive.heat_resistance": "Термостойкость",
+	"item.minecraft.tipped_arrow.effect.heat_resistance": "Стрела термостойкости",
+	"item.minecraft.potion.effect.heat_resistance": "Зелье термостойкости",
+	"item.minecraft.splash_potion.effect.heat_resistance": "Взрывное зелье термостойкости",
+	"item.minecraft.lingering_potion.effect.heat_resistance": "Туманное зелье термостойкости",
+	"effect.survive.cold_resistance": "Сопротивление холоду",
+	"item.minecraft.tipped_arrow.effect.cold_resistance": "Стрела сопротивления холоду",
+	"item.minecraft.potion.effect.cold_resistance": "Зелье сопротивления холоду",
+	"item.minecraft.splash_potion.effect.cold_resistance": "Взрывное зелье сопротивления холоду",
+	"item.minecraft.lingering_potion.effect.cold_resistance": "Туманное зелье сопротивления холоду",
+///////////////////////////////////////////////////////////[ENCHANTMENTS]///////////////////////////////////////////////////////////
+	"enchantment.survive.cooling": "Охлаждение",
+	"enchantment.survive.cooling.desc": "Снижает температуру при ношении этой брони",
+	"enchantment.survive.adjusted_cooling": "Регулируемое охлаждение",
+	"enchantment.survive.adjusted_cooling.desc": "Автоматически снижает температуру, когда жарко",
+	"enchantment.survive.warming": "Нагрев",
+	"enchantment.survive.warming.desc": "Повышает температуру при ношении этой брони",
+	"enchantment.survive.adjusted_warming": "Регулируемый нагрев",
+	"enchantment.survive.adjusted_warming.desc": "Автоматически повышает температуру, когда холодно",
+///////////////////////////////////////////////////////////[DEATH_MESSAGES]///////////////////////////////////////////////////////////
+	"death.attack.hypothermia": "%1$s замерз",
+	"death.attack.hypothermia.player": "%1$s замерз насмерть, пытаясь убежать %2$s",
+	"death.attack.hyperthermia": "%1$s не выдержал жары",
+	"death.attack.hyperthermia.player": "%1$s умер от жары при попытке к бегству %2$s",
+	"death.attack.dehydrate": "%1$s умер от обезвоживания",
+	"death.attack.dehydrate.player": "%1$s умер от обезвоживания при попытке к бегству %2$s",
+	"death.attack.overwork": "%1$s переутомился до смерти",
+///////////////////////////////////////////////////////////[SPELLS]///////////////////////////////////////////////////////////
+	"spell.survive.heat": "Жара",
+	"spell.survive.heat.desc": "Повысьте температуру тела",
+	"spell.survive.chill": "Озноб",
+	"spell.survive.chill.desc": "Снизить температуру тела",
+///////////////////////////////////////////////////////////[UPGRADEABLE_ATTRIBUTES]///////////////////////////////////////////////////////////
+	"stat.survive.heat_resistance": "Термостойкость",
+	"stat.survive.cold_resistance": "Сопротивление холоду",
+///////////////////////////////////////////////////////////[ATTRIBUTES]///////////////////////////////////////////////////////////
+	"attribute.name.survive.coldResistance": "Сопротивление холоду",
+	"attribute.name.survive.heatResistance": "Термостойкость",
+///////////////////////////////////////////////////////////[GUI]///////////////////////////////////////////////////////////
+	"survive.config.title": "Конфигурация выживания",
+	"survive.Enable Temperature": "Включить температуру",
+	"survive.Enable Thirst": "Включить жажду",
+	"survive.Enable Sleep": "Включить спящий режим",
+	"survive.Enable Stamina": "Включить выносливость",
+	"survive.Temperature Display Mode": "Дисплей темп."
+}

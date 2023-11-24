@@ -1,0 +1,28 @@
+{
+	"name": "Защитник Бездны",
+	"icon": "minecraft:paper",
+	"category": "page_types2",
+	"advancement": "theabyss:unlockthebook",
+
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+	{
+		"type": "text",
+			"text": "Атака:$(#7d1fdb) +8 $(#000000)$(br)ХП:$(#7d1fdb) +25$(br)$(#000000)Редкость: $(#1f7adb)Необычный$(br)$(#000000)Сила: $(#7d1fdb)Сильный$(br)$(#000000)Способности: $(#7d1fdb)Использует Огненный Меч$(br)$(#000000)Скорость: $(#7d1fdb)Быстрый"
+	},
+	{
+		"type": "entity",
+		"entity": "theabyss:abyssguard",
+		"scale": 1.0,
+		"offset": 0.0,
+		"rotate": true,
+		"default_rotation": -45,
+		"title": "Wither",
+		"text": "5% chance of wither effect! 10% chance to burn!"
+	}
+	]
+}

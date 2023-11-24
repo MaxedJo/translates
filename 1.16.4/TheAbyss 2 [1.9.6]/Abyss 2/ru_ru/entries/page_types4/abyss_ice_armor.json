@@ -1,0 +1,34 @@
+{
+	"name": "Ледяная Броня Бездны",
+	"icon": "theabyss:abyssicearmorarmor_chestplate",
+"category": "page_types4",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:abyssiceore",
+			"title": "Ледяная Руда Бездны",
+			"link_recipe":false,
+			"text": "высота: 25-40$(br)биом: Горы, Холодный Океан, Замороженный Океан, Синий Лес"
+		},
+		{
+			"type": "crafting",
+			"title": "Ледяная Броня Бездны",
+			"recipe": "theabyss:abyssicearmorarmorhelmetrecipe",
+			"recipe2": "theabyss:abyssicearmorarmorbodyrecipe"
+
+		},
+		{
+			"type": "crafting",
+			"title": "Ледяная Броня Бездны",
+			"recipe": "theabyss:abyssicearmorarmorleggingsrecipe",
+			"recipe2": "theabyss:abyssicearmorarmorbootsrecipe"
+
+		}
+	]
+}

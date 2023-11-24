@@ -1,0 +1,78 @@
+{
+	"name": "Броня Призрака Бездны",
+	"icon": "theabyss:phantom_armor_armor_chestplate",
+"category": "page_types4",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+
+		{
+			"type": "spotlight",
+			"item": "theabyss:unknown_ore",
+			"title": "Неизвестная Руда Бездны",
+			"link_recipe":false,
+			"text": "вам понадобятся неизвестные детали брони, чтобы создать это улучшение. будьте уверены, что у вас достаточно неизвестных кристаллов."
+		},
+		{
+			"type": "spotlight",
+			"item": "theabyss:broken_phantom_bone",
+			"title": "Сломанная Кость Титана",
+			"link_recipe":false,
+			"text": "fсначала тебе нужно найти кости титана. вы можете найти их в призрачных биомах. после этого вам нужно будет изготовить кости титана из сломанных костей!"
+		},
+		{
+			"type": "crafting",
+			"title": "Кость Титана",
+			"recipe": "theabyss:phantom_bone_recipe"
+
+		},
+		{
+			"type": "spotlight",
+			"item": "theabyss:phantom_soul_item",
+			"title": "Душа Призрака",
+			"link_recipe":false,
+			"text": "следующий шаг ... теперь вы должны убить некоторых из этих призраков, чтобы заработать несколько призрачных душ. на следующей странице-фотография одного из этих призраков!"
+		},
+		{
+			"type": "entity",
+			"entity": "theabyss:phantom_abyss_entity",
+			"scale": 1.0,
+			"offset": 0.0,
+			"rotate": true,
+			"default_rotation": -45,
+			"title": "Призрак",
+			"text": "это призрак. подробнее вы можете прочитать в разделе Фауна этой книги."
+		},
+		{
+			"type": "spotlight",
+			"item": "theabyss:phantom_essence",
+			"title": "Эссенция Призрака",
+			"link_recipe":false,
+			"text": "теперь у тебя есть кости и души. пришло время создать призрачную ессенцию!"
+		},
+		{
+			"type": "crafting",
+			"title": "Эссенция Призрака",
+			"recipe": "theabyss:phantom_essence_recipe",
+			"recipe2": "theabyss:phantom_ingot_recipe"
+		},
+		{
+			"type": "crafting",
+			"title": "Броня Призрака Бездны",
+			"recipe": "theabyss:phantom_armor_armor_helmet_recipe",
+			"recipe2": "theabyss:phantom_armor_armor_body_recipe"
+
+		},
+		{
+			"type": "crafting",
+			"title": "Броня Призрака Бездны",
+			"recipe": "theabyss:phantom_armor_armor_leggings_recipe",
+			"recipe2": "theabyss:phantom_armor_armor_boots_recipe"
+
+		}
+	]
+}

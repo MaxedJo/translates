@@ -1,0 +1,49 @@
+{
+	"name": "Прежде Чем Вы Начнете",
+	"icon": "theabyss:ring_of_ring",
+"category": "page_types5",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+	{
+		"type": "text",
+		"text": "Это кольцо используется для крафта других колец."
+	},
+	{
+		"type": "spotlight",
+		"item": "theabyss:loran_ingot",
+		"title": "Слиток Лоран",
+		"link_recipe":false,
+		"text": "для начала вы должны скрафтить слиток Лоран."
+	},
+	{
+		"type": "crafting",
+		"title": "Слиток Лоран",
+		"recipe": "theabyss:loran_ingot_rcp"
+
+	},
+	{
+		"type": "spotlight",
+		"item": "theabyss:unknown_diamond",
+		"title": "Неизвестный кристалл",
+		"link_recipe":false,
+		"text": "после того как вы изготовили несколько слитков Лоран, вам нужно будет найти неизвестную руду, чтобы заработать неизвестные кристаллы. читайте о неизвестной руде в броне и инструментах!"
+	},
+	{
+		"type": "crafting",
+		"title": "Энергия Лоран",
+		"recipe": "theabyss:loran_energy_rcp"
+
+	},
+	{
+		"type": "crafting",
+		"title": "Кольцо",
+		"recipe": "theabyss:ring_of_ring_rcp"
+
+	}
+	]
+}

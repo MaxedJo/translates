@@ -1,0 +1,34 @@
+{
+	"name": "Гарнитная Броня Бездны",
+	"icon": "theabyss:garnit_armor_chestplate",
+"category": "page_types4",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:garnite_ore",
+			"title": "Гарнитная Руда Бездны",
+			"link_recipe":false,
+			"text": "высота: 5-11$(br)биом: Лес Слизней, Синии Джунгли"
+		},
+		{
+			"type": "crafting",
+			"title": "Гарнитная Броня Бездны",
+			"recipe": "theabyss:garnit_armor_helmet_recipe",
+			"recipe2": "theabyss:garnit_armor_body_recipe"
+
+		},
+		{
+			"type": "crafting",
+			"title": "Гарнитная Броня Бездны",
+			"recipe": "theabyss:garnit_armor_leggings_recipe",
+			"recipe2": "theabyss:garnit_armor_boots_recipe"
+
+		}
+	]
+}

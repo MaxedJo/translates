@@ -1,0 +1,64 @@
+tile.computercraft:computer.name=Компьютер
+tile.computercraft:advanced_computer.name=Продвинутый компьютер
+tile.computercraft:drive.name=Дисковод
+tile.computercraft:printer.name=Принтер
+tile.computercraft:monitor.name=Монитор
+tile.computercraft:advanced_monitor.name=Продвинутый монитор
+tile.computercraft:wireless_modem.name=Беспроводной модем
+tile.computercraft:wired_modem.name=Модем
+tile.computercraft:cable.name=Сетевой кабель
+tile.computercraft:command_computer.name=Командный компьютер
+tile.computercraft:advanced_modem.name=Эндер модем
+tile.computercraft:speaker.name=Спикер
+
+tile.computercraft:turtle.name=Черепаха
+tile.computercraft:turtle.upgraded.name=%s Черепаха
+tile.computercraft:turtle.upgraded_twice.name=%s %s Черепаха
+tile.computercraft:advanced_turtle.name=Продвинутая черепаха
+tile.computercraft:advanced_turtle.upgraded.name=Продвинутая %s черепаха
+tile.computercraft:advanced_turtle.upgraded_twice.name=Продвинутая %s %s черепаха
+
+item.computercraft:disk.name=Дискета
+item.computercraft:treasure_disk.name=Дискета
+item.computercraft:page.name=Печатная страница
+item.computercraft:pages.name=Печатные страницы
+item.computercraft:book.name=Печатная книга
+
+item.computercraft:pocket_computer.name=Карманный компьютер
+item.computercraft:pocket_computer.upgraded.name=%s Карманный компьютер
+item.computercraft:advanced_pocket_computer.name=Продвинутый карманный компьютер
+item.computercraft:advanced_pocket_computer.upgraded.name=Продвинутый %s карманный компьютер
+
+upgrade.minecraft:diamond_sword.adjective=Боевая
+upgrade.minecraft:diamond_shovel.adjective=Раскапывающая
+upgrade.minecraft:diamond_pickaxe.adjective=Добывающая
+upgrade.minecraft:diamond_axe.adjective=Рубящая
+upgrade.minecraft:diamond_hoe.adjective=Фермерская
+upgrade.computercraft:wireless_modem.adjective=Беспроводная
+upgrade.minecraft:crafting_table.adjective=Крафтовая
+upgrade.computercraft:advanced_modem.adjective=Эндер
+upgrade.computercraft:speaker.adjective=Шумная
+
+gui.computercraft:wired_modem.peripheral_connected=Периферийное устройство "%s" подключено к сети
+gui.computercraft:wired_modem.peripheral_disconnected=Периферийное устройство "%s" отключено от сети
+
+gui.computercraft:config.http_enable=Включить HTTP API
+gui.computercraft:config.http_whitelist=HTTP whitelist
+gui.computercraft:config.http_blacklist=HTTP blacklist
+gui.computercraft:config.disable_lua51_features=Отключить функции Lua 5.1
+gui.computercraft:config.default_computer_settings=Настройки компьютера по умолчанию
+gui.computercraft:config.log_peripheral_errors=Регистрировать периферийные ошибки
+gui.computercraft:config.enable_command_block=Включить периферийное устройство командного блока
+gui.computercraft:config.modem_range=Диапазон модема (по умолчанию)
+gui.computercraft:config.modem_high_altitude_range=Диапазон модема (большая высота)
+gui.computercraft:config.modem_range_during_storm=Диапазон модема (плохая погода)
+gui.computercraft:config.modem_high_altitude_range_during_storm=Дальность действия модема (большая высота, плохая погода)
+gui.computercraft:config.computer_space_limit=Ограничение места на компьютере (байты)
+gui.computercraft:config.floppy_space_limit=Ограничение свободного места на дискете (байты)
+gui.computercraft:config.turtles_need_fuel=Включить топливо
+gui.computercraft:config.turtle_fuel_limit=Лимит топлива черепахи
+gui.computercraft:config.advanced_turtle_fuel_limit=Продвинутый лимит топлива черепахи
+gui.computercraft:config.turtles_obey_block_protection=Черепахи подчиняются блочной защите
+gui.computercraft:config.turtles_can_push=Черепахи могут толкать сущности
+gui.computercraft:config.maximum_files_open=Максимальное количество файлов, открытых на одном компьютере
+gui.computercraft:config.max_notes_per_tick=Максимум нот, которые компьютер может сыграть за один раз

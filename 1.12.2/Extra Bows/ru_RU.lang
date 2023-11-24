@@ -1,0 +1,78 @@
+tile.bridge_block.name=Мостовой Блок
+tile.strong_stone.name=Струнный Камень
+
+item.arrow_cost_upgrade.name=Улучшение: Стоимость стрелы
+item.heal_from_damage_upgrade.name=Улучшение: Здоровье
+item.fire_upgrade.name=Улучшение: Пламя
+item.freeze_upgrade.name=Улучшение: Заморозка
+item.lightning_upgrade.name=Улучшение: Молния 
+item.explosive_upgrade.name=Улучшение: Взрыв
+item.double_upgrade.name=Улучшение: Двухстрел
+item.triple_upgrade.name=Улучшение: Трёхстрел
+item.water_upgrade.name=Улучшение: Вода
+item.ender_upgrade.name=Улучшение: Эндер
+item.bridge_upgrade.name=Улучшение: Мост
+item.push_upgrade.name=Улучшение: Откидывание
+item.flying_upgrade.name=Улучшение: Полёт
+item.bone_meal_upgrade.name=Улучшение: Костная мука
+item.meteor_upgrade.name=Улучшение: Метеорит
+item.electric_upgrade.name=Улучшение: Электричество
+
+item.stone_bow.name=Каменный лук
+item.golden_bow.name=Золотой лук
+item.iron_bow.name=Железный лук
+item.diamond_bow.name=Алмазный лук
+item.emerald_bow.name=Изумрудный лук
+item.electric_bow.name=Электрический лук
+
+item.stone_upgrade_kit.name=Каменный бланк улучшения
+item.iron_upgrade_kit.name=Железный бланк улучшения
+item.golden_upgrade_kit.name=Золотой бланк улучшения
+item.diamond_upgrade_kit.name=Алмазный бланк улучшения
+item.emerald_upgrade_kit.name=Изумрудный бланк улучшения
+
+itemGroup.extrabows_items=Улучшенные луки
+
+item.strong_gold.name=Усиленное золото
+item.strong_iron.name=Усиленное железо
+item.strong_diamond.name=Усиленный алмаз
+item.strong_emerald.name=Усиленный изумруд
+
+item.upgrade_plate.name=Бланк улучшения
+
+message.no_upgrades.text=Улучшения: Нет
+
+lightning_upgrade.description.text=Порождает молнию на выбранном блоке
+
+fire_upgrade.description.text1=Помещает огонь на выбранный блок
+fire_upgrade.description.text2=Существа поджигаются от стрелы
+
+water_upgrade.description.text1=Тушит пожар в радиусе двух блоков
+water_upgrade.description.text2=Случайный шанс появления воды (исчезает через ~ 5 секунд)
+
+ender_upgrade.description.text=Телепортирует игрока в выбранный блок
+
+bridge_upgrade.description.text1=Строит мост вдоль линии полета стрелы
+bridge_upgrade.description.text2=Мост исчезает через ~ 20 секунд
+
+arrow_cost_upgrade.description.text=Случайный шанс дать игроку стрелу
+
+heal_from_damage_upgrade.description.text=Случайный шанс дать игроку половину сердца, если он наносит урон
+
+freeze_upgrade.description.text=Идет снегом на блоке, замерзает вода, дает эффект медлительности и может случайно заспавнить снеговика
+
+explosive_upgrade.description.text=Создает взрыв на блоке попадания или объекте
+
+double_upgrade.description.text=Стреляет двумя стрелами
+
+triple_upgrade.description.text=Стреляет тремя стрелами
+
+push_upgrade.description.text=Отталкивает животных в радиусе 5 блоков
+
+flying_upgrade.description.text=Позволяет летать на Стреле
+
+bone_meal_upgrade.description.text=Растения растут в радиусе 3 блоков быстрее с вероятностью 50 процентов
+
+meteor_upgrade.description.text=Спавнит Метеор в 30 блоках выше
+
+key.extrabows.category=Улучшенные луки

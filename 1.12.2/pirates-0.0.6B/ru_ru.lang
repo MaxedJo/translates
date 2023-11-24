@@ -1,0 +1,56 @@
+itemGroup.pirates=Pirates
+
+item.pirates.pirate_hat.name=Пиратская Шляпа
+item.pirates.pirate_boots.name=Ботинки
+item.pirates.cutlass.name=Кортик
+item.pirates.powder_flask.name=пороховница
+item.pirates.rum.name=Ром
+item.pirates.telescope.name=Телескоп
+item.pirates.map.name=карта сокровищ
+item.pirates.compass.name=Компас
+item.pirates.message_bottle.name=Послание в бутылке
+item.pirates.sextant.name=Секстант
+item.pirates.ram_rod.name=Таранный стержень
+item.pirates.lantern.name=Фонарь
+item.pirates.hurdy_gurdy.name=Шарманка
+item.pirates.grapple_hook.name=Крюк
+item.pirates.rope.name=Веревка
+item.pirates.sash.name=Орденская лента
+item.pirates.hat.name=Треуголка
+item.pirates.bucket.name=Ведро
+item.pirates.flintlock.name=Мушкетон
+item.pirates.dingy.name=тусклый
+item.pirates.captain_cutlass.name=Капитанский Кортик
+item.pirates.dagger.name=Кинжал
+item.pirates.hammer.name=Молот
+item.pirates.glass_full.name=Стекло
+item.pirates.flintlock_ball.name=Кремневый шар
+item.pirates.barbossa_hat.name=Шляпа
+item.pirates.rapier.name=Рапира
+
+tile.pirates.cannon.name=Пушка
+tile.pirates.cell.name=Клетка
+tile.pirates.rail.name=Перила
+tile.pirates.ratlines.name=Выбоинки
+tile.pirates.ship_bell.name=Корабельный колокол
+tile.pirates.boat_sling.name=Лодочный Строп
+tile.pirates.barrel.name=Бочка
+tile.pirates.ghastly_planks.name=Призрачные Доски
+tile.pirates.ghastly_rail.name=Призрачные Перила
+tile.pirates.ghastly_stairs.name=Призрачная Лестница
+tile.pirates.ghastly_log.name=Призрачное Бревно
+tile.pirates.ghastly_bell.name=Призрачный Колокол
+tile.pirates.pirate_chest.name=Проклятый Сундук
+tile.pirates.forge.name=Ковка
+tile.pirates.cannonball.name=Пушечное ядро
+tile.pirates.square_sail.name=Квадратный Парус
+tile.pirates.jib_sheet.name=Лист Кливера
+tile.pirates.capstan.name=Шпиль
+tile.pirates.cleat.name=Планка
+
+entity.pirate.name=Призрачный Пират
+
+inventory.chest.pirate=Проклятый Сундук
+
+pirates.worldgen=Мир Поколения
+pirates.worldgen.chance=Процентная вероятность того, что корабль будет появляться в куске

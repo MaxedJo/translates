@@ -1,0 +1,24 @@
+{
+  "itemGroup.frozenup_item_group": "Frozen Up",
+
+  "item.frozenup.frozen_truffle": "Замороженный трюфель",
+  "item.frozenup.truffle": "Трюфель",
+  "item.frozenup.truffle_muffin": "Трюфельный маффин",
+  "item.frozenup.chilloo_spawn_egg": "Яйцо призыва чиллу",
+  "item.frozenup.chilloo_feather": "Перо чиллу",
+  "item.frozenup.empty_mug": "Пустая кружка",
+  "item.frozenup.mug_of_chocolate_milk": "Кружка шоколадного молока",
+  "item.frozenup.mug_of_truffle_hot_chocolate": "Кружка горячего шоколада с трюфелем",
+  "item.frozenup.mug_of_milk": "Кружка молока",
+
+  "block.frozenup.chilloo_feather_block": "Блок перьев чиллу",
+  "block.frozenup.chilloo_feather_block_carpet": "Ковёр из перьев чиллу",
+  "block.frozenup.truffle_cake": "Шоколадный трюфельный торт",
+  "block.frozenup.chilloo_feather_lamp": "Лампа из перьев чиллу",
+
+  "entity.frozenup.chilloo": "Чиллу",
+
+  "frozenup.chilloo.ambient": "Чиллу щебечет",
+  "frozenup.chilloo.hurt": "Чиллу ранен",
+  "frozenup.chilloo.death": "Чиллу погиб"
+}

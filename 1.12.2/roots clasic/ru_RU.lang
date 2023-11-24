@@ -1,0 +1,528 @@
+itemGroup.rootsclassic=Roots Classic
+
+item.dustpetal.name=Порошок заклинаний
+item.pestle.name=Пестик
+item.staff.name=Посох
+item.oldroot.name=Старый корень
+item.verdantsprig.name=Зеленая веточка
+item.verdantsprig.guide=Компонент заклинания; см. Руническую табличку.
+item.infernalstem.name=Адская лампочка
+item.dragonseye.name=Глаз Дракона
+item.acaciatreebark.name=Кора акации
+item.darkoaktreebark.name=Кора темного дуба
+item.birchtreebark.name=Береста
+item.jungletreebark.name=Кора джунглей
+item.oaktreebark.name=Кора дуба
+item.sprucetreebark.name=Еловая кора
+item.druidknife.name=Нож для срезки коры
+item.crystalstaff.name=Хрустальный посох
+item.crystalstaff.guide=Продвинутый колдовской посох для самых сильных магов. Инструкции по созданию см. В Рунической табличке.
+item.livingpickaxe.name=Живая кирка
+item.livingaxe.name=Живой топор
+item.livingsword.name=Живой меч
+item.livinghoe.name=Живая мотыга
+item.livingshovel.name=Живая лопата
+item.druidrobeshead.name=Лесной Капюшон
+item.druidrobeschest.name=Лесное одеяние
+item.druidrobeslegs.name=Лесной мундир
+item.druidrobesboots.name=Лесные сапоги
+item.druidarmorhead.name=Маска дикого леса
+item.druidarmorchest.name=Нагрудник дикого дерева
+item.druidarmorlegs.name=Поножи дикого леса
+item.druidarmorboots.name=Сапоги дикого леса
+item.runedtablet.name=Руническая табличка
+item.runedtablet.guide=Путеводитель по Roots Classic, в котором объясняются все заклинания и ритуалы.
+item.growthsalve.name=Порошок для роста
+item.mutagen.name=Мутирующий порошок
+item.nightshade.name=Паслен
+item.blackcurrant.name=Черная смородина
+item.redcurrant.name=Красная смородина
+item.whitecurrant.name=Белая смородина
+item.elderberry.name=Бузина
+item.healingpoultice.name=Лечебная припарка
+item.rootystew.name=Рагу из корней
+item.rootystew.guide=Сытная еда
+item.engravedsword.name=Гравированный клинок
+item.runicfocus.guide=Сохраняет энергию для Ритуалов Корней; см. Руническую табличку
+runicfocus_0.name=Рунический фокус
+runicfocus_1.name=Заряженный рунический фокус
+item.fruitsalad.name=Фруктовый салат
+item.fruitsalad.guide=Вкусно и сытно
+tile.mortar.name=Миномет
+tile.imbuer.name=Проинструктирован
+tile.altar.name=Литейный алтарь
+tile.altar.guide=Центральная часть для ритуалов литья; см. Руническую табличку
+tile.brazier.guide=Удерживает благовония для возгорания во время ритуалов; см. Руническую табличку
+
+tile.standingstonet1.name=Обычный постоянный камень
+tile.brazier.name=Благовония Жаровня
+tile.standingstonet2.name=Настроенный постоянный камень
+tile.midnightbloom.name=Полночь цветение
+tile.flareorchid.name=Вспышка орхидеи
+tile.radiantdaisy.name=Сияющая Дейзи
+tile.standingstonerepulsor.name=Отталкивая стоящий камень
+tile.standingstonevacuum.name=Вакуумный стоячий камень
+tile.standingstoneentangler.name=Путующий постоянный камень
+tile.standingstoneaccelerator.name=Ускоряющий постоянный камень
+tile.standingstoneigniter.name=Горящий стоящий камень
+tile.standingstonegrower.name=Растущий стоящий камень
+tile.standingstonehealer.name=Стоящий камень исцеления
+tile.standingstoneaesthetic.name=Стоящий камень
+
+tile.standingstonerepulsor.guide=Отразить находящиеся поблизости предметы, ритуал создания описан в Рунической табличке
+tile.standingstonevacuum.guide=Пылесосить поблизости предметы, ритуал создания описан в Рунической табличке
+tile.standingstoneentangler.guide=Маяк медлительности, ремесленный ритуал, описанный в Рунической табличке
+tile.standingstoneaccelerator.guide=Маяк скорости, ритуал изготовления, описанный в Рунической табличке
+tile.standingstoneigniter.guide=Сжигайте врагов, создавая ритуал, описанный в Рунической табличке
+tile.standingstonegrower.guide=Ускоритель роста ваших растений, ритуал создания описан в Рунической табличке
+tile.standingstonehealer.guide=Маяк регенерации, ритуал создания, описанный в Рунической табличке
+tile.standingstoneaesthetic.guide = Стоящий камень для украшения
+
+roots.attribute.fullset.name=При наличии полного комплекта:
+roots.attribute.equipped.name=При экипировке:
+roots.attribute.increasedregen.name=Повышенное восстановление здоровья
+roots.attribute.increasedmanaregen.name=Повышенная регенерация Терры
+roots.attribute.potency.name=Сила
+
+roots.tooltip.spelltypeheading.name=Тип
+roots.tooltip.spellpotency.name=потенция
+roots.tooltip.spellefficiency.name=эффективность
+roots.tooltip.spellsize.name=размер
+roots.tooltip.usesremaining.name=использует оставшиеся
+roots.tooltip.spikes.name=Шипы
+roots.tooltip.forceful.name=Сильный
+roots.tooltip.holy.name=Святой
+roots.tooltip.aquatic.name=Водный
+roots.tooltip.shadowstep.name=Шаг тени
+
+roots.error.noritual.ingredients=Никаких ритуалов с этими центральными ингредиентами не найдено.
+
+roots.error.noritual.stones= Ритуал найден, но камни размещены неправильно
+roots.error.noritual.incense= Ритуал найден, но ингредиенты для жаровни отсутствуют или не зажжены
+
+roots.ritual.started= Ритуал начался
+
+roots.component.allium.name=Завершающий удар
+roots.component.apple.name=Природное лекарство
+roots.component.azurebluet.name=Разбить
+roots.component.blueorchid.name=Земляной шип
+roots.component.chorus.name=Эндер Деформация
+roots.component.dandelion.name=Одуванчиковые ветра
+roots.component.flareorchid.name=Горение
+roots.component.lilac.name=Рост
+roots.component.lilypad.name=Водяной взрыв
+roots.component.midnightbloom.name=Остановка времени
+roots.component.netherwart.name=Ад
+roots.component.orangetulip.name=Экранирование
+roots.component.oxeyedaisy.name=Ускорение
+roots.component.peony.name=Регенерация
+roots.component.pinktulip.name=Похищение жизни
+roots.component.poisonouspotato.name=Электрическая искра
+roots.component.poppy.name=Безумие
+roots.component.radiantdaisy.name=Сияющий Луч
+roots.component.redtulip.name=Цветок Дьявола
+roots.component.rosebush.name=Шипы розы
+roots.component.sunflower.name=Солнечный удар
+roots.component.whitetulip.name=Обжигающий холод
+
+roots.mod.spikes.name=Шипы
+roots.mod.holy.name=Святой
+roots.mod.forceful.name=Сильный
+roots.mod.aquatic.name=Водный
+roots.mod.shadowstep.name=Шаг тени
+
+roots.research.disabled.name=Отключено конфигурацией!
+
+roots.research.nature.name=Естественное искусство
+
+roots.research.nature.barkharvesting.name=Сбор коры
+roots.research.nature.barkharvesting.page1title.name=Простые материалы
+roots.research.nature.barkharvesting.page1info=Деревья очень важны для естественной магии. Используя немного дерева и саженцы, вы можете создать нож, способный мягко собирать кору с деревьев, который можно использовать в рецептах и ритуалах. Щелкните правой кнопкой мыши бревенчатый блок, чтобы собрать с него кору, с шансом сломать бревенчатый блок.
+
+roots.research.nature.magicalmaterials.name=Редкие материалы
+roots.research.nature.magicalmaterials.page1title.name=Корни магии
+roots.research.nature.magicalmaterials.page1info=В окружающем вас мире вы можете найти несколько редких растений и трав, которые имеют решающее значение для многих аспектов природной магии.
+roots.research.nature.magicalmaterials.page2title.name=Старые корни
+roots.research.nature.magicalmaterials.page2info=Старые корни можно найти с вероятностью 1/40 при разрыве высокой травы. Они необходимы для большого количества ранней магии, как и для заклинаний без модификаторов. Их также можно съесть, чтобы немного восстановить чувство голода.
+roots.research.nature.magicalmaterials.page3title.name=Зеленые веточки
+roots.research.nature.magicalmaterials.page3info=Зеленые побеги выпадут с вероятностью 1/30 при уборке полностью выращенных культур всех видов. У них есть врожденная жизненная сила, которая сохраняется после сбора урожая, поэтому их использование часто связано с оживлением предметов.
+roots.research.nature.magicalmaterials.page4title.name=Адские луковицы
+roots.research.nature.magicalmaterials.page4info=Инфернальные луковицы выпадают с шансом 1/20 из выросшей адской бородавки. Адские луковицы пронизаны огнем своего дома в преисподней, поэтому они полезны, когда требуется большое количество энергии. Их также можно использовать как довольно эффективное топочное топливо или отдать скелетам, чтобы они засохли.
+roots.research.nature.magicalmaterials.page5title.name=Глаза Дракона
+roots.research.nature.magicalmaterials.page5info=Глаза дракона будут выпадать с вероятностью 1/10 от цветов хора. Они наделены той же сверхъестественной энергией, что и сам дракон края. Помимо использования, связанного с заклинаниями, их можно съесть для более мощного эффекта плода хоруса или переплавить, чтобы получить одну жемчужину края.
+
+roots.research.nature.grassseeds.name=Порошок для роста
+roots.research.nature.grassseeds.page1title.name=Уход за газонами
+roots.research.nature.grassseeds.page1info=Эта простая смесь может вырастить траву на грязи. Просто щелкните правой кнопкой мыши, чтобы бросить порошок в блок в пределах 4 блоков от вас, растущий траву на небольшом участке.
+
+roots.research.nature.mutagen.name=Мутирующий порошок
+roots.research.nature.mutagen.page1title.name=Новые растения
+roots.research.nature.mutagen.page1info=Используя силу звезды Нижнего мира, вы создали порошок, способный мутировать новые виды флоры. Этот порошок используется только в особых обстоятельствах, указанных в разделе компонентов заклинания на этой таблетке.
+
+roots.research.nature.berries.name=Ягоды
+roots.research.nature.berries.page1title.name=Собирательство
+roots.research.nature.berries.page1info=Когда вы ломаете несколько листьев вручную, вы можете случайно найти ягоду. Есть пять разных видов ягод, каждый из которых обладает разными свойствами. Некоторые из них могут даже быть позже использованы в заклинаниях или ритуалах ...
+
+roots.research.nature.stew.name=Рагу из корней
+roots.research.nature.stew.page1title.name=Суп для тебя
+roots.research.nature.stew.page1info=Старые корни можно есть отдельно, но они не очень аппетитные. Приготовив его с небольшим количеством пшеницы в миске, вы можете приготовить восхитительное рагу, способное утолить голод.
+
+roots.research.nature.poultice.name=Лечебная припарка
+roots.research.nature.poultice.page1title.name=Лекарство
+roots.research.nature.poultice.page1info=Зеленые веточки обычно используются из-за их жизненно важных свойств. Приложив мякоть зеленой веточки к ранам с помощью этих припарок, вы можете немного поправить здоровье.
+
+roots.research.spells.name=Колдовство
+
+roots.research.spells.mortar.name=Миномет
+roots.research.spells.mortar.page1title.name=Миномет
+roots.research.spells.mortar.page1info=Кажется, что флора в мире вокруг вас обладает огромной неиспользованной силой. Что может быть лучше, чем превратить их в миску?
+roots.research.spells.mortar.page2title.name=Пестик
+roots.research.spells.mortar.page2info=Конечно, чтобы измельчить вышеупомянутые растения в кашицу, вам понадобится что-то, с чем можно размять. Этот пест, сделанный из гладкого белого камня, должен хорошо справиться с этой задачей.
+roots.research.spells.mortar.page3title.name=Применение
+roots.research.spells.mortar.page3info=Использовать ступку и пестик довольно просто. В этой табличке подробно расписано множество рецептов различных заклинаний. Вам понадобятся все эти ингредиенты, а также определенный базовый ингредиент. Чтобы создать самое простое возможное заклинание, просто поместите в рецепт заклинания старый корень. Это позволит использовать заклинание без модификаторов.
+
+roots.research.spells.imbuer.name=Наполнение посоха
+roots.research.spells.imbuer.page1title.name=наполнения
+roots.research.spells.imbuer.page1info=Ваша ступка и пестик дают прекрасный порошок заклинаний для использования в заклинаниях, но его нельзя использовать самостоятельно. С помощью этого устройства вы направляете естественную энергию из этого порошка в ветку дерева. Просто поместите в палочку, положите в порошок и подождите, пока выскочит посох.
+roots.research.spells.imbuer.page2title.name=Механика персонала
+roots.research.spells.imbuer.page2info=Магические посохи очень просты в использовании. Обладая силой природы, все, что вам нужно сделать, это удерживать правую кнопку мыши, чтобы зарядить заклинание, и примерно через секунду щелкнуть правой кнопкой мыши, чтобы наложить его. Посохи имеют ограниченное использование и будут полностью уничтожены после того, как их заряды будут израсходованы. Количество зарядов можно увеличить с помощью модификатора эффективности.
+
+roots.research.spells.modifiers.name=Модификаторы
+roots.research.spells.modifiers.page1title.name=Больше взрыва за деньги
+roots.research.spells.modifiers.page1info=Добавление некоторых модификаторов к вашим заклинаниям может сделать их намного более мощными. Модификаторы силы (светящаяся пыль) улучшают силу эффектов заклинания. Модификаторы эффективности (пыль красного камня) улучшают стоимость произнесения заклинания и количество применений заклинания. Модификаторы размера (порох) улучшат область действия заклинания.
+roots.research.spells.modifiers.page2title.name=Базовые ингредиенты
+roots.research.spells.modifiers.page2info=Однако для того, чтобы заклинание имело модификаторы, требуются определенные базовые ингредиенты. Old Roots позволяет создавать заклинания, но не допускает модификаторов. Зеленые веточки могут поддерживать один слот модификатора, инфернальные луковицы - два, а Глаза дракона - три. Эти ингредиенты должны быть добавлены в первую очередь, прежде чем в раствор будут добавлены другие модификаторы.
+
+roots.research.spells.mana.name=Земельные участки
+roots.research.spells.mana.page1title.name=Затраты на кастинг
+roots.research.spells.mana.page1info=Когда вы держите новый посох в руке, вы замечаете, что внутри вас пробудилась сила, а также удобно расположенная полоса на экране. Эти листья представляют собой живую силу глубоко внутри вас, называемую Террой, которая питает ваши заклинания. Все заклинания будут стоить определенное количество этой энергии, но со временем она будет восстанавливаться довольно быстро.
+
+roots.research.spells.poppy.name=Компонент заклинания: Безумие
+roots.research.spells.poppy.page1title.name=Предательство
+roots.research.spells.poppy.page1info=Маки могут естественным образом содержать соединения, изменяющие сознание, из этого следует, что их способности в заклинании задействуют разум. Используя приведенный выше рецепт, вы можете создать заклинание, которое заставит ближайших монстров атаковать других ближайших монстров.
+
+roots.research.spells.blueorchid.name=Компонент заклинания: Земной шип
+roots.research.spells.blueorchid.page1title.name=Лучшее нападение ...
+roots.research.spells.blueorchid.page1info=Кажется, что голубая орхидея связана с землей и землей. Используя приведенный выше рецепт, вы можете создать заклинание, которое создаст шип земли на ближайшем блоке, на который вы смотрите. Шип будет подбрасывать мобов в воздух, но также может использоваться в качестве быстрой защитной стены или как способ дублировать простые материалы, такие как грязь, камень, песок или гравий.
+
+roots.research.spells.allium.name=Компонент заклинания: Раздирающий удар
+roots.research.spells.allium.page1title.name=Выключатель оборудования
+roots.research.spells.allium.page1info=В луке содержится немного разрушительной энергии. Используя приведенный выше рецепт, вы можете создать заклинание, которое будет наносить простой урон своим целям. Кроме того, если цель держит инструмент или носит броню, ее оборудование будет серьезно повреждено.
+
+roots.research.spells.azurebluet.name=Компонент заклинания: Раскол
+roots.research.spells.azurebluet.page1title.name=Майнинг с помощью магии
+roots.research.spells.azurebluet.page1info=Лазурно-синий содержит скрытую энергию, способную сокрушить камень. Используя приведенный выше рецепт, вы создаете заклинание, способное разбивать небольшую область блоков, на которую вы нацелены. У заклинания есть уровень добычи, эквивалентный железному инструменту, который можно увеличить с помощью модификаторов мощности.
+
+roots.research.spells.redtulip.name=Компонент заклинания: Цветок Дьявола
+roots.research.spells.redtulip.page1title.name=Вызов
+roots.research.spells.redtulip.page1info=Очарование красного тюльпана, кажется, привлекает довольно ... зловещее внимание. Используя приведенный выше рецепт, вы можете вызвать призрачный скелет, чтобы атаковать ближайшего моба.
+
+roots.research.spells.orangetulip.name=Компонент заклинания: защита
+roots.research.spells.orangetulip.page1title.name=Силовое поле
+roots.research.spells.orangetulip.page1info=Оранжевый тюльпан ассоциируется с защитой и сопротивлением. Используя приведенный выше рецепт, вы можете создать заклинание, которое будет отражать мобов и останавливать снаряды, удерживая правой кнопкой мыши заклинание.
+
+roots.research.spells.whitetulip.name=Компонент заклинания: Пылающий холод
+roots.research.spells.whitetulip.page1title.name=Замороженное твердое вещество
+roots.research.spells.whitetulip.page1info=Белый тюльпан содержит волшебные эссенции холода и льда. Используя приведенный выше рецепт, вы можете освободить эту холодную силу, создав заклинание, которое будет наносить урон и замедлять поражение целей.
+
+roots.research.spells.pinktulip.name=Компонент заклинания: Похищение жизни
+roots.research.spells.pinktulip.page1title.name=Вампиризм
+roots.research.spells.pinktulip.page1info=Вы обнаружили, что розовый тюльпан может быть тесно связан с жизненной силой живых существ. Используя приведенный выше рецепт, вы можете создать заклинание, способное наносить урон пораженным сущностям, одновременно крадя часть их жизненной силы для восстановления вашей.
+
+roots.research.spells.oxeyedaisy.name=Компонент заклинания: ускорение
+roots.research.spells.oxeyedaisy.page1title.name=Разогнан
+roots.research.spells.oxeyedaisy.page1info=Маргаритка бычий глаз настроена на течение времени. Используя приведенный выше рецепт, вы можете создать заклинание, способное увеличивать скорость тиков печей, пивоварен или других устройств, на которые вы нацеливаетесь своим заклинанием. По умолчанию заклинание утроит скорость этих устройств.
+
+roots.research.spells.dandelion.name=Компонент заклинания: ветры одуванчиков
+roots.research.spells.dandelion.page1title.name=Вкус
+roots.research.spells.dandelion.page1info=Вы обнаружили, что одуванчик обладает способностями, связанными с ветром. Используя приведенный выше рецепт, вы можете создать заклинание, способное взорвать спины существ перед вами.
+
+roots.research.spells.sunflower.name=Компонент заклинания: Солнечный удар
+roots.research.spells.sunflower.page1title.name=Бич нежити
+roots.research.spells.sunflower.page1info=Подсолнечник всю жизнь пытается поглотить солнечные лучи. Используя приведенный выше рецепт, вы можете задействовать немного этого накопленного солнечного света, нанося некоторый урон обычным мобам, но нанося огромный дополнительный урон монстрам-нежити, а также поджигая их.
+
+roots.research.spells.lilac.name=Компонент заклинания: Рост
+roots.research.spells.lilac.page1title.name=Волшебное удобрение
+roots.research.spells.lilac.page1info=Вы обнаружили, что сирень содержит в себе искру энергии роста. Используя приведенный выше рецепт, вы можете создать заклинание, способное выращивать близлежащие растения. Заклинание будет нацелено на выращиваемые растения вокруг выбранного блока и имеет шанс применить эффект костной муки к каждому из них.
+
+roots.research.spells.rosebush.name=Компонент заклинания: Шипы розы
+roots.research.spells.rosebush.page1title.name=Естественная защита
+roots.research.spells.rosebush.page1info=Вы нашли способ уловить колючость куста роз в ваших заклинаниях. Используя приведенный выше рецепт, вы можете создать заклинание, способное наносить прямой урон целям. Учтите, что это заклинание не вызывает отбрасывания.
+
+roots.research.spells.peony.name=Компонент заклинания: Регенерация
+roots.research.spells.peony.page1title.name=Нежное прикосновение
+roots.research.spells.peony.page1info=Вы обнаружили, что пионы обладают мягким целебным действием. Используя приведенный выше рецепт, вы можете создать заклинание, которое просто немного исцелит вас.
+
+roots.research.spells.apple.name=Компонент заклинания: Природное лекарство
+roots.research.spells.apple.page1title.name=Средство правовой защиты
+roots.research.spells.apple.page1info=Вы обнаружили, что яблоки обладают целебными свойствами. Используя приведенный выше рецепт, вы можете создать заклинание, которое будет принимать любые негативные эффекты на вас в данный момент и преобразовывать их в свои положительные варианты, если такие варианты существуют.
+
+roots.research.spells.lilypad.name=Компонент заклинания: Водяной взрыв
+roots.research.spells.lilypad.page1title.name=Огнетушитель
+roots.research.spells.lilypad.page1info=Как водное растение, можно ожидать, что у кувшинок есть какая-то сила, связанная с водой. Используя приведенный выше рецепт, вы можете создать заклинание, которое создаст временный поток воды на 4 блока перед вами. Это заклинание очень полезно для тушения пожаров или отталкивания ближайших мобов.
+
+roots.research.spells.poisonouspotato.name=Компонент заклинания: электрическая искра
+roots.research.spells.poisonouspotato.page1title.name=Удар молнии
+roots.research.spells.poisonouspotato.page1info=Врожденный заряд картофеля в сочетании с опасностью его яда создают очень разрушительное заклинание. Используя приведенный выше рецепт, вы можете создать заклинание, которое просто поразит молнией ближайший блок, на который вы смотрите.
+
+roots.research.spells.netherwart.name=Компонент заклинания: Инферно
+roots.research.spells.netherwart.page1title.name=Огненный шар
+roots.research.spells.netherwart.page1info=Бородавка Пустоты впитала многое из своего огненного дома в Пустоте. Используя приведенный выше рецепт, вы можете создать заклинание, которое будет наносить урон и поджигать пораженные цели.
+
+roots.research.spells.chorus.name=Компонент заклинания: Искажение Эндера
+roots.research.spells.chorus.page1title.name=Телепортация
+roots.research.spells.chorus.page1info=Достаточно просто съесть фрукт хоруса, чтобы получить случайный телепорт. Используя приведенный выше рецепт, вы можете создать заклинание с большим контролем над этой способностью, позволяя пользователю телепортироваться вперед, даже сквозь стены или при падении.
+
+roots.research.spells.radiantdaisy.name=Компонент заклинания: Сияние
+roots.research.spells.radiantdaisy.page1title.name=Цветок Света
+roots.research.spells.radiantdaisy.page1info=Используя мутирующий цветок в надземном мире, вы создаете сияющий белый цветок. Чтобы создать, посадите ромашку. В полдень бросьте блок светящегося камня и один кристалл призмарина рядом с ним, и, находясь под эффектом ночного видения, нанесите порошок на цветок.
+roots.research.spells.radiantdaisy.page2title.name=Пронзающие лучи
+roots.research.spells.radiantdaisy.page2info=Новый цветок, который вы создали, содержит самую суть сияющего дневного света внешнего мира. Используя приведенный выше рецепт, вы можете создать заклинание, которое нанесет очень большой урон пораженным существам в большом луче перед вами.
+
+roots.research.spells.flareorchid.name=Компонент заклинания: возгорание
+roots.research.spells.flareorchid.page1title.name=Огненная Флора
+roots.research.spells.flareorchid.page1info=Используя мутирующий порошок в преисподней, вы создаете пылающий красный цветок. Для создания посадите голубую орхидею в аду. Сделайте кольцо из адского камня вокруг цветка. Находясь под действием огнестойкости, бросьте огненный жезл и ведро с лавой рядом с цветком, затем нанесите порошок на цветок.
+roots.research.spells.flareorchid.page2title.name=Разрушение
+roots.research.spells.flareorchid.page2info=Созданный вами новый цветок пылает хаотическим пламенем преисподней. Используя приведенный выше рецепт, вы можете использовать его для создания заклинания, которое позволит вам создавать большие взрывы на блоках, на которые вы смотрите.
+
+roots.research.spells.midnightbloom.name=Компонент заклинания: Остановка времени
+roots.research.spells.midnightbloom.page1title.name=Эндер цветок
+roots.research.spells.midnightbloom.page1info=Используя в конце мутирующий порошок, вы создадите цветок, черный как ночь. Для создания в конце посадите мак на два блока выше обсидиана. Находясь под эффектом медлительности, бросьте угольный блок рядом с цветком и нанесите порошок на цветок.
+roots.research.spells.midnightbloom.page2title.name=Хрономаг
+roots.research.spells.midnightbloom.page2info=Новый цветок, который вы создали, полон сил, которые вам не подвластны. Используя приведенный выше рецепт, вы можете создать заклинание, которое остановит время для всех сущностей в области вокруг вас. Они не будут обновляться, пока не закончится заклинание, в течение которого вы можете двигаться, атаковать или злорадствовать над ними.
+
+roots.research.ritual.name=Ритуалы
+
+roots.research.ritual.ritual.name=Основы ритуальной механики
+roots.research.ritual.ritual.page1title.name=Алтарь
+roots.research.ritual.ritual.page1info=Приобретая материалы из глубины земли, вы создали новую структуру, которая позволяет вам использовать более мощную магию, чем когда-либо прежде. У алтаря могут проводиться разные ритуалы, для каждого из которых требуются разные компоненты и условия.
+roots.research.ritual.ritual.page2title.name=Благовония
+roots.research.ritual.ritual.page2info=Для работы большинства ритуалов, если не всех, требуется ладан. Жаровни для благовоний будут засчитаны, только если они находятся в пределах области 9x9 вокруг алтаря и на одном уровне. Предметы можно помещать в жаровню и поджигать кремнем и сталью. Жаровню с благовониями можно потушить, незаметно щелкнув правой кнопкой мыши пустой рукой.
+roots.research.ritual.ritual.page3title.name=Основной кастинг
+roots.research.ritual.ritual.page3info=Типичный ритуал заключается в следующем: сначала на алтарь кладут необходимые предметы и зажигают необходимые благовония. Убедитесь, что у вас нет лишних ингредиентов на алтаре или лишних благовоний в воздухе, иначе ритуал не удастся. Затем незаметно нажмите на алтарь правой кнопкой мыши, чтобы начать ритуал.
+
+roots.research.ritual.livingtools.name=Живые инструменты
+roots.research.ritual.livingtools.page1title.name=Самовосстанавливающийся
+roots.research.ritual.livingtools.page1info=Ваши ритуалы способны направлять жизненную энергию в ранее мертвые объекты. Используя это, вы можете создавать новые, более прочные формы для своих деревянных инструментов. Добавление немного золота для усиления, а также зеленой веточки, на которой можно расти, предоставят вам инструменты, аналогичные железу, которые со временем восстанавливаются медленно.
+roots.research.ritual.livingtools.page2title.name=Ritual: Живая кирка
+roots.research.ritual.livingtools.page3title.name=Ritual: Живой топор
+roots.research.ritual.livingtools.page4title.name=Ritual: Живая лопата
+roots.research.ritual.livingtools.page5title.name=Ritual: Живой меч
+roots.research.ritual.livingtools.page6title.name=Ritual: Живая мотыга
+
+roots.research.ritual.grow.name=Ритуал роста
+roots.research.ritual.grow.page1title.name=Искра жизни
+roots.research.ritual.grow.page1info=Обладая простыми способностями алтаря направлять жизнь, вы разработали ритуал, который поможет росту ваших урожаев. Этот ритуал будет сканировать посевы в области 35x35x9 и случайным образом применить эффект костной муки к некоторым из них.
+roots.research.ritual.grow.page2title.name=Ритуал: рост
+
+roots.research.ritual.standingstones.name=Стоящие камни
+roots.research.ritual.standingstones.page1title.name=Гравированные камни
+roots.research.ritual.standingstones.page1info=Чтобы получить доступ к более действенным ритуалам, вам нужен лучший способ направлять жизненную энергию из окружающего вас мира. Вырезая руны на этой каменной структуре, вы даете ему столь необходимую способность черпать силу из окружающего мира, чтобы подпитывать ваши магические желания.
+
+roots.research.ritual.animalsummoning.name=Реанимация животных
+roots.research.ritual.animalsummoning.page1title.name=Жизнедатель
+roots.research.ritual.animalsummoning.page1info=Вы верите, что благодаря усиленным способностям канализации стоящих камней, вы можете наполнить труп мертвого существа достаточным количеством целительной энергии, чтобы вернуть его к жизни. Учитывая плоть и кости пассивной толпы, эти ритуалы вернут эту толпу к жизни на вершине алтаря.
+roots.research.ritual.animalsummoning.page2title.name=Ритуал: вызов свиньи
+roots.research.ritual.animalsummoning.page3title.name=Ритуал: вызов коровы
+roots.research.ritual.animalsummoning.page4title.name=Ритуал: призыв овец
+roots.research.ritual.animalsummoning.page5title.name=Ритуал: вызов цыпленка
+roots.research.ritual.animalsummoning.page6title.name=Ритуал: призыв кролика
+
+roots.research.ritual.crystalstaff.name=Хрустальный посох
+roots.research.ritual.crystalstaff.page1title.name=Многоразовая магия
+roots.research.ritual.crystalstaff.page1info=Слишком долго вы были связаны ограниченным количеством применений обычного персонала. Используя редкие кристаллы из глубины земли, вы полагаете, что создали способ хранить заклинания на неопределенный срок: хрустальный посох. Мало того, что этот посох может хранить заклинания неограниченное время, он также может хранить до четырех одновременно.
+roots.research.ritual.crystalstaff.page2title.name=Ритуал: Хрустальная кузница
+roots.research.ritual.crystalstaff.page3title.name=Добавление заклинаний
+roots.research.ritual.crystalstaff.page3info=Добавление заклинаний к посоху требует отдельного ритуала. В дополнение к отображаемым компонентам этого ритуала вы можете добавить до четырех дополнительных порошков заклинаний в качестве благовоний. Каждый из них будет добавлен к посоху, при необходимости перезаписав предыдущие заклинания. Просто крадитесь и щелкните правой кнопкой мыши, чтобы просмотреть заклинания посоха.
+roots.research.ritual.crystalstaff.page4title.name=Ритуал: кристаллическое насыщение
+roots.research.ritual.crystalstaff.page5title.name=Ограничения
+roots.research.ritual.crystalstaff.page5info=Однако у этого нового посоха есть одно серьезное ограничение: его нужно использовать, стоя на естественных блоках, таких как грязь, трава, листья или бревна. В противном случае посох будет использовать собственную жизненную силу пользователя, чтобы произносить заклинания.
+
+roots.research.ritual.rainrituals.name=Контроль падения
+roots.research.ritual.rainrituals.page1title.name=Магия погоды
+roots.research.ritual.rainrituals.page1info=Используя несколько простых натуральных ингредиентов, вы открыли для себя два ритуала: один вызывает дождь в мир, а другой - изгоняет его.
+roots.research.ritual.rainrituals.page2title.name=Ритуал: Вызов дождя
+roots.research.ritual.rainrituals.page3title.name=Ритуал: изгнание дождя
+
+roots.research.ritual.flare.name=Огненный взрыв
+roots.research.ritual.flare.page1title.name=Наступательные ритуалы
+roots.research.ritual.flare.page1info=Не все ваши ритуалы предназначены для счастливых и веселых целей, таких как смена дождя или возвращение к жизни вашей домашней свиньи. Ритуал вспышки использует некоторые огненные материалы из преисподней, а также некоторое летучее топливо для сжигания мобов внутри области 45x45x17 вокруг алтаря, за исключением игроков, находящихся непосредственно у алтаря.
+roots.research.ritual.flare.page2title.name=Ритуал: Вспышка
+
+roots.research.ritual.standingstones2.name=Улучшенные стоячие камни
+roots.research.ritual.standingstones2.page1title.name=Следующий уровень
+roots.research.ritual.standingstones2.page1info=Еще раз, вы попали в стену. Ваши стоячие камни мощны, но вы уверены, что есть много более мощной магии, которая все еще ускользает от вас. Однако, совершив путешествие в преисподнюю, вы обнаружили, что, используя некоторые более энергетические материалы, вы можете создавать камни, которые гораздо эффективнее направляют жизненную энергию.
+
+roots.research.ritual.monstersummoning.name=Реанимация монстров
+roots.research.ritual.monstersummoning.page1title.name=Нежить
+roots.research.ritual.monstersummoning.page1info=Вы думаете, что с более мощным алтарем вы сможете применить свои предыдущие ритуалы реанимации к более сильным и зловещим целям. Доставив кость и некоторые связанные с ней предметы, вы можете вызвать толпу по вашему выбору на вершине алтаря.
+roots.research.ritual.monstersummoning.page2title.name=Ритуал: Призыв зомби
+roots.research.ritual.monstersummoning.page3title.name=Ритуал: Призыв скелета
+roots.research.ritual.monstersummoning.page4title.name=Ритуал: Призыв паука
+roots.research.ritual.monstersummoning.page5title.name=Ритуал: Призыв крипера
+roots.research.ritual.monstersummoning.page6title.name=Ритуал: Призыв пещерного паука
+roots.research.ritual.monstersummoning.page7title.name=Ритуал: Призыв слайма
+roots.research.ritual.monstersummoning.page8title.name=Ритуал: Призыв ендермана
+
+roots.research.ritual.sylvanarmor.name=Лесная броня
+roots.research.ritual.sylvanarmor.page1title.name=Одеяния друидов
+roots.research.ritual.sylvanarmor.page1info=Возможно, вы захотите, чтобы ваша одежда соответствовала вашему новому, более прочному алтарю. Используя кожаную броню в качестве основы, вам удалось создать форму магической одежды. У этого снаряжения не самая лучшая защита, но оно автоматически отремонтирует и увеличит модификатор эффективности ваших заклинаний на два.
+roots.research.ritual.sylvanarmor.page2title.name=Ритуал: Лесной капюшон
+roots.research.ritual.sylvanarmor.page3title.name=Ритуал: лесное одеяние
+roots.research.ritual.sylvanarmor.page4title.name=Ритуал: лесной мундир
+roots.research.ritual.sylvanarmor.page5title.name=Ритуал: лесные сапоги
+
+roots.research.ritual.wildwoodarmor.name=Броня дикого леса
+roots.research.ritual.wildwoodarmor.page1title.name=Деревянная броня
+roots.research.ritual.wildwoodarmor.page1info=Модные халаты - это хорошо и все такое, но иногда вам просто нужна грубая защита. Доспех из дикого дерева, построенный из железной брони в качестве основы, отлично подходит для этой цели. У него есть защита между железом и алмазной броней, но также он автоматически ремонтируется и увеличивает вашу естественную регенерацию, даже когда нет еды.
+roots.research.ritual.wildwoodarmor.page2title.name=Маска дикого леса
+roots.research.ritual.wildwoodarmor.page3title.name=Тарелка дикого дерева
+roots.research.ritual.wildwoodarmor.page4title.name=Поножи дикого леса
+roots.research.ritual.wildwoodarmor.page5title.name=Сапоги дикого леса
+
+roots.research.ritual.poweredstones.name=Энергетические камни
+roots.research.ritual.poweredstones.page1title.name=Просто, но эффективно
+roots.research.ritual.poweredstones.page1info=Раньше вы использовали стоячие камни для направления жизненной энергии, но никогда сами по себе. Однако, используя врожденную силу внутри адской лампочки и регенерирующие эффекты ритуала, вы создали стоящие камни, которые будут выполнять простую задачу в области вокруг них навсегда, без каких-либо затрат.
+roots.research.ritual.poweredstones.page2title.name=Ритуал: камень-ускоритель
+roots.research.ritual.poweredstones.page3title.name=Ускоритель
+roots.research.ritual.poweredstones.page3info=Камень-ускоритель даст всем ближайшим существам эффект зелья Скорости II.
+roots.research.ritual.poweredstones.page4title.name=Ритуал: камень запутывания
+roots.research.ritual.poweredstones.page5title.name=Запутыватель
+roots.research.ritual.poweredstones.page5info=Камень Запутыватель даст всем ближайшим существам эффект зелья Медлительность II.
+roots.research.ritual.poweredstones.page6title.name=Ритуал: Камень выращивания
+roots.research.ritual.poweredstones.page7title.name=Производитель
+roots.research.ritual.poweredstones.page7info=Камень выращивания немного увеличит скорость роста ближайших культур.
+roots.research.ritual.poweredstones.page8title.name=Ритуал: Целительный камень
+roots.research.ritual.poweredstones.page9title.name=Целитель
+roots.research.ritual.poweredstones.page9info=Камень целителя предоставит эффект зелья регенерации всем ближайшим существам.
+roots.research.ritual.poweredstones.page10title.name=Ритуал: поджигающий камень
+roots.research.ritual.poweredstones.page11title.name=Воспламенитель
+roots.research.ritual.poweredstones.page11info=Камень-воспламенитель на несколько секунд подожжет ближайших существ.
+roots.research.ritual.poweredstones.page12title.name=Ритуал: Репульсорный камень
+roots.research.ritual.poweredstones.page13title.name=Репульсор
+roots.research.ritual.poweredstones.page13info=Репульсорный камень отталкивает находящиеся рядом предметы от себя.
+roots.research.ritual.poweredstones.page14title.name=Ритуал: вакуумный камень
+roots.research.ritual.poweredstones.page15title.name=Вакуум
+roots.research.ritual.poweredstones.page15info=Вакуумный камень притянет к себе упавшие предметы.
+
+roots.research.ritual.massbreeding.name=Массовое разведение
+roots.research.ritual.massbreeding.page1title.name=Ферма животных
+roots.research.ritual.massbreeding.page1info=Выжигая обычные предметы размножения в качестве благовоний, вы разработали ритуал, который заставит всех размножаемых мобов в пределах коробки 45x45x17 перейти в режим размножения.
+roots.research.ritual.massbreeding.page2title.name=Ритуал: массовое размножение
+
+roots.research.ritual.lifedrain.name=Похищение жизни
+roots.research.ritual.lifedrain.page1title.name=Принимая это обратно
+roots.research.ritual.lifedrain.page1info=Жизненная сила враждебных мобов испорчена и испорчена. С помощью этого ритуала вы разработали способ использования этой жизненной силы для более полезных целей. Этот ритуал повредит всех враждебных мобов на большой территории и равномерно разделит нанесенный урон между ближайшими игроками в форме исцеления.
+roots.research.ritual.lifedrain.page2title.name=Ритуал: Похищение жизни
+roots.research.ritual.sacrifice.name=Жертва
+roots.research.ritual.sacrifice.page1title.name=Сверхъестественная сделка
+roots.research.ritual.sacrifice.page1info=Вам просто надоели длительные приключения в поисках определенных растений, чтобы завершить свои заклинания. С помощью этого ритуала вы разработали зловещее решение. Когда этот ритуал завершает световое шоу частиц, он мгновенно убивает находящуюся рядом моба. Взамен с алтаря можно сбросить случайное растение. Источник этих капель вам неизвестен ...
+roots.research.ritual.sacrifice.page2title.name=Ритуал: жертвоприношение
+
+roots.research.ritual.runicFocus.name=Рунические очаги
+roots.research.ritual.runicFocus.page1title.name=Накопленная мощность
+roots.research.ritual.runicFocus.page1info=Выгравировав на этом камне несколько рун и поместив в его сердцевину редкий самоцвет, вы создали предмет, который будет накапливать жизненную энергию. Его можно зарядить в ритуале у алтаря, а затем либо разрядить, либо включить в другие предметы в ритуалах или других процессах.
+roots.research.ritual.runicFocus.page2title.name=Ритуал: руническое сосредоточение
+roots.research.ritual.runicFocus.page3title.name=Зарядка
+roots.research.ritual.runicFocus.page3info=Чтобы действительно зарядить фокус, вам понадобится энергетическая пыль из внешнего мира, а также энергетическая пыль из преисподней. Используя огненную энергию адского стебля, вы можете направить энергию пыли в фокус вместе с жизненной энергией, которая сопровождает все ритуалы.
+roots.research.ritual.runicFocus.page4title.name=Ритуал: заряд рунического фокуса
+
+roots.research.ritual.engravedSword.name=Гравированный клинок
+roots.research.ritual.engravedSword.page1title.name=Модульное оружие
+roots.research.ritual.engravedSword.page1info=Используя свойства Рунического Фокуса, вы создали новое оружие. Во время изготовления этого оружия вы можете сжечь до четырех разных видов коры в качестве дополнительных благовоний, чтобы добавить различные баффы к мечу. Вы можете смешивать и сочетать эти баффы по своему усмотрению, и они будут складываться, если вы добавите более одного баффа за раз.
+roots.research.ritual.engravedSword.page2title.name=Ритуал: гравированный клинок
+roots.research.ritual.engravedSword.page3title.name=Шипы
+roots.research.ritual.engravedSword.page3info=Каждая кора акации, которую вы сжигаете в качестве благовоний во время изготовления меча, добавит ему некоторого общего урона.
+roots.research.ritual.engravedSword.page4title.name=Сильный
+roots.research.ritual.engravedSword.page4info=Каждая еловая кора, которую вы сжигаете как благовоние во время изготовления меча, добавляет дополнительный отбрасывание атакам меча.
+roots.research.ritual.engravedSword.page5title.name=Святой
+roots.research.ritual.engravedSword.page5info=Каждая береста, которую вы сжигаете в качестве благовоний во время изготовления меча, будет добавлять дополнительный урон всякий раз, когда меч атакует нежить.
+roots.research.ritual.engravedSword.page6title.name=Водный
+roots.research.ritual.engravedSword.page6info=Каждая кора джунглей, которую вы сжигаете в качестве ладана во время изготовления меча, добавляет небольшое количество урона от утопления к урону меча.
+roots.research.ritual.engravedSword.page7title.name=Шаг тени
+roots.research.ritual.engravedSword.page7info=Каждая кора темного дуба, которую вы сжигаете в качестве ладана во время изготовления меча, увеличивает ваш шанс уклониться от атак, нанесенных вам, когда вы держите меч.
+
+roots.research.ritual.timeshift.name=Сдвиг во времени
+roots.research.ritual.timeshift.page1title.name=Посох сдвига времени
+roots.research.ritual.timeshift.page1info=Спустя много часов вы обнаружили, что сжигая обычные устройства хронометража, вы можете перемещать время на величину, пропорциональную количеству часов, сожженных в виде благовоний.
+roots.research.ritual.timeshift.page2title.name=Ритуал: Сдвиг во времени
+
+roots.research.ritual.poweredstones.page16title.name=Ритуал: Стоящий камень
+roots.research.ritual.poweredstones.page17title.name=Стоящий камень
+roots.research.ritual.poweredstones.page17info=Базовый стоячий камень. Частицы можно окрасить в красный цвет розы, лазурит, зеленый кактус и сбросить с помощью костной муки.
+
+item.druidknife.guide=Используется для получения коры из бревен.  
+item.pestle.guide=Используется с мортирой для создания заклинаний, см. Руническая табличка.
+tile.mortar.guide=Используется с Пестиком для создания заклинаний, см. Руническая табличка.
+tile.imbuer.guide=Создайте любой волшебный посох, используя Порошок заклинаний, см. Руническая табличка.
+item.oldroot.guide=Базовый компонент заклинания; капли с высокотравья; см. Руническую табличку.
+tile.midnightbloom.guide=Продвинутый компонент заклинаний; см. Руническую табличку.
+tile.flareorchid.guide=Продвинутый компонент заклинаний; см. Руническую табличку.
+tile.radiantdaisy.guide=Продвинутый компонент заклинаний; см. Руническую табличку.
+item.verdant.guide=Компонент заклинания; см. Руническую табличку.
+item.infernalstem.guide=Компонент заклинания; см. Руническую табличку.
+item.dragonseye.guide=Компонент заклинания; см. Руническую табличку.
+item.redcurrant.guide=Компонент заклинания; см. Руническую табличку.
+item.whitecurrant.guide=Компонент заклинания; см. Руническую табличку.
+item.blackcurrant.guide=Компонент заклинания; см. Руническую табличку.
+item.growthsalve.guide=Используйте для выращивания травы на грязи.
+item.mutagen.guide=Волшебным образом мутирует флору; см. Руническую табличку.
+
+item.nightshade.guide=Мрачная загадочная ягода; см. Руническую табличку.
+item.elderberry.guide=Мрачная загадочная ягода; см. Руническую табличку.
+
+
+item.healingpoultice.guide=Мгновенное исцеление при поедании
+
+item.engravedsword.guide=Таинственный клинок с неизвестной силой
+
+
+
+
+
+
+item.oaktreebark.guide=Используйте нож из коры на бревне.
+item.birchtreebark.guide=Используйте нож из коры на бревне.
+item.sprucetreebark.guide=Используйте нож из коры на бревне.
+item.jungletreebark.guide=Используйте нож из коры на бревне.
+item.acaciatreebark.guide=Используйте нож из коры на бревне.
+item.darkoaktreebark.guide=Используйте нож из коры на бревне.
+
+item.livingpickaxe.guide=Инструмент для самостоятельного ремонта; полученные с помощью магического ритуала; см. Руническую табличку.
+item.livingaxe.guide=Инструмент для самостоятельного ремонта; полученные с помощью магического ритуала; см. Руническую табличку.
+item.livingsword.guide=Инструмент для самостоятельного ремонта; полученные с помощью магического ритуала; см. Руническую табличку.
+item.livinghoe.guide=Инструмент для самостоятельного ремонта; полученные с помощью магического ритуала; см. Руническую табличку.
+item.livingshovel.guide=Инструмент для самостоятельного ремонта; полученные с помощью магического ритуала; см. Руническую табличку.
+
+
+item.druidrobeshead.guide=Добывается с помощью магического ритуала; см. Руническую табличку.
+item.druidrobeschest.guide=Добывается с помощью магического ритуала; см. Руническую табличку.
+item.druidrobeslegs.guide=Добывается с помощью магического ритуала; см. Руническую табличку.
+item.druidrobesboots.guide=Добывается с помощью магического ритуала; см. Руническую табличку.
+
+item.druidarmorhead.guide=Добывается с помощью магического ритуала; см. Руническую табличку.
+item.druidarmorchest.guide=Добывается с помощью магического ритуала; см. Руническую табличку.
+item.druidarmorlegs.guide=Добывается с помощью магического ритуала; см. Руническую табличку.
+item.druidarmorboots.guide=Добывается с помощью магического ритуала; см. Руническую табличку.
+
+item.staff.guide=Создается с помощью Порошка заклинаний на Наделе, см. Руническая табличка.
+item.dustpetal.guide=Комбинация ингредиентов, составляющая заклинание, см. Руническая табличка.
+
+roots.clearpotionsitem.tooltip=Снимает зелья при поедании
+roots.healingitem.tooltip=Лечит игрока, если его съесть
+roots.poisonitem.tooltip=Ядовит при употреблении в пищу
+
+tile.standingstonet1.guide=Основной ритуальный камень, используемый для создания ритуальных узоров, как показано в Рунической Скрижали.
+tile.standingstonet2.guide=Продвинутый ритуальный камень, используемый для создания ритуальных узоров, как показано в Рунической Скрижали.
+
+roots.mortar.invalid=Рецепт недействителен; проверить товары и заказать
+roots.mortar.disabled=Рецепт отключен
+roots.mortar.mixin=Рецепт найден, но отсутствует примесь редких материалов
+
+entity.skeleton_phantom.name=Фантомный скелет
+
+brazier.burning.added=Товар добавлен
+brazier.burning.empty=Пустой
+brazier.burning.off=Не горит
+brazier.burning.on=Мангал сейчас горит
+

@@ -1,0 +1,49 @@
+{
+    "_comment": "---------------------------------------- Platforms en_us.json Localization ---------------------------------------!",
+    "_comment": "Keep file encoded with UTF-8 to support chat formatting http://minecraft.gamepedia.com/Formatting_codes",
+    "_comment": "msg entries can span multiple lines, use <br> to indicate a line break.",
+
+    "_comment": "------------------------------------------------------ MISC ------------------------------------------------------!",
+    "itemGroup.platforms": "Платформы",
+
+    "_comment": "----------------------------------------------- ERROR/INFO/NOTICE ------------------------------------------------!",
+    "info.platforms.base.txt": "§6Base:§7§o",
+    "info.platforms.addon.txt": "§6Rail:§7§o",
+    "info.platforms.wrench.tooltip.txt": "Открыть панель управления на SHIFT + ПКМ по платформе",
+    "info.platforms.wrench.tooltip.msg": "Когда ключ удерживается в левой руке, а платформа в основной руке, показывает размещение объектов",
+
+    "_comment": "------------------------------------------------------ GUI -------------------------------------------------------!",
+    "gui.platformer.slot.storage.info": "Место хранения; Используется для хранения материалов, необходимых для крафта.",
+    "gui.platformer.slot.craft.info": "Выход платформы; Если необходимые материалы доступны, нажмите здесь, чтобы изготовить.",
+    "gui.platformer.slot.decon.info": "Деконструктор; платформы могут быть разбиты здесь. Размер стака должен быть равен или больше суммы, полученной при крафте.",
+    "gui.platformer.slot.buffer.info": "Выходной буфер; используется как временное хранилище для автоматизации. Это должно быть пустым, прежде чем можно будет создать ещё.",
+    "gui.platformer.slot.material.info": "Выбор материала; определяет внешний вид и используемый материал.",
+    "gui.platformer.button.select.info": "Селектор платформы; Выбрать между доступными типами платформ.",
+    "gui.platformer.preview.info": "Предварительный просмотр платформы; рендер конечного продукта.",
+    "gui.platformer.basic.txt": "Хранилище, Буфер & Выход крафта",
+    "gui.platformer.output.txt": "Буфер & Выход крафта",
+    "gui.platformer.decon.txt": "Деконструктор Вход/Выход",
+    "gui.platformer.storage.txt": "Хранилище Вход/Выход",
+
+    "gui.platform_select.back.txt": "§7§lНазад:§r Left Arrow / Scroll Up",
+    "gui.platform_select.next.txt": "§7§lВперёд:§r Right Arrow / Scroll Down",
+    "gui.platform_select.first.txt": "§7§lВернуть:§r Space",
+    "gui.platform_select.save.txt": "§7§lПрименить:§r Enter / Right Click",
+
+    "_comment": "---------------------------------------------------- INVENTORY ---------------------------------------------------!",
+    "inv.platformer": "Платформер",
+    "inv.platformer.output": "Выход платформы",
+    "inv.platformer.deconstruct": "Деконструктор платформ",
+    "inv.platformer.storage": "Хранилище платформера",
+
+    "_comment": "-------------------------------------------------- ITEMS/BLOCKS --------------------------------------------------!",
+    "block.platforms.flat": "Платформа",
+    "block.platforms.ramp": "Рампа",
+    "block.platforms.floor": "Пол",
+    "block.platforms.frame": "Рамка",
+    "block.platforms.rise": "Балки",
+    "block.platforms.rail": "Поручень",
+    "block.platforms.platformer": "Платформер",
+
+    "item.platforms.wrench": "Гаечный ключ для платформ"
+}

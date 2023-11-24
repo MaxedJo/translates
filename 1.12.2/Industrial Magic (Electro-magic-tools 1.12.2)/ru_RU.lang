@@ -1,0 +1,171 @@
+#=============Creative Tab Name=============
+itemGroup.emt=Electro-Magic Tools
+
+#=============Thaumonomicon Tab Name=============
+tc.research_category.EMT=Electro-Magic Tools
+
+#=============GUI=============
+gui.EMT.config.title=Конфигурация Electro-Magic Tools
+gui.EMT.etherealMacerator.title=Эфирный обработчик
+gui.EMT.wandRecharge.title=Промышленная станция зарядки жезлов
+gui.EMT.inventory=Инвентарь
+gui.EMT.book.aspect.output.eu.title=Книга выхода эссенции
+gui.EMT.book.aspect.output.essentia.eu=Выход EU за эссенцию
+gui.EMT.key.unequip=Снять
+
+#=============Tooltips=============
+#This comes after a player name. The 's is depicting ownership.
+tooltip.EMT.hammer.broken.The Hammer of Thor=Молот Тора
+tooltip.EMT.hammer.electric=Молот игрока %player%
+tooltip.EMT.hammer.broken.thor=Это был молот Тора.
+tooltip.EMT.hammer.broken.danger=Сейчас он очень опасен.
+tooltip.EMT.hammer.broken.plsNoRightClick=Не нажимайте ПКМ.
+tooltip.EMT.hammer.broken.plsRightClick=Нажмите ПКМ.
+tooltip.EMT.visDiscount=Уменьшение затрат Вис
+tooltip.EMT.specialEffect=Особый эффект
+tooltip.EMT.normalConditions=Нормальные условия
+tooltip.EMT.euPerTick=EU/тик
+tooltip.EMT.night=ночью
+tooltip.EMT.forget=Я не забыл подсказку?
+tooltip.EMT.raining=во время дождя
+tooltip.EMT.output.triple=Выход увеличен на 3
+tooltip.EMT.output.double=Выход увеличен на 2,
+tooltip.EMT.output.double.half=Выход увеличен на 2.5,
+tooltip.EMT.output.double.nether=если она находится в Нижнем мире
+tooltip.EMT.output.double.lava=если над ней лава
+tooltip.EMT.output.double.half.height=если она находится выше Y = 160
+tooltip.EMT.output.double.half.low=если она находится ниже Y = 10
+emt.aer_generator=Эссенция сливается в генератор! Производство энергии - 15.000 EU, используется Аспект §eAer.
+emt.auram_generator=Эссенция сливается в генератор! Производство энергии - 66.000 EU, используется Аспект §dAuram.
+emt.ignis_generator=Эссенция сливается в генератор! Производство энергии - 20.000 EU, используется Аспект §cIgnis.
+emt.pot_generator=Эссенция сливается в генератор! Производство энергии - 36.000 EU, используется Аспект §bPotential.
+
+#=============Entity Names=============
+entity.EMT.laser.name=Лазер
+entity.EMT.archer.name=Снеговик-хранитель
+entity.EMT.shield.name=Щит
+
+#=============Item Names=============
+item.materials_oreclusteruranium.name=Скопление чистого урана
+item.materials_crushedoreamber.name=Измельчённая янтарная руда
+item.materials_purifiedoreamber.name=Очищенная янтарная руда
+item.materials_crushedorecinnabar.name=Измельчённая киноварная руда
+item.materials_purifiedorecinnabar.name=Очищенная киноварная руда
+item.materials_thaumiumplate.name=Таум-пластина
+item.materials_lightningsummoner.name=Призыватель молний
+item.materials_feathermesh.name=Кучка перьев
+item.materials_glue.name=Клей
+item.materials_ducttape.name=Клейкая лента
+item.materials_rubberball.name=Резиновый шарик
+item.materials_cardboard.name=Картонный лист
+item.materials_feathergluedcardboardwing.name=Картонное крыло, обклеенное перьями
+item.materials_denseironsheet.name=Плотный железный лист
+item.materials_taintedfeather.name=Заражённое перо
+item.materials_thaumiumwing.name=Укреплённое таум-крыло
+item.materials_uumatterdrop.name=Кристаллизированная капля материи
+item.emtbaubles_armor.name=Кольцо для зарядки брони
+item.emtbaubles_inventory.name=Кольцо для зарядки инвентаря
+item.onering.name=Кольцо Всевластия
+item.electricgoggles.name=Электрические очки откровения
+item.nanogoggles.name=Нано-очки откровения
+item.quantumgoggles.name=Квантовые очки откровения
+item.solarhelmetrevealing.name=Солнечные очки откровения
+item.electricbootstraveller.name=Электрические ботинки путешественника
+item.nanobootsraveller.name=Нано-ботинки путешественника
+item.quantumbootsraveller.name=Квантовые ботинки путешественника
+item.electricscribingtools.name=Электрическая чернильница с пером
+item.featherwing.name=Склеенные крылья из картона
+item.rockbreakerdrill.name=Бур Камнелома
+item.thaumiumwing.name=Укреплённые таум-крылья
+item.nanowing.name=Нано-крылья
+ic2.quantumarmor.name=Наполненный квантовый нагрудник
+ic2.quantumarmor_nano.name=Наполненный квантовый нагрудник с нано-крыльями
+ic2.quantumarmor_jetpack.name=Наполненный квантовый нагрудник с реактивным ранцем
+ic2.quantumarmor_thaumium.name=Наполненный квантовый нагрудник с таум-крыльями
+ic2.quantumarmor_quantum.name=Наполненный квантовый нагрудник с квантовыми крыльями
+item.quantumwing.name=Квантовые крылья
+item.taintedthorhammer.name=Сломанная реликвия Мьёльнира
+item.thorhammer.name=Мьёлнир
+item.electricthorhammer.name=Сильнозаряженный Мьёльнир
+item.thaumiumdrill.name=Таум-бур
+item.diamondchainsaw.name=Алмазная электропила
+item.thaumiumchainsaw.name=Таум-электропила
+item.ironomnitool.name=Железный мультиинструмент
+item.diamondomnitool.name=Алмазный мультиинструмент
+item.thaumiumomnitool.name=Таум-мультиинструмент
+item.streamchainsaw.name=Электропила Потока
+item.electrichoegrowth.name=Электрическая мотыга Роста
+
+
+#=============Block Names=============
+
+tile.EMT.electricCloud.name=Наэлектризованное облако
+tile.EMT.shield.name=Щит-блок
+tile.EMT.portablenode.name=Переносной узел
+tile.energy_generator.name=Potentia генератор
+tile.fire_generator.name=Ignis генератор
+tile.auram_generator.name=Auram генератор
+tile.life_generator.name=Victus генератор
+tile.aer_generator.name=Aer генератор
+tile.EMT.machine.wandrecharge.name=Промышленная станция зарядки жезлов
+tile.EMT.machine.etheralprocessor.name=Эфирный обработчик
+tile.solar_compressed.name=Сжатая солнечная панель
+tile.solar_doublecompressed.name=Дважды сжатая солнечная панель
+tile.solar_triplecompressed.name=Трижды сжатая солнечная панель
+tile.solar_watercompressed.name=Наполненная водой, сжатая солнечная панель
+tile.solar_waterdoublecompressed.name=Наполненная водой, дважды сжатая солнечная панель
+tile.solar_watertriplecompressed.name=Наполненная водой, трижды сжатая солнечная панель
+tile.solar_darkcompressed.name=Наполненная энтропией, сжатая солнечная панель
+tile.solar_darkdoublecompressed.name=Наполненная энтропией, дважды сжатая солнечная панель
+tile.solar_darktriplecompressed.name=Наполненная энтропией, трижды сжатая солнечная панель
+tile.solar_ordercompressed.name=Наполненная порядком, сжатая солнечная панель
+tile.solar_orderdoublecompressed.name=Наполненная порядком, дважды сжатая солнечная панель
+tile.solar_ordertriplecompressed.name=Наполненная порядком, трижды сжатая солнечная панель
+tile.solar_firecompressed.name=Наполненная огнём, сжатая солнечная панель
+tile.solar_firedoublecompressed.name=Наполненная огнём, дважды сжатая солнечная панель
+tile.solar_firetriplecompressed.name=Наполненная огнём, трижды сжатая солнечная панель
+tile.solar_aircompressed.name=Наполненная воздухом, сжатая солнечная панель
+tile.solar_airdoublecompressed.name=Наполненная воздухом, дважды сжатая солнечная панель
+tile.solar_airtriplecompressed.name=Наполненная воздухом, трижды сжатая солнечная панель
+tile.solar_earthcompressed.name=Наполненная землёй, сжатая солнечная панель
+tile.solar_earthdoublecompressed.name=Наполненная землёй, дважды сжатая солнечная панель
+tile.solar_earthtriplecompressed.name=Наполненная землёй, трижды сжатая солнечная панель
+
+#=============Thaumonomicon Texts=============
+research_name.emt:emt=Electro-Magic Tools также известный как Industrial Magic
+research_stage.emt:emt.1=Магия и технология!? Это возможно!?
+research_stage.emt:emt.2=Да, это работает!! Что я делаю с исследованиями?
+
+research_name.emt:wings_b=Начало для крыльев
+research_stage.emt:wings_b.1=Я делаю новый материал для крыльев
+research_stage.emt:wings_b.2=Да, я пишу рецепт и делаю крылья!
+research_name.emt:wings=КРЫЛЬЯ!
+research_stage.emt:wings.1=Я пилот! (Рецепт начала крыльев)
+research_stage.emt:wings.2=Я делаю новый тип крыльев
+research_name.emt:armor=Броня и ТЫ!
+research_stage.emt:armor.1=Новый тип брони
+research_stage.emt:armor.2=СТРАНИЦА НЗП!
+
+research_name.emt:generator=Генератор и Аспекты
+research_stage.emt:generator.1=Может быть, я создам новый механизм?
+research_stage.emt:generator.2=Да, это сделано, и
+
+
+research_name.emt:generator_a=Генератор и Aer
+research_stage.emt:ga.1=Я продолжаю экспериментировать с Аспектами!
+research_stage.emt:ga.2=Да, дело сделано. Я могу генерировать энергию с помощью Аспекта Aer
+
+research_name.emt:generator_f=Генератор и Fire
+research_stage.emt:gf.1=Я продолжаю экспериментировать с Аспектами!
+research_stage.emt:gf.2=Да, дело сделано. Я могу генерировать энергию с помощью Аспекта Ignis
+
+research_name.emt:generator_aur=Генератор и Aura
+research_stage.emt:gaur.1=Я продолжаю экспериментировать с Аспектами!
+research_stage.emt:gaur.2=Да, дело сделано. Я могу генерировать энергию с помощью Аспекта Auram
+
+research_name.emt:uu=Кристализированная UU-материя
+research_stage.emt:uu.1=А что, если я ...
+research_stage.emt:uu.2=Вау, я нашел новый рецепт с материей
+research_name.emt:uu_m=Кристалл UU-материи
+research_stage.emt:uu_m.1=O.O?
+research_stage.emt:uu_m.2=ой, я нашел новый рецепт с помощью UU-материи

@@ -1,0 +1,33 @@
+itemGroup.rebornstorage=Reborn Storage
+
+#Items Disks
+item.rebornstorage.storagecell.256k.name=Диск хранения 256К
+item.rebornstorage.storagecell.1024k.name=Диск хранения 1024К
+item.rebornstorage.storagecell.4096k.name=Диск хранения 4096К
+item.rebornstorage.storagecell.16384k.name=Диск хранения 16384К
+
+#Fluid Disks
+item.rebornstorage.storagecellfluid.16384k.name=Диск хранения жидкости 16384К
+item.rebornstorage.storagecellfluid.32768k.name=Диск хранения жидкости 32768К
+item.rebornstorage.storagecellfluid.131m.name=Диск хранения жидкости 131М
+item.rebornstorage.storagecellfluid.524m.name=Диск хранения жидкости 524М
+
+#Storage Parts
+item.rebornstorage.storagepart.256k.name=Часть хранения 256К
+item.rebornstorage.storagepart.1024k.name=Часть хранения 1024К
+item.rebornstorage.storagepart.4096k.name=Часть хранения 4096К
+item.rebornstorage.storagepart.16384k.name=Часть хранения 16384К
+
+#Fluid Storage Parts
+item.rebornstorage.storagepart.16384k_fluid.name=Жидкостная часть хранения 16384К
+item.rebornstorage.storagepart.32768k_fluid.name=Жидкостная часть хранения 32768К
+item.rebornstorage.storagepart.131m_fluid.name=Жидкостная часть хранения 131М
+item.rebornstorage.storagepart.524m_fluid.name=Жидкостная часть хранения 524М
+
+#Blocks
+tile.rebornstorage.multicrafter.heat.name=Тепловой проводник
+tile.rebornstorage.multicrafter.frame.name=Рамка создания
+tile.rebornstorage.multicrafter.cpu.name=Процессор создания
+tile.rebornstorage.multicrafter.storage.name=Хранилище Шаблонов
+tile.rebornstorage.multicrafter.io.name=Порт Вход/Выход
+

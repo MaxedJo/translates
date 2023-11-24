@@ -1,0 +1,34 @@
+{
+	"name": "Костяная Броня Бездны",
+	"icon": "theabyss:bone_armor_chestplate",
+"category": "page_types4",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:phantom_bone",
+			"title": "Кость Титана",
+			"link_recipe":false,
+			"text": "пожалуйста прочитайте страницу -броня призрака-"
+		},
+		{
+			"type": "crafting",
+			"title": "Костяная Броня Бездны",
+			"recipe": "theabyss:bone_armor_helmet_recipe",
+			"recipe2": "theabyss:bone_armor_body_recipe"
+
+		},
+		{
+			"type": "crafting",
+			"title": "Костяная Броня Бездны",
+			"recipe": "theabyss:bone_armor_leggings_recipe",
+			"recipe2": "theabyss:bone_armor_boots_recipe"
+
+		}
+	]
+}

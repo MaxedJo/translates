@@ -1,0 +1,24 @@
+{
+	"itemGroup.waterstrainer.main": "Водный фильтр",
+	
+	"block.waterstrainer.strainer_base": "Основа фильтра",
+	"block.waterstrainer.worm_bin": "Корзинка для червей",
+	
+	"item.waterstrainer.efficiency_meter": "Измеритель эффективности",
+	"item.waterstrainer.garden_trowel": "Садовый совок",
+	"item.waterstrainer.worm": "Червяк",
+	"item.waterstrainer.super_worm": "Супер-червяк",
+	"item.waterstrainer.bait_pot": "Горшок с приманкой",
+	"item.waterstrainer.string_mesh": "Сеть из верёвки",
+	"item.waterstrainer.iron_mesh": "Железная сеть",
+	"item.waterstrainer.obsidian_mesh": "Обсидиановая сеть",
+	"item.waterstrainer.fertilizer": "Удобрение",
+	
+	"item.waterstrainer.strainer_survivalist": "Фильтр выживальщика",
+	"item.waterstrainer.strainer_survivalist_solid": "Крепкий фильтр выживальщика",
+	"item.waterstrainer.strainer_survivalist_reinforced": "Усиленный фильтр выживальщика",
+
+	"item.waterstrainer.strainer_fisherman": "Фильтр рыболова",
+	"item.waterstrainer.strainer_fisherman_solid": "Крепкий фильтр рыболова",
+	"item.waterstrainer.strainer_fisherman_reinforced": "Усиленный фильтр рыболова"
+}

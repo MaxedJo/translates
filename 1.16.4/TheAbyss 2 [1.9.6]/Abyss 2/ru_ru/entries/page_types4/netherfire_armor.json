@@ -1,0 +1,34 @@
+{
+	"name": "Броня Адского Огня Бездны",
+	"icon": "theabyss:abyss_fire_upg_armor_armor_chestplate",
+"category": "page_types4",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+
+		{
+			"type": "crafting",
+			"title": "Слиток Адского Огня Бездны",
+			"recipe": "theabyss:nether_fire_rcp"
+
+		},
+		{
+			"type": "crafting",
+			"title": "Броня Адского Огня Бездны",
+			"recipe": "theabyss:nether_fire_helmet_rcp",
+			"recipe2": "theabyss:nether_fire_chestplate_rcp"
+
+		},
+		{
+			"type": "crafting",
+			"title": "Броня Адского Огня Бездны",
+			"recipe": "theabyss:nether_fire_leggings_rcp",
+			"recipe2": "theabyss:nether_fire_boots_rcp"
+
+		}
+	]
+}

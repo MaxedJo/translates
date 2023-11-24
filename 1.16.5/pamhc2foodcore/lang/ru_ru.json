@@ -1,0 +1,184 @@
+{
+	"itemGroup.pamhc2foodcore": "Pam's HarvestCraft 2 - Продовольствия",
+
+	
+	//tools
+"item.pamhc2foodcore.bakewareitem": "Форма для выпечки",
+"item.pamhc2foodcore.cuttingboarditem": "Разделочная доска",
+"item.pamhc2foodcore.juiceritem": "Соковыжималка",
+"item.pamhc2foodcore.grinderitem": "Ступка и пестик",
+"item.pamhc2foodcore.mixingbowlitem": "Миска для смешивания",
+"item.pamhc2foodcore.potitem": "Кастрюля",
+"item.pamhc2foodcore.rolleritem": "Скалка",
+"item.pamhc2foodcore.saucepanitem": "Сотейник",
+"item.pamhc2foodcore.skilletitem": "Сковорода",
+
+//wheat
+"item.pamhc2foodcore.flouritem": "Мука",
+"item.pamhc2foodcore.doughitem": "Соленое тесто",
+"item.pamhc2foodcore.toastitem": "Бутерброд",
+"item.pamhc2foodcore.grilledcheeseitem": "Бутерброд с сыром",
+"item.pamhc2foodcore.carrotbreaditem": "Морковный хлеб",
+"item.pamhc2foodcore.pumpkinbreaditem": "Тыквенный хлеб",
+"item.pamhc2foodcore.pastaitem": "Макароны",
+"item.pamhc2foodcore.macncheeseitem": "Макароны с сыром",
+"item.pamhc2foodcore.noodlesoupitem": "Суп с лапшой",
+"item.pamhc2foodcore.applepieitem": "Яблочный пирог",
+"item.pamhc2foodcore.sweetberrypieitem": "Ягодный пирог",
+"item.pamhc2foodcore.chocolatecupcakeitem": "Шоколадный кекс",
+"item.pamhc2foodcore.carrotcupcakeitem": "Морковный кекс",
+"item.pamhc2foodcore.pumpkincupcakeitem": "Тыквенный кекс",
+"item.pamhc2foodcore.caramelcupcakeitem": "Карамельный кекс",
+
+
+"item.pamhc2foodcore.batteritem": "Тесто",
+"item.pamhc2foodcore.chocolatecakeitem": "Шоколадный торт",
+"item.pamhc2foodcore.cheesecakeitem": "Сырный торт",
+"item.pamhc2foodcore.pumpkincheesecakeitem": "Сырный торт с тыквой",
+"item.pamhc2foodcore.carrotcakeitem": "Морковный торт",
+"item.pamhc2foodcore.chocolatemuffinitem": "Шоколадный мафин",
+"item.pamhc2foodcore.carrotmuffinitem": "Морковный мафин",
+"item.pamhc2foodcore.pumpkinmuffinitem": "Тыквенный мафин",
+"item.pamhc2foodcore.caramelmuffinitem": "Карамельный мафин",
+"item.pamhc2foodcore.donutitem": "Пончик",
+"item.pamhc2foodcore.chocolatedonutitem": "Шоколадный пончик",
+"item.pamhc2foodcore.jellydonutitem": "Пончик с начинкой",
+
+"item.pamhc2foodcore.crackeritem": "Крекер",
+"item.pamhc2foodcore.softpretzelitem": "Крендель",
+
+//milk
+"item.pamhc2foodcore.butteritem": "Сливочное масло",
+"item.pamhc2foodcore.cheeseitem": "Сыр",
+"item.pamhc2foodcore.creamitem": "Сметана",
+"item.pamhc2foodcore.yogurtitem": "Йогурт",
+"item.pamhc2foodcore.chocolateyogurtitem": "Шоколадный йогурт",
+"item.pamhc2foodcore.appleyogurtitem": "Яблочный йогурт",
+"item.pamhc2foodcore.sweetberryyogurtitem": "Ягодный йогурт",
+"item.pamhc2foodcore.pumpkinyogurtitem": "Тыквенный йогурт",
+"item.pamhc2foodcore.caramelyogurtitem": "Карамельный йогурт",
+"item.pamhc2foodcore.icecreamitem": "Мороженное",
+"item.pamhc2foodcore.chocolateicecreamitem": "Шоколадное мороженное",
+"item.pamhc2foodcore.caramelicecreamitem": "Карамельное мороженое",
+"item.pamhc2foodcore.cookiesandmilkitem": "Печенье и молоко",
+
+//cocoa
+"item.pamhc2foodcore.chocolatebaritem": "Плитка шоколада",
+"item.pamhc2foodcore.cocoapowderitem": "Какао-порошок",
+"item.pamhc2foodcore.hotchocolateitem": "Горячий шоколад",
+"item.pamhc2foodcore.chocolatebaconitem": "Бекон в шоколаде",
+"item.pamhc2foodcore.chocolatepuddingitem": "Шоколадный пудинг",
+"item.pamhc2foodcore.chocolaterollitem": "Шоколадный рулет",
+"item.pamhc2foodcore.chocolatecaramelfudgeitem": "Шоколадно-карамельная помадка",
+"item.pamhc2foodcore.smoresitem": "Смор",
+"item.pamhc2foodcore.trailmixitem": "Аджиль",
+
+//egg
+"item.pamhc2foodcore.mayonaiseitem": "Майонез",
+"item.pamhc2foodcore.boiledeggitem": "Вареное яйцо",
+"item.pamhc2foodcore.friedeggitem": "Жаренное яйцо",
+"item.pamhc2foodcore.scrambledeggitem": "Яичница",
+
+//apple
+"item.pamhc2foodcore.applejuiceitem": "Яблочный сок",
+"item.pamhc2foodcore.applesmoothieitem": "Яблочный коктейль",
+"item.pamhc2foodcore.applejellyitem": "Яблочное желе",
+"item.pamhc2foodcore.applejellytoastitem": "Бутерброд с яблочным желе",
+"item.pamhc2foodcore.applesauceitem": "Яблочное пюре",
+
+//melon
+"item.pamhc2foodcore.melonjuiceitem": "Арбузный сок",
+"item.pamhc2foodcore.melonsmoothieitem": "Арбузный коктейль",
+"item.pamhc2foodcore.melonjellyitem": "Арбузное желе",
+"item.pamhc2foodcore.melonjellytoastitem": "Бутерброд с арбузным желе",
+
+//sweet berry
+"item.pamhc2foodcore.sweetberryjuiceitem": "Ягодный сок",
+"item.pamhc2foodcore.sweetberrysmoothieitem": "Ягодный коктейль",
+"item.pamhc2foodcore.sweetberryjellyitem": "Варенье",
+"item.pamhc2foodcore.sweetberryjellytoastitem": "Бутерброд с вареньем",
+
+//chicken
+"item.pamhc2foodcore.friedchickenitem": "Жареная курица",
+"item.pamhc2foodcore.groundchickenitem": "Куриный фарш",
+"item.pamhc2foodcore.chickennuggetitem": "Куриный Наггетсы",
+"item.pamhc2foodcore.basicchickensandwichitem": "Сэндвич с курицей",
+"item.pamhc2foodcore.chickenjerkyitem": "Вяленая курица",
+"item.pamhc2foodcore.chickenpotpieitem": "Куриный пирог",
+"item.pamhc2foodcore.chickendinneritem": "Жареная курица с картошкой",
+
+//beef
+"item.pamhc2foodcore.potroastitem": "Жаркое",
+"item.pamhc2foodcore.groundbeefitem": "Говяжий фарш",
+"item.pamhc2foodcore.basichamburgeritem": "Гамбургер",
+"item.pamhc2foodcore.basiccheeseburgeritem": "Чизбургер",
+"item.pamhc2foodcore.baconcheeseburgeritem": "Чизбургер с беконом",
+"item.pamhc2foodcore.beefjerkyitem": "Вяленая говядина",
+
+//pork
+"item.pamhc2foodcore.groundporkitem": "Свиной фарш",
+"item.pamhc2foodcore.porkjerkyitem": "Вяленая свинина",
+"item.pamhc2foodcore.hotdogitem": "Хот-дог",
+"item.pamhc2foodcore.baconandeggsitem": "Яичница с беконом",
+"item.pamhc2foodcore.epicbaconitem": "Разноцветный бекон",
+
+//fish
+"item.pamhc2foodcore.groundfishitem": "Рыбный фарш",
+"item.pamhc2foodcore.fishsticksitem": "Рыбные палочки",
+"item.pamhc2foodcore.basicfishsandwichitem": "Сэндвич с рыбой",
+"item.pamhc2foodcore.fishjerkyitem": "Вяленая рыба",
+"item.pamhc2foodcore.fishandchipsitem": "Рыба с жареной картошкой",
+
+//mutton
+"item.pamhc2foodcore.groundmuttonitem": "Бараний фарш",
+"item.pamhc2foodcore.muttonjerkyitem": "Вяленая баранина",
+
+//rabbit
+"item.pamhc2foodcore.groundrabbititem": "Кроличий фарш",
+"item.pamhc2foodcore.rabbitjerkyitem": "Вяленый кролик",
+
+//potato
+"item.pamhc2foodcore.butteredbakedpotatoitem": "Печеный картофель в масле",
+"item.pamhc2foodcore.mashedpotatoesitem": "Картофельное пюре",
+"item.pamhc2foodcore.friesitem": "Картофель фри",
+"item.pamhc2foodcore.potatochipsitem": "Чипсы",
+"item.pamhc2foodcore.potatosoupitem": "Картофельная похлебка",
+          
+//carrot
+"item.pamhc2foodcore.glazedcarrotsitem": "Глазированная морковь",
+"item.pamhc2foodcore.carrotsoupitem": "Морковная похлебка",
+
+//beet
+"item.pamhc2foodcore.pickledbeetsitem": "Маринованная свекла",
+
+//pumpkin
+"item.pamhc2foodcore.pumpkinsoupitem": "Тыквенная похлебка",
+
+//sugar
+"item.pamhc2foodcore.caramelitem": "Карамель",
+"item.pamhc2foodcore.caramelappleitem": "Яблоко в карамели",
+"item.pamhc2foodcore.marshmellowsitem": "Зефир",
+"item.pamhc2foodcore.marshmellowchicksitem": "Зефирные цыплята",
+"item.pamhc2foodcore.cottoncandyitem": "Сахарная вата",
+"item.pamhc2foodcore.gummybearsitem": "Мармеладные мишки",
+"item.pamhc2foodcore.jellybeansitem": "Желейные бобы",
+
+//misc
+"item.pamhc2foodcore.cookingoilitem": "Растительное масло",
+"item.pamhc2foodcore.vinegaritem": "Уксус",
+"item.pamhc2foodcore.freshwateritem": "Вода в стакане",
+"item.pamhc2foodcore.freshmilkitem": "Молоко в стакане",
+"item.pamhc2foodcore.saltitem": "Соль",
+"item.pamhc2foodcore.stockitem": "Бульон",
+"item.pamhc2foodcore.sunflowerseedsitem": "Семена подсолнуха",
+"item.pamhc2foodcore.roastedsunflowerseedsitem": "Жареные семена подсолнуха",
+
+//generic food
+"item.pamhc2foodcore.fruitpunchitem": "Фруктовый пунш",
+"item.pamhc2foodcore.stewitem": "Рагу",
+"item.pamhc2foodcore.bakedvegetablemedlyitem": "Запеченные овощи",
+"item.pamhc2foodcore.fruitsaladitem": "Фруктовый салат",
+"item.pamhc2foodcore.meatloafitem": "Мясной рулет",
+"item.pamhc2foodcore.p8juiceitem": "Овощной сок",
+"item.pamhc2foodcore.fruitcrumbleitem": "Фруктовый крамбл"
+}

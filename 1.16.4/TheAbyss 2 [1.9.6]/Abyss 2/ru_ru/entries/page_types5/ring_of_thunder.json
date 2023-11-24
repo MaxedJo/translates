@@ -1,0 +1,39 @@
+{
+	"name": "Кольцо Грозы",
+	"icon": "theabyss:ring_of_thunder",
+"category": "page_types5",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+	{
+		"type": "spotlight",
+		"item": "theabyss:abyssthunderplant",
+		"title": "Растение Грозы",
+		"link_recipe":false,
+		"text": "для начала вы должны найти растение грозы!"
+	},
+	{
+		"type": "crafting",
+		"title": "Камень Грозы",
+		"recipe": "theabyss:thunder_stone_rcp"
+
+	},
+	{
+		"type": "spotlight",
+		"item": "theabyss:creeper_dust",
+		"title": "Растение Грозы",
+		"link_recipe":false,
+		"text": "теперь пришло время убить несколько криперов бездны, чтобы заработать порох крипера!"
+	},
+	{
+		"type": "crafting",
+		"title": "Кольцо Грозы",
+		"recipe": "theabyss:ring_of_thunder_rcp"
+
+	}
+	]
+}

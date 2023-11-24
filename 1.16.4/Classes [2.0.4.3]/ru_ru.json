@@ -1,0 +1,42 @@
+{
+    "key.classes": "Меню классов",
+    "category.classes": "Классы",
+
+    "class.selected.true": "Вы уже выбрали класс!",
+
+    "gui.classes.title": "Пожалуйста, выберите класс. Вы не сможете изменить класс позже.",
+
+    "class.soldier": "Солдат",
+    "class.soldier.archery": "Стрельба из лука",
+    "class.soldier.combat": "Бой",
+    "class.soldier.endurance": "Выносливость",
+
+    "class.freeman": "Работник",
+    "class.freeman.excavation": "Раскопка",
+    "class.freeman.mining": "Добыча руд",
+    "class.freeman.woodcutting": "лесорубка",
+
+    "class.survivalist": "Выживший",
+    "class.survivalist.farming": "Фермерство",
+    "class.survivalist.fishing": "Рыбалка",
+    "class.survivalist.cooking": "Готовка",
+
+    "class.artisan": "Ремесленник",
+    "class.artisan.building": "Строительство",
+    "class.artisan.crafting": "Создание",
+    "class.artisan.smithing": "Кузнечное дело",
+
+    "class.adventurer": "Путешественник",
+    "class.adventurer.agility": "Ловкость",
+    "class.adventurer.swimming": "Плавание",
+    "class.adventurer.flying": "Полет",
+
+    "class.mage": "Маг",
+    "class.mage.alchemy": "Алхимия",
+    "class.mage.combat": "Бой",
+    "class.mage.magic": "Магия",
+
+    "subclass.archer": "Лучник",
+    "subclass.guardian": "Защитник",
+    "subclass.warrior": "Воин"
+}

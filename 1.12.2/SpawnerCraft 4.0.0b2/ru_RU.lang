@@ -1,0 +1,8 @@
+item.spawnercraft.mob_essence.name=Сущность %s
+item.spawnercraft.mob_agglomeration.name=Агломерация %s
+item.spawnercraft.mob_spirit.name=Дух %s
+item.spawnercraft.mob_rod.name=Удочка душ
+
+tile.spawnercraft.mob_cage.name=Пустой спавнер
+
+itemGroup.spawnercraft.tab=SpawnerCraft

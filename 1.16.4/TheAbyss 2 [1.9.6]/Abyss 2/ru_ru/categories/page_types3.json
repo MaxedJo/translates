@@ -1,0 +1,8 @@
+{
+	"name": "Обратная связь",
+	"description": "ответы вы найдете здесь ....",
+	"icon": "theabyss:eyeicon",
+
+	"sortnum":5,
+	"secret":false
+}

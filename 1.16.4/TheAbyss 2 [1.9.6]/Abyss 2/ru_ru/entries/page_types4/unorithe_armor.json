@@ -1,0 +1,40 @@
+{
+	"name": "Уноритовая Броня Бездны",
+	"icon": "theabyss:unorithe_armor_chestplate",
+"category": "page_types4",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:unorithe_ingot",
+			"title": "Уноритовый Слиток",
+			"link_recipe":false,
+			"text": "прежде чем вы сможете перейти на эту версию вам сначала понадобятся призрачные инструменты."
+		},
+		{
+			"type": "crafting",
+			"title": "Уноритовая Броня Бездны",
+			"recipe": "theabyss:unorithe_ingot_rcp"
+
+		},
+		{
+			"type": "crafting",
+			"title": "Уноритовая Броня Бездны",
+			"recipe": "theabyss:un_helmet_rcp",
+			"recipe2": "theabyss:un_chestplate_rcp"
+
+		},
+		{
+			"type": "crafting",
+			"title": "Уноритовая Броня Бездны",
+			"recipe": "theabyss:un_leggins_rcp",
+			"recipe2": "theabyss:un_boots_rcp"
+
+		}
+	]
+}

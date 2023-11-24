@@ -1,0 +1,26 @@
+{
+	"name": "Кольцо Джаггера",
+	"icon": "theabyss:ring_of_jugger",
+"category": "page_types5",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+	{
+		"type": "spotlight",
+		"item": "theabyss:roka_horn",
+		"title": "Рог Рока",
+		"link_recipe":false,
+		"text": "для начала вы должны убить Рока! вы можете найти Рока редко в Синих Джунглях!"
+	},
+	{
+		"type": "crafting",
+		"title": "Кольцо Джаггера",
+		"recipe": "theabyss:ring_of_jugger_rcp"
+
+	}
+	]
+}

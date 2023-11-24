@@ -1,0 +1,38 @@
+{
+	"name": "Броня Бездны",
+	"icon": "theabyss:abyssarmorarmor_chestplate",
+"category": "page_types4",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+	{
+		"type": "text",
+		"text": "чтобы скрафтить эту броню, вы должны найти руду Бездны."
+	},
+	{
+		"type": "spotlight",
+		"item": "theabyss:abyssore",
+		"title": "Руда Бездны",
+		"link_recipe":false,
+		"text": "высота: 2-14$(br)биом: Синий Лес, Синии Горы"
+	},
+	{
+		"type": "crafting",
+		"title": "Броня Бездны",
+		"recipe": "theabyss:abyssarmorhelmet",
+    "recipe2": "theabyss:abyssarmorbodyrcp"
+
+	},
+	{
+		"type": "crafting",
+		"title": "Броня Бездны",
+		"recipe": "theabyss:abyssarmorleggingsrcp",
+		"recipe2": "theabyss:abyssarmorfoots"
+
+	}
+	]
+}

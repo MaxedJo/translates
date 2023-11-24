@@ -1,0 +1,115 @@
+item.Kyanite_Dust.name=Кианитовая пыль
+item.Fluorite_Dust.name=Флюоритовая пыль
+item.Kyanite_Ingot.name=Кианитовый слиток
+item.Fluorite_Ingot.name=Флюоритовый слиток
+item.Jadeite.name=Джейдит
+item.Silicon.name=Кремний
+item.Carbon.name=Углерод
+item.Golden_Beryl.name=Золотой берилл
+
+item.Raw_Usha.name=Сырая уша
+item.Cooked_Usha.name=Приготовленная уша
+item.Usha_Biscuit.name=Бисквит из уши
+tile.Kyanite_Ore.name=Кианитовая руда
+tile.Fluorite_Ore.name=Флюоритовая руда
+tile.Jadeite_Ore.name=Джейдитовая руда
+tile.Goldenberyl_Ore.name=Золотая берилловая руда
+tile.Silicon_Ore.name=Кремниевая руда
+tile.Carbon_Ore.name=Углеродная руда
+tile.Kyanite_Block.name=Кианитовый блок
+tile.Fluorite_Block.name=Флюоритовый блок
+item.Cooked_Carrot.name=Приготовленная морковка
+item.Carrot_N_Potato.name=Морковка с картошкой
+item.Meat_Mixture.name=Мясная смесь
+tile.Jadeite_Block.name=Джейдитовый блок
+item.Chick_N_Mutton.name=Курятина с бараниной
+tile.Golden_Beryl_Block.name=Золотой берилловый блок
+tile.Silicon_Block.name=Кремниевый блок
+tile.Carbon_Block.name=Углеродный блок
+item.Carbon_Plate.name=Углеродная пластина
+item.Silicon_Carbide.name=Карбид кремния
+item.Terra_Fuse.name=Взрыватель терры
+tile.Terra_Block.name=Блок терры
+
+item.Kyanite_Axe.name=Кианитовый топор
+item.Kyanite_Pickaxe.name=Кианитовая кирка
+item.Kyanite_Shovel.name=Кианитовая лопата
+item.Kyanite_Sword.name=Кианитовый меч
+item.Kyanite_Hoe.name=Кианитовая мотыга
+item.Fluorite_Axe.name=Флюоритовый топор
+item.Fluorite_Pickaxe.name=Флюоритовая кирка
+item.Fluorite_Shovel.name=Флюоритовая лопата
+item.Fluorite_Sword.name=Флюоритовый меч
+item.Fluorite_Hoe.name=Флюоритовая мотыга
+item.Jadeite_Axe.name=Джейдитовый топор
+item.Jadeite_Pickaxe.name=Джейдитовая кирка
+item.Jadeite_Shovel.name=Джейдитовая лопата
+item.Jadeite_Sword.name=Джейдитовый меч
+item.Jadeite_Hoe.name=Джейдитовая мотыга
+
+item.kyanite_helmet.name=Кианитовый шлем
+item.kyanite_chestplate.name=Кианитовая кираса
+item.kyanite_leggings.name=Кианитовые поножи
+item.kyanite_boots.name=Кианитовые ботинки
+
+item.fluorite_helmet.name=Флюоритовый шлем
+item.fluorite_chestplate.name=Флюоритовая кираса
+item.fluorite_leggings.name=Флюоритовые поножи
+item.fluorite_boots.name=Флюоритовые ботинки
+
+item.jadeite_helmet.name=Джейдитовый шлем
+item.jadeite_chestplate.name=Джейдитовая кираса
+item.jadeite_leggings.name=Джейдитовые поножи
+item.jadeite_boots.name=Джейдитовые ботинки
+
+item.beryl_helmet.name=Берилловый шлем
+item.beryl_chestplate.name=Берилловая кираса
+item.beryl_leggings.name=Берилловые поножи
+item.beryl_boots.name=Берилловые ботинки
+
+tile.Ash_Log.name=Ясень
+tile.Ash_Plank.name=Ясеневые доски
+tile.ash_leaves.name=Листва ясеня
+tile.ash_sapling.name=Саженец ясеня
+
+tile.Cedar_Log.name=Кедр
+tile.Cedar_Plank.name=Кедровые доски
+tile.cedar_leaves.name=Листва кедра
+tile.cedar_sapling.name=Саженец кедра
+
+entity.Terra.name=Терра
+entity.Usha.name=Уша
+entity.Berrenda.name=Беренда
+
+tile.Mira_Flower.name=Мира
+tile.Maya_Flower.name=Майя цветок
+tile.Merlot_Flower.name=Мерло
+tile.Marmalade_Flower.name=Мармеладный цветок
+
+item.Apple_Sauce.name=Яблочный соус
+item.Melon_Sauce.name=Арбузный соус
+item.Pumpkin_Sauce.name=Тыквенный соус
+item.Flesh_Soup.name=Суп из гнилой плоти
+
+tile.Greenstone.name=Зеленекамень
+tile.Polished_Greenstone.name=Полированный зеленекамень
+tile.Greenstone_Bricks.name=Зеленекаменные кирпичи
+tile.Greenstone_Chisel.name=Резные зеленекаменные кирпичи
+tile.Ash_Stairs.name=Ясеневые ступеньки
+tile.Cedar_Stairs.name=Кедровые ступеньки
+
+tile.Aplosite_Ore.name=Аплозитовая руда
+item.Aplosite_Shard.name=Аплозитовый осколок
+tile.Aplosite_Block.name=Аплозитовый блок
+item.Damper_Dough.name=Демпферное тесто
+item.Damper.name=Демпфер
+item.Raw_Sirloin.name=Сырое филе
+item.Cooked_Sirloin.name=Приготовленное филе
+tile.Greenstone_Stairs.name=Зеленекаменные ступеньки
+tile.Polished_Greenstone_Stairs.name=Полированные зеленекаменные ступеньки
+
+itemGroup.NaturesEmeraldItems=Natures Emerald: Материалы
+itemGroup.NaturesEmeraldFood=Natures Emerald: Еда
+itemGroup.NaturesEmeraldBlocks=Natures Emerald: Блоки
+itemGroup.NaturesEmeraldTools= Natures Emerald: Инструменты
+itemGroup.NaturesEmeraldArmor= Natures Emerald: Броня

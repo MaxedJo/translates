@@ -1,0 +1,21 @@
+{
+  "block.tokenenchanter.token_enchanter": "Зачарователь жетонов",
+  "category.tokenenchanter.token_enchanting": "Зачарование жетонов",
+  "container.tokenenchanter.token_enchanter": "Зачарователь жетонов",
+  "item.tokenenchanter.enchanted_token": "Зачарованный жетон",
+  "item.tokenenchanter.enchanted_token.maxLevel": "Максимальный уровень: %d",
+  "item.tokenenchanter.enchanted_token.mod": "Мод: %s",
+  "item.tokenenchanter.enchanted_token.single": "Жетон %s",
+  "item.tokenenchanter.gold_token": "Золотой жетон",
+  "item.tokenenchanter.large_xp_crystal": "Большой кристалл опыта",
+  "item.tokenenchanter.silver_token": "Серебряный жетон",
+  "item.tokenenchanter.small_xp_crystal": "Малый кристалл опыта",
+  "item.tokenenchanter.xp_bread": "Хлеб опыта",
+  "item.tokenenchanter.xp_crystal": "Кристалл опыта",
+  "item.tokenenchanter.xp_crystal.hint": "Используйте (щелкните правой кнопкой мыши) кристалл в руке, чтобы заполнить",
+  "item.tokenenchanter.xp_crystal.levels": "Уровни: %s / %s",
+  "item.tokenenchanter.xp_crystal.not_enough_levels": "Недостаточно уровней для заполнения (необходимо %d)",
+  "item.tokenenchanter.xp_food.levels": "Уровни: %d",
+  "itemGroup.tokenenchanter": "Зачарователь жетонов",
+  "misc.tokenenchanter.level_cost": "Требуемый уровень: %s"
+}

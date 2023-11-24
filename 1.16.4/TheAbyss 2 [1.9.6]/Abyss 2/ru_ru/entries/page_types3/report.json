@@ -1,0 +1,23 @@
+{
+	"name": "Обратная Связь/Баги",
+	"icon": "minecraft:paper",
+	"category": "page_types3",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+	{
+		"type": "text",
+		"text": "вы хотите дать обратнуб связь и любовь? или баги?"
+	},
+	{
+		"type": "link",
+		"url": "https://www.curseforge.com/minecraft/mc-mods/the-abyss",
+		"link_text": "Обратная Связь/Репорт",
+		"text": "Нажмите кнопку в конце страницы, чтобы открыть сайт curseforge mod. там вы можете сообщить об ошибке."
+	}
+	]
+}

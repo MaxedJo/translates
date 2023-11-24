@@ -1,0 +1,436 @@
+﻿itemGroup.silentgear=Silent Gear
+
+################
+# Advancements #
+################
+
+advancements.silentgear.armor.title=Better Armor
+advancements.silentgear.armor.description=Craft any piece of armor from Silent Gear
+advancements.silentgear.blueprint_pickaxe.title=Blueprints!
+advancements.silentgear.blueprint_pickaxe.description=Craft a pickaxe blueprint or template
+advancements.silentgear.blueprint_sword.title=Swords!
+advancements.silentgear.blueprint_sword.description=Craft a sword blueprint or template
+advancements.silentgear.bow.title=A Better Bow
+advancements.silentgear.bow.description=Craft a Silent Gear bow
+advancements.silentgear.crafting_station.title=Upgrade My Crafting Table!
+advancements.silentgear.crafting_station.description=Craft a crafting station. It has some useful extra features!
+advancements.silentgear.dagger.title=Tiny Sword
+advancements.silentgear.dagger.description=Craft a dagger. Weak, but fast!
+advancements.silentgear.excavator.title=Dirt Mover 9000
+advancements.silentgear.excavator.description=Craft an excavator. Sometimes a shovel isn't enough!
+advancements.silentgear.hammer.title=Hammer Time!
+advancements.silentgear.hammer.description=Craft a hammah!
+advancements.silentgear.high_durability.title=Almost Unbreakable!
+advancements.silentgear.high_durability.description=Construct a tool with at least 16,000 durability.
+advancements.silentgear.iron_rods.title=Durable Tool Rods
+advancements.silentgear.iron_rods.description=Craft some iron rods. Sticks aren't the only type of tool rod...
+advancements.silentgear.kachink1.title=Ka-chink! 1
+advancements.silentgear.kachink1.description=Damage a gear item past a certain point (stats get recalculated)
+advancements.silentgear.kachink2.title=Ka-chink! 2
+advancements.silentgear.kachink2.description=Lose an extra point of durability on a brittle item
+advancements.silentgear.mattock.title=Better Than Hoes
+advancements.silentgear.mattock.description=Craft a mattock for all your farming needs
+advancements.silentgear.pickaxe.title=A Better Pickaxe
+advancements.silentgear.pickaxe.description=Craft a Silent Gear pickaxe
+advancements.silentgear.repair_from_broken.title=We Can Rebuild It!
+advancements.silentgear.repair_from_broken.description=Use a tool until it shatters, then repair it by crafting with main materials!
+advancements.silentgear.root.title=Silent Gear
+advancements.silentgear.root.description=Fulfilling all your tool and armor needs
+advancements.silentgear.shovel.title=A Better Shovel
+advancements.silentgear.shovel.description=Craft a Silent Gear shovel
+advancements.silentgear.sickle.title=Plant Destroyer
+advancements.silentgear.sickle.description=Craft a sickle to harvest many plants at once
+advancements.silentgear.sword.title=A Better Sword
+advancements.silentgear.sword.description=Craft a Silent Gear sword
+advancements.silentgear.tip_upgrade.title=Upgrade My Tool!
+advancements.silentgear.tip_upgrade.description=Craft a tip upgrade, then craft it with a tool or weapon.
+advancements.silentgear.upgrade_base.title=Upgrade Base
+advancements.silentgear.upgrade_base.description=You might want to make a few...
+
+##########
+# Blocks #
+##########
+
+tile.silentgear.crafting_station.name=Станция крафта
+tile.silentgear.crafting_station.crafting=Создание
+tile.silentgear.crafting_station.parts=Части
+tile.silentgear.crafting_station.storage=Хранилище
+tile.silentgear.crafting_station.upgrades=Улучшения: %s
+tile.silentgear.crafting_station.upgrade_format=- %s
+tile.silentgear.crimson_iron_ore.name=Багровая железная руда
+tile.silentgear.flax_plant.name=Лён
+tile.silentgear.flower.name=Синий цветок
+tile.silentgear.netherwood_leaves.name=Багровая листва
+tile.silentgear.netherwood_log.name=Багровая древисина
+tile.silentgear.netherwood_planks.name=Багровые доски
+tile.silentgear.netherwood_sapling.name=Багровый саженец
+tile.silentgear.part_analyzer.name=Анализатор деталей
+tile.silentgear.salvager.name=Переработчик
+tile.silentgear.salvager.desc=Может разбивать некоторые предметы на составляющие
+
+
+
+#########
+# Items #
+#########
+
+item.silentgear.blueprint.name=Чертёж
+item.silentgear.blueprint.materialAmount=Требуемый материал: %d
+item.silentgear.blueprint.disabled=Отключено в конфиге!
+item.silentgear.blueprint.singleUse=Можно использовать только один раз
+item.silentgear.blueprint.multiUse=Можно использовать много раз
+item.silentgear.blueprint.altForRecipe=<Удерживайте alt для просмотра рецепта>
+item.silentgear.blueprint.itemRecipe1=%s рецепт:
+item.silentgear.blueprint.itemRecipe2=%dx %s
+item.silentgear.blueprint.canMix=Возможно смешивание материалов!
+item.silentgear.blueprint.noMixing=Смешанные материалы разрешены только в мастерской
+
+item.silentgear.blueprint.axe.desc=Стандартный измельчитель деревьев
+item.silentgear.blueprint.bow.desc=Класическое оружие дальнего боя
+item.silentgear.blueprint.dagger.desc=Помощник спам кликов
+item.silentgear.blueprint.excavator.desc=Большая ложка (AOE лопата)
+item.silentgear.blueprint.hammer.desc=Тунельный копатель (AOE кирка)
+item.silentgear.blueprint.katana.desc=Быстрый меч
+item.silentgear.blueprint.machete.desc=джунгли необходимы
+item.silentgear.blueprint.mattock.desc=Заменяет мотыги
+item.silentgear.blueprint.pickaxe.desc=Твой лучший друг
+item.silentgear.blueprint.shovel.desc=Маленькая ложка
+item.silentgear.blueprint.sickle.desc=Стрижка газона
+item.silentgear.blueprint.sword.desc=Классический
+
+item.silentgear.blueprint_rod.name=Чертеж (рукоять)
+item.silentgear.template_rod.name=Шаблон (рукоять)
+
+item.silentgear.template.name=Шаблон
+
+item.silentgear.blueprint_book.name=Чертёжная книга
+item.silentgear.blueprint_book.desc=Предназначена для хранения чертежей
+item.silentgear.blueprint_book.color=Цвет: #%s
+item.silentgear.blueprint_book.selected=Выбрано: %s
+
+item.silentgear.blueprint_package.name=Набор чертежей
+item.silentgear.blueprint_package.desc1=Содержит несколько стартовых чертежей
+item.silentgear.blueprint_package.desc2=Щелкните правой кнопкой мыши чтобы открыть
+
+item.silentgear.flaxseeds.name=Льняное семя
+item.silentgear.nether_banana.name=Незер банан
+
+item.silentgear.guide_book.name=Путеводитель (WIP)
+item.silentgear.guide_book.desc=Путеводитель по моду Silent Gear
+
+item.silentgear.tip_upgrade_diamond.name=Алмазное напыление на наконечник
+item.silentgear.tip_upgrade_emerald.name=Изумрудное напыление на наконечник
+item.silentgear.tip_upgrade_glowstone.name=Светокаменное напыление на наконечник
+item.silentgear.tip_upgrade_gold.name=Золотое напыление на наконечник
+item.silentgear.tip_upgrade_iron.name=Железное напыление на наконечник
+item.silentgear.tip_upgrade_lapis.name=Лазуритовое напыление на наконечник
+item.silentgear.tip_upgrade_quartz.name=Кварцевое напыление на наконечник
+item.silentgear.tip_upgrade_redstone.name=Редстоун напыление на наконечник
+
+# Misc upgrades
+item.silentgear.red_card_upgrade.name=Красная карта
+item.silentgear.red_card_upgrade.desc=Заставляет исчезнуть сломавшийся предмет навсегда
+item.silentgear.spoon_upgrade.name=Копатель
+item.silentgear.spoon_upgrade.desc=Позволяет кирке копать так же, как лопата
+
+item.silentgear.tool_head.name=Головка инструмента (Неизвестно)
+item.silentgear.tool_head.axe=Головка топора
+item.silentgear.tool_head.bow=Основа для лука
+item.silentgear.tool_head.dagger=Клинок для кинжала
+item.silentgear.tool_head.excavator=Головка заступа
+item.silentgear.tool_head.hammer=Головка молота
+item.silentgear.tool_head.katana=Клинок для катаны
+item.silentgear.tool_head.machete=Клинок для мачете
+item.silentgear.tool_head.mattock=Головка мотыги-топора
+item.silentgear.tool_head.pickaxe=Головка кирки
+item.silentgear.tool_head.shovel=Головка лопаты
+item.silentgear.tool_head.sickle=Серповидное лезвие
+item.silentgear.tool_head.sword=Клинок для меча
+
+# Crafting Item
+item.silentgear.advanced_upgrade_base.name=Продвинутая пластина улучшений
+item.silentgear.black_dye.name=Черный краситель
+item.silentgear.blue_dye.name=Синий краситель
+item.silentgear.blueprint_paper.name=Чертёжная бумага
+item.silentgear.crimson_iron_ingot.name=Багровый железный слиток
+item.silentgear.crimson_steel_ingot.name=Багровый стальной слиток
+item.silentgear.diamond_shard.name=Алмазный осколок
+item.silentgear.dried_sinew.name=Сушеные сухожилия
+item.silentgear.dried_sinew.desc=<Временный рецепт>
+item.silentgear.emerald_shard.name=Изумрудный осколок
+item.silentgear.flax_fiber.name=Льняное волокно
+item.silentgear.flax_string.name=Льняная нить
+item.silentgear.iron_rod.name=Железная рукоять
+item.silentgear.leather_scrap.name=Кожанные обрубки
+item.silentgear.netherwood_stick.name=Палка из багровой древисины
+item.silentgear.rough_rod.name=Грубая рукоять
+item.silentgear.rough_rod.desc=Может использоваться для крафта стандартныйх инструментов, но имеет некоторые негативные эффекты. Хороша в экстренных случаях
+item.silentgear.sinew.name=Сухожилия
+item.silentgear.sinew_fiber.name=Нить из сухожилий
+item.silentgear.stone_rod.name=Каменная рукоять
+item.silentgear.upgrade_base.name=Пластина улучшений
+
+#Tools
+
+item.silentgear.axe.name=Топор
+item.silentgear.axe.nameProper=%s Топор
+
+item.silentgear.bow.name=Лук
+item.silentgear.bow.nameProper=%s Лук
+
+item.silentgear.dagger.name=Кинжал
+item.silentgear.dagger.nameProper=%s Кинжал
+
+item.silentgear.excavator.name=Заступ
+item.silentgear.excavator.nameProper=%s Заступ
+
+item.silentgear.hammer.name=Молот
+item.silentgear.hammer.nameProper=%s Молот
+
+item.silentgear.katana.name=Катана
+item.silentgear.katana.nameProper=%s Катана
+
+item.silentgear.machete.name=Мачете
+item.silentgear.machete.nameProper=%s Мачете
+
+item.silentgear.mattock.name=Мотыга-топор
+item.silentgear.mattock.nameProper=%s Мотыга-топор
+
+item.silentgear.pickaxe.name=Кирка
+item.silentgear.pickaxe.nameProper=%s Кирка
+
+item.silentgear.shovel.name=Лопата
+item.silentgear.shovel.nameProper=%s Лопата
+
+item.silentgear.sickle.name=Серп
+item.silentgear.sickle.nameProper=%s Серп
+
+item.silentgear.sword.name=Меч
+item.silentgear.sword.nameProper=%s Меч
+
+# Armor
+
+item.silentgear.helmet.name=Шлем
+item.silentgear.helmet.nameProper=%s Шлем
+
+item.silentgear.chestplate.name=Нагрудник
+item.silentgear.chestplate.nameProper=%s Нагрудник
+
+item.silentgear.leggings.name=Поножи
+item.silentgear.leggings.nameProper=%s Поножи
+
+item.silentgear.boots.name=Ботинки
+item.silentgear.boots.nameProper=%s Ботинки
+
+
+
+#########
+# Stats #
+#########
+
+stat.silentgear.displayFormat=%1$s §r§8:§r %2$s
+stat.silentgear.durabilityFormat=%1$s / %2$s
+stat.silentgear.armorFormat=%1$s (%2$s)
+
+stat.silentgear.armor=Броня
+stat.silentgear.armor_durability=Прочность брони
+stat.silentgear.armor_toughness=Плотность брони
+stat.silentgear.attack_speed=Скорость атаки
+stat.silentgear.durability=Прочность
+stat.silentgear.enchantability=Чары
+stat.silentgear.harvest_level=Уровень жатвы
+stat.silentgear.harvest_speed=Скорость жатвы
+stat.silentgear.magic_armor=Магическая броня
+stat.silentgear.magic_damage=Магический урон
+stat.silentgear.melee_damage=Урон
+stat.silentgear.ranged_damage=Дальний урон
+stat.silentgear.ranged_speed=Скорость дальнего боя
+stat.silentgear.reach_distance=Досягаемость
+stat.silentgear.repair_efficiency=Эффективность починки
+stat.silentgear.rarity=Редкость
+
+stat.silentgear.grade.NONE=§cНе проанализированно§r
+stat.silentgear.grade.E=E
+stat.silentgear.grade.D=D
+stat.silentgear.grade.C=C
+stat.silentgear.grade.B=B
+stat.silentgear.grade.A=A
+stat.silentgear.grade.S=S
+stat.silentgear.grade.SS=SS
+stat.silentgear.grade.SSS=SSS
+
+
+
+###################
+# Parts/Materials #
+###################
+
+material.silentgear.gradeOnPart=Grade: %s
+
+material.silentgear.bowstring_flax.name=Льняная тетива
+material.silentgear.bowstring_sinew.name=Тетива из сухожилий
+material.silentgear.bowstring_string.name=Стандартная тетива
+
+material.silentgear.grip_leather.name=Кожанная ручка
+material.silentgear.grip_wool_white.name=Шерстяная ручка
+material.silentgear.grip_wool_orange.name=Шерстяная ручка
+material.silentgear.grip_wool_magenta.name=Шерстяная ручка
+material.silentgear.grip_wool_light_blue.name=Шерстяная ручка
+material.silentgear.grip_wool_yellow.name=Шерстяная ручка
+material.silentgear.grip_wool_lime.name=Шерстяная ручка
+material.silentgear.grip_wool_pink.name=Шерстяная ручка
+material.silentgear.grip_wool_gray.name=Шерстяная ручка
+material.silentgear.grip_wool_silver.name=Шерстяная ручка
+material.silentgear.grip_wool_cyan.name=Шерстяная ручка
+material.silentgear.grip_wool_purple.name=Шерстяная ручка
+material.silentgear.grip_wool_blue.name=Шерстяная ручка
+material.silentgear.grip_wool_brown.name=Шерстяная ручка
+material.silentgear.grip_wool_green.name=Шерстяная ручка
+material.silentgear.grip_wool_red.name=Шерстяная ручка
+material.silentgear.grip_wool_black.name=Шерстяная ручка
+
+material.silentgear.mainWithGrade=%1$s (%2$s)
+material.silentgear.main_crimson_iron.name=Багровое железо
+material.silentgear.main_crimson_steel.name=Багровая сталь
+material.silentgear.main_diamond.name=Алмазы
+material.silentgear.main_emerald.name=Изумруды
+material.silentgear.main_flint.name=Кремень
+material.silentgear.main_gold.name=Золото
+material.silentgear.main_iron.name=Железо
+material.silentgear.main_netherrack.name=Незерит
+material.silentgear.main_netherwood.name=Багровая древесина
+material.silentgear.main_obsidian.name=Обсидиан
+material.silentgear.main_stone.name=Камень
+material.silentgear.main_wood.name=Дерево
+material.silentgear.main_terracotta.name=Кирпич
+material.silentgear.main_test.name=Test Material (Please Remove)
+
+material.silentgear.misc_red_card.name=Красная карточка
+material.silentgear.misc_spoon.name=Копатель
+
+material.silentgear.rod_blaze.name=Огненная рукоять
+material.silentgear.rod_bone.name=Костянная рукоять
+material.silentgear.rod_end.name=Рукоять из стержня энда
+material.silentgear.rod_iron.name=Железная рукоять
+material.silentgear.rod_netherwood.name=Багровая рукоять
+material.silentgear.rod_rough.name=Грубая рукоять
+material.silentgear.rod_stone.name=Каменная рукоять
+material.silentgear.rod_wood.name=Деревянная рукоять
+
+material.silentgear.tip_diamond.name=Алмазное напыление
+material.silentgear.tip_emerald.name=Изумрудное напыление
+material.silentgear.tip_glowstone.name=Светокаменное напыление
+material.silentgear.tip_gold.name=Золотое напыление
+material.silentgear.tip_iron.name=Железное напыление
+material.silentgear.tip_lapis.name=Лазуритовое напыление
+material.silentgear.tip_quartz.name=Кварцевое напыление
+material.silentgear.tip_redstone.name=Редстоуновое напыление
+
+part.silentgear.type.binding=Связывание <Сохранение при смерти>
+part.silentgear.type.bowstring=Тетива
+part.silentgear.type.grip=Рукоять
+part.silentgear.type.main=Основная часть (уровень %d)
+part.silentgear.type.misc_upgrade=Дополнения
+part.silentgear.type.rod=Рукоять инструмента
+part.silentgear.type.tip=Дополнение подсказки
+
+trait.silentgear.displayFormat=%1$s %2$s
+trait.silentgear.adamant=Несокрушимость
+trait.silentgear.adamant.desc=Броня увеличивает сопротивляемость урону, инструменты наносят больше урона мобам с базовым здоровьем более 10 сердец
+trait.silentgear.ancient=Древний
+trait.silentgear.ancient.desc=Увеличивает кол-во XP выпадающей с блоков и мобов
+trait.silentgear.aquatic=Водяной
+trait.silentgear.aquatic.desc=Полный комплект брони дает подводное дыхание и повышает урон по водным мобам
+trait.silentgear.brittle=Хрупкость
+trait.silentgear.brittle.desc=Снаряжение ломается быстрее (отменяется с помощью "Поддатливость")
+trait.silentgear.bulky=Громоздкость
+trait.silentgear.bulky.desc=TODO, не проверено
+trait.silentgear.chilled=Охлажденный
+trait.silentgear.chilled.desc=Наносят больше урона мобам в незере и не устойчивым к огню
+trait.silentgear.chipping=Chipping
+trait.silentgear.chipping.desc=Снижает защиту брони/увеличивает скорость жатвы при поломке снаряжения
+trait.silentgear.crude=Сырой
+trait.silentgear.crude.desc=Уменьшает синергию (отменяется "Увеличение синергии")
+trait.silentgear.eroded=Эрозия
+trait.silentgear.eroded.desc=Увеличивает скорость жатвы и уменьшает урон от атаки при вореждении снаряжения
+trait.silentgear.holy=Святой
+trait.silentgear.holy.desc=Наносит дополнительный урон нежити
+trait.silentgear.jagged=Зубчатый
+trait.silentgear.jagged.desc=Увеличение урона от атак при повреждении снаряжения
+trait.silentgear.magmatic=Магматический
+trait.silentgear.magmatic.desc=Авто-плавка
+trait.silentgear.malleable=Податливый
+trait.silentgear.malleable.desc=Снаряжение ломается медленнее (Отменяется "хрупкостью")
+trait.silentgear.multi_break=Мультибрейк
+trait.silentgear.multi_break.desc=TODO, не закодированно
+trait.silentgear.refractive=Преломление
+trait.silentgear.refractive.desc=Размещает свет в темных облостях по близости
+trait.silentgear.soft=Мягкость
+trait.silentgear.soft.desc=Снижает скорость жатвы при повреждении инструмента
+trait.silentgear.stellar=Звездолов
+trait.silentgear.stellar.desc=Броня увеличивает скорость и высоту прыжка, предметы медленно востанавливаются
+trait.silentgear.speed_boost_light=Блестящий
+trait.silentgear.speed_boost_light.desc=Инструменты получают высокую скорость жатвы при наличии света
+trait.silentgear.synergy_boost=Synergistic
+trait.silentgear.synergy_boost.desc=Снаряжение получает больше синергии (если базовое значение больше 100%)
+
+
+
+# Commands
+command.silentgear.invalidItemType=Предмет в основной руке (%s) не является инструментом или доспехом Silent Gear.
+command.silentgear.lockStats.success=Статистика §e%s§r теперь равна %s§r (при условии, что предмет действителен).
+command.silentgear.lockStats.locked=Заблокирован
+command.silentgear.lockStats.unlocked=Разблокирован
+
+
+
+# JEI
+
+jei.silentgear.blueprint.desc=Чертежи и шаблоны используются для изготовления головок инструментов и доспехов. Чертежи можно использовать бесконечно, шаблоны одноразовые. При использовании в крафтовой станции вы можете смешивать материалы. В противном случае все материалы должны быть одинаковыми. Посмотрите всплывающую подсказку к чертежу/шаблону, чтобы узнать подробности о создании конечного предмета.
+jei.silentgear.crafting_station.desc=Улучшенный стол для крафта с небольшим внутренним инвентарем и окном, в котором отображается всплывающая подсказка создаваемого предмета. Позволяет смешивать материалы при изготовлении головок инструментов или доспехов.
+jei.silentgear.dagger.desc=В принципе очень легкий меч. Низкий урон и короткий радиус действия, но очень высокая скорость атаки. Также уменьшает время неуязвимости цели при попадании.
+jei.silentgear.katana.desc=Меч, который немного быстрее, но немного слабее классических мечей. Катана также может достигать большего, чем обычные мечи.
+jei.silentgear.machete.desc=Многофункциональное лезвие. Это меч, топор и серп, но лучше всего работает как меч. Немного медленнее скорость атаки, но больший урон, чем у стандартных мечей. Подобно серпам, он может очистить территорию от растений, но радиус действия меньше.
+jei.silentgear.mattock.desc=Совершенный сельскохозяйственный инструмент, способный обрабатывать и копать почву, а также рубить дрова. Чуть медленнее лопаты или топора, но прочнее. Должен работать во всем, что требует мотыги.
+jei.silentgear.part_analyzer.desc=Определяет качество материалов брони/головки инструмента. Не требует энергии и топлива. Воронки могут вставлять/извлекать предметы.
+jei.silentgear.red_card_upgrade.desc=Инструменты и доспехи с улучшением красной карты могут сломаться, как и их ванильные аналоги, вместо того, чтобы стать «сломанным» предметом, который все еще можно починить.
+jei.silentgear.spoon_upgrade.desc=Пусть твоя кирка будет копать грязь и тому подобное. Потому что причины.
+jei.silentgear.sword.desc=Классический меч со сбалансированным уроном и скоростью. Гарда принимает вид второго материала, используемого при крафте.
+jei.silentgear.tip_upgrade.desc=Позволяет улучшить существующий инструмент/оружие. Большинство улучшений чаевых добавляют (или вычитают) фиксированную сумму к определенным характеристикам, но некоторые вместо этого добавляют множители. Удерживайте клавишу Ctrl, чтобы просмотреть модификаторы статистики во всплывающей подсказке.
+jei.silentgear.tool_head.desc=Головки инструментов, лезвия, конечности лука и многое другое! Это ядро ​​инструментов и оружия, созданное с помощью чертежа/шаблона и некоторого количества основных материалов для инструментов. Проверьте всплывающую подсказку чертежа/шаблона для получения дополнительной информации.
+
+jei.silentgear.tooltip.sample1=Пример рецепта
+jei.silentgear.tooltip.sample2=Механизм, сделанный из любых материалов, будет работать
+
+
+
+#########
+# Hints #
+#########
+
+hint.silentgear.crafting_station.0=Шаблон можно использовать только один раз. Чертежи остаются навсегда.
+hint.silentgear.crafting_station.1=При смешивании материалов порядок имеет значение! Первое имеет наибольший эффект, второе меньше, третье еще меньше и так далее.
+hint.silentgear.crafting_station.2=Старайтесь смешивать материалы одного «яруса». Алмазы хорошо сочетаются с изумрудами, но не с деревом или камнем..
+
+
+
+########
+# Misc #
+########
+
+misc.silentgear.tooltip.construction.key=<Нажмите Alt>
+misc.silentgear.tooltip.construction.name=Ремонт
+misc.silentgear.tooltip.stats.key=<Нажмите Ctrl>
+misc.silentgear.tooltip.stats.name=Характеристики
+
+misc.silentgear.tooltip.altForConstruction=Ремонт §8<Нажмите Alt>
+misc.silentgear.tooltip.ctrlForStats=Характеристики §8<Нажмите Ctrl>
+
+misc.silentgear.broken=Вы сломали это!
+misc.silentgear.exampleOutput1=Пример вывода (модульный рецепт)
+misc.silentgear.exampleOutput2=Если вы создали это, что-то пошло не так!
+misc.silentgear.invalidParts=Кажется, содержит недопустимые части
+misc.silentgear.lockedStats=Статистика заблокирована
+misc.silentgear.notifyOnBreak=Ваш %s сломался. Вы должны исправить это.
+misc.silentgear.poorlyMade=Этот товар плохо сделан и долго не прослужит
+misc.silentgear.ungradedParts=*Содержит неклассифицированные части!

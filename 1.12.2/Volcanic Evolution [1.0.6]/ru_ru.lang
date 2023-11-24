@@ -1,0 +1,49 @@
+Volcanic Evolution 1.0.6 localization file
+
+#items
+
+item.amethystarmorbody.name=Аметистовая кираса
+item.amethystarmorboots.name=Аметистовые ботинки
+item.amethystarmorhelmet.name=Аметистовый шлем
+item.amethystarmorlegs.name=Аметистовые поножи
+item.amethystarrow.name=Аметистовая стрела
+item.amethystaxe.name=Аметистовый топор
+item.amethystbow.name=Аметистовый лук
+item.amethystgem.name=Аметист
+item.amethystingot.name=Аметист
+item.amethystpickaxe.name=Аметистовая кирка
+item.amethystshovel.name=Аметистовая лопата
+item.amethyststick.name=Аметистовая палка
+item.amethystsword.name=Аметистовый меч
+item.lavastick.name=Лавовая палка
+item.pizza.name=Пицца
+item.powerstick.name=Мощная палка
+item.powerwand.name=Мощный посох
+item.tomato.name=Помидор
+item.volcanicarmorbody.name=Вулканическая кираса
+item.volcanicarmorboots.name=Вулканические ботинки
+item.volcanicarmorhelmet.name=Вулканический шлем
+item.volcanicarmorlegs.name=Вулканические поножи
+item.volcanicarrow.name=Вулканическая стрела
+item.volcanicaxe.name=Вулканический топор
+item.volcanicbow.name=Вулканический лук
+item.volcanicingot.name=Вулканический слиток
+item.volcanicnugget.name=Вулканический самородок
+item.volcanicpickaxe.name=Вулканическая кирка
+item.volcanicshovel.name=Вулканическая лопата
+item.volcanicstick.name=Вулканическая палка
+item.volcanicsword.name=Вулканический меч
+
+#other
+
+itemGroup.tabvolcanicevolution=Volcanic Evolution
+key.mcreator.li=9
+
+#tiles
+
+tile.amethystore.name=Аметистовая руда
+tile.tomatoplant.name=Томаты
+tile.volcanicore.name=Вулканическая руда
+tile.volcanicstone.name=Вулканический камень
+
+File made by R3alRezentiX

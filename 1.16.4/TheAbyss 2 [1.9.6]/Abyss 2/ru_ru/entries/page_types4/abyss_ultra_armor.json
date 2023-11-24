@@ -1,0 +1,37 @@
+{
+	"name": "Ультра Броня Бездны",
+	"icon": "theabyss:abyssultraarmorarmor_chestplate",
+"category": "page_types4",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+	{
+		"type": "text",
+		"text": "чтобы скрафтит эту броню ты должен найти руду Бездны."
+	},
+	{
+		"type": "crafting",
+		"title": "Ультра Алмаз Бездны",
+		"recipe": "theabyss:ultraabyssdiamondrecipe"
+
+	},
+	{
+		"type": "crafting",
+		"title": "Ультра Броня Бездны",
+		"recipe": "theabyss:abyssultraarmorarmorhelmetrecipe",
+    "recipe2": "theabyss:abyssultraarmorarmorbodyrecipe"
+
+	},
+	{
+		"type": "crafting",
+		"title": "Ультра Броня Бездны",
+		"recipe": "theabyss:abyssultraarmorarmorleggingsrecipe",
+		"recipe2": "theabyss:abyssultraarmorarmorbootsrecipe"
+
+	}
+	]
+}

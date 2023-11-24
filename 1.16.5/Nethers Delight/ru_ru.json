@@ -1,0 +1,20 @@
+{
+  "item.nethers_delight.hoglin_hide": "Шкура хоглина",
+
+  "item.nethers_delight.hoglin_loin": "Филе хоглина",
+  "item.nethers_delight.raw_stuffed_hoglin": "Сырой фаршированный хоглин",
+  "item.nethers_delight.hoglin_sirloin": "Приготовленное филе хоглина",
+  "item.nethers_delight.strider_slice": "Сырой ломтик лавомерки",
+  "item.nethers_delight.ground_strider": "Измельчённая лавомерка",
+  "item.nethers_delight.strider_moss_stew": "Тушёная лавомерка",
+  "item.nethers_delight.hoglin_ear": "Жареные уши хоглина",
+  "item.nethers_delight.roast_hoglin_snout": "Жареная морда хоглина",
+  "item.nethers_delight.roast_hoglin_ham": "Жареный окорок хоглина",
+  "item.nethers_delight.roast_hoglin": "Тарелка жареного хоглина",
+  "item.nethers_delight.grilled_strider": "Жареная лавомерка",
+  "item.nethers_delight.warped_moldy_meat": "Искажённое мясо",
+  "item.nethers_delight.stuffed_hoglin_item": "Фаршированный хоглин",
+  "block.nethers_delight.hoglin_mount": "Трофей из головы хоглина",
+
+  "nethers_delight.block.feast.use_knife": "Вам нужен нож, чтобы разрезать это."
+}

@@ -1,0 +1,432 @@
+﻿
+itemgroup.environmentaltech.et_resources=Ресурсы экологических технологий
+itemGroup.environmentaltech.et_resources=Ресурсы экологических технологий
+
+itemgroup.environmentaltech.et_controllers=Контроллеры экологических технологий
+itemGroup.environmentaltech.et_controllers=Контроллеры экологических технологий
+
+itemgroup.environmentaltech.et_multiblock_components=Компоненты экологических технологий
+itemGroup.environmentaltech.et_multiblock_components=Компоненты экологических технологий
+
+itemgroup.environmentaltech.et_other=Другие экологические технологии
+itemGroup.environmentaltech.et_other=Другие экологические технологии
+
+tile.environmentaltech.litherite.name=Литерит
+tile.environmentaltech.litherite.name=Литерит
+tile.environmentaltech.litherite_paver.name=Литеритовый бетон
+tile.environmentaltech.litherite_bricks.name=Литеритовые кирпичи
+tile.environmentaltech.litherite_tiles.name=Литеритовый кафель
+tile.environmentaltech.litherite_stairs.name=Литеритовые ступеньки
+tile.environmentaltech.litherite_brick_stairs.name=Ступеньки из литеритового кирпича
+tile.environmentaltech.litherite_tile_stairs.name=Ступеньки из литеритового кафеля
+tile.environmentaltech.litherite_slab.name=Литеритовая плитка
+tile.environmentaltech.litherite_paver_slab.name=Литеритовая бетонная плитка
+tile.environmentaltech.litherite_brick_slab.name=Литеритовая кирпичная плитка
+tile.environmentaltech.litherite_tile_slab.name=Литеритовая кафельная плитка
+
+
+tile.environmentaltech.erodium.name=Эродий
+tile.environmentaltech.erodium_paver.name=Эродиевый бетон
+tile.environmentaltech.erodium_bricks.name=Эродиевые кирпичи
+tile.environmentaltech.erodium_tiles.name=Эродиевый кафель
+tile.environmentaltech.erodium_stairs.name=Эродиевые ступеньки
+tile.environmentaltech.erodium_brick_stairs.name=Ступеньки из эродиевого кирпича
+tile.environmentaltech.erodium_tile_stairs.name=Ступеньки из эродиевого кафеля
+tile.environmentaltech.erodium_slab.name=Эродиевая плитка
+tile.environmentaltech.erodium_paver_slab.name=Эродиевая бетонная плитка
+tile.environmentaltech.erodium_brick_slab.name=Эродиевая кирпичная плитка
+tile.environmentaltech.erodium_tile_slab.name=Эродиевая кафельная плитка
+
+tile.environmentaltech.kyronite.name=Киронит
+tile.environmentaltech.kyronite_paver.name=Киронитовый бетон
+tile.environmentaltech.kyronite_bricks.name=Киронитовые кирпичи
+tile.environmentaltech.kyronite_tiles.name=Киронитовый кафель
+tile.environmentaltech.kyronite_stairs.name=Киронитовые ступеньки
+tile.environmentaltech.kyronite_brick_stairs.name=Ступеньки из киронитового кирпича
+tile.environmentaltech.kyronite_tile_stairs.name=Ступеньки из киронитового кафеля
+tile.environmentaltech.kyronite_slab.name=Киронитовая плитка
+tile.environmentaltech.kyronite_paver_slab.name=Киронитоваявая бетонная плитка
+tile.environmentaltech.kyronite_brick_slab.name=Киронитовая кирпичная плитка
+tile.environmentaltech.kyronite_tile_slab.name=Киронитовая кафельная плитка
+
+tile.environmentaltech.pladium.name=Пладий
+tile.environmentaltech.pladium_paver.name=Пладиевый бетон
+tile.environmentaltech.pladium_bricks.name=Пладиевые кирпичи
+tile.environmentaltech.pladium_tiles.name=Пладиевый кафель
+tile.environmentaltech.pladium_stairs.name=Пладиевые ступеньки
+tile.environmentaltech.pladium_brick_stairs.name=Ступеньки из пладиевого кирпича
+tile.environmentaltech.pladium_tile_stairs.name=Ступеньки из пладиевого кафеля
+tile.environmentaltech.pladium_slab.name=Пладиевая плитка
+tile.environmentaltech.pladium_paver_slab.name=Пладивая бетонная плитка
+tile.environmentaltech.pladium_brick_slab.name=Пладивая кирпичная плитка
+tile.environmentaltech.pladium_tile_slab.name=Пладивая кафельная плитка
+
+tile.environmentaltech.ionite.name=Ионит
+tile.environmentaltech.ionite_paver.name=Ионитовый бетон
+tile.environmentaltech.ionite_bricks.name=Ионитовые кирпичи
+tile.environmentaltech.ionite_tiles.name=Ионитовый кафель
+tile.environmentaltech.ionite_stairs.name=Ионитовые ступеньки
+tile.environmentaltech.ionite_brick_stairs.name=Ступеньки из ионитового кирпича
+tile.environmentaltech.ionite_tile_stairs.name=Ступеньки из ионитового кафеля
+tile.environmentaltech.ionite_slab.name=Ионитовая плитка
+tile.environmentaltech.ionite_paver_slab.name=Ионитовая бетонная плитка
+tile.environmentaltech.ionite_brick_slab.name=Ионитовая кирпичная плитка
+tile.environmentaltech.ionite_tile_slab.name=Ионитовая кафельная плитка
+
+tile.environmentaltech.aethium.name=Эфиум
+tile.environmentaltech.aethium_paver.name=Эфиумовый бетон
+tile.environmentaltech.aethium_bricks.name=Эфиумовые кирпичи
+tile.environmentaltech.aethium_tiles.name=Эфиумовый кафель
+tile.environmentaltech.aethium_stairs.name=Эфиумовые ступеньки
+tile.environmentaltech.aethium_brick_stairs.name=Ступеньки из эфиумого кирпича
+tile.environmentaltech.aethium_tile_stairs.name=Ступеньки из эфиумого кафеля
+tile.environmentaltech.aethium_slab.name=Эфиумовая плитка
+tile.environmentaltech.aethium_paver_slab.name=Эфиумовая бетонная плитка
+tile.environmentaltech.aethium_brick_slab.name=Эфиумовая кирпичная плитка
+tile.environmentaltech.aethium_tile_slab.name=Эфиумовая кафельная плитка
+
+tile.environmentaltech.lonsdaleite.name=Лонсдейлит
+tile.environmentaltech.lonsdaleite_bricks.name=Лонсдейлитовые кирпичи
+tile.environmentaltech.lonsdaleite_paver.name=Лонсдейлитовый бетон
+tile.environmentaltech.lonsdaleite_tiles.name=Лонсдейлитовый кафель
+tile.environmentaltech.lonsdaleite_stairs.name=Лонсдейлитовые ступеньки
+tile.environmentaltech.lonsdaleite_brick_stairs.name=Ступеньки из лонсдейлитового кирпича
+tile.environmentaltech.lonsdaleite_tile_stairs.name=Ступеньки из лонсдейлитового кафеля
+tile.environmentaltech.lonsdaleite_slab.name=Лонсдейлитая плита
+tile.environmentaltech.lonsdaleite_paver_slab.name=Лонсдейлитая бетонная плитка
+tile.environmentaltech.lonsdaleite_brick_slab.name=Лонсдейлитая кирпичная плитка
+tile.environmentaltech.lonsdaleite_tile_slab.name=Лонсдейлитая кафельная плитка
+
+tile.environmentaltech.mica.name=Слюда
+tile.environmentaltech.interconnect.name=Соединитель
+
+tile.environmentaltech.structure_frame_1.name=Рамка конструкции, уровень 1
+tile.environmentaltech.structure_frame_2.name=Рамка конструкции, уровень 2
+tile.environmentaltech.structure_frame_3.name=Рамка конструкции, уровень 3
+tile.environmentaltech.structure_frame_4.name=Рамка конструкции, уровень 4
+tile.environmentaltech.structure_frame_5.name=Рамка конструкции, уровень 5
+tile.environmentaltech.structure_frame_6.name=Рамка конструкции, уровень 6
+
+tile.environmentaltech.structure_panel.name=Панель структуры
+tile.environmentaltech.structure_panel_clear.name=Чистая панель структуры
+
+tile.environmentaltech.solar_cell_litherite.name=Литеритовый солнечный элемент
+tile.environmentaltech.solar_cell_erodium.name=Эродиевый солнечный элемент
+tile.environmentaltech.solar_cell_kyronite.name=Киронитовый солнечный элемент
+tile.environmentaltech.solar_cell_pladium.name=Пладиевый солнечный элемент
+tile.environmentaltech.solar_cell_ionite.name=Ионитовый солнечный элемент
+tile.environmentaltech.solar_cell_aethium.name=Эфиумовый солнечный элемент
+
+tile.environmentaltech.solar_cont_1.name=Контроллер солнечной батареи уровня 1
+tile.environmentaltech.solar_cont_2.name=Контроллер солнечной батареи уровня 2
+tile.environmentaltech.solar_cont_3.name=Контроллер солнечной батареи уровня 3
+tile.environmentaltech.solar_cont_4.name=Контроллер солнечной батареи уровня 4
+tile.environmentaltech.solar_cont_5.name=Контроллер солнечной батареи уровня 5
+tile.environmentaltech.solar_cont_6.name=Контроллер солнечной батареи уровня 6
+gui.environmentaltech.solar_cont_1.title=Солнечная батарея уровня 1
+gui.environmentaltech.solar_cont_2.title=Солнечная батарея уровня 2
+gui.environmentaltech.solar_cont_3.title=Солнечная батарея уровня 3
+gui.environmentaltech.solar_cont_4.title=Солнечная батарея уровня 4
+gui.environmentaltech.solar_cont_5.title=Солнечная батарея уровня 5
+gui.environmentaltech.solar_cont_6.title=Солнечная батарея уровня 6
+
+tile.environmentaltech.void_ore_miner_cont_1.name=Контроллер пустотного карьера уровня 1
+tile.environmentaltech.void_ore_miner_cont_2.name=Контроллер пустотного карьера уровня 2
+tile.environmentaltech.void_ore_miner_cont_3.name=Контроллер пустотного карьера уровня 3
+tile.environmentaltech.void_ore_miner_cont_4.name=Контроллер пустотного карьера уровня 4
+tile.environmentaltech.void_ore_miner_cont_5.name=Контроллер пустотного карьера уровня 5
+tile.environmentaltech.void_ore_miner_cont_6.name=Контроллер пустотного карьера уровня 6
+gui.environmentaltech.void_ore_miner_cont_1.title=Пустотный карьер уровня 1
+gui.environmentaltech.void_ore_miner_cont_2.title=Пустотный карьер уровня 2
+gui.environmentaltech.void_ore_miner_cont_3.title=Пустотный карьер уровня 3
+gui.environmentaltech.void_ore_miner_cont_4.title=Пустотный карьер уровня 4
+gui.environmentaltech.void_ore_miner_cont_5.title=Пустотный карьер уровня 5
+gui.environmentaltech.void_ore_miner_cont_6.title=Пустотный карьер уровня 6
+
+tile.environmentaltech.void_res_miner_cont_1.name=Контроллер ресурсового пустотного карьера уровня 1
+tile.environmentaltech.void_res_miner_cont_2.name=Контроллер ресурсового пустотного карьера уровня 2
+tile.environmentaltech.void_res_miner_cont_3.name=Контроллер ресурсового пустотного карьера уровня 3
+tile.environmentaltech.void_res_miner_cont_4.name=Контроллер ресурсового пустотного карьера уровня 4
+tile.environmentaltech.void_res_miner_cont_5.name=Контроллер ресурсового пустотного карьера уровня 5
+tile.environmentaltech.void_res_miner_cont_6.name=Контроллер ресурсового пустотного карьера уровня 6
+gui.environmentaltech.void_res_miner_cont_1.title=Ресурсный карьер пустоты уровня 1
+gui.environmentaltech.void_res_miner_cont_2.title=Ресурсный карьер пустоты уровня 2
+gui.environmentaltech.void_res_miner_cont_3.title=Ресурсный карьер пустоты уровня 3
+gui.environmentaltech.void_res_miner_cont_4.title=Ресурсный карьер пустоты уровня 4
+gui.environmentaltech.void_res_miner_cont_5.title=Ресурсный карьер пустоты уровня 5
+gui.environmentaltech.void_res_miner_cont_6.title=Ресурсный карьер пустоты уровня 6
+
+tile.environmentaltech.void_botanic_miner_cont_1.name=Контроллер ботанического пустотного карьера уровня 1
+tile.environmentaltech.void_botanic_miner_cont_2.name=Контроллер ботанического пустотного карьера уровня 2
+tile.environmentaltech.void_botanic_miner_cont_3.name=Контроллер ботанического пустотного карьера уровня 3
+tile.environmentaltech.void_botanic_miner_cont_4.name=Контроллер ботанического пустотного карьера уровня 4
+tile.environmentaltech.void_botanic_miner_cont_5.name=Контроллер ботанического пустотного карьера уровня 5
+tile.environmentaltech.void_botanic_miner_cont_6.name=Контроллер ботанического пустотного карьера уровня 6
+gui.environmentaltech.void_botanic_miner_cont_1.title=Ботанический карьер пустоты уровня 1
+gui.environmentaltech.void_botanic_miner_cont_2.title=Ботанический карьер пустоты уровня 2
+gui.environmentaltech.void_botanic_miner_cont_3.title=Ботанический карьер пустоты уровня 3
+gui.environmentaltech.void_botanic_miner_cont_4.title=Ботанический карьер пустоты уровня 4
+gui.environmentaltech.void_botanic_miner_cont_5.title=Ботанический карьер пустоты уровня 5
+gui.environmentaltech.void_botanic_miner_cont_6.title=Ботанический карьер пустоты уровня 6
+
+tile.environmentaltech.lightning_cont_1.name=Контроллер молний уровня 1
+tile.environmentaltech.lightning_cont_2.name=Контроллер молний уровня 2
+tile.environmentaltech.lightning_cont_3.name=Контроллер молний уровня 3
+tile.environmentaltech.lightning_cont_4.name=Контроллер молний уровня 4
+tile.environmentaltech.lightning_cont_5.name=Контроллер молний уровня 5
+tile.environmentaltech.lightning_cont_6.name=Контроллер молний уровня 6
+gui.environmentaltech.lightning_cont_1.name=Молниеотвод уровня 1
+gui.environmentaltech.lightning_cont_2.name=Молниеотвод уровня 2
+gui.environmentaltech.lightning_cont_3.name=Молниеотвод уровня 3
+gui.environmentaltech.lightning_cont_4.name=Молниеотвод уровня 4
+gui.environmentaltech.lightning_cont_5.name=Молниеотвод уровня 5
+gui.environmentaltech.lightning_cont_6.name=Молниеотвод уровня 6
+
+tile.environmentaltech.nano_cont_ranged_1.name=Нанобот-маяк дальнего действия уровня 1
+tile.environmentaltech.nano_cont_ranged_2.name=Нанобот-маяк дальнего действия уровня 2
+tile.environmentaltech.nano_cont_ranged_3.name=Нанобот-маяк дальнего действия уровня 3
+tile.environmentaltech.nano_cont_ranged_4.name=Нанобот-маяк дальнего действия уровня 4
+tile.environmentaltech.nano_cont_ranged_5.name=Нанобот-маяк дальнего действия уровня 5
+tile.environmentaltech.nano_cont_ranged_6.name=Нанобот-маяк дальнего действия уровня 6
+
+tile.environmentaltech.nano_cont_personal_1.name=Персональный нанобот-маяк уровня 1
+tile.environmentaltech.nano_cont_personal_2.name=Персональный нанобот-маяк уровня 2
+tile.environmentaltech.nano_cont_personal_3.name=Персональный нанобот-маяк уровня 3
+tile.environmentaltech.nano_cont_personal_4.name=Персональный нанобот-маяк уровня 4
+tile.environmentaltech.nano_cont_personal_5.name=Персональный нанобот-маяк уровня 5
+tile.environmentaltech.nano_cont_personal_6.name=Персональный нанобот-маяк уровня 6
+
+tile.environmentaltech.laser_core.name=Лазерное ядро
+tile.environmentaltech.laser_lens.name=Прозрачная линза лазера
+tile.environmentaltech.laser_lens_crystal.name=Хрустальная линза лазера
+tile.environmentaltech.laser_lens_colored.white.name=Белый лазерный объектив
+tile.environmentaltech.laser_lens_colored.orange.name=Оранжевый лазерный объектив
+tile.environmentaltech.laser_lens_colored.magenta.name=Пурпурная линза лазера
+tile.environmentaltech.laser_lens_colored.light_blue.name=Голубая лазерная линза
+tile.environmentaltech.laser_lens_colored.yellow.name=Желтая лазерная линза
+tile.environmentaltech.laser_lens_colored.lime.name=Лаймовая лазерная линза
+tile.environmentaltech.laser_lens_colored.pink.name=Розовая лазерная линза
+tile.environmentaltech.laser_lens_colored.gray.name=Серый лазерный объектив
+tile.environmentaltech.laser_lens_colored.silver.name=Светло-серая лазерная линза
+tile.environmentaltech.laser_lens_colored.cyan.name=Цианитовая лазерная линза
+tile.environmentaltech.laser_lens_colored.purple.name=Фиолетовая линза лазера
+tile.environmentaltech.laser_lens_colored.blue.name=Синяя лазерная линза
+tile.environmentaltech.laser_lens_colored.brown.name=Коричневая лазерная линза
+tile.environmentaltech.laser_lens_colored.green.name=Зеленая лазерная линза
+tile.environmentaltech.laser_lens_colored.red.name=Красная линза лазера
+tile.environmentaltech.laser_lens_colored.black.name=Черная лазерная линза
+
+tile.environmentaltech.thermal_cell.name=Тепловая ячейка
+
+tile.environmentaltech.lightning_rod.name=Молниеотвод
+tile.environmentaltech.lightning_rod_insulated.name=Изолированный громоотвод
+
+tile.environmentaltech.modifier_null.name=Нулевой модификатор
+tile.environmentaltech.modifier_creative_flight.name=Творческий модификатор полета
+tile.environmentaltech.modifier_flight_speed.name=Модификатор скорости полета
+tile.environmentaltech.modifier_speed.name=Модификатор скорости
+tile.environmentaltech.modifier_piezo.name=Пьезо(Пьезоэлектри́ческий эффе́кт — эффект возникновения поляризации диэлектрика под действием механических напряжений) модификатор
+tile.environmentaltech.modifier_efficiency.name=Модификатор эффективности
+tile.environmentaltech.modifier_fortune.name=Модификатор удачи(фартуны)
+tile.environmentaltech.modifier_silk_touch.name=Модификатор шелкового касания
+tile.environmentaltech.modifier_accuracy.name=Модификатор точности
+tile.environmentaltech.modifier_flight.name=Модификатор полета
+tile.environmentaltech.modifier_night_vision.name=Модификатор ночного видения
+tile.environmentaltech.modifier_haste.name=Модификатор скорости
+tile.environmentaltech.modifier_strength.name=Модификатор силы
+tile.environmentaltech.modifier_water_breathing.name=Модификатор подводного дыхания
+tile.environmentaltech.modifier_regeneration.name=Модификатор регенерации
+tile.environmentaltech.modifier_saturation.name=Модификатор насыщенности
+tile.environmentaltech.modifier_resistance.name=Модификатор сопротивления
+tile.environmentaltech.modifier_jump_boost.name=Модификатор прыжка
+tile.environmentaltech.modifier_fire_resistance.name=Модификатор огнестойкости
+tile.environmentaltech.modifier_invisibility.name=Модификатор невидимости
+tile.environmentaltech.modifier_health_boost.name=Модификатор повышения здоровья
+tile.environmentaltech.modifier_absorption.name=Модификатор абсорбции(Абсо́рбция — поглощение сорбата всем объёмом сорбента)
+tile.environmentaltech.modifier_glowing.name=Модификатор свечения
+tile.environmentaltech.modifier_luck.name=Модификатор удачи
+
+
+item.environmentaltech.litherite_crystal.name=Кристалл литерита
+item.environmentaltech.erodium_crystal.name=Кристалл эродия
+item.environmentaltech.kyronite_crystal.name=Кристалл киронита
+item.environmentaltech.pladium_crystal.name=Кристалл пладия
+item.environmentaltech.ionite_crystal.name=Кристалл ионита
+item.environmentaltech.aethium_crystal.name=Кристалл эфиума
+item.environmentaltech.lonsdaleite_crystal.name=Кристалл лонсдейлита
+
+item.environmentaltech.photovoltaic_cell.name=Фотоэлектрическая ячейка
+item.environmentaltech.connector.name=Соединитель
+item.environmentaltech.diode.name=Диод
+item.environmentaltech.tool_multiblock_assembler.name=Ассемблер
+gui.environmentaltech.mbcomplete=Сборка мультиблочной структуры завершена
+
+
+gui.environmentaltech.lens=Объективно
+gui.environmentaltech.clear=Чисто
+gui.environmentaltech.pref=Преимущественно
+gui.environmentaltech.orabove=Или выше
+
+gui.environmentaltech.multiblockassembler.info.needed.title=Обязательные блоки
+gui.environmentaltech.structureblock=Ярус рамки конструкции
+gui.environmentaltech.laserlens=Лазерные линзы любого типа
+gui.environmentaltech.nexttier=Обязательные блоки для следующего уровня
+
+guide.environmentaltech.buttontitle=Экологические технологии
+guide.environmentaltech.buttontooltip=Экологическое техническое руководство
+
+guide.environmentaltech.comingsoon=Скоро будет
+guide.environmentaltech.generic.howtouse=Как пользовать
+guide.environmentaltech.generic.description=Описание
+guide.environmentaltech.generic.tier1=Уровень 1
+guide.environmentaltech.generic.tier2=Уровень 2
+guide.environmentaltech.generic.tier3=Уровень 3
+guide.environmentaltech.generic.tier4=Уровень 4
+guide.environmentaltech.generic.tier5=Уровень 5
+guide.environmentaltech.generic.tier6=Уровень 6
+guide.environmentaltech.generic.blockreq=Требования к блоку
+guide.environmentaltech.generic.energy=Энергия
+guide.environmentaltech.generic.item=Предмет
+guide.environmentaltech.generic.fluid=Жидкость
+guide.environmentaltech.generic.outputdirections=Направления вывода
+guide.environmentaltech.generic.energyoutdirections=Направления выхода энергии
+guide.environmentaltech.generic.energyindirections=Направления ввода энергии
+guide.environmentaltech.generic.itemoutdirections=Направление вывода предмета
+guide.environmentaltech.generic.itemindirections=Направление ввода предмета
+guide.environmentaltech.generic.commonreq=Общие требования
+guide.environmentaltech.generic.multiblockposition=Многоблочная позиция
+guide.environmentaltech.generic.belowcont=Ниже контроллера
+guide.environmentaltech.generic.abovecont=Выше контроллера
+guide.environmentaltech.generic.horizcont=Любое направление от контроллера
+guide.environmentaltech.generic.spacereq=Требования к пространству
+guide.environmentaltech.generic.modslots=Слоты модификаторов
+guide.environmentaltech.generic.specifications=Характеристики
+guide.environmentaltech.generic.defduration=Продолжительность по умолчанию
+guide.environmentaltech.generic.minduration=Мин. Продолжительность
+guide.environmentaltech.generic.maxduration=Макс. Продолжительность
+guide.environmentaltech.generic.duration=Продолжительность
+guide.environmentaltech.generic.durationrange=Диапазон продолжительности
+guide.environmentaltech.generic.randomrange=Случайный диапазон
+guide.environmentaltech.generic.between=Между
+guide.environmentaltech.generic.fe=FE
+guide.environmentaltech.generic.minfegen=Мин. Генерация FE
+guide.environmentaltech.generic.maxfegen=Макс. Генерация FE
+guide.environmentaltech.generic.fegenrange=Диапозон Генерация FE
+guide.environmentaltech.generic.fegenpeak=Пиковая генерация FE
+guide.environmentaltech.generic.during=В течение
+guide.environmentaltech.generic.while=Пока
+guide.environmentaltech.generic.thundering=громоподобный
+guide.environmentaltech.generic.other=Другое
+guide.environmentaltech.generic.weather=Погода
+guide.environmentaltech.generic.sunny=Солнечно
+guide.environmentaltech.generic.rainy=Дождливо
+guide.environmentaltech.generic.modifiereffects=Эффекты модификатора
+guide.environmentaltech.generic.modifiers=Модификаторы
+guide.environmentaltech.generic.structuresize=Размер структуры
+
+guide.environmentaltech.null_modifier.effects=Без эффектов
+guide.environmentaltech.modifier_piezo.effects=Позволяет солнечным панелям генерировать энергию из вибраций, вызванных погодой.
+
+guide.environmentaltech.tiered_crystals.page.title=Кристаллы окружающей среды
+guide.environmentaltech.tiered_crystals.button.title=Многоуровневые кристаллы
+guide.environmentaltech.tiered_crystals.page.text.crystals=Кристаллы
+guide.environmentaltech.tiered_crystals.page.text.blocks=Кристальные блоки
+guide.environmentaltech.tiered_crystals.page.text.stairs=Кристальная лестница
+guide.environmentaltech.tiered_crystals.page.text.slabs=Кристальные плитки
+guide.environmentaltech.tiered_crystals.page.text.litherite=LLLL
+
+guide.environmentaltech.assembler.page.title=Сборочные машины
+guide.environmentaltech.assembler.button.title=Ассемблер
+guide.environmentaltech.assembler.page.text.description=    Сборщик - это основной инструмент для сборки многоблочных машин от Environmental Tech. Он автоматически соберет ваши мультиблочные машины, если у вас есть нужные блоки в вашем инвентаре.
+
+guide.environmentaltech.assembler.page.use1=1. Зажмите или удерживаете ПКМ на контроллере, чтобы собрать мультиблочную структуру.
+guide.environmentaltech.assembler.page.use2=2. Shift + ПКМ по контроллеру ломает любой блок в мультиблочной структуре в режиме выживания.
+guide.environmentaltech.assembler.page.use3=3. Shift + ПКМ по контроллеру ломает всю мультиблочную конструкцию в креативе.
+guide.environmentaltech.assembler.page.use4=4. Нажмите ЛКМ по контроллеру, чтобы просмотреть список необходимых блоков для мультиблочной структуры.
+
+guide.environmentaltech.modifiers.page.title=Модификаторы
+guide.environmentaltech.modifiers.button.title=Модификаторы
+guide.environmentaltech.modifiers.page.text.description=    Модификаторы - это блоки, используемые для обновления / изменения мультиблочной структуры. По умолчанию каждая мультиблочная структура может поддерживать любой модификатор, но они не обязательно будут влиять на эту конкретную конструкцию.
+
+
+guide.environmentaltech.structure_blocks.page.title=Блоки многоблочной структуры
+guide.environmentaltech.structure_blocks.button.title=Структурные блоки
+guide.environmentaltech.structure_blocks.page.text.description=    Структурные блоки - это основные блоки, используемые в многоблочных машинах. Структурные рамки обычно используются в качестве рамы машины, а структурные панели обычно используются по бокам машин..
+
+
+guide.environmentaltech.lightning_rods.page.title=Громоотводы
+guide.environmentaltech.lightning_rods.button.title=Громоотводы
+guide.environmentaltech.lightning_rods.page.text.description=    Громоотводы позволяют использовать силу молнии! Когда молния попадает в стержень, он генерирует большой выброс энергии.
+guide.environmentaltech.lightning_rods.page.title.t1=Громоотвод уровня 1
+guide.environmentaltech.lightning_rods.page.title.t2=Громоотвод уровня 2
+guide.environmentaltech.lightning_rods.page.title.t3=Громоотвод уровня 3
+guide.environmentaltech.lightning_rods.page.title.t4=Громоотвод уровня 4
+guide.environmentaltech.lightning_rods.page.title.t5=Громоотвод уровня 5
+guide.environmentaltech.lightning_rods.page.title.t6=Громоотвод уровня 6
+guide.environmentaltech.lightning_rods.page.text.minenergystrike=Мин. FE при ударе молнии
+guide.environmentaltech.lightning_rods.page.text.maxenergystrike=Макс. FE при ударе молнии
+guide.environmentaltech.lightning_rods.page.title.strikechance=Шанс удара молнии
+
+guide.environmentaltech.solar_arrays.page.title=Солнечный массив
+guide.environmentaltech.solar_arrays.button.title=Солнечный массив
+guide.environmentaltech.solar_arrays.page.text.description=    Солнечные массивы позволяют использовать силу солнца! Они отлично смотрятся на солнце, но зависят от погоды и не работают ночью. 
+guide.environmentaltech.solar_arrays.page.text
+guide.environmentaltech.solar_arrays.page.title.t1=Солнечный массив уровня 1
+guide.environmentaltech.solar_arrays.page.title.t2=Солнечный массив уровня 2
+guide.environmentaltech.solar_arrays.page.title.t3=Солнечный массив уровня 3
+guide.environmentaltech.solar_arrays.page.title.t4=Солнечный массив уровня 4
+guide.environmentaltech.solar_arrays.page.title.t5=Солнечный массив уровня 5
+guide.environmentaltech.solar_arrays.page.title.t6=Солнечный массив уровня 6
+
+guide.environmentaltech.void_miner.page.text.void=    Лазерное ядро пустотного карьера должно видеть пустоту или бедрок под собой.
+
+guide.environmentaltech.void_ore_miner.page.title=Карьер Пустоты
+guide.environmentaltech.void_ore_miner.button.title=Карьер Пустоты
+guide.environmentaltech.void_ore_miner.page.text.description=    Карьеры пустоты добывают руду из пустоты. Эти карьеры могут использовать большое количество энергии, когда установлены модификаторы, поэтому убедитесь, что у вас есть приличное количество энергии.
+guide.environmentaltech.void_ore_miner.page.title.t1=Карьер пустоты уровня 1
+guide.environmentaltech.void_ore_miner.page.title.t2=Карьер пустоты уровня 2
+guide.environmentaltech.void_ore_miner.page.title.t3=Карьер пустоты уровня 3
+guide.environmentaltech.void_ore_miner.page.title.t4=Карьер пустоты уровня 4
+guide.environmentaltech.void_ore_miner.page.title.t5=Карьер пустоты уровня 5
+guide.environmentaltech.void_ore_miner.page.title.t6=Карьер пустоты уровня 6
+
+guide.environmentaltech.void_res_miner.page.title=Карьер ресурсов пустоты
+guide.environmentaltech.void_res_miner.button.title=Карьер ресурсов пустоты
+guide.environmentaltech.void_res_miner.page.text.description=    Карьеры ресурсов пустоты добывают ресурсы из пустоты. Эти ресурсы можно найти в обычной генерации мира , они используются для создания других декоративных блоков. Эти карьеры могут потреблять большое количество энергии при установке модификаторов, поэтому убедитесь, что у вас есть приличное количество энергии.
+guide.environmentaltech.void_resource_miner.page.title.t1=Карьер ресурсов пустоты уровня 1
+guide.environmentaltech.void_resource_miner.page.title.t2=Карьер ресурсов пустоты уровня 2
+guide.environmentaltech.void_resource_miner.page.title.t3=Карьер ресурсов пустоты уровня 3
+guide.environmentaltech.void_resource_miner.page.title.t4=Карьер ресурсов пустоты уровня 4
+guide.environmentaltech.void_resource_miner.page.title.t5=Карьер ресурсов пустоты уровня 5
+guide.environmentaltech.void_resource_miner.page.title.t6=Карьер ресурсов пустоты уровня 6
+
+guide.environmentaltech.void_botanic_miner.page.title=Ботанический карьер пустоты
+guide.environmentaltech.void_botanic_miner.button.title=Ботанический карьер пустоты
+guide.environmentaltech.void_botanic_miner.page.text.description=    Ботанические карьеры Пустоты копают из бездны. Эти предметы и блоки обычно взяты из природы или могут быть выращены. Эти карьеры потребляют мало энергии даже при использовании большого количества модификаторов.
+guide.environmentaltech.void_botanic_miner.page.title.t1=Void Ботанический карьер пустоты уровня 1
+guide.environmentaltech.void_botanic_miner.page.title.t2=Void Ботанический карьер пустоты уровня 2
+guide.environmentaltech.void_botanic_miner.page.title.t3=Void Ботанический карьер пустоты уровня 3
+guide.environmentaltech.void_botanic_miner.page.title.t4=Void Ботанический карьер пустоты уровня 4
+guide.environmentaltech.void_botanic_miner.page.title.t5=Void Ботанический карьер пустоты уровня 5
+guide.environmentaltech.void_botanic_miner.page.title.t6=Void Ботанический карьер пустоты уровня 6
+
+guide.environmentaltech.nanobot_ranged.page.title=Нанобот-маяк дальнего действия
+guide.environmentaltech.nanobot_ranged.button.title=Нанобот-маяк дальнего действия
+guide.environmentaltech.nanobot_ranged.page.text.description=    Нанобот-маяк дальнего действия предоставляет игрокам в пределах своего диапазона эффекты, которые добавляются с модификаторами. Каждый эффект, который вы добавляете к нано-боту-маяку, увеличивает затраты энергии.
+guide.environmentaltech.nanobot_ranged.page.title.t1=Нанобот-маяк дальнего действия уровня 1
+guide.environmentaltech.nanobot_ranged.page.title.t2=Нанобот-маяк дальнего действия уровня 2
+guide.environmentaltech.nanobot_ranged.page.title.t3=Нанобот-маяк дальнего действия уровня 3
+guide.environmentaltech.nanobot_ranged.page.title.t4=Нанобот-маяк дальнего действия уровня 4
+guide.environmentaltech.nanobot_ranged.page.title.t5=Нанобот-маяк дальнего действия уровня 5
+guide.environmentaltech.nanobot_ranged.page.title.t6=Нанобот-маяк дальнего действия уровня 6
+
+guide.environmentaltech.nanobot.page.chunkloaded=    В Нанобот-маяк должен быть загружен фрагмент, если вы хотите, чтобы эффекты были везде, где бы вы ни находились..
+guide.environmentaltech.nanobot_personal.page.title=Персональный нанобот-маяк
+guide.environmentaltech.nanobot_personal.button.title=Персональный нанобот-маяк
+guide.environmentaltech.nanobot_personal.page.text.description=    Персональный нанобот-маяк предоставляет владельцу различные эффекты. Каждый эффект, который вы добавляете к маяку, увеличивает затраты энергии..
+guide.environmentaltech.nanobot_personal.page.title.t1=Персональный нанобот-маяк уровня 1
+guide.environmentaltech.nanobot_personal.page.title.t2=Персональный нанобот-маяк уровня 2
+guide.environmentaltech.nanobot_personal.page.title.t3=Персональный нанобот-маяк уровня 3
+guide.environmentaltech.nanobot_personal.page.title.t4=Персональный нанобот-маяк уровня 4
+guide.environmentaltech.nanobot_personal.page.title.t5=Персональный нанобот-маяк уровня 5
+guide.environmentaltech.nanobot_personal.page.title.t6=Персональный нанобот-маяк уровня 6

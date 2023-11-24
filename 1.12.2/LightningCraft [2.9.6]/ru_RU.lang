@@ -1,0 +1,338 @@
+# LightningCraft English localization file
+
+# creative tabs
+itemGroup.lcBlocks=LightningCraft: Блоки
+itemGroup.lcItems=LightningCraft: Предметы
+
+# entities
+entity.lightningcraft:helper_zombie.name=Зомби-помощник
+entity.lightningcraft:demon_soldier.name=Демон-солдат
+entity.lightningcraft:underworld_skeleton.name=Скелет-защитник
+entity.lightningcraft:underworld_slime.name=Слизень подеземелья
+entity.lightningcraft:underworld_silverfish.name=Демоническая рыба
+entity.lightningcraft:underworld_ghast.name=Гаст подземелья
+entity.lightningcraft:underworld_creeper.name=Крипер подземелья
+
+# death messages
+death.attack.lightningcraft:cannon=%1$s был сдут
+
+# sounds
+subtitle.mob.demon_soldier.idle=Демон-солдат
+subtitle.mob.demon_soldier.hurt=Демон-солдат получает урон
+subtitle.mob.demon_soldier.death=Демон-солдат умирает
+subtitle.mob.underworld_ghast.moan=Гаст подземелья плачет о том, как сложно жить в России
+subtitle.mob.underworld_ghast.warn=Гаст подземелья стреляет
+subtitle.mob.underworld_ghast.hurt=Гаст подземелья получает урон
+subtitle.mob.underworld_ghast.death=Гаст подземелья умирает
+subtitle.portal.underworld=Подземный портал
+
+# blocks
+tile.lightningcraft:metal_block_0.name=Электрисовый блок
+tile.lightningcraft:metal_block_1.name=Скайфазерный блок
+tile.lightningcraft:metal_block_2.name=Мистиловый блок
+tile.lightningcraft:stone_block_0.name=Грозокамень
+tile.lightningcraft:stone_block_1.name=Кирпичи из грозокамня
+tile.lightningcraft:stone_block_2.name=Резные кирпичи из грозокамня
+tile.lightningcraft:stone_block_3.name=Демонокамень
+tile.lightningcraft:stone_block_4.name=Кирпичи из демонокамня
+tile.lightningcraft:stone_block_5.name=Резные кирпичи из демонокамня
+tile.lightningcraft:stone_block_6.name=Подземкамень
+tile.lightningcraft:stone_block_7.name=Кирпичи из подземкамня
+tile.lightningcraft:stone_block_8.name=Резные кирпичи из подземкамня
+tile.lightningcraft:stone_block_9.name=Детализированные кирпичи из грозокамня
+tile.lightningcraft:stone_block_10.name=Детализированные кирпичи из демонокамня
+tile.lightningcraft:stone_block_11.name=Детализированные кирпичи из подземкамня
+tile.lightningcraft:stone_block_12.name=Плитки из грозокамня
+tile.lightningcraft:stone_block_13.name=Плитки из демонокамня
+tile.lightningcraft:stone_block_14.name=Плитки из подземкамня
+tile.lightningcraft:wood_log.name=Подземдерево
+tile.lightningcraft:wood_plank.name=Подземдеревянные доски
+tile.lightningcraft:slab_block_0.name=Плита из грозокамня
+tile.lightningcraft:slab_block_1.name=Плита из демонокамня
+tile.lightningcraft:slab_block_2.name=Плита из подземкамня
+tile.lightningcraft:slab_block_3.name=Подземдеревянная плита
+tile.lightningcraft:slab_block_double_0.name=Плита из грозокаменных кирпичей
+tile.lightningcraft:slab_block_double_1.name=Плита из демонокаменных кирпичей
+tile.lightningcraft:slab_block_double_2.name=Плита из подземкаменных кирпичей
+tile.lightningcraft:slab_block_double_3.name=Подземдеревянная плита
+tile.lightningcraft:thunder_stairs.name=Ступеньки из грозокаменных кирпичей
+tile.lightningcraft:demon_stairs.name=Ступеньки из демонокаменных кирпичей
+tile.lightningcraft:under_stairs.name=Ступеньки из подземкаменных кирпичей
+tile.lightningcraft:under_plank_stairs.name=Подземдеревянные ступеньки
+tile.lightningcraft:corrupt_stone.name=Поврежденный камень
+tile.lightningcraft:light_block_0.name=Фонарь подземелья
+tile.lightningcraft:light_block_1.name=Подземлампа
+tile.lightningcraft:light_block_2.name=Детализированная подземлампа
+tile.lightningcraft:light_block_3.name=Детализированная подземлампа
+tile.lightningcraft:light_block_4.name=Детализированная подземлампа
+tile.lightningcraft:wall_block.name=Стена из поврежденного камня
+tile.lightningcraft:ore_block_0.name=Подземжелезная руда
+tile.lightningcraft:ore_block_1.name=Подземзолотая руда
+tile.lightningcraft:ore_block_2.name=Подземалмазная руда
+tile.lightningcraft:ore_block_3.name=Подземызумрудная руда
+tile.lightningcraft:under_sand.name=Подземпесок
+tile.lightningcraft:air_terminal_0.name=Железновоздушный терминал
+tile.lightningcraft:air_terminal_1.name=Стальновоздушный терминал
+tile.lightningcraft:air_terminal_2.name=Свинцововоздушный терминал
+tile.lightningcraft:air_terminal_3.name=Оловянновоздушный терминал
+tile.lightningcraft:air_terminal_4.name=Алюминиевовоздушный терминал
+tile.lightningcraft:air_terminal_5.name=Золотовоздушный терминал
+tile.lightningcraft:air_terminal_6.name=Медновоздушный терминал
+tile.lightningcraft:air_terminal_7.name=Электрисовоздушный терминал
+tile.lightningcraft:air_terminal_8.name=Небесновоздушный терминал
+tile.lightningcraft:air_terminal_9.name=Мистиловоздушный терминал
+tile.lightningcraft:lightning_cell_0.name=Молниеносная энергетическая ячейка
+tile.lightningcraft:lightning_cell_1.name=Продвинутая молниеносная клетка
+tile.lightningcraft:lightning_cell_2.name=Мистиловая молниеносная клетка
+tile.lightningcraft:lightning_cell_3.name=Творческая молниеносная клетка
+tile.lightningcraft:lightning_furnace.name=Молниеносная печь
+tile.lightningcraft:lightning_crusher.name=Молниеносный измельчитель
+tile.lightningcraft:lightning_infuser.name=Молниеносный стол подзарядки
+tile.lightningcraft:lightning_breaker.name=Молниеносный ломатель блоков
+tile.lightningcraft:lightning_miner.name=Молниеносный копатель
+tile.lightningcraft:static_generator.name=Электростатический генератор
+tile.lightningcraft:wireless_block_0.name=Передатчик LE 1 уровня
+tile.lightningcraft:wireless_block_1.name=Передатчик LE 2 уровня
+tile.lightningcraft:wireless_block_2.name=Передатчик LE 3 уровня
+tile.lightningcraft:wireless_block_3.name=Приемник LE 1 уровня
+tile.lightningcraft:wireless_block_4.name=Приемник LE 2 уровня
+tile.lightningcraft:wireless_block_5.name=Приемник LE 3 уровня
+tile.lightningcraft:charging_plate.name=Молниеносная заряжающая пластина
+tile.lightningcraft:ench_reallocator.name=Перераспределитель чар
+tile.lightningcraft:under_portal.name=Подземпортал
+tile.lightningcraft:under_tnt_0.name=Защитный динамит
+tile.lightningcraft:under_tnt_1.name=Молниеносный динамит
+tile.lightningcraft:under_tnt_2.name=Мистиловый динамит
+tile.lightningcraft:lightning_cannon_0.name=Подземная электропушка
+tile.lightningcraft:lightning_cannon_1.name=Молниеносная пушка
+tile.lightningcraft:lightning_cannon_2.name=Улучшенная молниеносная пушка
+tile.lightningcraft:rf_provider.name=Экспорт LE в RF
+tile.lightningcraft:rf_receiver.name=Генератор RF на молнии
+
+# items
+item.lightningcraft:guide_0.name=Молниеносное руководство
+item.lightningcraft:guide_1.name=Молниеносное руководство (Редакция скайфазера)
+item.lightningcraft:guide_2.name=Молниеносное руководство (Редакция подземного мира)
+item.lightningcraft:golf_club.name=Клюшка для гольфа
+item.lightningcraft:golf_club_gold.name=Золотая клюшка
+item.lightningcraft:ingot_0.name=Слиток электриса
+item.lightningcraft:ingot_1.name=Слиток скайфазера
+item.lightningcraft:ingot_2.name=Слиток мистила
+item.lightningcraft:nugget_0.name=Самородок электриса
+item.lightningcraft:nugget_1.name=Самородок скайфазера
+item.lightningcraft:nugget_2.name=Самородок мистила
+item.lightningcraft:dust_0.name=Электрисовая пыль
+item.lightningcraft:dust_1.name=Скайфазерная пыль
+item.lightningcraft:dust_2.name=Мистиловая пыль
+item.lightningcraft:rod_0.name=Железный стержень
+item.lightningcraft:rod_1.name=Стальной стержень
+item.lightningcraft:rod_2.name=Свинцовый стержень
+item.lightningcraft:rod_3.name=Оловянный стержень
+item.lightningcraft:rod_4.name=Алюминиевый стержень
+item.lightningcraft:rod_5.name=Золотой стержень
+item.lightningcraft:rod_6.name=Медный стержень
+item.lightningcraft:rod_7.name=Электрисовый стержень
+item.lightningcraft:rod_8.name=Скайфазерный стержень
+item.lightningcraft:rod_9.name=Мистиловый стержень
+item.lightningcraft:plate_0.name=Железная пластина
+item.lightningcraft:plate_1.name=Стальная пластина
+item.lightningcraft:plate_2.name=Свинцовая пластина
+item.lightningcraft:plate_3.name=Оловянная пластина
+item.lightningcraft:plate_4.name=Алюминиевая пластина
+item.lightningcraft:plate_5.name=Золотая пластина
+item.lightningcraft:plate_6.name=Медная пластина
+item.lightningcraft:plate_7.name=Электрисовая пластина
+item.lightningcraft:plate_8.name=Скайфазерная пластина
+item.lightningcraft:plate_9.name=Мистиловая пластина
+item.lightningcraft:material_0.name=Самородок звезды Незера
+item.lightningcraft:material_1.name=Алмазная пыль
+item.lightningcraft:material_2.name=Изумрудная пыль
+item.lightningcraft:material_3.name=Кварцевая пыль
+item.lightningcraft:material_4.name=Молниеносное улучшение
+item.lightningcraft:material_5.name=Кровь демона
+item.lightningcraft:material_6.name=Подземзарядка
+item.lightningcraft:material_7.name=Кость стражника
+item.lightningcraft:material_8.name=Костная мука стражника
+item.lightningcraft:material_9.name=Заколдованное ядро
+item.lightningcraft:material_10.name=Ядро пушки
+item.lightningcraft:material_11.name=Ихор
+item.lightningcraft:material_12.name=Подземпорошок
+item.lightningcraft:material_13.name=Усиленный подземпорошок
+item.lightningcraft:material_14.name=Божественный подземпорошок
+item.lightningcraft:battery_0.name=Молниеносная батарея 1 уровня
+item.lightningcraft:battery_1.name=Молниеносная батарея 2 уровня
+item.lightningcraft:battery_2.name=Молниеносная батарея 3 уровня
+item.lightningcraft:item_magnet_0.name=Предметный магнит 1 уровня
+item.lightningcraft:item_magnet_1.name=Предметный магнит 2 уровня
+item.lightningcraft:item_magnet_2.name=Предметный магнит 3 уровня
+item.lightningcraft:item_magnet_3.name=Предметный магнит 4 уровня
+item.lightningcraft:wireless_marker.name=Tx/Rx тег ссылки
+
+# fluids
+fluid.lightningcraft:electricium=Расплавленный электрис
+fluid.lightningcraft:skyfather=Расплавленный скайфазер
+fluid.lightningcraft:mystic=Расплавленный мистил
+
+# modifiers and materials
+modifier.lightningcraft:lightning.name=Заряжено
+modifier.lightningcraft:repair.name=Авто-починка
+material.electricium.name=Электрис
+material.skyfather.name=Скайфазер
+material.mystic.name=Мистил
+
+# potion stuff
+potion.effect.demon_warding_normal=Зелье демонического оберега
+potion.effect.demon_warding_extended=Зелье демонического оберега
+splash_potion.effect.demon_warding_normal=Взрывное зелье демонического оберега
+splash_potion.effect.demon_warding_extended=Взрывное зелье демонического оберега
+lingering_potion.effect.demon_warding_normal=Длительное зелье демонического оберега
+lingering_potion.effect.demon_warding_extended=Длительное зелье демонического оберега
+tipped_arrow.effect.demon_warding_normal=Стрела демоничесого оберега
+tipped_arrow.effect.demon_warding_extended=Стрела демоничесого оберега
+potion.demon_warding=Демонический оберег
+potion.demon_warding.postfix=Зелье демонического оберега
+
+# tools
+item.lightningcraft:elec_hammer.name=Электрисовый молот
+item.lightningcraft:elec_sword.name=Электрисовый меч
+item.lightningcraft:elec_pick.name=Электрисовая кирка
+item.lightningcraft:elec_axe.name=Электрисовый топор
+item.lightningcraft:elec_shovel.name=Электрисовая лопата
+item.lightningcraft:elec_hoe.name=Электрисовая мотыга
+item.lightningcraft:soul_sword.name=Меч души
+item.lightningcraft:zombie_sword.name=Меч нежити
+item.lightningcraft:feather_sword.name=Крылатый меч
+item.lightningcraft:ender_sword.name=Меч Эндера
+item.lightningcraft:blaze_sword.name=Полыхающий меч
+item.lightningcraft:ice_sword.name=Ледяной меч
+item.lightningcraft:sky_hammer.name=Скайфазерный молот
+item.lightningcraft:sky_sword.name=Скайфазерный меч
+item.lightningcraft:sky_pick.name=Скайфазерная кирка
+item.lightningcraft:sky_axe.name=Скайфазерный топор
+item.lightningcraft:sky_shovel.name=Скайфазерная лопата
+item.lightningcraft:sky_hoe.name=Скайфазерная мотыга
+item.lightningcraft:mystic_hammer.name=Мистиловый молот
+item.lightningcraft:mystic_sword.name=Мистиловый меч
+item.lightningcraft:mystic_pick.name=Мистиловая кирка
+item.lightningcraft:mystic_axe.name=Мистиловый топор
+item.lightningcraft:mystic_shovel.name=Мистиловая лопата
+item.lightningcraft:mystic_hoe.name=Мистиловая мотыга
+item.lightningcraft:kinetic_sword.name=Кинетический меч
+item.lightningcraft:kinetic_pick.name=Кинетическая кирка
+item.lightningcraft:kinetic_axe.name=Кинетический топор
+item.lightningcraft:kinetic_shovel.name=Кинетическая лопата
+
+# armor
+item.lightningcraft:elec_helm.name=Электрисовый шлем
+item.lightningcraft:elec_chest.name=Электрисовая кираса
+item.lightningcraft:elec_legs.name=Электрисовые поножи
+item.lightningcraft:elec_boots.name=Электрисовые ботинки
+item.lightningcraft:sky_helm.name=Скайфазерный меч
+item.lightningcraft:sky_chest.name=Скайфазерная кираса
+item.lightningcraft:sky_legs.name=Скайфазерные поножи
+item.lightningcraft:sky_boots.name=Скайфазерные ботинки
+item.lightningcraft:kinetic_helm.name=Кинетический шлем
+item.lightningcraft:kinetic_chest.name=Кинетическая кираса
+item.lightningcraft:kinetic_legs.name=Кинетические поножи
+item.lightningcraft:kinetic_boots.name=Кинетические ботинки
+item.lightningcraft:mystic_helm.name=Мистиловый шлем
+item.lightningcraft:mystic_chest.name=Мистиловая кираса
+item.lightningcraft:mystic_legs.name=Мистиловые поножи
+item.lightningcraft:mystic_boots.name=Мистиловые ботинки
+
+# enchantments
+enchantment.lightningcraft:hand_of_thor=Рука тора
+enchantment.lightningcraft:elec_aura=Электростатическая аура
+
+# lore
+lore.lightningcraft:inventoryleuser=Требует LE
+lore.lightningcraft:autorepair=Авто-починка
+lore.lightningcraft:skyhelm=Ночное зрение
+lore.lightningcraft:mystichelm=Подводное дыхание
+lore.lightningcraft:skychest=Сопротивление урону I
+lore.lightningcraft:mysticchest=Сопротивление урону II
+lore.lightningcraft:skylegs=Огнестойкость
+lore.lightningcraft:mysticlegs=Питательность
+lore.lightningcraft:skyboots=Путешествие I
+lore.lightningcraft:mysticboots=Путешествие II
+lore.lightningcraft:charged=Заряжено
+lore.lightningcraft:summoner=Призывает
+lore.lightningcraft:autosmelt=Авто-плавка
+lore.lightningcraft:fortunebonus=Удача
+lore.lightningcraft:quickfarm=Быстрая ферма
+lore.lightningcraft:invincibility=Полный набор - непобедимость
+lore.lightningcraft:soulsword=Излом души
+lore.lightningcraft:zombiesword=Восстание могил
+lore.lightningcraft:feathersword=На ветру
+lore.lightningcraft:endersword=Пустотный шаг
+lore.lightningcraft:blazesword=Вечный огонь
+lore.lightningcraft:icesword=Замороженная порода
+lore.lightningcraft:demonblood=Странно, но оно вязкое...
+lore.lightningcraft:underworldcharge=Незер не так уж и глубоко!
+lore.lightningcraft:heavensword=Пространственный кулак
+lore.lightningcraft:angergods=Создание скайфазера разозлило богов... Демоны будут враждебны к вам!
+
+# JEI stuff
+lightningcraft.infusion_recipe_category=Молниеносный заряд
+lightningcraft.crusher_recipe_category=Молниеносный измельчитель
+lightningcraft.electricium_info=Электрис - самый важный метал в LightningCraft. Его можно создать, объединив железо, золото и алмаз молнией на земле.
+lightningcraft.ichor_info=Ингредиент для крафта. Его можно создать, объединив кровь демона, изумруд и слиток скайфазера молнией на земле.
+lightningcraft.guide_info=Руководство по LightningCraft. Его можно создать, ударив молнией по книге на земле.
+lightningcraft.skyfather_info=Слитки скайфазера на уровень выше электрисовых. Они действительно крутые.
+lightningcraft.mystic_info=Мистиловые слитки сделаны из эссенции бога, они также являются самым мощным материалом в LightningCraft.
+
+# achievements
+achievement.lightningcraft:craftRod=Электризованное начало!
+achievement.lightningcraft:craftRod.desc=Создайте металлическую палку
+achievement.lightningcraft:craftGuide=Знания - сила
+achievement.lightningcraft:craftGuide.desc=Создайте книгу-гайд 
+achievement.lightningcraft:swingGolfClub=В порядке вещей
+achievement.lightningcraft:swingGolfClub.desc=Тыкните клюшкой для гольфа по воздуху, а затем посмотрите, что произойдет
+achievement.lightningcraft:getElectricium=Аппаратура высокого напряжения
+achievement.lightningcraft:getElectricium.desc=Объедините железо, золото и алмаз молнией, чтобы получить Слиток Электриса (ударение на "е")
+achievement.lightningcraft:craftCell=По-настоящему сильная батарея
+achievement.lightningcraft:craftCell.desc=Создайте молниеносную энергетическую ячейку
+achievement.lightningcraft:craftTerminal=Направление силы
+achievement.lightningcraft:craftTerminal.desc=Создайте воздушный терминал, чтобы пойти на вершину вашей молниеносной ячейки ("to go atop your lightning cell" - я без понятия, как это можно перевести)
+achievement.lightningcraft:craftFurnace=Зовите меня "Шеф Тор"
+achievement.lightningcraft:craftFurnace.desc=Создайте молниеносную печь
+achievement.lightningcraft:craftCrusher=Ежедневный гринд
+achievement.lightningcraft:craftCrusher.desc=Создайте молниеносный измельчитель
+achievement.lightningcraft:craftInfuser=Вольтовская хитрость
+achievement.lightningcraft:craftInfuser.desc=Создайте молниеносный стол подзарядки
+achievement.lightningcraft:craftGenerator=МНЕ НУЖНО БОЛЬШЕ СИЛЫ!
+achievement.lightningcraft:craftGenerator.desc=Создайте электростатический генератор
+achievement.lightningcraft:craftBattery=Молнии на ходу
+achievement.lightningcraft:craftBattery.desc=Создайте молниеносную батарею
+achievement.lightningcraft:craftKinetic=Мобильная энергия
+achievement.lightningcraft:craftKinetic.desc=Создайте предмет, использующий LE
+achievement.lightningcraft:infuseSpecialSword=Каменный настой
+achievement.lightningcraft:infuseSpecialSword.desc=Зарядите каменный меч, чтобы добавить специальные свойства
+achievement.lightningcraft:specialSwordKill=Свободный камень
+achievement.lightningcraft:specialSwordKill.desc=Убейте врага с помощью вашего нового "каменного меча"
+achievement.lightningcraft:infuseSkyfather=Разозлить богов
+achievement.lightningcraft:infuseSkyfather.desc=Создайте слиток скайфазера
+achievement.lightningcraft:upgradeCell=Супермашиностроение
+achievement.lightningcraft:upgradeCell.desc=Улучшите любую машину с помощью молниеносного улучшения
+achievement.lightningcraft:craftMiner=Автоматизация - ключ
+achievement.lightningcraft:craftMiner.desc=Создайте молниеносный шахтер, который будет делать все за вас, а вы будете смотреть видео MrChallenge.
+achievement.lightningcraft:craftWireless=Распространение
+achievement.lightningcraft:craftWireless.desc=Создайте LE пердатчик или приемник, чтобы расширить ваши возможности
+achievement.lightningcraft:killDemon=Защитить богов
+achievement.lightningcraft:killDemon.desc=Они пытались заставить своих демонов атаковать вас, но вам было все равно. Так держать!
+achievement.lightningcraft:reachUnderworld=Шаг в пустоту
+achievement.lightningcraft:reachUnderworld.desc=Наделяя огненный заряд кровью демонов, вы создаете портал из демонокамня и отправляетесь в подземный мир.
+achievement.lightningcraft:mineUnderworldOre=Темная земля Королей!
+achievement.lightningcraft:mineUnderworldOre.desc=Добудьте руду подземного мира, ее там предостаточно!
+achievement.lightningcraft:craftReallocator=Волшебный волшебник
+achievement.lightningcraft:craftReallocator.desc=Создайте перераспределитель чар с помощью костей Стражника и других мистических вещей.
+achievement.lightningcraft:infuseMystic=Подземный чемпион
+achievement.lightningcraft:infuseMystic.desc=Улучшите слиток скайфазера до слитка мистила с помощью Ихора из смертоносных валов подземного мира.
+achievement.lightningcraft:mysticArmor=Наряду с Богами
+achievement.lightningcraft:mysticArmor.desc=С помощью мистиловой брони, наполненной Электростатической аурой III, сметайте все, что будет у вас на пути.
+achievement.lightningcraft:mysticHammer=Божественное излишество
+achievement.lightningcraft:mysticHammer.desc=Ударьте врага мистиловым молотом, зачарованным на Остроту V и Руку Тора III.
+achievement.lightningcraft:perfectCell=Идеальная ячейка
+achievement.lightningcraft:perfectCell.desc=Ультимативная система МЭ... Я имею в виду, совершенная система LE с ячейкой высшего уровня и терминалом!
+
+# guide

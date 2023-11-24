@@ -1,0 +1,92 @@
+{
+  "entity.mythicmounts.netherbat": "Летучая Мышь",
+  "entity.mythicmounts.courierbird": "Курьерская птица",
+  "entity.mythicmounts.direwolf": "Мрачный Волк",
+  "entity.mythicmounts.dragon": "Дракон",
+  "entity.mythicmounts.griffon": "Грифон",
+  "entity.mythicmounts.geckotoalizard": "Гигантская Геккотоа",
+  "entity.mythicmounts.ridinglizard": "Ездовая ящерица",
+  "entity.mythicmounts.nudibranch": "Гигантский Голожаберный",
+  "entity.mythicmounts.moth": "Гигантский Мотылёк",
+  "entity.mythicmounts.nightmare": "Кошмар",
+  "entity.mythicmounts.acencia": "Асенсия",
+  "entity.mythicmounts.archelon": "Архелон",
+
+  "item.mythicmounts.bat_spawn_egg": "Яйцо призыва Летучей Мыши",
+  "item.mythicmounts.courierbird_spawn_egg": "Яйцо призыва Курьерской птицы",
+  "item.mythicmounts.direwolf_spawn_egg": "Яйцо призыва Мрачного Волка",
+  "item.mythicmounts.dragon_spawn_egg": "Яйцо призыва Дракона",
+  "item.mythicmounts.griffon_spawn_egg": "Яйцо призыва Грифона",
+  "item.mythicmounts.groundlizard_spawn_egg": "Яйцо призыва Гигантской Геккотоа",
+  "item.mythicmounts.ridinglizard_spawn_egg": "Яйцо призыва Ездовой ящерицы",
+  "item.mythicmounts.nudibranch_spawn_egg": "Яйцо призыва Голожаберного",
+  "item.mythicmounts.moth_spawn_egg": "Яйцо призыва Мотылька",
+  "item.mythicmounts.nightmare_spawn_egg": "Яйцо призыва Кошмара",
+  "item.mythicmounts.acencia_spawn_egg": "Яйцо призыва Асенсии",
+  "item.mythicmounts.archelon_spawn_egg": "Яйцо призыва Архелона",
+
+  "subtitles.mythicmounts.wing_flap": "Закрылки крыльев",
+  "subtitles.mythicmounts.chest_equips": "Оснастить сундук",
+  "subtitles.mythicmounts.jump": "Шаги",
+  "subtitles.mythicmounts.fire": "Огненное потрескивание",
+
+  "subtitles.mythicmounts.bat_ambient": "Летучая Мышь пищит",
+  "subtitles.mythicmounts.bat_angry": "Летучая Мышь сердито пищит",
+  "subtitles.mythicmounts.bat_hurt": "Летучая Мышь ранен",
+  "subtitles.mythicmounts.bat_death": "Летучая Мышь умер",
+
+  "subtitles.mythicmounts.courierbird_ambient": "Курьерская птица кудахчет",
+  "subtitles.mythicmounts.courierbird_angry": "Курьерская птица сердито кудахчет",
+  "subtitles.mythicmounts.courierbird_hurt": "Курьерская птица ранена",
+  "subtitles.mythicmounts.courierbird_death": "Курьерская птица умерла",
+
+  "subtitles.mythicmounts.direwolf_ambient": "Мрачный Волк тяжело дышит",
+  "subtitles.mythicmounts.direwolf_angry": "Мрачный Волк сердите рычит",
+  "subtitles.mythicmounts.direwolf_hurt": "Мрачный Волк ранен",
+  "subtitles.mythicmounts.direwolf_death": "Мрачный Волк умер",
+
+  "subtitles.mythicmounts.dragon_ambient": "Дракон фыркает",
+  "subtitles.mythicmounts.dragon_angry": "Дракон сердито рычит",
+  "subtitles.mythicmounts.dragon_hurt": "Дракон ранен",
+  "subtitles.mythicmounts.dragon_death": "Дракон умер",
+
+  "subtitles.mythicmounts.griffon_ambient": "Грифон вопит",
+  "subtitles.mythicmounts.griffon_angry": "Грифон сердито кричит",
+  "subtitles.mythicmounts.griffon_hurt": "Грифон ранен",
+  "subtitles.mythicmounts.griffon_death": "Грифон умер",
+
+  "subtitles.mythicmounts.groundlizard_ambient": "Ящерица Геккотоа мычит",
+  "subtitles.mythicmounts.groundlizard_angry": "Ящерица Геккотоа сердито мычит",
+  "subtitles.mythicmounts.groundlizard_hurt": "Ящерица Геккотоа ранена",
+  "subtitles.mythicmounts.groundlizard_death": "Ящерица Геккотоа умерла",
+
+  "subtitles.mythicmounts.moth_ambient": "Мотылёк пищит",
+  "subtitles.mythicmounts.moth_angry": "Мотылёк сердито пищит",
+  "subtitles.mythicmounts.moth_hurt": "Мотылёк ранен",
+  "subtitles.mythicmounts.moth_death": "Мотылёк умер",
+
+  "subtitles.mythicmounts.nudibranch_ambient": "Голожаберный сердится",
+  "subtitles.mythicmounts.nudibranch_angry": "Голожаберный сердито булькает",
+  "subtitles.mythicmounts.nudibranch_hurt": "Голожаберный ранен",
+  "subtitles.mythicmounts.nudibranch_death": "Голожаберный умер",
+
+  "subtitles.mythicmounts.ridinglizard_ambient": "Ездовая ящерица вопит",
+  "subtitles.mythicmounts.ridinglizard_angry": "Ездовая ящерица сердито кричит",
+  "subtitles.mythicmounts.ridinglizard_hurt": "Ездовая ящерица ранена",
+  "subtitles.mythicmounts.ridinglizard_death": "Ездовая ящерица умерла",
+
+  "subtitles.mythicmounts.nightmare_ambient": "Кошмар ржет",
+  "subtitles.mythicmounts.nightmare_angry": "Кошмар сердито ржет",
+  "subtitles.mythicmounts.nightmare_hurt": "Кошмар ранен",
+  "subtitles.mythicmounts.nightmare_death": "Кошмар умер",
+
+  "subtitles.mythicmounts.acencia_ambient": "Асенсия мурлыкает",
+  "subtitles.mythicmounts.acencia_angry": "Асенсия шипит",
+  "subtitles.mythicmounts.acencia_hurt": "Асенсия ранена",
+  "subtitles.mythicmounts.acencia_death": "Асенсия умерла",
+
+  "subtitles.mythicmounts.archelon_ambient": "Архелон щебечет",
+  "subtitles.mythicmounts.archelon_angry": "Архелон сердито щебечет",
+  "subtitles.mythicmounts.archelon_hurt": "Архелон ранен",
+  "subtitles.mythicmounts.archelon_death": "Архелон умер"
+}

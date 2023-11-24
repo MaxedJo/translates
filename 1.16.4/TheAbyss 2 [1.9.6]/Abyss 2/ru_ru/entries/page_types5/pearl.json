@@ -1,0 +1,27 @@
+{
+	"name": "Мутированный Эндер-жемчуг",
+	"icon": "theabyss:enderbow",
+"category": "page_types5",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:fireplantx",
+			"title": "Огненное Растение",
+			"link_recipe":false,
+			"text": "для начала вам надо найти огненный цветок x Цветы."
+		},
+
+	{
+		"type": "crafting",
+		"title": "Мутированный Эндер-жемчуг",
+		"recipe": "theabyss:enderpearlrecipe"
+
+	}
+	]
+}

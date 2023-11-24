@@ -1,0 +1,26 @@
+{
+	"name": "Кольцо Орла",
+	"icon": "theabyss:ring_of_eagle",
+"category": "page_types5",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+	{
+		"type": "spotlight",
+		"item": "theabyss:scorpioneye",
+		"title": "Глаз Скорпиона",
+		"link_recipe":false,
+		"text": "для начала вы должны убить несколько Скорпионов! вы найдете Скорпионов во всех биомах Бездны!"
+	},
+	{
+		"type": "crafting",
+		"title": "Кольцо Джагернаута",
+		"recipe": "theabyss:ring_of_eagle_rcp"
+
+	}
+	]
+}

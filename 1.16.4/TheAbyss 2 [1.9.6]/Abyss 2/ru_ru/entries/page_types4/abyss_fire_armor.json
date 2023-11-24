@@ -1,0 +1,34 @@
+{
+	"name": "Огненная Броня Бездны",
+	"icon": "theabyss:abyssfirearmorarmor_chestplate",
+"category": "page_types4",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "theabyss:abyssfireore",
+			"title": "Огненная Руда Бездны",
+			"link_recipe":false,
+			"text": "высота: 2-28$(br)биом: Синий Лесс, Синии Горы, Пустыни Ада (Ад)"
+		},
+		{
+			"type": "crafting",
+			"title": "Огненная Броня Бездны",
+			"recipe": "theabyss:abyssfirearmorarmorhelmetrecipe",
+			"recipe2": "theabyss:abyssfirearmorarmorbodyrecipe"
+
+		},
+		{
+			"type": "crafting",
+			"title": "Огненная Броня Бездны",
+			"recipe": "theabyss:abyssfirearmorarmorleggingsrecipe",
+			"recipe2": "theabyss:abyssfirearmorarmorbootsrecipe"
+
+		}
+	]
+}

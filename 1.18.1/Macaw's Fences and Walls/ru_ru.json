@@ -1,0 +1,79 @@
+	{
+		
+		"itemGroup.mcwfences": "Macaw's Fences & Walls",
+     
+
+
+
+"block.mcwfences.spruce_picket_fence":"Еловый забор",
+"block.mcwfences.spruce_stockade_fence":"Еловый Укреплённый забор",
+"block.mcwfences.spruce_horse_fence":"Еловый конный забор",
+"block.mcwfences.spruce_wired_fence":"Еловый Проволочный забор",
+
+"block.mcwfences.birch_picket_fence":"Березовый забор",
+"block.mcwfences.birch_stockade_fence":"Березовый укреплённый забор",
+"block.mcwfences.birch_horse_fence":"Березовый конный забор",
+"block.mcwfences.birch_wired_fence":"Березовый Проволочный забор",
+
+"block.mcwfences.jungle_picket_fence":"Забор из тропического дерева",
+"block.mcwfences.jungle_stockade_fence":"Укреплённый забор из тропического дерева",
+"block.mcwfences.jungle_horse_fence":"Конный забор из тропического дерева",
+"block.mcwfences.jungle_wired_fence":"Проволочный забор из тропического дерева",
+
+"block.mcwfences.acacia_picket_fence":"Забор из акации",
+"block.mcwfences.acacia_stockade_fence":"Укреплённый забор из акации",
+"block.mcwfences.acacia_horse_fence":"Конный забор из акации",
+"block.mcwfences.acacia_wired_fence":"Проволочный забор из акации",
+
+"block.mcwfences.dark_oak_picket_fence":"Забор из темного дуба",
+"block.mcwfences.dark_oak_stockade_fence":"Укреплённый забор из темного дуба",
+"block.mcwfences.dark_oak_horse_fence":"Конный забор из темного дуба",
+"block.mcwfences.dark_oak_wired_fence":"Проволочный забор из темного дуба",
+
+"block.mcwfences.crimson_picket_fence":"Багровый забор",
+"block.mcwfences.crimson_stockade_fence":"Багровый укреплённый забор",
+"block.mcwfences.crimson_horse_fence":"Багровый конный забор",
+"block.mcwfences.crimson_wired_fence":"Багровый проволочный забор",
+
+"block.mcwfences.warped_picket_fence":"Искажённый забор",
+"block.mcwfences.warped_stockade_fence":"Искажённый укреплённый забор",
+"block.mcwfences.warped_horse_fence":"Искажённый конный забор",
+"block.mcwfences.warped_wired_fence":"Искажённый проволочный забор",
+
+
+
+"block.mcwfences.oak_picket_fence":"Дубовый забор",
+"block.mcwfences.oak_stockade_fence":"Дубовый укреплённый забор",
+"block.mcwfences.oak_horse_fence":"Дубовый конный забор",
+"block.mcwfences.oak_wired_fence":"Дубовый проволочный забор",
+
+"block.mcwfences.modern_stone_brick_wall":"Современный каменно кирпичный забор",
+"block.mcwfences.modern_andesite_wall":"Современный андезитовый забор",
+"block.mcwfences.modern_diorite_wall":"Современный диоритовый забор",
+"block.mcwfences.modern_granite_wall":"Современный гранитовый забор",
+"block.mcwfences.modern_blackstone_wall":"Современный полированно-чернитный забор",
+"block.mcwfences.modern_sandstone_wall":"Современный песчаный забор",
+"block.mcwfences.modern_red_sandstone_wall":"Современная забор из красного песчаника",
+"block.mcwfences.modern_nether_brick_wall":"Современный забор из адского кирпича",
+"block.mcwfences.modern_end_brick_wall":"Современный забор из кирпича края",
+
+"block.mcwfences.railing_stone_brick_wall":"Ограда из каменного кирпича",
+"block.mcwfences.railing_andesite_wall":"Ограда из андезита",
+"block.mcwfences.railing_diorite_wall":"Ограда из диорита",
+"block.mcwfences.railing_granite_wall":"Ограда из гранита",
+"block.mcwfences.railing_blackstone_wall":"Ограда из полированно-чернитного кирпича",
+"block.mcwfences.railing_sandstone_wall":"Ограда из песчаника",
+"block.mcwfences.railing_red_sandstone_wall":"Ограда из красного песчаника",
+"block.mcwfences.railing_nether_brick_wall":"Ограда из адского кирпича",
+"block.mcwfences.railing_end_brick_wall":"Ограда из кирпича края",
+
+"block.mcwfences.oak_highley_gate":"Дубовая укреплённая калитка",      
+"block.mcwfences.spruce_highley_gate":"Еловая укреплённая калитка",     
+"block.mcwfences.birch_highley_gate":"Березовая укреплённая калитка",     
+"block.mcwfences.jungle_highley_gate":"Укреплённая калитка из тропического дерева",     
+"block.mcwfences.acacia_highley_gate":"Укреплённая калитка из акации",     
+"block.mcwfences.dark_oak_highley_gate":"Укреплённая калитка из тёмного дуба",     
+"block.mcwfences.crimson_highley_gate":"Багровая укреплённая калитка",     
+"block.mcwfences.warped_highley_gate":"Искажённая укреплённая калитка"                                                     
+	}
+	

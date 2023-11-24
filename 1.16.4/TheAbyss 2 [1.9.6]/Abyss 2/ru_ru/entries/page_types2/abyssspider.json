@@ -1,0 +1,27 @@
+{
+	"name": "Паук Бездны",
+	"icon": "minecraft:paper",
+	"category": "page_types2",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+	{
+		"type": "text",
+			"text": "Атака:$(#1fdb28) +2 $(#000000)$(br)ХП:$(#1fdb28) +15$(br)$(#000000)Редкость: $(#1f7adb)Необычный$(br)$(#000000)Сила: $(#7d1fdb)Сильный$(br)$(#000000)Способности: Нет$(br)$(#000000)Скорость: $(#7d1fdb)Очень Быстрый"
+	},
+	{
+		"type": "entity",
+		"entity": "theabyss:abyssspider",
+		"scale": 1.0,
+		"offset": 0.0,
+		"rotate": true,
+		"default_rotation": -45,
+		"title": "Wither",
+		"text": "быстрый и смертоносный, но мало здоровья"
+	}
+	]
+}

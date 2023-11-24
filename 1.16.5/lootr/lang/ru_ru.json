@@ -1,0 +1,55 @@
+{
+	
+	"lootr.message.should_sneak":"Взлом сундука приведет к удалению уникальной добычи и всех предметов в сундуке! Чтобы взломать, вы должны красться.",
+	"lootr.message.should_sneak2":"Поскольку добыча составляет %s, ломайте только в случае необходимости.",
+	"lootr.message.should_sneak3":"для каждого игрока на сундук",
+	"lootr.message.cart_should_sneak":"Взлом вагонетки приведет к удалению уникальной добычи и всех предметов в сундуке! Чтобы взломать, вы должны красться.",
+	"lootr.message.cart_should_sneak3":"ля каждого игрока на вагонетку",
+	"lootr.message.cannot_break":"Сундуки с добычей и вагонетки нельзя сломать.",
+	"lootr.message.cannot_break_sneak":"Сундуки с добычей и вагонетки можно разбивать только присидя в творческом режиме.",
+	"lootr.message.decayed":"Разлагающийся сундук рассыпается от вашего прикосновения!",
+	"lootr.message.decay_in":"Этот сундук полностью распадется за %s секунд.",
+	"lootr.message.decay_start":"Сундук начинает крошиться от вашего прикосновения! Он полностью распадется за %s секунд.",
+	"lootr.message.refreshed":"Содержимое сундука обновляется при вашем прикосновении!",
+	"lootr.message.refresh_in":"Этот сундук обновит свое содержимое за %s секунд.",
+	"lootr.message.refresh_start":"Сундук пополнится новым содержимым через %s секунд!",
+	
+	"block.lootr.lootr_chest":"Сундук с добычей",
+	"block.lootr.lootr_trapped_chest":"Сундук с добычей",
+	"block.lootr.lootr_barrel":"Бочка с добычей",
+	"block.lootr.lootr_inventory":"Сундук с добычей",
+	"block.lootr.lootr_shulker":"Шалкер с добычей",
+	"block.lootr.trophy":"Столетний трофей",
+	
+	"entity.lootr.lootr_minecart":"Вагонетка с сундуком",
+	
+	"lootr.commands.usage":"/lootr barrel | barrel <loot-table> | chest | chest <loot-table> | cart | cart <loot-table> | convert | custom <id>",
+	"lootr.commands.create":"Created a Lootr %s at %s using the loot table %s.",
+	"lootr.commands.summon":"Summoned a Lootr Cart at %s using the loot table %s.",
+	"lootr.commands.blockpos":"%s,%s,%s",
+	
+	"stat.lootr.looted_stat":"Разграбленные Сундуки",
+	
+	"lootr.advancements.100loot.title":"Столетие",
+	"lootr.advancements.100loot.description":"Откройте 100 сундуков с добычей и заберите награду",
+	"lootr.advancements.50loot.title":"Пентеконтер",
+	"lootr.advancements.50loot.description":"Откройте 50 сундуков с добычей и заберите награду",
+	"lootr.advancements.25loot.title":"Близкая цель",
+	"lootr.advancements.25loot.description":"Откройте 25 сундуков с добычей и заберите награду",
+	"lootr.advancements.10loot.title":"Дюжина",
+	"lootr.advancements.10loot.description":"Откройте 10 сундуков с добычей и заберите награду",
+	"lootr.advancements.1chest.title":"'X' Место добычи",
+	"lootr.advancements.1chest.description":"Откройте свой первый сундук с добычей и заберите награду!",
+	"lootr.advancements.1barrel.title":"Бочонок золота",
+	"lootr.advancements.1barrel.description":"Откройте свою первую бочку с добычей и заберите награду!",
+	"lootr.advancements.1cart.title":"Туннельные сокровища",
+	"lootr.advancements.1cart.description":"Откройте свою первую вагонетку с добычей и заберите награду!",
+	"lootr.advancements.1shulker.title":"Коробка с наградой",
+	"lootr.advancements.1shulker.description":"Откройте своего первого шалкера с добычей и заберите награду!",
+	"lootr.advancements.social.title":"Общая добыча",
+	"lootr.advancements.social.description":"Откройте по одному типу каждого сокровища в мире!",
+	"lootr.advancements.root.title":"Место в музее",
+	"lootr.advancements.root.description":"Принесите в свой мир мгновенную добычу для каждого игрока.",
+	
+	"itemGroup.lootr":"Лутр"	
+}

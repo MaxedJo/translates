@@ -1,0 +1,39 @@
+{
+  "block.abnormals_delight.rosewood_pantry": "Палисандровая кладовая",
+  "block.abnormals_delight.morado_pantry": "Морадовая кладовая",
+  "block.abnormals_delight.yucca_pantry": "Юкковая кладовая",
+  "block.abnormals_delight.kousa_pantry": "Кизиловая кладовая",
+  "block.abnormals_delight.aspen_pantry": "Осиновая кладовая",
+  "block.abnormals_delight.grimwood_pantry": "Кладовая из мрачного дерева",
+
+  "block.abnormals_delight.maple_pantry": "Кленовая кладовая",
+
+  "block.abnormals_delight.willow_pantry": "Ивовая кладовая",
+  "block.abnormals_delight.cherry_pantry": "Вишнёвая кладовая",
+  "block.abnormals_delight.wisteria_pantry": "Глициниевая кладовая",
+
+  "block.abnormals_delight.driftwood_pantry": "Плавниковая кладовая",
+  "block.abnormals_delight.river_pantry": "Кладовая из речного дерева",
+
+  "item.abnormals_delight.seared_venison": "Жареная оленина",
+  "item.abnormals_delight.passionfruit_glazed_duck": "Утка в глазури с маракуйей",
+  "item.abnormals_delight.dune_platter": "Блюдо дюны",
+  "item.abnormals_delight.escargot": "Улитка",
+
+  "item.abnormals_delight.duck_fillet": "Сырое утиное филе",
+  "item.abnormals_delight.cooked_duck_fillet": "Приготовленное утиное филе",
+  "item.abnormals_delight.venison_shanks": "Сырая оленина",
+  "item.abnormals_delight.cooked_venison_shanks": "Приготовленная оленина",
+  "item.abnormals_delight.pike_slice": "Сырой ломтик щуки",
+  "item.abnormals_delight.cooked_pike_slice": "Приготовленный ломтик щуки",
+  "item.abnormals_delight.perch_slice": "Сырой ломтик окуня",
+  "item.abnormals_delight.cooked_perch_slice": "Приготовленный ломтик окуня",
+
+  "item.abnormals_delight.vanilla_cake_slice": "Долька ванильного торта",
+  "item.abnormals_delight.chocolate_cake_slice": "Долька шоколадного торта",
+  "item.abnormals_delight.strawberry_cake_slice": "Долька клубничного торта",
+  "item.abnormals_delight.banana_cake_slice": "Долька бананового торта",
+  "item.abnormals_delight.mint_cake_slice": "Долька мятного торта",
+  "item.abnormals_delight.adzuki_cake_slice": "Долька адзукового торта",
+  "item.abnormals_delight.yucca_gateau_slice": "Долька торта из юкки"
+}

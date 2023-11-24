@@ -1,0 +1,74 @@
+# MISC
+skillable.misc.capped=MAX
+skillable.misc.skills=Скиллы
+skillable.misc.skillLock=Требования:
+skillable.misc.skillLockShift=Удерживайте SHIFT для требований
+skillable.misc.skillPoints=%d Очки скиллов
+skillable.misc.holdShift=Удерживайте SHIFT для описания
+skillable.misc.unlocked=Разблокировано!
+skillable.misc.itemLocked=Вы не соответсвуете требованиям для использования этого предмета
+skillable.misc.blockBreakLocked=Вы не соответсвуете требованиям чтобы сломать этот блок
+skillable.misc.blockUseLocked=Вы не соответсвуете требованиям чтобы использовать этот блок
+skillable.misc.armorEquipLocked=Вы не соответсвуете требованиям чтобы одеть эту броню
+ю
+# FORMATS
+skillable.misc.skillFormat=%s%d %s
+skillable.misc.achievementFormat=Продвижение: %s 
+
+# SKILL NAMES
+skillable.skill.mining=Майнер
+skillable.skill.gathering=Сбор
+skillable.skill.attack=Атака
+skillable.skill.defense=Защита
+skillable.skill.building=Строитель
+skillable.skill.farming=Ферма
+skillable.skill.agility=Ловкость
+skillable.skill.magic=Магия
+
+# UNLOCKABLE NAMES
+skillable.unlock.obsidian_smasher=Разгромитель Обсидиана
+skillable.unlock.obsidian_smasher.desc=Намного повышает скорость добычи обсидиана когда используешь алмазную кирку
+skillable.unlock.fossil_digger=Добытчик Ископаемых
+skillable.unlock.fossil_digger.desc=Добавляет маленький шанс добыть два угля за одну руду когда используешь железную кирку (без Шёлкового Касания)
+skillable.unlock.ore_cascade=Рудный Каскад
+skillable.unlock.ore_cascade.desc=Включаемое Умение: Добыча рудного блока приведет к тому, что вместо него будет добыта вся жила. Кирка потеряет прочность вдвойне
+skillable.unlock.lucky_fisherman=Удачливый Рыбак
+skillable.unlock.lucky_fisherman.desc=Удача во время рыбалки увеличивается
+skillable.unlock.drop_guarantee=Гарантия Дропа
+skillable.unlock.drop_guarantee.desc=Враждебные мобы будут всегда дропать свой лут (если возможно)
+skillable.unlock.neutralissse=Обезвреживание
+skillable.unlock.neutralissse.desc=Удар по криперу сразу после того, как он начнёт воспламеняться (шипеть), нейтрализует его на несколько секунд
+skillable.unlock.undershirt=Нижняя Рубашка
+skillable.unlock.undershirt.desc=Каждые 10 секунд смертельный удар, когда ваше здоровье превышает 3 сердца, оставит вам половину сердца вместо того, чтобы убить вас
+skillable.unlock.chorus_transmute=Хорусовая Трансмутация
+skillable.unlock.chorus_transmute.desc=Открывает возможность использования плодов хоруса в качестве агента трансмутации блоков, который преобразует одни блоки в другие
+skillable.unlock.perfect_recover=Идеальное Восстановление
+skillable.unlock.perfect_recover.desc=Блоки, которые дропают свои компоненты, как светокамень, всегда дропнут достаточно, чтобы восстановить их
+skillable.unlock.more_wheat=Большой Урожай
+skillable.unlock.more_wheat.desc=Добавляет маленький шанс собрать второй кусок пшеницы при сборе полностью выращеных посевов 
+skillable.unlock.green_thumb=Зелёный Палец
+skillable.unlock.green_thumb.desc=Растения вокруг игрока с этим умением растут быстрее
+skillable.unlock.roadwalk=Прогулка
+skillable.unlock.roadwalk.desc=Увеличивает вашу скорость передвижения по дорожке
+skillable.unlock.golden_osmosis=Золотой Осмос
+skillable.unlock.golden_osmosis.desc=Золотые вещи, когда взяты в руки, будут тратить XP игрока чтобы быстро починить себя
+skillable.unlock.sidestep=Уворот
+skillable.unlock.sidestep.desc=Двойное нажатие клавиш"влево"или"вправо" при движении назад и удержании клавиши спринта заставит вас отступить в этом направлении с небольшим КД
+skillable.unlock.safe_port=Безопасный Телепорт
+skillable.unlock.safe_port.desc=Телепортирование с помощью эндер жемчуга больше не ранит вас
+skillable.unlock.battle_spirit=Боевой дух
+skillable.unlock.battle_spirit.desc=Убийство монстра даст вам короткий бафф силы
+skillable.unlock.effect_twist=Твист эффектов
+skillable.unlock.effect_twist.desc=Будучи ударенным монстром, пока находишься под баффом, есть шанс что монстр получит противоположную версию этого бафа (дебафф)
+ 
+# RANK NAMES
+skillable.rank.0=Начинающий
+skillable.rank.1=Неопытный
+skillable.rank.2=Умелый
+skillable.rank.3=Адепт
+skillable.rank.4=Мастер
+
+# TAB NAMES
+skillable.tab.inventory=Инвентарь
+skillable.tab.skills=Скиллы
+skillable.tab.abilities=Умения

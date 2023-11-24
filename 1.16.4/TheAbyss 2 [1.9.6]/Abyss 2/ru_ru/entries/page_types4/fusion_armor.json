@@ -1,0 +1,47 @@
+{
+	"name": "Расплавленная Броня Бездны",
+	"icon": "theabyss:fusionarmor_chestplate",
+"category": "page_types4",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+
+		{
+			"type": "spotlight",
+			"item": "theabyss:fusionore",
+			"title": "Расплавленная Руда бездны",
+			"link_recipe":false,
+			"text": "высота: 2-10$(br)биом: Синий Лес,Синии Горы, Лес Слизней"
+		},
+		{
+			"type": "crafting",
+			"title": "Расплавленный Слиток Бездны",
+			"recipe": "theabyss:fusioningotrcp"
+		},
+		{
+			"type": "spotlight",
+			"item": "theabyss:fusioningot",
+			"title": "Расплавленная Руда Бездны",
+			"link_recipe":false,
+			"text": "чтобы получить активный расплавленный слиток вам нужно будет расплавить неактивный расплавленный слиток."
+		},
+		{
+			"type": "crafting",
+			"title": "Расплавленная Броня Бездны",
+			"recipe": "theabyss:fusionhelmetrcp",
+			"recipe2": "theabyss:fusionchestplatercp"
+
+		},
+		{
+			"type": "crafting",
+			"title": "Расплавленная Броня Бездны",
+			"recipe": "theabyss:fusionlegginsrcp",
+			"recipe2": "theabyss:fusionbootsrcp"
+
+		}
+	]
+}

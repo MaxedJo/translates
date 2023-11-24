@@ -1,0 +1,21 @@
+{
+	"name": "Обновления",
+	"icon": "minecraft:paper",
+	"category": "page_types3",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+	{
+		"type": "text",
+		"text": "обновления вы можете найти на curseforge mod. ваша версия theabysscp2_1.0.0_initial_release"
+	},
+	{
+		"type": "text",
+		"text": "здесь ничего...."
+	}
+	]
+}

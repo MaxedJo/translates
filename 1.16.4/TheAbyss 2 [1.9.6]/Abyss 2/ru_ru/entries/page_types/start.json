@@ -1,0 +1,47 @@
+{
+	"name": "Портал в Бездну",
+	"icon": "minecraft:paper",
+"category": "page_types",
+"advancement": "theabyss:unlockthebook",
+
+	"priority":false,
+	"secret":false,
+	"read_by_default":false,
+
+	"pages": [
+	{
+		"type": "text",
+		"text": "Бездна-это измерение, которое нужно исследовать, полное приключений и опасностей! Это измерение тьмы, единственный свет исходит от магических блоков и разнообразной флоры, грибов и фауны измерения."
+	},
+	{
+		"type": "multiblock",
+		"text": "следующая страница для рецептов.",
+		"name": "Портал в Бездну",
+		"multiblock": {
+			"pattern": [
+				["AAAA"],
+				["A  A"],
+				["A  A"],
+				["A 0A"],
+				["AAAA"]
+			],
+			"mapping": {
+				"A": "theabyss:abyssportalstone"
+			}
+		}
+	},
+	{
+		"type": "spotlight",
+		"item": "theabyss:loranflower",
+		"title": "Флора Лоран",
+		"link_recipe":false,
+		"text": "вам нужно будет найти несколько таких цветов, чтобы скрафтить нестабильный обсидиан."
+	},
+	{
+		"type": "crafting",
+		"title": "Портал в Бездну",
+		"recipe": "theabyss:portalstonerecipe",
+        "recipe2": "theabyss:igniterrecipe"
+	}
+	]
+}

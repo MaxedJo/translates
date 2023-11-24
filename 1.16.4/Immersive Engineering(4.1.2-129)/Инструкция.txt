@@ -1,0 +1,4 @@
+1.Зайти в папку Mods и найти мод Immersive Engineering и открыть в WinRAR.
+2.Зайти в папку assets потом в immersiveengineering потом в папку manual и ru_ru.
+3.Все Файты находящиеся в папку перекенуть в WinRAR.
+4.Готово теперь у вас полностью переведённая книга.

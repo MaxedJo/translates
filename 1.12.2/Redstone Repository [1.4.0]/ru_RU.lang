@@ -1,0 +1,88 @@
+#Creative Tab
+itemGroup.redstonerepository.creativeTab=Redstone Repository
+
+#Items
+item.redstonerepository.material.dustGelidEnderium.name=Гелиевая пыль эндериума
+item.redstonerepository.material.gearGelidEnderium.name=Гелиевая эндериумная шестерня
+item.redstonerepository.material.gemGelid.name=Гелиевый кристалл
+item.redstonerepository.material.ingotGelidEnderium.name=Гелиевый эндериумный слиток
+item.redstonerepository.material.nuggetGelidEnderium.name=Гелиевый кусочек эндериума
+item.redstonerepository.material.plateGelidEnderium.name=Гелиевая эндериумная пластина
+item.redstonerepository.material.plateArmorGelidEnderium.name=Гелиевая армированная эндериумная пластина
+item.redstonerepository.material.rodGelid.name=Гелиевый стержень
+item.redstonerepository.material.stringFluxed.name=Флаксовая нить
+tile.redstonerepository.storage.blockGelidEnderium.name=Гелиевый блок эндериума
+tile.redstonerepository.storage.blockGelidGem.name=Блок гелиевого кристалла
+
+#Equipment
+item.redstonerepository.bauble.capacitor.gelid.name=Гелиевое флаксовое хранилище (Амулет)
+item.redstonerepository.bauble.feeder.name=Эндоскопический гастростомайзер
+item.redstonerepository.bauble.ring.effect.name=Кольцо алхимического стазиса
+item.redstonerepository.bauble.ring.base.name=Гелиевое эндериумное кольцо 
+item.redstonerepository.bauble.ring.mining.name=Кольцо разрушительной стабилизации
+
+#Equipment Tooltip Titles
+info.redstonerepository.capacitor.title=Заряжает предметы в вашем инвентаре. Должен быть помещен в слот Baubles.
+info.redstonerepository.feeder.title=Автоматически восстанавливает чувство голода и насыщения при активации. Должен быть помещен в слот Baubles.
+info.redstonerepository.feeder.short=Безделушка для автоматического поедания еды.
+info.redstonerepository.ring.effect.title=Замораживает эффекты зелья на месте. Нет пути вперед, нет пути назад.
+info.redstonerepository.ring.mining.title=Cкорость добычи в воздухе не снижается.
+#Equipment Tooltip Various
+info.redstonerepository.ring.effect.disabled=Перегрев! Восстановление через: (%s) секунд.
+
+#Tools
+item.redstonerepository.tool.enderium.gelid.axe.name=Гелиевый резонирующий топор
+item.redstonerepository.tool.enderium.gelid.battlewrench.name=Гелиевый резонирующий боевой гаечный ключ
+item.redstonerepository.tool.enderium.gelid.pickaxe.name=Гелиевая резонирующая кирка
+item.redstonerepository.tool.enderium.gelid.shovel.name=Гелиевая резонирующая лопата
+item.redstonerepository.tool.enderium.gelid.sickle.name=Гелиевый резонирующий серп
+item.redstonerepository.tool.enderium.gelid.sword.name=Гелиевый резонирующий меч
+
+#Armor
+item.redstonerepository.armor.enderium.gelid.helm.name=Гелиевый резонирующий шлем
+item.redstonerepository.armor.enderium.gelid.chestplate.name=Гелиевая резонирующая кираса
+item.redstonerepository.armor.enderium.gelid.leggings.name=Гелиевые резонирующие поножи
+item.redstonerepository.armor.enderium.gelid.boots.name=Гелиевые резонирующие ботинки
+
+#General Tooltips
+info.redstonerepository.tooltip.getenergy=Заряд: %d / %d RF
+info.redstonerepository.tooltip.peruse=%d RF за использование
+info.redstonerepository.tooltip.perdamage=%d RF за повреждение
+info.redstonerepository.tooltip.extinguish=Нажмите %s, чтобы подавить
+info.redstonerepository.tooltip.empower=Нажмите %s, чтобы усилить
+info.redstonerepository.tooltip.damage=+%d Урон
+info.redstonerepository.tooltip.damage.flux=+%d Флаксовый урон
+info.redstonerepository.tooltip.durability=Прочность
+info.redstonerepository.tooltip.bound=Связанный блок:
+info.redstonerepository.tooltip.side=Вставить сторону:
+info.redstonerepository.tooltip.forDetails=для связанных деталей
+info.redstonerepository.tooltip.control=Control
+info.redstonerepository.tooltip.hold=Удерживать
+
+info.redstonerepository.tooltip.active=Сейчас %sactive%s. Нажмите (%s) держа в руке, чтобы выключить.
+info.redstonerepository.tooltip.disabled=Сейчас %sdisabled%s. Нажмите (%s) держа в руке, чтобы включить.
+
+info.redstonerepository.tooltip.bind=Удерживайте Shift и ПКМ, чтобы привязать инвентарь, когда это доступно
+info.redstonerepository.tooltip.notbound=Не привязан к инвентарю.
+
+info.redstonerepository.tooltip.lightning=Щелкните правой кнопкой мыши на блок, чтобы вызвать молнию
+info.redstonerepository.tooltip.clearskies=Удерживайте Shift и ПКМ, чтобы привязать инвентарь, когда это доступно
+
+#Chat Messages
+info.redstonerepository.chat.boundto.txt=Привязан к:
+info.redstonerepository.chat.unbound.txt=Предмет отвязан!
+
+#Config
+config.redstonerepository.title=Конфигурация Redstone Repository
+
+#Gui Tabs
+tab.redstonerepository.feeder.0=Это устройство автоматической подачи. Оно будет держать вашу пищу в порядке.
+tab.redstonerepository.feeder.1=Для получения очков голода (HP) требуются продукты питания.
+tab.redstonerepository.feeder.2=RF и HP потребляются, чтобы накормить вас.
+
+#Util
+info.redstonerepository.hungerPoints=Накопленные очки голода
+
+#Gui elements
+gui.redstonerepository.food.1=HP на единицу:
+gui.redstonerepository.food.2=Всего HP:

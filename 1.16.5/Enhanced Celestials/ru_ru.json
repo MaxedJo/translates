@@ -1,0 +1,12 @@
+{
+  "enhancedcelestials.commands.failed": "Не удалось установить лунное событие: %s",
+  "enhancedcelestials.commands.failed.requiresnight": "Установить время сумерек или ночь (значение дневного времени между 12000 и 24000) чтобы использовать эту команду. Текущее время %s",
+  "enhancedcelestials.commands.success.blood_moon": "Установить лунное событие \"Кровавая луна\"",
+  "enhancedcelestials.commands.success.default": "Установить лунное событие \"По умолчанию\"",
+  "enhancedcelestials.commands.success.harvest_moon": "Установить лунное событие \"Урожайная луна\"",
+  "enhancedcelestials.notification.blood_moon.rise": "\"Кровавая луна\" восходит...",
+  "enhancedcelestials.notification.blood_moon.set": "\"Кровавая луна\" заходит...",
+  "enhancedcelestials.notification.harvest_moon.rise": "\"Урожайная луна\" восходит...",
+  "enhancedcelestials.notification.harvest_moon.set": "\"Урожайная луна\" заходит...",
+  "enhancedcelestials.sleep.fail.blood_moon": "Вы не можете спать; текущее лунное событие \"Кровавая луна\""
+}

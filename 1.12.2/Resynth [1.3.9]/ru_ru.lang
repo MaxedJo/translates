@@ -1,0 +1,214 @@
+##########
+# BASICS #
+##########
+
+#Tabs
+itemGroup.resynth.tabResynth=Resynth
+itemGroup.resynth.tabResynthSeeds=Resynth: Семена
+itemGroup.resynth.tabResynthProduce=Resynth: Продукция
+
+#Blocks
+tile.resynth.blockMineralOre.name=Минеральный камень
+tile.resynth.blockMineralSoil.name=Минерально обогащенная почва
+tile.resynth.blockSeedPod.name=Мистический горшок для семян
+
+#Items
+item.resynth.itemMineralRock.name=Минеральный камень
+item.resynth.itemDenseMineralRock.name=Плотный минеральный камень
+item.resynth.itemMineralCrystal.name=Минеральный кристалл
+item.resynth.itemMineralHoe.name=Минеральная мотыга
+
+#Command
+command.resynth.usage:Prints the Resynth version number to the chat.
+
+############
+#  PLANTS  #
+############
+
+#Seed Items
+
+#Metallic seeds
+item.resynth.seedIron.name=Семена железа
+item.resynth.seedGold.name=Семена золота
+item.resynth.seedClay.name=Семена глины
+item.resynth.seedEnd.name=Семена эндерняка
+item.resynth.seedSand.name=Семена песка
+#Crystalline Seeds
+item.resynth.seedMineral.name=Семена минералов
+item.resynth.seedDiamond.name=Семена алмазов
+item.resynth.seedRedstone.name=Семена редстоуна
+item.resynth.seedLapis.name=Семена лазурита
+item.resynth.seedCoal.name=Семена угля
+item.resynth.seedEmerald.name=Семена изумруда
+item.resynth.seedQuartz.name=Семена кварца
+item.resynth.seedGlowstone.name=Семена светокамня
+#Biochemical Seeds
+item.resynth.seedEnderpearl.name=Семена жемчуга Эндера
+item.resynth.seedGunpowder.name=Семена пороха
+item.resynth.seedBlaze.name=Семена огненного стержня
+item.resynth.seedBone.name=Семена костей
+item.resynth.seedString.name=Семена ниток
+item.resynth.seedFeather.name=Семена перьев
+item.resynth.seedGhast.name=Семена гаста
+item.resynth.seedNetherstar.name=Семена звезды Незера
+item.resynth.seedSpidereye.name=Семена паучих глаз
+item.resynth.seedSlime.name=Семена слизней
+item.resynth.seedShulker.name=Семена шалкера
+item.resynth.seedInk.name=Семена чернил
+item.resynth.seedLeather.name=Семена кожи
+item.resynth.seedFlesh.name=Семена гнилой плоти
+item.resynth.seedPrismarineCrystal.name=Семена призмаринового кристалла
+item.resynth.seedPrismarineShard.name=Семена призмаринового осколка
+item.resynth.seedRabbitFoot.name=Семена кроличьей лапки
+item.resynth.seedDragonsBreath.name=Семена драконьего дыхания
+
+#Plant Blocks
+
+#Metallic plants
+tile.resynth.plantIron.name=Железное растение
+tile.resynth.plantGold.name=Золотое растение
+tile.resynth.plantClay.name=Глиняное растение
+tile.resynth.plantEnd.name=Растение эндерняка
+tile.resynth.plantSand.name=Песочное растение
+#Crystalline plants
+tile.resynth.plantMineral.name=Выращиваемый минерал
+tile.resynth.plantDiamond.name=Выращиваемый алмаз
+tile.resynth.plantRedstone.name=Выращиваемый редстоун
+tile.resynth.plantLapis.name=Выращиваемый лазурит
+tile.resynth.plantCoal.name=Выращиваемый уголь
+tile.resynth.plantEmerald.name=Выращиваемый изумруд
+tile.resynth.plantQuartz.name=Выращиваемый незер-кварц
+tile.resynth.plantGlowstone.name=Выращиваемый светокамень
+#Biochemical plants
+tile.resynth.plantEnderpearl.name=Цветок Эндер-жемчуга
+tile.resynth.plantGunpowder.name=Взрывной цветок
+tile.resynth.plantBlaze.name=Огненный цветок
+tile.resynth.plantBone.name=Костлявый цветок
+tile.resynth.plantString.name=Цветок с нитками
+tile.resynth.planLeather.name=Цветок с перьями
+tile.resynth.plantGhast.name=Плачущий цветок
+tile.resynth.plantNetherstar.name=Цветок звезды Незера
+tile.resynth.plantSpidereye.name=Цветок с глазами паука
+tile.resynth.plantSlime.name=Слизевый цветок
+tile.resynth.plantShulker.name=Шалкеровый цветок
+tile.resynth.plantInk.name=Чернильный цветок
+tile.resynth.plantLeather.name=Кожаный цветок
+tile.resynth.plantFlesh.name=Гнилой цветок
+tile.resynth.plantPrismarineCrystal.name=Кристально-призмариновый цветок
+tile.resynth.plantPrismarineShard.name=Цветок призмаринового осколка
+tile.resynth.plantRabbitFoot.name=Кроличий цветок
+tile.resynth.plantDragonsBreath.name=Драконий цветок
+
+#Organic Ores
+
+tile.resynth.oreIron.name=Органическое железо
+tile.resynth.oreGold.name=Органическое золото
+tile.resynth.oreClay.name=Органическая глина
+tile.resynth.oreEnd.name=Органический эндерняк
+tile.resynth.oreSand.name=Органический песок
+
+#Shard Produce
+
+item.resynth.produceMineral.name=Минеральный осколок
+item.resynth.produceDiamond.name=Алмазный осколок
+item.resynth.produceRedstone.name=Редстоуновый осколок
+item.resynth.produceLapis.name=Лазуритовый осколок
+item.resynth.produceCoal.name=Угольный осколок
+item.resynth.produceEmerald.name=Изумрудный осколок
+item.resynth.produceQuartz.name=Кварцевый осколок
+item.resynth.produceGlowstone.name=Светокаменный осколок
+
+#Bulb Produce
+
+item.resynth.mobproduceEnderpearl.name=Кусочек Эндер-жемчуга
+item.resynth.mobproduceGunpowder.name=Кучка пороха
+item.resynth.mobproduceBlaze.name=Кучка осязаемого огня
+item.resynth.mobproduceBone.name=Кусочек кости
+item.resynth.mobproduceString.name=Кусочек нитки
+item.resynth.mobproduceFeather.name=Кусочек пера
+item.resynth.mobproduceGhast.name=Кусочек слезы
+item.resynth.mobproduceNetherstar.name=Кусочек звезды Незера
+item.resynth.mobproduceSpidereye.name=Кусочек с глазами
+item.resynth.mobproduceSlime.name=Кусочек слизи
+item.resynth.mobproduceShulker.name=Кусочек шалкера
+item.resynth.mobproduceInk.name=Кучка чернил
+item.resynth.mobproduceLeather.name=Кусочек кожи
+item.resynth.mobproduceFlesh.name=Кусочек гнилой плоти
+item.resynth.mobproducePrismarineCrystal.name=Кусочек призмаринового кристалла
+item.resynth.mobproducePrismarineShard.name=Кусочек призмаринового осколка
+item.resynth.mobproduceRabbitFoot.name=Кусочек кроличьей лапки
+item.resynth.mobproduceDragonsBreath.name=Кучка драконьего дыхания
+
+###################
+#    MOD PLANTS   #
+###################
+
+#Applied Energistics 2
+item.resynth.seedAe2Quartz.name=Семена истинного кварца
+tile.resynth.plantAe2Quartz.name=Цветок истинного кварца
+item.resynth.produceAe2Quartz.name=Осколок истинного кварца
+
+#Forestry
+item.resynth.seedForestryApatite.name=Apatite Seeds
+tile.resynth.plantForestryApatite.name=Apatite Patch
+item.resynth.produceForestryApatite.name=Apatite Shard
+
+#Tinkers' Construct
+item.resynth.seedCobalt.name=Cobalt Seeds
+tile.resynth.plantCobalt.name=Cobalt Plant
+tile.resynth.oreCobalt.name=Organic Cobalt Ore
+
+item.resynth.seedArdite.name=Ardite Seeds
+tile.resynth.plantArdite.name=Ardite Plant
+tile.resynth.oreArdite.name=Organic Ardite Ore
+
+#Thermal Foundation/Thermal Expansion
+item.resynth.seedCopper.name=Copper Seeds
+tile.resynth.plantCopper.name=Copper Plant
+tile.resynth.oreCopper.name=Organic Copper Ore
+
+item.resynth.seedTin.name=Tin Seeds
+tile.resynth.plantTin.name=Tin Plant
+tile.resynth.oreTin.name=Organic Tin Ore
+
+item.resynth.seedSilver.name=Silver Seeds
+tile.resynth.plantSilver.name=Silver Plant
+tile.resynth.oreSilver.name=Organic Silver Ore
+
+item.resynth.seedLead.name=Lead Seeds
+tile.resynth.plantLead.name=Lead Plant
+tile.resynth.oreLead.name=Organic Lead Ore
+
+item.resynth.seedAluminum.name=Aluminum Seeds
+tile.resynth.plantAluminum.name=Aluminum Plant
+tile.resynth.oreAluminum.name=Organic Aluminum Ore
+
+item.resynth.seedNickel.name=Nickel Seeds
+tile.resynth.plantNickel.name=Nickel Plant
+tile.resynth.oreNickel.name=Organic Nickel Ore
+
+item.resynth.seedLead.name=Lead Seeds
+tile.resynth.plantLead.name=Lead Plant
+tile.resynth.oreLead.name=Organic Lead Ore
+
+item.resynth.seedPlatinum.name=Platinum Seeds
+tile.resynth.plantPlatinum.name=Platinum Plant
+tile.resynth.orePlatinum.name=Organic Platinum Ore
+
+item.resynth.seedIridium.name=Iridium Seeds
+tile.resynth.plantIridium.name=Iridium Plant
+tile.resynth.oreIridium.name=Organic Iridium Ore
+
+item.resynth.seedMana.name=Mana Infused Seeds
+tile.resynth.plantMana.name=Mana Infused Plant
+tile.resynth.oreMana.name=Organic Mana Infused Ore
+
+#Exreme Reactors (Formally Big Reactors)
+item.resynth.seedYellorite.name=Yellorite Seeds
+tile.resynth.plantYellorite.name=Yellorite Plant
+tile.resynth.oreYellorite.name=Organic Yellorite Ore
+
+#Draconic Evolution
+item.resynth.seedDraconium.name=Дракониевые семена
+tile.resynth.plantDraconium.name=Дракониевое растение
+item.resynth.produceDraconium.name=Дракониевый осколок
