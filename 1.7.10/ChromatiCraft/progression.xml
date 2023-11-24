@@ -11,1094 +11,1094 @@
 <progression>
 	<crystals>
 		<title>
-			Tangible Energy
+			Материальная энергия
 		</title>
 		<hint>
-			Crystal energy is mostly an ethereal, intagible force. However, when concentrated, it may have a physical manifestation.
+			Кристальная энергия состоит из эфира, поэтому неощутима человеком. Однако, при высокой концентрации, образует структуры, похожие на кристаллы.
 		</hint>
 		<reveal>
-			Sure enough, you have found places where crystal energy has coalesced and formed regular, glassy formations, ones that radiate the effects of their element.
+			Эти кристаллы, по видимому, излучают энергию своего типа, благодаря которой вы получаете тот или иной эффект.
 		</reveal>
 		<desc>
-			Underground crystals of energy, radiating the effect of their element
+			Подземные кристаллы, излучающие энергию и эффекты.
 		</desc>
 	</crystals>
 	<casting>
 		<title>
-			Fabrication
+			Крафт
 		</title>
 		<hint>
-			Surely the wooden crafting table is not sufficient to do all your crafting.
+			Обычный верстак не подходит для создания магических предметов.
 		</hint>
 		<reveal>
-			As expected, to perform feats more complex than making a wooden box to store your items, you needed to create a special more magically-sound table.
+			Для более сложных магических крафтов понадобится создать новый, на кристальной основе.
 		</reveal>
 		<desc>
-			To create anything remotely magical, you needed a dedicated, magically-capable table on which to do it
+			Для создания чего-то хотя бы отдалённо магического, понадобится кристальный верстак.
 		</desc>
 	</casting>
 	<dyetree>
 		<title>
-			Technicolor Trees
+			Цветные деревья
 		</title>
 		<hint>
-			These trees seem to come in all sorts of colors; you wonder if there is something special about them.
+			Похоже, эти деревья бывают всех цветов радуги. Интересно, чем они отличаются от обычных?
 		</hint>
 		<reveal>
-			Well, they seem to drop berries and dyes of their color, so that has to count for something...
+			Итак, на них растут ягоды, а на листьях большое количество раскрошенного красителя. Интересно, что бы это могло значить...
 		</reveal>
 		<desc>
-			Trees, likely magical, of every color, and which drop not only saplings but dyes and berries
+			На этих, возможно магических, деревьях растут ягоды и появляется много красителя.
 		</desc>
 	</dyetree>
 	<multiblock>
 		<title>
-			More Complex Crafting
+			Усложнённый крафтинг
 		</title>
 		<hint>
-			The more complex ideas you have could not possibly be pulled off with only nine constituent items...
+			Чем сложнее предметы вы придумываете, тем больше понимаете, что 9 слотов для компонентов - очень мало.
 		</hint>
 		<reveal>
-			Sure enough, the 5x5 afforded by the item stands is what you need.
+			Используя дополнительные пьедесталы, вы добились сетки 5x5
 		</reveal>
 		<desc>
-			Using item stands has allowed you to expand the complexity of your crafting recipes
+			Пьедесталы расширяют сетку крафта до 25 слотов.
 		</desc>
 	</multiblock>
 	<runeuse>
 		<title>
-			Weak Magical Foci
+			Слабый фокус
 		</title>
 		<hint>
-			You may not be able to harness the power of the pylons yet, but these may make a milder alternative, allowing you to enhance your crafting capabilities.
+			Пока что вы не можете обуздать силу пилонов, но для создания магических предметов уже требуется некоторое количество энергии. Необходимо создать промежуточный вариант.
 		</hint>
 		<reveal>
-			That they do, allowing you to make items more infused with energy than simple stone.
+			Руны работают как небольшой фокусировщик энергии их цвета.
 		</reveal>
 		<desc>
-			The beginnings of harnessing crystal energy, allowing you to enhance your crafting
+			Начало обуздания кристальной энергии.
 		</desc>
 	</runeuse>
 	<pylon>
 		<title>
-			Energy Beacons
+			Энергетический маяк
 		</title>
 		<hint>
-			Glowing and radiant, what are these?
+			Ярко светятся и излучают энергию... Что это может быть?
 		</hint>
 		<reveal>
-			Some sort of an energy beacon...probably a good idea to remember that.
+			Какой-то... Энергетический излучатель...? Надо запомнить.
 		</reveal>
 		<desc>
-			A source of crystal energy, almost dangerously powerful and of incalculable value
+			Источник кристальной энергии. Имеет неисчислимый запас энергии и очень опасен.
 		</desc>
 	</pylon>
 	<link>
 		<title>
-			Top-tier Crafting
+			Высший крафт
 		</title>
 		<hint>
-			Finally you can harness the pylons, but how to put it to use?
+			Наконец, вы обуздали силу пилонов.
 		</hint>
 		<reveal>
-			Channeling all that energy directly into the table has allowed you to construct devices from your wildest imagination.
+			Фокусировка и направление кристальной энергии непосредственно в магический верстак, позволяет создавать непостижимые уму вещи.
 		</reveal>
 		<desc>
-			Crafting with lumen energy allows for the creation of powerful constructs
+			Использование люменов в крафте, позволяет создавать очень мощные конструкции.
 		</desc>
 	</link>
 	<charge>
 		<title>
-			Energy Internalization
+			Интернализация энергии
 		</title>
 		<hint>
-			If the pylons and trees can store energy, maybe you can too...
+			Если пилоны и деревья могут хранить энергию, то может и вы сможете?
 		</hint>
 		<reveal>
-			Turns out you can, though the acquisition process is more dangerous than is enjoyable.
+			Оказывается, это так, однако сбор энергии - не самое безопасное дело.
 		</reveal>
 		<desc>
-			Collecting energy in oneself to...do something
+			Концентрирование энергии для... чего-то.
 		</desc>
 	</charge>
 	<ability>
 		<title>
-			Personal Enhancement
+			Самозачарование
 		</title>
 		<hint>
-			Machines you can upgrade. Tools you can enchant. Yourself?
+			Механизмы можно улучшать, предметы зачаровывать, что насчёт себя?
 		</hint>
 		<reveal>
-			A new set of rituals has given you abilities of great utility.
+			Некоторый набор ритуалов открывает новые, полезные способности.
 		</reveal>
 		<desc>
-			Various powers and abilities offer huge potential
+			У этих навыков большой потенциал.
 		</desc>
 	</ability>
 	<rainbowleaf>
 		<title>
-			Magical Trees
+			Магические деревья
 		</title>
 		<hint>
-			ТЕст?
+			Разноцветные деревья - это ещё нормально, но ЭТО?
 		</hint>
 		<reveal>
-			The raw magic energy in this tree is palpable, not to mention behind the impressive visual display.
+			Энергия внутри этого дерева явно ощутима, не говоря уже о впечатляющем визуале.
 		</reveal>
 		<desc>
-			A giant tree of iridescent hue. It surely has magic power that you can only imagine
+			Гигантское разноцветное дерево. Очевидно, хранит огромное количество энергии.
 		</desc>
 	</rainbowleaf>
 	<makechroma>
 		<title>
-			Magic Liquid
+			Магическая жидкость
 		</title>
 		<hint>
-			A collector, but of what, and from what?
+			Коллектор, но чего? И откуда?
 		</hint>
 		<reveal>
-			Experience can be converted to a mysterious magic fluid. Surely that will have uses.
+			Опыт может быть преобразован в неизвестную жидкость. Она, определённо, пригодится вам в будущем.
 		</reveal>
 		<desc>
-			A distilled essence of experience, or magic, with as-yet unknown purpose
+			Дистиллированный опыт, с всё ещё неизвестным применением.
 		</desc>
 	</makechroma>
 	<shardcharge>
 		<title>
-			Enriching Solvent
+			Обогащение растворителя
 		</title>
 		<hint>
-			The liquid is pulsing and throbbing with raw magical energy. You wonder what its effects are...
+			Эта жидкость светится и пульсирует от переизбытка энергии. Интересно, что бы это могло значить?
 		</hint>
 		<reveal>
-			Dissolving berries in the chroma allows it to greatly boost the magic energy found in the crystal shards.
+			Раствор тех магических ягод в хроме позволяет наполнить и улучшить осколок кристалла.
 		</reveal>
 		<desc>
-			Enhancing the power of a crystal shard with elemental energy distilled from the trees
+			Наполнение кристалла энергией деревьев.
 		</desc>
 	</shardcharge>
 	<chroma>
 		<title>
-			Liquid Effects
+			Хроматические эффекты
 		</title>
 		<hint>
-			Liquid chroma has already proven itself a solvent for items tossed in. What else might happen?
+			Жидкая хрома уже показала себя как отличный магический растворитель. Какие ещё тайны она хранит?
 		</hint>
 		<reveal>
-			Stepping in it yourself seemed to do little - though you do feel a bit rejuvenated - but its power to enrich materials is not insignificant.
+			Эффект, оказываемый этой жидкостью на тело человека не очень значителен: вы чувствуете себя слегка "обновлённым".
 		</reveal>
 		<desc>
-			This liquid has enriching power, and you have only scratched the surface
+			Эта жидкость имеет обогащающие, "обновляющие" свойства.
 		</desc>
 	</chroma>
 	<alloy>
 		<title>
-			Magic Alloying
+			Магические сплавы
 		</title>
 		<hint>
-			What about mundane materials, perhaps with other materials mixed in?
+			Что, если смешать разные материалы в один?
 		</hint>
 		<reveal>
-			The chroma dissolves those materials, infusing the mundane materials with a great deal of energy.
+			Ответ один: хрома растворит их, наполнит энергией и сольёт воедино.
 		</reveal>
 		<desc>
-			The creation of magical materials with the enriching power of liquid chroma
+			Создание магических материалов, наполненных хроматической энергией.
 		</desc>
 	</alloy>
 	<stones>
 		<title>
-			Unity of the Elements
+			Единство элементов
 		</title>
 		<hint>
-			What effect does combining all the different elements have?
+			Что будет, если соединить все элементы в одном кристалле?
 		</hint>
 		<reveal>
-			This gemstone throbs will all the colors of energy. That will surely prove useful.
+			Этот кристалл сияет всеми цветами радуги. Он определённо ещё пригодится.
 		</reveal>
 		<desc>
-			A complete collection of the crystal elements into a gem
+			Полная коллекция элементов в одном кристалле.
 		</desc>
 	</stones>
 	<shock>
 		<title>
-			Damaging Discharge
+			Энергетический разряд
 		</title>
 		<hint>
-			Pylons seem friendly...are they?
+			Этот пилон кажется безопасным...
 		</hint>
 		<reveal>
-			If your idea of "friendly" is a discharge to the face...
+			...если под безопасностью подразумевать молнию в лицо.
 		</reveal>
 		<desc>
-			Proximity to a crystal pylon, at least for now, is clearly undesirable
+			Пока что, лучше не подходить к пилонам ближе чем на 10 блоков.
 		</desc>
 	</shock>
 	<nether>
 		<title>
-			The Evil Realm
+			Царство тьмы
 		</title>
 		<hint>
-			You need some other way below that unyielding rock...
+			Нужен другой способ пройти через этот неразрушимый камень...
 		</hint>
 		<reveal>
-			So those stories of obsidian portals leading to a fiery nightmare are true...
+			Оказалось, те истории об обсидиановых порталах, ведущих в царство кошмаров - чистая правда.
 		</reveal>
 		<desc>
-			A hostile, unpleasant world of lava, red rock, and nightmarish creatures
+			Враждебный, ужасный мир, полный лавы, красного камня и кошмарных созданий.
 		</desc>
 	</nether>
 	<end>
 		<title>
-			The Alien Realm
+			Чужой мир
 		</title>
 		<hint>
-			Surely nothing could be more alien than that land of lava, glowing stalactites, and flying jellyfish...
+			Ничего не может быть страннее, чем мир, полный лавы, светящихся сталактитов и летающих медуз.
 		</hint>
 		<reveal>
-			Apparently it can.
+			Определённо может.
 		</reveal>
 		<desc>
-			A...strange world suspended in the void, ruled by an aggressive dragon
+			Странный... остров, летающий в пустоте и управляемый явно враждебным драконом.
 		</desc>
 	</end>
 	<twilight>
 		<title>
-			The Forested Realm
+			Лесное царство
 		</title>
 		<hint>
-			Legends tell of a different plane, covered in thick forests, with giant towers and buried mazes.
+			В легендах часто говорят о неизвестном мире, покрытом дремучими лесами, усеянном огромными башнями и подземными лабиринтами.
 		</hint>
 		<reveal>
-			Not only does this realm exist, but it teems with unique creatures and is plentiful with treasure.
+			Мало того, что этот мир действительно существует, он полон сокровищ.
 		</reveal>
 		<desc>
-			A mystical forest dotted with massive structures and strange creatures
+			Мистический лес, усеянный большими структурами и странными созданиями.
 		</desc>
 	</twilight>
 	<bedrock>
 		<title>
-			World Floor
+			Дно Земли
 		</title>
 		<hint>
-			Is it possible to dig too deep?
+			Возможно ли докопаться до самого низа?
 		</hint>
 		<reveal>
-			Maybe, but that layer of rock below seems impenetrable.
+			Возможно, но слой бедрока кажется неразрушимым.
 		</reveal>
 		<desc>
-			An unyielding barrier to those who attempt to dig downwards
+			Неразрушимый барьер для тех, кто попытается пройти слишком глубоко.
 		</desc>
 	</bedrock>
 	<cavern>
 		<title>
-			Buried Hollows
+			Погребённая святыня
 		</title>
 		<hint>
-			Surely many treasures lie underground.
+			Какие подземные сокровища таят пещеры?
 		</hint>
 		<reveal>
-			Buried deep in the rock, these crystal-rich cavities hold further intrigue.
+			Для чего же нужны эти закопанные святыни, богатые кристаллами?
 		</reveal>
 		<desc>
-			A buried room, populated with crystals and some random loot
+			Закопанная комната, богатая лутом и кристаллами.
 		</desc>
 	</cavern>
 	<burrow>
 		<title>
-			Secret Burrows
+			Секретные бункеры
 		</title>
 		<hint>
-			Patches of light dot the night landscape; some are explainable as lava or fire, but not all...
+			Гуляя ночью, можно заметить свет в далеке. Чаще всего, это огонь или лава, реже - деревня, но всегда ли?
 		</hint>
 		<reveal>
-			Upon closer inspection, you found hidden burrows stocked with goods, but for who?
+			Вы нашли спрятанную нору - бункер с полезными предметами, но для кого?
 		</reveal>
 		<desc>
-			A small burrow, with a handful of starter items
+			Небольшая норка с примитивным лутом внутри.
 		</desc>
 	</burrow>
 	<ocean>
 		<title>
-			Ocean Temples
+			Морской храм
 		</title>
 		<hint>
-			Stories abound of strange structures left in the deepest parts of the ocean.
+			Вы слышали много историй о странных сооружениях на дне океана.
 		</hint>
 		<reveal>
-			True stories, it seems. If only they warned of the danger...
+			Похоже, истории - правда. Если бы только они говорили что-то об опасности...
 		</reveal>
 		<desc>
-			A large submerged structure which is more complex than it first appears
+			Большая подводная структура, которая сложнее, чем кажется на первый взгляд.
 		</desc>
 	</ocean>
 	<desertstruct>
 		<title>
-			Sandy Burrows
+			Песчаная нора
 		</title>
 		<hint>
-			Aside from the rare (and explosive) pyramids, do deserts hold other secrets?
+			Хранит ли пустыня в себе ещё какие-нибудь секреты, помимо редких взрывающихся храмов?
 		</hint>
 		<reveal>
-			They do indeed, and their riches eclipse most others.
+			Да, хранят. И их богатства затмевают остальные подобные данжи.
 		</reveal>
 		<desc>
-			A subsurface hollow, filled with loot but also danger
+			Подземная норка, полная драгоценностей и опасности.
 		</desc>
 	</desertstruct>
 	<snowstruct>
 		<title>
-			Snowy Outposts
+			Снежный аванпост
 		</title>
 		<hint>
-			Snow and ice as far as the eye can see, and yet there remain things to find.
+			Вы уверены, что в зимнем биоме есть что-то помимо бесконечного льда и снега.
 		</hint>
 		<reveal>
-			Including, it seems, long-abandoned outposts holding...something.
+			Вы нашли старый, давно заброшенный аванпост, в котором, возможно, ещё осталось что-то ценное.
 		</reveal>
 		<desc>
-			A rich discovery in a desolate arctic wasteland
+			Большая находка в пустыне арктической суши.
 		</desc>
 	</snowstruct>
 	<die>
 		<title>
-			Painful Loss
+			Болезненная потеря
 		</title>
 		<hint>
-			You lose your items when you die; what happens to your knowledge?
+			Вы теряете свои предметы при смерти, что случится со знаниями?
 		</hint>
 		<reveal>
-			Lost too. Ouch.
+			Тоже теряются. Ай.
 		</reveal>
 		<desc>
-			Like your items, your knowledge and energy is also lost upon your demise
+			Как и предметы, ваши знания и энергия тоже теряются при смерти.
 		</desc>
 	</die>
 	<allcolors>
 		<title>
-			Elemental Awareness
+			Осознание элементов
 		</title>
 		<hint>
-			Red, Green, Blue, Orange, how many are there?
+			Красный, зелёный, синий, оранжевый. Насколько их много?
 		</hint>
 		<reveal>
-			You have identified sixteen, each with a unique color and symbolic icon.
+			Вы нашли 16 элементов. Каждый имеет свой цвет, значение и символ.
 		</reveal>
 		<desc>
-			Sixteen colors, sixteen forms of energy, each tuned to a specific property
+			16 цветов, 16 видов энергии, каждый имеет своё свойство.
 		</desc>
 	</allcolors>
 	<repeater>
 		<title>
-			Broadcasting
+			Передача
 		</title>
 		<hint>
-			You need a better way to transfer lumen energy from the pylons to your base.
+			Необходимо придумать более подходящий способ передачи люменов к вашей базе.
 		</hint>
 		<reveal>
-			These refractors of a sort seem to be able to reconcentrate and repeat the signal.
+			Эти отражатели могут фокусировать и направлять энергию.
 		</reveal>
 		<desc>
-			A more refined and effective form of lumen transmission
+			Самый простой и эффективный способ передавать энергию.
 		</desc>
 	</repeater>
 	<rainbowforest>
 		<title>
-			Magical Forests
+			Магические леса
 		</title>
 		<hint>
-			You have heard rumors of forests populated with those brightly colored trees as far as the eye can see...
+			Ходят слухи, что где-то в мире существуют огромные леса, полностью состоящие из разноцветных деревьев.
 		</hint>
 		<reveal>
-			Not only do such forests exist, but they also teem with animals and plants, and the magic keeps hostile forces at bay.
+			Они не только существуют, они наполнены разнообразными растенями и животными. Их особенность - держать враждебных мобов подальше от себя. Что бы это могла значить?
 		</reveal>
 		<desc>
-			A magic forest, full of multicolored trees and with significant power to keep evil away
+			Магический лес, полный разноцветных деревьев. Имеет интересную особенность: не подпускает враждебных мобов.
 		</desc>
 	</rainbowforest>
 	<glowcliffs>
 		<title>
-			Glowing Terraces
+			Светящиеся террасы
 		</title>
 		<hint>
-			Are all the magical areas in this world forests? Might there be rare exceptions?
+			Все ли волшебные области в этом мире - леса? Могут ли быть редкие исключения?
 		</hint>
 		<reveal>
-			Every level of this strange new place seems to contain novel phenomena, resources, or flora.
+			Каждый уровень этого странного нового места, кажется, содержит новые явления, ресурсы или флору.
 		</reveal>
 		<desc>
-			Large terraced cliffs, with a distinctly unusual ambience
+			Большие террасированные скалы с явно необычной атмосферой
 		</desc>
 	</glowcliffs>
 	<dimension>
 		<title>
-			Other Worlds
+			Другой мир
 		</title>
 		<hint>
-			You have been to several other worlds, each stranger than the last...could there be more?
+			Вы посетили множество миров, отличных от вашего. Вопрос в том, есть ли ещё?
 		</hint>
 		<reveal>
-			There are indeed, but this one...is different.
+			Определённо да, но этот какой-то... иной.
 		</reveal>
 		<desc>
-			A new world...strange, yet peaceful and serene. And vibrantly hued
+			Новый мир... Странный... Тихий и спокойный... Ярко окрашен.
 		</desc>
 	</dimension>
 	<ctm>
 		<title>
-			Restoration
+			Восстановление
 		</title>
 		<hint>
-			A ruined structure. Scattered pieces.
+			Разрушенная структура, куски разбросаны.
 		</hint>
 		<reveal>
-			The reward for completing and restoring the monument must be large.
+			Награда за восстановление монумента должна быть просто огромна.
 		</reveal>
 		<desc>
-			Completing the ruined monument, with surely significant reward
+			Разрушенный монумент. За восстановление должна быть значимая награда.
 		</desc>
 	</ctm>
 	<storage>
 		<title>
-			Lumen Storage
+			Хранилище энергии
 		</title>
 		<hint>
-			Some constructs need to be moved around, making repeater-based power difficult. Is there an alternative?
+			Некоторые конструкции нужно переносить, поэтому возникает проблема с энергией. Может, передатчикам найдётся алтернатива?
 		</hint>
 		<reveal>
-			Fortunately, you have found out how to store energy in a crystal matrix for exactly this purpose.
+			К счастью, вы нашли способ хранить энергию в кристалле, который перенести намного легче.
 		</reveal>
 		<desc>
-			Storing energy in a crystal for easy mobility
+			Хранение энергии в легко перемещаемом кристалле.
 		</desc>
 	</storage>
 	<balllightning>
 		<title>
-			Orbs of Energy
+			Сферы энергии
 		</title>
 		<hint>
-			Pylons and some trees seem to spawn odd balls of energy.
+			Пилоны (а также некоторые деревья) похоже создают некоторые сферы концентрированной энергии.
 		</hint>
 		<reveal>
-			They do not seem particularly useful, but at least they are not obviously dangerous.
+			Они не то что бы полезны, но хотя бы не представляют опасности.
 		</reveal>
 		<desc>
-			A glowing, moving clump of energy that seems to be animated on its own
+			Светящийся клочок энергии, двигающийся в случайную сторону.
 		</desc>
 	</balllightning>
 	<powercrystal>
 		<title>
-			Recharge
+			Перезарядка
 		</title>
 		<hint>
-			Pylons drain too quickly for intensive use, and take too long to recharge.
+			Пилоны быстро истощаются, и слишком долго перезаряжаются.
 		</hint>
 		<reveal>
-			That ring of iridescent crystals dramatically helps.
+			Кольцо усиливающих кристаллов значительно сокращает время перезарядки.
 		</reveal>
 		<desc>
-			Upgrading a pylon with a ring of eight power crystals massively improves its energy recovery
+			Если улучшить пилон 8 кристаллами, время его перезарядки значительно сократится.
 		</desc>
 	</powercrystal>
 	<killdragon>
 		<title>
-			Aerial Predator
+			Летучий хищник
 		</title>
 		<hint>
-			The static sky is empty...save for a massive dragon.
+			Пустое небо... если не считать дракона.
 		</hint>
 		<reveal>
-			Killing it has revealed yet more of the world to you.
+			Убийство раскрыло вам глаза.
 		</reveal>
 		<desc>
-			A giant, hostile dragon whose destruction gives both physical and conceptual reward
+			Огромный страшный дракон, за убийство которого положена значительная награда.
 		</desc>
 	</killdragon>
 	<findspawner>
 		<title>
-			Endless Mobs
+			Бесконечные зомби
 		</title>
 		<hint>
-			What is that strange flaming box?
+			Что это за странная горящая... коробка?
 		</hint>
 		<reveal>
-			A construct of some malevolent origin, a source for an interminable stream of creatures.
+			Тёмная конструкция, источник бесконечного потока враждебных созданий.
 		</reveal>
 		<desc>
-			Strange metal boxes that release infinite numbers of monsters
+			Странные металлические коробки выпускают бесконечное количество монстров.
 		</desc>
 	</findspawner>
 	<breakspawner>
 		<title>
-			Stopping the Torrent
+			Конец бесконечности
 		</title>
 		<hint>
-			These metal cages spew forth endless creatures...how to put an end to it?
+			Как остановить бесконечный поток монстров из этой чертовой клетки?
 		</hint>
 		<reveal>
-			The only way to stop them is to destroy them...for now.
+			Пока что единственный способ это сделать... уничтожить клетку.
 		</reveal>
 		<desc>
-			Destroying a spawner not only stops the flood of creatures, but also lets you better understand, and maybe even harvest it
+			Уничтожение спаунера останавливает поток монстров.
 		</desc>
 	</breakspawner>
 	<killwither>
 		<title>
-			Eldritch Nightmare
+			Жуткий кошмар
 		</title>
 		<hint>
-			Four soul sand. Three wither skulls. What could this possibly be useful for?
+			Четыре песка душ, три черепа иссушителя. Для чего?
 		</hint>
 		<reveal>
-			An undead monstrosity, though its loot proved useful.
+			Мёртвое чудовище. С полезным дропом.
 		</reveal>
 		<desc>
-			A nightmarish creature which drops a mysterious but obviously valuable star
+			Кошмарное создание, хранящее необычную, но явно ценную звезду.
 		</desc>
 	</killwither>
 	<hive>
 		<title>
-			Crystal Hives
+			Кристальные улья
 		</title>
 		<hint>
-			Can bees live in the darkness of underground caves?
+			Могут ли пчёлы жить в темноте пещер?
 		</hint>
 		<reveal>
-			Yes, they can, and not only that, but they take on the effect of nearby cave crystals.
+			Да, не только жить, но и как-то воздействовать на ближайшие кристаллы.
 		</reveal>
 		<desc>
-			Underground, crystalline hives full of uniquely adapted bees
+			Подземные улья, полные уникальных пчёл.
 		</desc>
 	</hive>
 	<killmob>
 		<title>
-			Monster Slayer
+			Охотник на монстров
 		</title>
 		<hint>
-			Certain creatures prove vicious, and will need to be dealt with.
+			Некоторые существа окажутся не столь добрыми, вам придётся иметь с ними дело.
 		</hint>
 		<reveal>
-			Conveniently, they drop useful items when killed.
+			Зато из них выпадают полезные предметы.
 		</reveal>
 		<desc>
-			Killing various creatures, especially hostile ones, drops an assortment of useful items
+			Уничтожение мобов, особенно злых, часто даёт полезные и нужные предметы.
 		</desc>
 	</killmob>
 	<allcores>
 		<title>
-			Dimensional Cores
+			Ядра измерений
 		</title>
 		<hint>
-			They come in various colors...what are they for?
+			Бывают разных цветов. Но для чего они?
 		</hint>
 		<reveal>
-			I have all sixteen...maybe these are for that monument I need to repair...
+			У меня есть все 16. Но для чего? Может, они нужны для того монумента...
 		</reveal>
 		<desc>
-			Collecting all sixteen glowing orbs, for some unified purpose
+			Сбор 16 ядер для чего-то большего.
 		</desc>
 	</allcores>
 	<turbocharge>
 		<title>
-			Pylon Turbocharging
+			Турбозаряд
 		</title>
 		<hint>
-			This should be possible...if somewhat violent.
+			Это возможно... хотя и немного грубо.
 		</hint>
 		<reveal>
-			More so than expected, but also far more valuable.
+			Результат превзошёл ожидания, но разве это плохо?
 		</reveal>
 		<desc>
-			Greatly enhancing the power of a crystal pylon
+			Существенное увеличение мощности пилона.
 		</desc>
 	</turbocharge>
 	<useenergy>
 		<title>
-			Lumen Harnessing
+			Обуздание энергии
 		</title>
 		<hint>
-			If pylons are a source of energy, does that mean they can be used?
+			Если пилоны - источник некой энергии, то возможно ли её как-то использовать?
 		</hint>
 		<reveal>
-			Yes, and the myriad constructs powered by them offer great utility.
+			Да, многие конструкции требуют кристальную энергию для работы.
 		</reveal>
 		<desc>
-			Relaying the signal from a crystal pylon allows for feasible use of their energy
+			Передача энергии пилонов открывает новые горизонты в изучении этого мира.
 		</desc>
 	</useenergy>
 	<structcomplete>
 		<title>
-			Unusual Structures
+			Необычные структуры
 		</title>
 		<hint>
-			Large structures dot the volatile realm. What lies deep inside them?
+			Иногда в этом мире непостоянства встречаются огромные структуры. Какие тайны они скрывают?
 		</hint>
 		<reveal>
-			A glowing core, tuned to one of the crystal colors. Interesting...
+			Сияющее ядро, окрашенное в один из кристальных цветов.
 		</reveal>
 		<desc>
-			Completing the task in the strange construction, and being consequently rewarded
+			Задания в странной конструкции дадут высокую награду.
 		</desc>
 	</structcomplete>
 	<netherroof>
 		<title>
-			A second layer
+			Второй слой
 		</title>
 		<hint>
-			The evil realm seems capped. Is the cap impenetrable?
+			Похоже, ад тоже покрыт бедроком, только сверху. Интересно, он тоже неломаемый?
 		</hint>
 		<reveal>
-			No, and further mysteries await for those who venture into it.
+			Нет. И похоже, вы не первый, кто попал туда.
 		</reveal>
 		<desc>
-			Getting above the impassable layer at the top of the Nether
+			Пройдите через непроходимый камень над адом.
 		</desc>
 	</netherroof>
 	<netherstruct>
 		<title>
-			Ominous Constructions
+			Зловещие конструкции
 		</title>
 		<hint>
-			Strange things dot and cross the Nether roof.
+			Странные конструкции разбросаны по поверхности ада.
 		</hint>
 		<reveal>
-			Some even contain useful clues.
+			В некоторых даже удаётся найти полезные вещи.
 		</reveal>
 		<desc>
-			Finding the secrets buried in the Nether
+			Секреты, спрятанные на "крыше" ада.
 		</desc>
 	</netherstruct>
 	<villagecasting>
 		<title>
-			A...less than honorable attempt
+			Не... самая плохая попытка
 		</title>
 		<hint>
-			Are you the only one to have tried to learn these magic forces?
+			Неужели вы единственный, кто попытался обуздать кристальную магию?
 		</hint>
 		<reveal>
-			No, but the others who tried have clearly been about as smart as a piece of flint.
+			Нет, но похоже у остальных IQ как у гравия.
 		</reveal>
 		<desc>
-			The villagers have tried - and abjectly failed - to learn to manipulate crystal energy.
+			Жители попытались (и провалились) обуздать кристальную энергию.
 		</desc>
 	</villagecasting>
 	<anystruct>
 		<title>
-			Buried Ruins
+			Руины
 		</title>
 		<hint>
-			From cobblestone squares to ancient mines, it appears some have come before you; have they left anything else?
+			От подземелий до заброшенных шахт. Похоже, вы далеко не первый в этом мире. Интересно, оставили ли они что-то после себя?
 		</hint>
 		<reveal>
-			Yes, including their attempts to learn the same things you now attempt.
+			Да. И похоже, они тоже пытались понять те вещи, что вы пытаетесь понять сейчас.
 		</reveal>
 		<desc>
-			Buried structures, clearly of artificial origin
+			Структуры, явно не искусственного происхождения.
 		</desc>
 	</anystruct>
 	<focuscrystal>
 		<title>
-			Refractory Gems
+			Отражающий кристалл
 		</title>
 		<hint>
-			You have thought of a way to increase the power of your fabrication constructs, but what to use as a refractor?
+			Вы нашли способ улучшить магический верстак, но что использовать как отражатель?
 		</hint>
 		<reveal>
-			Who would have thought THEY had found the key...
+			Кто бы мог подумать, что ОНИ нашли ответ?
 		</reveal>
 		<desc>
-			Crude 'refining' of emeralds into a useful construct
+			Переработка изумрудов в отражатели.
 		</desc>
 	</focuscrystal>
 	<artefact>
 		<title>
-			Mysterious Relics
+			Мифическая реликвия
 		</title>
 		<hint>
-			All around the world linger remnants of...something.
+			По всему миру разбросаны осколки... какой-то штуки.
 		</hint>
 		<reveal>
-			Including particularly mysterious - and dangerous - ones found in certain regions.
+			Странные и опасные, появляются в... специальных местах.
 		</reveal>
 		<desc>
-			A strange buried artifact, surely possessing secrets
+			Странный, закопанный артефакт, таящий немало секретов.
 		</desc>
 	</artefact>
 	<tower>
 		<title>
-			Glowing Towers
+			Сияющие башни
 		</title>
 		<hint>
-			The pylons are not the only luminous constructs you find around the world.
+			Пилоны - не просто светящиеся штуки, разбросанные повсюду.
 		</hint>
 		<reveal>
-			The purpose these obelisks serve is a entirely unknown, but they must be key to something.
+			Для чего они созданы - неизвестно, но вы уверены, что они ещё пригодятся вам.
 		</reveal>
 		<desc>
-			An ancient structure, topped with a luminescent...something.
+			Древняя структура, над которой светится... что-то.
 		</desc>
 	</tower>
 	<blowrepeater>
 		<title>
-			Lumen Overload
+			Перегрузка
 		</title>
 		<hint>
-			These wooden lumen foci seem to work quite well...
+			Деревянные передатчики, похоже, работают...
 		</hint>
 		<reveal>
-			...Except when they explode trying.
+			...пока не взорвутся.
 		</reveal>
 		<desc>
-			Wood and chroma repeaters might have been a mistake
+			Деревянные передатчики оказались большой ошибкой.
 		</desc>
 	</blowrepeater>
 	<chargecrystal>
 		<title>
-			Lumen Storage II
+			Хранилище энергии II
 		</title>
 		<hint>
-			A storage crystal is little more than a pretty rock without a way to put the energy into it.
+			Энергетический кристалл - не более чем красивый камень, если его нельзя зарядить энергией.
 		</hint>
 		<reveal>
-			As is usual, a simple problem has a simple - and spinny - solution.
+			Как обычно, нужно просто "раскрутить" проблему.
 		</reveal>
 		<desc>
-			Putting energy into a storage crystal
+			Зарядка энергетического кристалла.
 		</desc>
 	</chargecrystal>
 	<structcheat>
 		<title>
-			Finding a shortcut
+			Короткий путь
 		</title>
 		<hint>
-			You may have the means to attempt to bypass the strange structures you find.
+			Возможно, есть способ "сломать систему", то есть "обойти" эти структуры?
 		</hint>
 		<reveal>
-			With disastrous results. Whoever designed those structures is clearly more resourceful than you are.
+			Определённо нет.
 		</reveal>
 		<desc>
-			Or not.
+			Или нет.
 		</desc>
 	</structcheat>
 	<voidmonster>
 		<title>
-			A distortion below the world
+			Искажение под миром
 		</title>
 		<hint>
-			Exactly what that thing is, remains unknown.
+			До сих пор неизвестно, что это.
 		</hint>
 		<reveal>
-			Some sort of foreboding corruption of reality.
+			Похоже на искажение самой реальности.
 		</reveal>
 		<desc>
-			A corruption of reality itself
+			Само искажение реальности.
 		</desc>
 	</voidmonster>
 	<voidmonsterdie>
 		<title>
-			Contact with the corruption
+			Знакомство с искажением
 		</title>
 		<hint>
-			What could possibly go wrong?
+			Что может пойти не так?
 		</hint>
 		<reveal>
-			That thing must now be destroyed after what it has done to you.
+			После всего того, что эта штука сотворила с вами, она должна быть уничтожена.
 		</reveal>
 		<desc>
-			Death by amorphous evil
+			Аморфная смерть.
 		</desc>
 	</voidmonsterdie>
 	<luma>
 		<title>
-			Ethereal Luma
+			Эфирная люма
 		</title>
 		<hint>
-			Some essence...of...something?
+			Какая-то... эссенция. Но чего?
 		</hint>
 		<reveal>
-			The essence of the void, of space, as well as lumen energy.
+			Подобно кристальной энергии, это эссенция пустоты, пространства.
 		</reveal>
 		<desc>
-			A liquid of both energy and space
+			Энергетическая, пространственная жидкость.
 		</desc>
 	</luma>
 	<warpnode>
 		<title>
-			Energy Vortices
+			Червоточина
 		</title>
 		<hint>
-			Some sort of hole in space.
+			Дыра в пространстве...
 		</hint>
 		<reveal>
-			Which may provide a method to travel between them.
+			...через которые можно путешествовать.
 		</reveal>
 		<desc>
-			Wormholes of a sort
+			Кротовая нора, своего рода.
 		</desc>
 	</warpnode>
 	<powertree>
 		<title>
-			Stockpiling Energy
+			Накопление энергии
 		</title>
 		<hint>
-			A construct which has the ability to draw lumens into itself...for what?
+			Конструкция, способная накапливать большое количество энергии... но зачем?
 		</hint>
 		<reveal>
-			Apparently to act as a large buffer or storage.
+			Очевидно, чтобы быть хранилищем.
 		</reveal>
 		<desc>
-			Arboriform Battery
+			Древеснообразная батарея.
 		</desc>
 	</powertree>
 	<tunecast>
 		<title>
-			Casting Personalization
+			Магическая печать
 		</title>
 		<hint>
-			How to imprint yourself onto your casting structure?
+			Что, если связать себя с магическим столом?
 		</hint>
 		<reveal>
-			That should have been rather obvious in hindsight.
+			Это же так очевидно!
 		</reveal>
 		<desc>
-			Linking your crafting to your person
+			Игрок и верстак.
 		</desc>
 	</tunecast>
 	<bypassweak>
 		<title>
-			Retroactive Recognition
+			Обратное предсказание
 		</title>
 		<hint>
-			This particular design seems somewhat familiar, and not in a good way.
+			Оно кажется знакомым... не в самом хорошем смысле.
 		</hint>
 		<reveal>
-			Prediction of upcoming mistakes enables you to avoid them altogether.
+			Предсказав предстоящую катастрофу, вы сможете её избежать.
 		</reveal>
 		<desc>
-			Spotting disaster before it strikes
+			Предсказание катастрофы.
 		</desc>
 	</bypassweak>
 	<infuse>
 		<title>
-			Resourceful Experience
+			Ценный опыт
 		</title>
 		<hint>
-			Can one even combine such disparate things as items, liquids, and players?
+			Возможно ли соединить три таких разных вещи, как предмет, жидкость и игрок?
 		</hint>
 		<reveal>
-			As with most things, all it took was the proper construct.
+			Как всегда, для этого потребуется новая структура.
 		</reveal>
 		<desc>
-			Imbuing one energy into another
+			Наполнение энергии другой энергией.
 		</desc>
 	</infuse>
 	<pylonlink>
 		<title>
-			Energy Interconnection
+			Энергетическое связывание.
 		</title>
 		<hint>
-			You can connect one pylon to a network, but that still leaves all the others...
+			Что, если подключить несколько пилонов одного цвета к одной сети?
 		</hint>
 		<reveal>
-			Linking them together makes for a much larger energy pool and recharge rate.
+			Связывание пилонов увеличивает количество доступной энергии и уменьшает время перезарядки.
 		</reveal>
 		<desc>
-			A way to make use of multiple pylons per color
+			Использование пилонов одного цвета.
 		</desc>
 	</pylonlink>
 	<relays>
 		<title>
-			Compact Transmission
+			Компактный передатчик
 		</title>
 		<hint>
-			Not all constructs are amenable to normal energy transfer, being used indoors or in large numbers.
+			Не ко всем конструкциям, получается провести большой передатчик.
 		</hint>
 		<reveal>
-			Fortunately, they seem to be receptive to a scaled-down and more orthogonal method of conduction.
+			К счастью, вы нашли менее эффективный, но более компактный способ передачи энергии.
 		</reveal>
 		<desc>
-			Transmitting energy in confined spaces
+			Передача энергии в замкнутых пространствах.
 		</desc>
 	</relays>
 	<energyidea>
 		<title>
-			Refined Transmission
+			Совершенный передатчик
 		</title>
 		<hint>
-			Wood and chroma repeaters are of marginal quality.
+			Деревянные передатчики - полный провал, нужно искать замену.
 		</hint>
 		<reveal>
-			And these crystals surely hold the key to something better.
+			Эти кристаллы - ключ к совершенному.
 		</reveal>
 		<desc>
-			Insight into lumen transmission
+			Идеальный способ передачи.
 		</desc>
 	</energyidea>
 	<node>
 		<title>
-			Energy Inlet
+			Вход энергии
 		</title>
 		<hint>
-			Where does this aspect-based energy originate?
+			Откуда берется эта аспектная энергия?
 		</hint>
 		<reveal>
-			That remains unknown, but it leaks in via tiny holes.
+			Это остается неизвестным, но она просачивается через крошечные отверстия.
 		</reveal>
 		<desc>
-			A source of unusual energy
+			Источник необычной энергии
 		</desc>
 	</node>
 	<potion>
 		<title>
-			Ambient Effects
+			Эффекты окружения
 		</title>
 		<hint>
-			Can I improve my various powers, without tools?
+			Могу ли я улучшить свои различные способности без инструментов?
 		</hint>
 		<reveal>
-			Yes, and this may only be the start.
+			Да, и это может быть только началом.
 		</reveal>
 		<desc>
-			Augmenting personal capabilities
+			Увеличение личных возможностей
 		</desc>
 	</potion>
 	<mine>
 		<title>
-			Resource Acquisition
+			Приобретение ресурсов
 		</title>
 		<hint>
-			Where can I find the raw materials to begin?
+			Где я могу найти сырье для начала?
 		</hint>
 		<reveal>
-			Many different ores populate the world.
+			В мире много разных руд.
 		</reveal>
 		<desc>
-			The source of many of the raw materials.
+			Источник многих видов сырья.
 		</desc>
 	</mine>
 	<deepcave>
 		<title>
-			Lower Layers
+			Нижние слои
 		</title>
 		<hint>
-			Cave systems seem to extend far below the surface.
+			Системы пещер, похоже, простираются далеко под поверхностью.
 		</hint>
 		<reveal>
-			The deeper I go, the more exotic the things I find.
+			Чем глубже я погружаюсь, тем более экзотические вещи нахожу.
 		</reveal>
 		<desc>
-			Venturing ever deeper
+			Погружаемся все глубже
 		</desc>
 	</deepcave>
 	<harvest>
 		<title>
-			Crop Collection
+			Сбор урожая
 		</title>
 		<hint>
-			Some materials are mined, and others grown.
+			Некоторые материалы добываются, а другие выращиваются.
 		</hint>
 		<reveal>
-			The latter includes a wide variety.
+			Последнее включает в себя большое разнообразие.
 		</reveal>
 		<desc>
-			Producing resources on demand
+			Производство ресурсов по требованию
 		</desc>
 	</harvest>
 	<myst>
 		<title>
-			A Scripted World
+			Мир по сценарию
 		</title>
 		<hint>
-			I can create worlds out of words.
+			Я могу создавать миры из слов.
 		</hint>
 		<reveal>
-			And these words describe novel features and resources.
+			И эти слова описывают новые возможности и ресурсы.
 		</reveal>
 		<desc>
-			Constructed by a story
+			Сконструировано по сюжету
 		</desc>
 	</myst>
 	<biomestruct>
 		<title>
-			An Abandoned Puzzle
+			Заброшенная головоломка
 		</title>
 		<hint>
-			What might be found in the more magically-attuned biomes?
+			Что можно найти в биомах, более магически настроенных?
 		</hint>
 		<reveal>
-			A structure that once completed, contains far more riches than any other so far.
+			Сооружение, которое после завершения содержит гораздо больше богатств, чем любое другое на данный момент.
 		</reveal>
 		<desc>
-			A structure in a magic forest, locked down behind tests of skill
+			Сооружение в волшебном лесу, закрытое для проверки навыков
 		</desc>
 	</biomestruct>
 	<farlands>
 		<title>
-			Outer Regions
+			Внешние области
 		</title>
 		<hint>
-			Is this world the same forever?
+			Этот мир всегда будет таким же?
 		</hint>
 		<reveal>
-			No, areas distant from the entry point contain novel formations, materials, and...others.
+			Нет, области, удаленные от точки входа, содержат новые образования, материалы и... прочее.
 		</reveal>
 		<desc>
-			New areas in a new world
+			Новые области в новом мире
 		</desc>
 	</farlands>
 	<mudhint>
 		<title>
-			Magical Residue
+			Магический остаток
 		</title>
 		<hint>
-			Can magical materials be found naturally? What happens when large amounts congregate? Does this stuff break down over time?
+			Можно ли найти магические материалы естественным путем? Что происходит, когда скапливается большое количество? Разрушается ли это вещество со временем?
 		</hint>
 		<reveal>
-			The debris falling off of rainbow trees accumulates and creates a muddy substance below.
+			Обломки, падающие с радужных деревьев, накапливаются и образуют мутную субстанцию внизу.
 		</reveal>
 		<desc>
-			Residue of magical substances
+			Остатки магических веществ
 		</desc>
 	</mudhint>
 	<name>
 		<title>
-			
+
 		</title>
 		<hint>
-			
+
 		</hint>
 		<reveal>
-			
+
 		</reveal>
 		<desc>
-			
+
 		</desc>
 	</name>
 	<name>
 		<title>
-			
+
 		</title>
 		<hint>
-			
+
 		</hint>
 		<reveal>
-			
+
 		</reveal>
 		<desc>
-			
+
 		</desc>
 	</name>
 	<name>
 		<title>
-			
+
 		</title>
 		<hint>
-			
+
 		</hint>
 		<reveal>
-			
+
 		</reveal>
 		<desc>
-			
+
 		</desc>
 	</name>
 </progression>

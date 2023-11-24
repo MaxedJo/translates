@@ -10,51 +10,51 @@
 <?xml version="1.0"?>
 <elements>
 	<black>
-		%s energy seems to be something of a base for the others; to that end, it is best associated with magic itself.
+		%s. Чёрная энергия является некой основой для всего остального - чистой магией.
 	</black>
 	<red>
-		%s, when applied, gives protective and defensive capabilities.
+		%s. Красная энергия определённо имеет защищающие свойства.
 	</red>
 	<green>
-		Energy of the %s type emanates from nature, from living things.
+		%s. Зелёная энергия связана с природой и её свойствами.
 	</green>
 	<brown>
-		The earth, on the other hand, seems primarily composed of %s, which permeates the rock and ground.
+		%s. Коричневая энергия ассоциируется с землёй и камнем.
 	</brown>
 	<blue>
-		%s glows, banishing the darkness, so it must be the element of light.
+		%s. Синяя энергия являет элемент света.
 	</blue>
 	<purple>
-		Rather than being a clear force of its own, %s is an interesting case; it seems more attuned to enhancing and boosting the power of the others than giving its own effects, but it is likely capable of transferring that enhancement to other things as well.
+		%s. Фиолетовая энергия не являет собой какую-то силу. Она, скорее, улучшает, ускоряет всё вокруг.
 	</purple>
 	<cyan>
-		Not surprisingly, %s is fluid, and associated with liquids and fluid flow.
+		%s. Бирюзовая энергия, неудивительно, представляет воду и другие жидкости.
 	</cyan>
 	<lightgray>
-		%s is similar visually to %s, so it is little wonder then that it is the element most seen associated with surprise and deception.
+		%s. Светло-серая энергия обозначает неправду и ложь.
 	</lightgray>
 	<gray>
-		The most neutral color of all, %s is unsurprisingly associated with flux, with change.
+		%s. Серый цвет обозначает изменения, перемены.
 	</gray>
 	<pink>
-		Palpably hostile, %s is tangible from hostile mobs and similar sources, making it the element of strength and aggression.
+		%s. Розовый ассоциируется у вас с агрессией.
 	</pink>
 	<lime>
-		%s can be felt to move, to pulse, making it a clear candidate for energy associated with movement and mobility.
+		%s. Лаймовая энергия заметно активнее остальных, поэтому ассоциируется с движением.
 	</lime>
 	<yellow>
-		%s radiates power, so it is clearly the element of raw energy.
+		%s. Жёлтая энергия ощутимо излучает какую-то силу, поэтому ассоциируется с энергией.
 	</yellow>
 	<lightblue>
-		Creating all sorts of distortions around it, %s energy is clearly capable of manipulating time and its passage.
+		%s. Голубая энергия создаёт заметные искажения вокруг себя, поэтому ассоциируется с временем.
 	</lightblue>
 	<magenta>
-		%s has the power to heal, making it likely to be the element associated with life itself.
+		%s. Пурпурная энергия ассоциируется с жизнью, регенерацией.
 	</magenta>
 	<orange>
-		Not very surprisingly, %s energy is warm, even hot, and is a core component of things like lava and fire.
+		%s. Неудивительно, но оранжевая энергия ассоциируется с теплом и жаром, поэтому является ключевой составляющей огня и лавы.
 	</orange>
 	<white>
-		%s ties together all the other colors, and unifies them into a coherent harmony, making it the purest of them all.
+		%s. Белая энергия связывает воедино все остальные виды энергии и является самой чистой и всех.
 	</white>
 </elements>

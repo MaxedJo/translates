@@ -10,129 +10,129 @@
 <?xml version="1.0"?>
 <hover>
 	<crystals>
-		Concentrated crystal energy; seems to radiate weak effects related with the associated element. Fragile and not easily moved.
+		Концентрированная кристальная энергия. Людям, находящимся рядом, даёт эффект, связанный с его цветом. Довольно хрупкий.
 	</crystals>
 	<pylon>
-		A powerful emitter of crystal energy. You are likely to need these later on.
+		Мощный излучатель кристальной энергии. Возможно, они понадобятся вам в будущем.
 	</pylon>
 	<rune>
-		Runes seem to be able to act as weak foci for crystal energy of their color.
+		Руны, похоже, имеют способность слегка фокусировать кристальную энергию.
 	</rune>
 	<ore_infused>
-		Seams of energy run through this rock; its contents are likely useful in your endeavours.
+		Энергия пронизывает этот камень. Похоже, он содержит что-то ценное.
 	</ore_infused>
 	<ore_stones>
-		Embedded in the stone appears to be a different kind of rock, one which glows with energy.
+		Этот камень светится от избытка энергии.
 	</ore_stones>
 	<ore_binding>
-		Fossilized crystals, fused together. Their color long since gone, they no longer contain energy but may be a good substrate.
+		Окаменелые сросшиеся кристаллы, которые уже давно потеряли цвет. В них больше нет энергии, но они могут стать основой для чего-то большего.
 	</ore_binding>
 	<ore_focal>
-		Glowing an angry red, this rock may well have the capability to act as a lens for crystal energy.
+		Ярко-красный... У него явно есть потенциал к фокусированию. Может, удастся сделать из него линзу.
 	</ore_focal>
 	<ore_teleport>
-		The similarity between the color of these gems and the color of an ender pearl is probably no coincidence.
+		Эта руда очень похожа на жемчуг эндера. Совпадение? Не думаю.
 	</ore_teleport>
 	<ore_watery>
-		Watery in both color and texture, the powder from this rock is probably imbued with the essence of fluidity.
+		И цветом, и текстурой напоминает воду... Эссенция воды?
 	</ore_watery>
 	<ore_firaxite>
-		Palpably warm, Firaxite must be associated with heat energy.
+		Довольно горячий. Фираксит, возможно, представляет эссенцию огня.
 	</ore_firaxite>
 	<ore_luma>
-		Glowing brightly, the contents of this stone no doubt enhance the power of lumen transmission.
+		Ярко сияет... У этого кристалла есть явный потенциал к передаче энергии.
 	</ore_luma>
 	<ore_echo>
-		Vibrations pass back and forth through this rock; harnessing them might become a priority.
+		Этот камень... вибрирует? Интересно, возможно ли извлечь из этого какую-то пользу?
 	</ore_echo>
 	<ore_firestone>
-		Buried deep in the nether, it is no surprise the gems in this rock are almost painfully hot.
+		Закопан глубоко в незере. Неудивительно, что он настолько горячий.
 	</ore_firestone>
 	<ore_thermite>
-		This rock is barely able to contain the energy within. Maybe if released it could act as a powerful emitter.
+		Этот камень почти неспособен хранить энергию, но легко её пропускает. Может, получится использовать его как излучатель.
 	</ore_thermite>
 	<ore_reso>
-		These pulsing crystals might hold the secret to warping space itself.
+		Пульсируют. Эти кристаллы имеют большой потенциал к воздействию на мир... на более глубоком уровне.
 	</ore_reso>
 	<ore_spacerift>
-		This material might provide a key to being able to relocate oneself at will.
+		Этот материал  - ключ к открытию телепортации.
 	</ore_spacerift>
 	<ore_rainbow>
-		Refractory gems are embedded in this stone. Maybe they can be used to help focus the energy from pylons.
+		Эти кристаллы довольно стойкие. Может, получится использовать их для фокусировки энергии.
 	</ore_rainbow>
 	<ore_avolite>
-		These crystals glow with energy. They can probably act as a reservoir for it.
+		Эти кристаллы могут хранить огромное количество энергии. Может, использовать их как хранилище?
 	</ore_avolite>
 	<plant_flower>
-		This gently glowing flower seems to weakly radiate energy; if extracted, its contents likely are crucial in maintaining an aura.
+		Мягко светится, слегка излучает энергию. Вероятно, его экстракт будет полезен для защиты ауры.
 	</plant_flower>
 	<plant_cave>
-		Sparkling in the dark, there is something cleansing about the essence of this plant.
+		Искрится в темноте. По-видимому, имеет очищающее свойство.
 	</plant_cave>
 	<plant_lily>
-		This lily throbs will all colors of energy; perhaps its extracts could be used as a sort of unifier.
+		Переливается всеми цветами радуги. Экстракт, похоже, можно использовать как некий "объединитель" разных видов энергии.
 	</plant_lily>
 	<plant_bulb>
-		Hanging from the underside of leaves, these bulbs are filled with a magical dust of unknown nature.
+		Чаще всего находятся с обратной стороны листа. Эти луковицы наполнены порошком неизвестного происхождения.
 	</plant_bulb>
 	<plant_desert>
-		This bush gives off a powerful aura - no doubt it will be critical in constructing beacons of your own.
+		Сильная аура... Пригодится для создания маяка.
 	</plant_desert>
 	<plant_pod>
-		This pod is full of gently glowing beans. Likely not a foodstuff, it may well have other uses.
+		Этот кокон полон сверкающих бобов. Вряд ли их можно есть, но может получится найти им другое использование.
 	</plant_pod>
 	<plant_root>
-		This root strengthens and enriches the tree on which it grows. Perhaps you can put it to a similar use.
+		Этот корень усиливает и обогащает дерево, на котором растёт. Может, получится использовать его для усиление чего-то ещё.
 	</plant_root>
 	<rainbowleaf>
-		Never before have you seen a tree like this. With leaves of every color of the rainbow, there must be more to this tree than meets the eye.
+		Никогда не видел подобных деревьев. Листья всех цветов радуги определённо намекают, что дерево таит куда больше, чем кажется.
 	</rainbowleaf>
 	<flower_enderflower>
-		The growth pattern of these flowers - literally jumping from location to location - is no doubt a hint to their utility.
+		Эти цветы расположены не как остальные. Может, это намёк на их использование?
 	</flower_enderflower>
 	<flower_lumalily>
-		It can surely be no coincidence that these flowers, found in the frozen climates, are icy and bind things together.
+		Эти цветы растут в ледяных биомах и предназначены для объединения вещей. Совпадение?
 	</flower_lumalily>
 	<flower_resoclover>
-		The energetic sparks surrounding this plant offer a clue as to the usefulness of their internals.
+		Искрятся... Интересно, почему?
 	</flower_resoclover>
 	<flower_sanobloom>
-		High atop the jungle canopy, these berries might be useful in combination with another form of berry...
+		Растут высоко в джунглях. А что, если смешать их с другими ягодами?
 	</flower_sanobloom>
 	<flower_voidreed>
-		Looking into the gentle aura given off by these reeds gives you a sense of vertigo and space.
+		Наблюдение за аурой этого растения вызывает чувство свободы и умопомрачения.
 	</flower_voidreed>
 	<flower_flowivy>
-		Growing like a weed, this fast-spreading ivy is almost nature incarnate.
+		Растёт как сорняк. Этот плющ просто воплощение природы.
 	</flower_flowivy>
 	<flower_glowdaisy>
-		Lighting the floor underneath the cliffs, these glowing flowers sparkle, and may serve as more than mere decoration.
+		Искрятся у подножья скалы. Может, получится использовать их как что-то большее, чем просто декорация.
 	</flower_glowdaisy>
 	<flower_glowroot>
-		Hanging down from the rock above, these vines both light the darkness and occasionally drop seeds which have...interesting effects on nearby plant life.
+		Свисают со скалы и иногда сбрасывают семяна, которые оказывают... необычное воздействие на окружающую среду.
 	</flower_glowroot>
 	<dyeleaf>
-		Brightly hued leaves cover this tree, and it appears that berries sprout from the twigs.
+		Дерево покрыто ярко окрашенной листвой. Из веток, кажется, прорастают ягоды.
 	</dyeleaf>
 	<dyeflower>
 	
 	</dyeflower>
 	<dimensioncore>
-		Vibrantly hued and energetically luminous, this...thing is of obvious value.
+		Ярко светится... Эта штука явно ценная.
 	</dimensioncore>
 	<hive>
-		A beehive. Underground. In that case, the bees inside are probably somewhat unusual, and perhaps even valuable. One would expect that a fabric cup would not exactly suffice for obtaining it.
+		Улей. Подземный. Такая редкость должна быть ценной. Обычный сачок тут бессилен.
 	</hive>
 	<dimbedrock>
-		Digging down normally brings feelings of dread, but in this world you feel peace; What else might be different about the bottom of this world?
+		Спуск в пещеру обычно сопровождается страхом, но здесь вы чувствуете покой. Здесь всё... иначе.
 	</dimbedrock>
 	<mud>
-		Residual traces of liquid, weakly radiating the magic energy it contains. Unfortunately, it is thoroughly contaminated by the large amounts of random debris it has absorbed from the local foliage and cannot be harvested or used.
+		Остаточные следы жидкости, слабо излучающие содержащуюся в ней магическую энергию. К сожалению, он полностью загрязнен большим количеством случайного мусора, который он поглотил из местной листвы, и его невозможно собрать или использовать.
 	</mud>
 	<name>
-	
+
 	</name>
 	<name>
-	
+
 	</name>
 </hover>

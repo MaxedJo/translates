@@ -11,36 +11,36 @@
 <researches>
 	<warpproof>
 		<page0>
-			You are starting to lose your mind. Between nightmares of eldritch creatures that prove too real for comfort to the fact your very presence brings an evil aura, the consequences of dabbling in the darker aspects of magic have driven you to the edge. In a last-ditch effort to regain your sanity, you hope to harness another, brighter and altogether more benevolent set of magic forces to drive away your demons. However, the final step will still need to use that infernal altar that gave you these problems in the first place. One can only hope this works, as it is your last chance...
+			Вы начинаете терять рассудок. Кошмары стали слишком реальными. Само ваше присутсвие оказывает негативное воздействие на ауру вокруг. Ваша последняя попытка вернуть себе рассудок - использовать более чистую магию, чтобы хотя бы чуть-чуть искоренить зло внутри вас. Однако вам всё ещё понадобится использовать тот чёртов алтарь, что принёс вам все эти проблемы. Остаётся лишь надеятся, что это сработает...
 		</page0>
 	</warpproof>
 	<tieredorecap>
 		<page0>
-			Two long-running themes in your pursuits are the quest for ever greater levels of power and your increasingly severe unwillingness to expend your resources to attain that power. So what better than a new capstone material for your wand, one that cuts the cost of usage by an enormous factor? Differently-tuned materials will yield different discounts, and if you can manage to unify all of them, something truly special would be possible.
+			Ваши главные цели - это власть и экономия ресурсов, для достижения этой самой власти. Вы планируете создать наконечник для палочки, который сократит затраты аспектов до минимума. Как вы знаете, каждый ресурс имеет свой эффект. Если объединить их, то должно получится что-то по-настоящему особенное.
 		</page0>
 		<page1>
-			You should at this point be familiar enough with the various materials to guess which aspects will be improved by what material, and you can probably expect to fully halve the cost of the use of those aspects. Other aspects might see a smaller benefit as well, probably on the order of a one-fifth reduction.
+			На этом этапе вы, скорее всего, достаточно знакомы со всеми аспектами, чтобы понять, какой материал сокращает использование того или иного аспекта. Ожидается, что наконечник снизит использование некоторых аспектов вдвое.
 		</page1>
 	</tieredorecap>
 	<rod_crystalwand>
 		<page0>
-			Be it your material reserves, your power storage, your food supply, or, as now, your wand capacity, it is never enough. The once-seemingly-vast hundred or two vis you managed to pack into a white wooden stick now show how small they truly are. Recalling your experiences with iridescent crystal and its amplification power on the Crystal Pylons, you wonder if you can find another use. It might even gain other special powers from doing so. Besides, what is the worst that could happen?
+			Будь то ресурсы, энергия или запасы еды, всё когда-нибудь кончается. Казавшихся огромными 100 или 200 вис, которые вы уместили в жезл, теперь не хватает. Вспоминая переливающиеся кристаллы, которые вы использовали для усиления пилона, вы задаётесь вопросом, возможно ли использовать их как стержень жезла? Стоит попробовать, хуже ведь не будет.
 		</page0>
 	</rod_crystalwand>
 	<manipfocus>
 		<page0>
-			Near every kind of construct you deal with has its own kind of tool to tune it; the machinery in your base alone has mandated four kinds of wrenches, two hammers, and a screwdriver. Magical constructs are no exception, with one set requiring what amounts to crystals on a stick, another being petals on a stick, and another...metals on a stick. The last of these can accept upgrades that add some kind of function, from throwing fire to making your friend unable to remove random blocks from their base. Given this, as well as the fact that you have found out a way to imprint one such upgrade with one of your wrench variants, you might be able to replicate that with at least one of your other magical manipulation tools.
+			Почти любые механизмы на вашей базе требуют универсального инструмента для настройки. Магические конструкции - не исключение. Палочка с лепестками, палочка с кристаллами, палочка с металлом. Последнюю, к слову, можно модифицировать набалдажником, так почему бы не вшить эфирный манипулятор прямо в неё?
 		</page0>
 	</manipfocus>
 	<pylonwanding>
 		<page0>
-			One thing that has become [i]painfully[/i] obvious to you is how much of a hassle it can be to recharge your wand. Sure, the process sounds simple enough - find a node, stick your wand in it, and wait a few seconds - but that simplicity belies some very real headaches. First and foremost, nodes are rare and their locations are generally unpredictable (though you have noticed some patterns in that forest with giant pink trees and fire-spitting quadrupeds); this means that finding more than a handful is a tedious undertaking, and even when you do find one, making use of it involves a long walk to the middle of nowhere. Then you have the fact that while your wand capacities are ever 
+			Одна вещь, которая стала [i] до боли [/i] очевидной для вас, - это то, насколько хлопотной может быть перезарядка вашей волшебной палочки. Конечно, процесс звучит достаточно просто - найдите узел, воткните в него свою палочку и подождите несколько секунд, - но эта простота противоречит некоторым очень реальным головным болям. Прежде всего, узлы редки, а их расположение, как правило, непредсказуемо (хотя вы заметили некоторые закономерности в этом лесу с гигантскими розовыми деревьями и плюющимися огнем четвероногими).; это означает, что поиск большего количества палочек - утомительное занятие, и даже когда вы их находите, для их использования требуется долгая прогулка неизвестно куда. Тогда у вас есть тот факт, что, хотя возможности вашей палочки всегда
 		</page0>
 		<page1>
-			increasing, that of your nodes is not. Even the unusually large nodes in a few magical biomes are quickly emptied by even casual use of your vis (to say nothing of mass-crafting or that time you had to move your infusion altar three times), and - problem number three - they take literal hours to recharge, if they even do at all (for some reason, ones sufficiently far away seem to go inert until revisited). While you could just stick the node in a jar and carry it back home, that only solves a couple of these problems, introduces new ones, and besides, you really do not like the idea of having a room with the walls coated in nodes (not that the nodes seem to like being crammed together in that manner, either). Besides, jarring nodes [i]also[/i] costs a ton of vis, and usually damages them, too.
+			увеличиваясь, этот из ваших узлов таковым не является. Даже необычно большие узлы в нескольких магических биомах быстро опустошаются даже при случайном использовании вашего виса (не говоря уже о массовом крафте или о том, что вам пришлось трижды перемещать свой алтарь вливания), и - проблема номер три - на их перезарядку уходят буквально часы, если они вообще используются. все (по какой-то причине те, что находятся достаточно далеко, кажутся инертными до повторного посещения). В то время как вы могли бы просто засунуть узел в банку и унести его домой, это решает только пару из этих проблем, вводит новые, и, кроме того, вам действительно не нравится идея иметь комнату со стенами, покрытыми узлами (не то чтобы узлам, похоже, нравилось тесниться вместе таким образом, либо). Кроме того, сотрясение узлов [i] также [/i] обходится в тонну vis и обычно также повреждает их.
 		</page1>
 		<page2>
-			After hours of frustration, it hits you - the land is already dotted with very visible and highly energetic structures, and you have already learned how to glean thaumaturgic insights from their energies. If you could tap into these - though you need to find a way to not make that a suicide run - you would have more vis than you could ever need. Of course, your efforts at the beginning will be clumsy and slow, spilling most of the energy into the air where it cannot be used, but as you learn and refine your strategies, that is sure to improve. Similarly, just like how the crappy wands prevent you from being careful when drawing from nodes, they will probably not work for drawing from a pylon at all.
+			После нескольких часов разочарования до вас доходит - земля уже усеяна очень заметными и высокоэнергетическими структурами, и вы уже научились извлекать тауматургические прозрения из их энергий. Если бы вы могли воспользоваться ими - хотя вам нужно найти способ не превращать это в самоубийство, - у вас было бы больше vis, чем вам когда-либо могло понадобиться. Конечно, поначалу ваши усилия будут неуклюжими и медленными, растрачивая большую часть энергии впустую там, где ее нельзя использовать, но по мере того, как вы будете изучать и совершенствовать свои стратегии, ситуация обязательно улучшится. Точно так же, как дрянные палочки мешают вам быть осторожным при рисовании с узлов, они, вероятно, вообще не подойдут для рисования с пилона.
 		</page2>
 		<page3>
 			
@@ -48,38 +48,37 @@
 	</pylonwanding>
 	<abilityfocus>
 		<page0>
-			A pyramid of crystal stone topped with a ring of chroma has allowed you to imbue yourself with the power to cast a wide variety of spell-like actions (that one to fire a giant blue beam from the sky is particularly fun), and better yet, this can be done without the need for any kind of tool. Except, of course, when that is not actually better; you still needed some way to select or activate these powers, and the method you chose has grown somewhat irksome, as it conflicts with a similar action used to select blocks around you. Perhaps you could bind a focus to an ability - one at a time, though able to be changed - so that you can trigger
+			Пирамида из хрустального камня, увенчанная цветным кольцом, позволила вам наделить себя силой для выполнения самых разнообразных действий, похожих на заклинания (особенно забавным является запуск гигантского синего луча с неба), и, что еще лучше, это можно сделать без какой-либо необходимости. своего рода инструмент. За исключением, конечно, случаев, когда это на самом деле не лучше; вам все еще нужен был какой-то способ выбрать или активировать эти способности, и выбранный вами метод стал несколько утомительным, поскольку он вступает в противоречие с аналогичным действием, используемым для выбора блоков вокруг вас. Возможно, вы могли бы привязать фокус к способности - по одной за раз, хотя и с возможностью изменения - чтобы вы могли активировать
 		</page0>
 		<page1>
-			 that specific one at will with the wand you always have on you anyways. In fact, that is probably a lot easier than it looks or sounds, though you [i]are[/i] going to have a fun time trying to cram that many items into the altar...
-			 
-			 When bound to an ability, the wand will simply fire that ability at the charge level it was "programmed" to; targeted abilities will simply inherit the aiming of the wand at the time of activation. To bind (or change) the ability, you will probably need to do nothing more than to select it in the same general manner as you always do, just via the focus instead of the usual initial action.
-			 
-			 You cannot help but be nagged by a thought - in unifying these two systems, you almost feel like you have opened the gateway to something far deeper...
-		</page1>
+			эту конкретную способность по желанию с помощью палочки, которая у вас все равно всегда при себе. На самом деле, это, вероятно, намного проще, чем выглядит или звучит, хотя вы [я] [/я] весело проведете время, пытаясь втиснуть такое количество предметов в алтарь...
+
+			Когда палочка привязана к способности, она просто активирует эту способность на том уровне заряда, на который она была "запрограммирована"; целевые способности просто наследуют наведение палочки во время активации. Чтобы привязать (или изменить) способность, вам, вероятно, не нужно будет делать ничего, кроме как выбрать ее тем же общим способом, что и всегда, просто с помощью фокуса вместо обычного начального действия.
+
+			Вас не может не терзать мысль - объединяя эти две системы, вы почти чувствуете, что открыли врата к чему-то гораздо более глубокому...	</page1>
 	</abilityfocus>
 	<ccintro>
 		<page0>
-			The fabric of reality, at its most fundamental level, seems to consist or contain several different and largely independent forms of magical energy. Sure, they have their similarities: every block or item or creature has some set of properties in each domain, and these properties's natures and interactions can be leveraged to fabricate devices and tools to perform countless tasks. However, their differences are not purely cosmetic, either. One seems to be an faint echo of some other realm, and feels vaguely foreboding; Another is highly naturalistic and generally confined to plants; Yet another appears to be a manifestation of the
+			Ткань реальности, на ее самом фундаментальном уровне, по-видимому, состоит или содержит в себе несколько различных и в значительной степени независимых форм магической энергии. Несомненно, у них есть свои сходства: каждый блок, предмет или существо обладает определенным набором свойств в каждой области, и природа этих свойств и взаимодействия могут быть использованы для создания устройств и инструментов для выполнения бесчисленных задач. Однако их различия также не являются чисто косметическими. Один кажется слабым отголоском какой-то другой реальности и вызывает смутное предчувствие; другой в высшей степени натуралистичен и обычно ограничивается растениями; Еще один, по-видимому, является проявлением
 		</page0>
 		<page1>
-			foundational laws of reality, and things which produce, manipulate, or harness it seem to have the marks of some long-forgotten architects.
-			
-			Whatever their natures, their differences remain irreconcilable, at least for now; while you might be able to learn small amounts about one domain from studying another, it will be quite some time before you can think about making them interact on a more meaningful level and utilize their powers in combination or transferring abilities in one domain to another.
-			
-			In all likelihood, you will need to have a flash of insight, though where that might be found as yet eludes you...
+			основополагающих законов реальности, и вещи, которые создают, манипулируют или используют их, похоже, имеют следы каких-то давно забытых архитекторов.
+
+			Какой бы ни была их природа, их различия остаются непримиримыми, по крайней мере, на данный момент; хотя вы, возможно, сможете узнать немного об одной области из изучения другой, пройдет довольно много времени, прежде чем вы сможете подумать о том, чтобы заставить их взаимодействовать на более значимом уровне и использовать их способности в комбинации или передавать способности в одном домен другому.
+
+			По всей вероятности, вам понадобится озарение, хотя где его можно найти, пока от вас ускользает...
 		</page1>
 	</ccintro>
 	<ccconvert>
 		<page0>
-			Perhaps you should rethink that rather unflattering message you left someone offering guidance that at the time seemed too incomplete to be useful, as it really [i]was[/i] obvious, and not just in hindsight. Where else to try and find clues into using vis and lumens in tandem than in the brightest, loudest, and most generally conspicuous source of either?
-			
-			Now that you have done this, you are met with a very unexpected finding. You already knew that pylons
+			Возможно, вам следует переосмыслить то довольно нелестное сообщение, которое вы оставили кому-то, предлагая рекомендации, которые в то время казались слишком неполными, чтобы быть полезными, поскольку это действительно было очевидно, и не только задним числом. Где еще можно попытаться найти подсказки по использованию vis и lumens в тандеме, как не в самом ярком, громком и наиболее заметном источнике того и другого?
+
+			Теперь, когда вы это сделали, вы столкнулись с очень неожиданным открытием. Вы уже знали, что пилоны
 		</page0>
 		<page1>
-			were effectively fountains of crystal energy (seemingly inexhaustible, too, though that bears further research), but nothing could have prepared you for the fact that they are basically overflowing with [i]vis[/i] as well! Something about their nature seems to grant them the ability to freely exchange between energies, almost as if they were giant nodes.
-			
-			If you figure out how to make use of that power, there will be no barriers to your power; You will become the god those lunatics dancing around that dark floating crystal are always chanting about.
-		</page1>
+			по сути, это были фонтаны кристаллической энергии (тоже кажущиеся неисчерпаемыми, хотя это требует дальнейших исследований), но ничто не могло подготовить вас к тому факту, что они, по сути, также переполнены [i]vis[/i]! Что-то в их природе, по-видимому, наделяет их способностью свободно обмениваться энергиями, почти как если бы они были гигантскими узлами.
+
+			Если ты поймешь, как использовать эту силу, для твоей власти не будет преград; ты станешь богом, о котором всегда поют эти сумасшедшие, танцующие вокруг темного плавающего кристалла.
+			</page1>
 	</ccconvert>
 </researches>

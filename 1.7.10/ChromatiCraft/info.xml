@@ -10,118 +10,115 @@
 <?xml version="1.0"?>
 <info>
 	<elements>
-		You quickly realized that the magic elements that shape and drive the world are divided into sixteen types, each with an associated color.
+		Вы быстро осознали, что магические элементы, которые управляют миром разделены на 16 типов, ассоциируемых с цветами.
 	</elements>
-	<energy>
-		Crystal energy remains something of an enigma, but you have been able to determine some of its traits. At its core, it seems to be a fundamental aspect of reality, a kind of force of nature, akin to gravity or time. Indeed, it may well be the foundation upon which forces like those are built. While its workings do prove elusive, you should be able to begin to harness it for your own purposes, no different than one might harness the energy in coal or falling water. At the very least, it is neither a pile of arbitrary rites nor built on some sort of half-sapient set of eldritch metaphysics, like some of your other endeavors...
-	</energy>
 	<crystals>
-		Crystal energy, if it reaches a critical density, seems to coalesce and crystallize, forming interesting structures that radiate an aura related to the crystal. Aside from their obvious utility as a source of mild effect boosts, their stored crystal energy is clearly going to be invaluable. One wonders how they handle the corrupting influence of the Nether...
+		Если кристальная энергия достигнет критической плотности, она, похоже, образует кристаллы, которые излучают неизвестную ауру. Помимо того, что они дают некоторые эффекты, они также хранят в себе бесценную кристальную энергию. Неизвестно одно: как они справятся с хаотическим воздействием Незера...
 	</crystals>
 	<structures>
-		You appear to not be the first to attempt to investigate these magic forces. Scattered around the world you find a plethora of constructions - shrines, burrows, even large temples - left by those who came before you. Maybe their knowledge, if reacquired, could prove useful.
+		Похоже, вы не первый, кто пытается обуздать магию этого мира. Вы находите различные сооружения, разбросанные по всему миру: храмы, гробницы, подземелья. Кажется, они оставлены вашими предшественниками. Возможно, их знания окажутся для вас полезными.
 	</structures>
 	<pylons>
-		At points where the energy field seems to be the strongest, you tend to find dark stone structures adorned with sparkling aura and topped with a beacon that visibly and audibly radiates raw power. Unfiltered and uncontained, they seem too powerful and unstable - a lesson you quickly learned - to be easily used, but you suspect that later on they will be a key component of your research.
+		В местах, где энергетическое поле кажется сильным, вы часто находите тёмные каменные структуры, с неизвестной аурой наверху, состоящей, очевидно, из чистой энергии. Она слишком опасна и нестабильна в чистом виде, но вы считаете, что позже эта аура станет ключевым компонентом в ваших исследованиях.
 	</pylons>
 	<transmission>
-		Pylons are the power sources, radiating crystal energy of their color. It stands to reason that you will have or make receivers requiring that energy. How, though, are you to transport that energy over the long distances between the pylons and where it is needed?
+		Пилоны - источники энергии, излучающие кристальную энергию его цвета. Очевидно, что эту энергию можно где-то использовать. Вопрос лишь в том, где и как её передать.
 	</transmission>
 	<start>
-		This world is strange, confusing, and unknown. You have no idea what drives or forms it, something you will need to learn before you can possibly begin to exploit it and bend the forces to your needs. Fortunately for you, you have a notebook of sorts, though you will need to populate it with information you collect as you explore and experiment.
+		Этот мир полон тайн и секретов. Вы понятия не имеете, что им управляет. Очевидно одно: сначала вы должны изучить его, чтобы затем подчинить его силы себе. К счастью, у вас есть своего рода тетрадь, которую вы можете использовать, чтобы записывать всю информацию: наблюдения или эксперементы.
 	</start>
 	<lexicon>
-		Seeing as you are learning this as you go along, you will be required to piece together your understanding from various fragments of information, supplemented by your own reasoning and experimentation; rarely will one item or event hold all of the information you need. In particular, various notes, though incomplete on their own, might become more complete when thought of together. Also, for some reason, sneaking when navigating the book accelerates the process.
+		Часто вам придётся получать информацию из различных её обрывков. Конечно, иногда предмет может содержать сразу всю информацию о себе. Некоторые обрывки нужно будет совместить вместе, чтобы получить какие-то знания. К слову, по какой-то причине, если присесть, книга изучается быстрее.
 	</lexicon>
 	<crafting>
-		At first, the casting table seemed identical to a wooden worktable, but you soon realized that in that form it can only make the most basic of items. In all likelihood, you will need to build a structure around the table to help focus the energy and allow you to advance your crafting. Additionally, the directionality to the recipes is likely important; one can only hope that the logical mapping of upwards to North has been chosen.
+		По началу, магический верстак кажется таким же, как и самый обычный, но вскоре вы поняли, что в обычном виде, он может делать только самые базовые рецепты. По всей видимости, вы должны возвести определённую структуру вокруг него, чтобы открыть новые крафты. Дополняя, можно сказать, что "направление" рецепта крайне важно. Остаётся надеятся, что наверху - север.
 	</crafting>
 	<crafting2>
-		North is indeed marked as upwards in the recipe display, so as long as you keep that in mind, things should proceed smoothly. One other thing to note, however, is that the table seems to rely on the ambient energy field in the world to perform its duty; In a world where this field is negligible or entirely absent - most easily exemplified by a total lack of pylons - it is likely to be unable to craft anything beyond basic recipes.
+		Север действительно оказался сверху. Из новостей, стол, кажется, использует какую-то энергию вокруг, чтобы создавать предметы. Таким образом, в мире, где этой энергии мало или вовсе нет, стол работать не будет. Отсутствие пилонов - один из признаков отсутствия энергии.
 	</crafting2>
 	<balllightning>
-		Pylons and rainbow forests seem to have interesting phenomena flitting about, wandering through the sky and around the ground. You wonder if they have a use, or if they might be dangerous. Even if not dangerous directly, you probably want to avoid letting them into sensitive machinery like a turbine.
+		Около пилонов и в радужных лесах летают странные феномены. Интересно, опасны ли они? И можно ли использовать их в своих целях? Ясно одно, их лучше не подпускать к чувствительным машинам, таким как турбина.
 	</balllightning>
 	<apirecipes>
-		Recalling the constructs you have crafted for other purposes - often those bearing little resemblance to the rest of your designs, feeling more akin to part of some other whole - you notice that you can nonetheless manufacture them on your casting table as well.
+		Вспоминая конструкции, которые вы создавали для несколько иных целей, и предметы, созаваемые на них, вы вдруг осознали, что можете изготовить их на своём магическом верстаке.
 	</apirecipes>
 	<leylines>
-		Pylons transmit energy in concentrated beams, which you have come to call ley lines (no relation to the similarly named phenomena those with poor reasoning skills attribute to extraterrestrial construction projects and spontaneous combustion of people). These beams have a maximum range, and additionally are blocked by anything even remotely opaque.
+		Пилоны передают энергию в виде концентрированных лучей - лучей энергии. У них ограниченная дальность, а также они блокируются всеми непрозрачными блоками.
 	</leylines>
 	<turbo>
-		With your ever-larger crystal network and your increasing load on your pylons, even a full ring of power crystals is insufficient to keep your energy flowing. You need another way to improve them, possibly with a corresponding enhancement structure and ritual. Such an event would likely be very energetic, so isolation from the rest of the network could be a good idea. It goes without saying, of course, that you will need to have mastered a given pylon's associated element to even begin the process.
+		С вашей огромной кристальной сетью, даже полного кольца усиливающих кристаллов может быть недостаточно. Вам нужен другой способ усилить пилон. Возможно, потребуется улучшить структуру и провести ритуал. Не забудьте изолировать пилон от остальной сети, так как этот ритуал должен быть очень мощным.
 	</turbo>
 	<turborepeater>
-		Long ago, you outstripped the throughput of your repeaters, and they are becoming an increasingly tight bottleneck on your network. If you can somehow enhance their power, it would be most convenient.
+		Вы уже давно страдаете от низкой пропускной способности вашей сети. Если бы вы могли как-то усилить их, это бы очень помогло в изучении.
 	</turborepeater>
 	<dimension>
-		A fiery nightmare. An eldritch island ruled by a giant dragon. This world you have come to call your home is far from the only one in existence, but each of the others is alien and hostile. While they have proved bountiful with resources you no doubt need, they are inhospitable and useless aside from their raw materials. Another world must be the key, a world where the different colors of crystal energy flow naturally, unbounded by the corrupting influence of other forces. Maybe there will be secrets here, too.
+		Пламенный кошмар. Жуткий остров, управляемый гигантским драконом. Мир, в котором вы живёте - лишь один из множества существующих, но остальные чужды и враждебны. Они бесполезны, если не считать бесчисленного количества ресурсов, которые вам несомненно нужны. Другой мир должен быть ключом. Миром, где кристальная энергия летает повсюду, а не сосредоточенна лишь в определённых местах. Кто знает, какие ещё секреты скрывает это место?
 	</dimension>
 	<usingrunes>
-		Some of the many recipes you can perform on the casting table require using runes. Keeping a shorthand list of all the runes you need to place is likely to be useful.
+		Некоторые рецепты создаваемые на магическом верстаке требуют руны. Вероятно, будет полезно составить краткий список всех рун, которые вам нужно разместить.
 	</usingrunes>
 	<nodenet>
-		Scattered around the world are these odd, somewhat ethereal points that radiate magical energy of various flavors. You have managed to figure out how to draw energy from them into a wand, but even though they recharge, the process is slow. Thinking back to the larger crystal repeater networks you use to channel a different kind of magical energy, you wonder if you might be able to graft the two systems together...
+		По всему миру разбросаны эти странные эфирные точки, изучающие магическую энергию разных видов. Вы узнали, как высосать эту энергию в жезл, но несмотря на то, что их можно перезаряжать, процесс всё-равно довольно медленный. Вспоминая кристальную сеть, которую вы используете для передачи другого типа энергии, вы задаётесь вопросом, как объединить две эти системы.
 	</nodenet>
 	<selfcharge>
-		You noticed that by using the manipulator on certain energy sources - most notably pylons - you could drain some of their energy into yourself. However, your lack of experience with this meant you could only store small amounts. No doubt increasing that experience and collecting as much as you can will help you surmount that barrier.
+		Вы заметили, что используя манипулятор на различных источниках энергии (в основном пилонах), вы можете втянуть её в себя. Однако, из-за отсутствия опыта, вы можете хранить не более 24 едениц энергии. Возможно, если вы потренируетесь, собирая различные виды энергии, вы сможете преодолеть этот барьер.
 	</selfcharge>
 	<dimension2>
-		Having been to this strange other world, one thing in particular stands out to you: Its volatility. Like the proverbial cat in a famous and usually misunderstood experiment, it, until observed, exists in some sort of undefined state, and as such lacks persistence from one visit to the next. Like many other things, that is a double-edged sword; Infinite resource replenishment, but anything you leave there will not be there for your return. On top of that, entry and exit to and from this world is via unusual means.
+		Побывав в другом мире, вы хорошо заметили одну вещь: его непостоянство. Подобно коту Шрёдингера, этот мир, пока ненаблюдаем, существует в неком неопределённом состоянии, и постоянно изменяется каждый раз, когда вы в него попадаете. Это палка о двух концах: с одной стороны - бесконечные ресурсы, но с другой - любая вещь, которую вы там оставите, будет безвозвратно утеряна.
 	</dimension2>
 	<mystpage>
-		You have found a way to create worlds of your own by scribbling random symbols into a book. Bound only by the limits of your own avarice, you have created worlds with airborne veins of diamond ore, with oceans of rare fluids, and with fields of valuable blocks, plants, and items. Perhaps other symbols exist for things like pylons and those buried crystals.
+		Вы нашли способ создавать миры, записывая случайные символы в книгу. Ограничиваясь лишь фантазией, вы сотворили миры с летающими алмазами, золотыми полями и океанами дорогих жикостей.
 	</mystpage>
 	<enchanting>
-		When you designed that obsidian slab on which you enchant your tools, you apparently did not have flexibility in mind, because it will not accept all but a small subset of your tools. Sure, a couple more recent variants are more accepting, but your lumen-powered tool stars could really benefit from the upgrade. The next best thing to try would be to try casting it like it was a recipe.
+		Когда вы разрабатывали стол зачарований, вы, очевидно, совсем не думали про универсальность, ведь он может зачаровать далеко не все вещи. The next best thing to try would be to try casting it like it was a recipe.
 	</enchanting>
 	<farlands>
-		Long ago, you met someone who told you tall tales of equally tall (and broken) terrain, found only if one was to venture a ludicrous distance into the world. He also went on about his absurd plan to venture there...on foot. Lunacy, sure, but perhaps that volatile realm you have recently frequented has a similar (and hopefully nearer) outer region; You could call them the far...regions?. You never were very good at names.
+		Давным-давно вы встретили кого-то, кто рассказал вам небылицы о столь же высокой (и пересеченной) местности, которую можно найти, только если отважиться отважиться на нелепое расстояние в мир. Он также рассказал о своем абсурдном плане отправиться туда... пешком. Безумие, конечно, но, возможно, то нестабильное царство, которое вы недавно часто посещали, имеет аналогичный (и, надеюсь, более близкий) внешний регион; Их можно назвать далекими... регионами? Ты никогда не очень хорошо разбирался в именах.
 	</farlands>
 	<enchants>
-		You have found a way to magically imbue your tools with a purple glow and improve their usefulness, and later a way to even control what kind of bonus you wish to obtain. However, you have noticed something else: Using the %s, there are a series of powers not previously available to you, and on top of that others can be made more powerful.
+		Вы открыли магический способ улучшить ваши инструменты с помощью некого "фиолетового свечения". Оно практически незаметно, но даёт ощутимый бонус любому инструменту. Вы назвали это зачарованием, а также научились контролировать, какой именно бонус вы хотите получить. Но есть и другой способ: %s. Помимо того, что он открывает новые зачарования, он также усиливает старые.
 	</enchants>
 	<structurepasswords>
-		Upon - finally - completing a vast subterranean puzzle, you were struck with a random thought, though you as yet have no idea what it might mean or be related to. Nonetheless, having learned from past mistakes (you may never remember that idea you had for improving the fuel efficiency of your home base machinery), you have written these down for potential future reference.
+		Когда вы наконец завершили огромную подземную головоломку, вас поразила случайная мысль. И хотя вы не помните, о чём конкретно она была, вы записали всё, что смогли вспомнить, надеясь, что оно пригодится вам в будущем.
 	</structurepasswords>
 	<turborepeater2>
-		A turbocharged repeater helps, but for the truly powerful constructs even they have proved unable to keep up. Perhaps a slight upgrade to their tower, replacing some parts with more energetic variants, could improve them even further.
+		Турбопередатчик помогает, но даже он не справляются с действительно мощными конструкциями. Возможно, если заменить некотороые детали на более качественные аналоги, он будет работать лучше?
 	</turborepeater2>
 	<abilities>
-		Powerful constructs and tools are plenty useful, but they are not a valid solution to every potential need. In particular, you may not have the inventory space to cart around 41 kinds of tools, and digging out the correct one can be rather too slow for the more urgent situations. Additionally, you have heard stories about lands where the use of such tools is forbidden, and the tools are made to disappear from your very hands. If you could imbue your own body with those powers instead, triggerable on demand, powered from your own personal energy storage, both issues would be solved.
+		Мощные инструменты - полезная вещь в ваших исследованиях, но у них есть много минусов. Например, они ломаются, и занимают много места в вашем инвентаре. Вы нашли решение: наполнить ваше тело магией, чтобы, при необходимости, активировать способность, которая будет потреблять вашу энергию.
 	</abilities>
 	<dimtuning>
-		This new world is somewhat difficult to get a handle on, not only figuratively, but also literally; thus far the portal has been somewhat...out of phase, akin to a radio tuned slightly off of a station. This has prevented you from properly interacting with much of it; entire areas remain inaccessible, and several formations and structures are impossible to make use of. Clearly you need to refine this...tuning, so that you can properly mesh with the fabric of this world and venture where you wish and harvest what you please.
+		Этот мир довольно трудно освоить. Не только в переносном смысле, буквально. Ваш портал, как ненастроенное радио, работает некорректно. Из-за этого, вы не можете взаимодействовать с измерением в полной мере: некоторые территории для вас недоступны, а многие структуры просто бесполезны. Всё, что вам надо - настроить это радио, только так вы сможете вписаться в ткань этого мира.
 	</dimtuning>
 	<casttuning>
-		As your casting process grows ever more complicated, involving more interacting parts and more intricate procedures, you are encountering more and more recipes which cannot be done without "imprinting" the casting structure with some aspect of yourself. Hopefully this will carry that imprint onto the things which it constructs, thus enabling them to be permanently tied to yourself and your efforts.
+		По мере того, как процесс наполнения становится всё более сложным, некоторые крафты не могут быть выполнены без вашего "отпечатка". Вы ожидаете, что благодаря этому, инструмент будет навсегда привязан к вам.
 	</casttuning>
 	<multiblocks>
-		It is becoming clear at this point that in order to properly harness and manipulate crystal energies, you are going to need more than a simple block here or there. In particular, anything involving crafting, handling energy, or infusing one thing into another seems to require a fairly large construction. Given their size and number, and possible environmental considerations, it would be wise to build most or all of these - especially any that have anything to do with crafting or the pylons - outside.
+		Становится ясно, что чтобы управлять кристальной энергией, вам понадобится что-то большее, чем просто блок. В частности, всё, что связано с крафтами, наполнением или хранением энергии, требует просто огромных конструкций. Учитывая их количество и размеры, будет разумно построить их все вне дома.
 	</multiblocks>
 	<pylonlink>
-		Having connected various colors of pylon to your network, you quickly learned that their energy sources are not infinite; they will deplete and require significant time to recharge. You may to find a way to improve that later, but for now, the fact you have many pylons of any given color, all useless without being directly connected with repeaters, proves too irksome to ignore. However, a clue from a strange structure with a beaconlike aura provided an insight: linking the pylons themselves. If you can pull this off, they will effectively become one large energy buffer, with recharge rate to match.
+		Теперь, когда в вашей сети есть пилоны всех типов энергии, вы быстро поняли, что их ёмкость не бесконечна. После истощения, им потребуется некоторое время на перезарядку. Возможно, вы решите эту проблему в будущем. Структура с "маяковой" аурой натолкнула вас на мысль о том, что если связать сами пилоны, они станут одной большой сетью, с соответствующим временем перезарядки.
 	</pylonlink>
 	<itemburner>
-		You have recently discovered that most items contain trace amounts of some combination of colors of crystal energy, and while you are probably some time from being able to reshape that energy into new forms, you just might be able to use the energy directly. Simply "burning" items for their lumen content will allow you to dispose of things to clear inventory space, with your body absorbing the energy released in the process. Later constructs can no doubt be built upon this concept, but for now you can probably use that to power some basic tools or something.
+		Вы недавно обнаружили, что большинство предметов содержат следовые количества некоторой комбинации цветов кристаллической энергии, и, хотя вы, вероятно, еще не скоро сможете преобразовать эту энергию в новые формы, вы, возможно, сможете использовать энергию напрямую. Простое "сжигание" предметов из-за их яркости позволит вам избавиться от вещей, чтобы освободить место в инвентаре, при этом ваше тело будет поглощать энергию, выделяющуюся в процессе. Более поздние конструкции, несомненно, могут быть построены на основе этой концепции, но сейчас вы, вероятно, можете использовать это для питания некоторых базовых инструментов или чего-то еще.
 	</itemburner>
 	<monument>
-		Apparently not all of the structures in that world are puzzles - at the center of them all lies a radially symmetrical...something. Though visibly incomplete and ravaged by time, you immediately recognized its importance. Having restored the structure, you found that with the energy cores you found in the various puzzles, you could trigger some sort of reactivation process to...you have no idea what, but it clearly involved completely unprecedented amounts of crystal energy flowing in novel ways. Who knows what you will learn trying to apply what you saw today, or if you can ever witness it again...
+		Очевидно, не все структуры в этом мире являются головоломками - в центре их всех находится радиально симметричное... нечто. Хотя оно явно незавершено и разрушено временем, вы сразу же осознали его важность. Восстановив структуру, вы обнаружили, что с помощью энергетических ядер, которые вы нашли в различных головоломках, вы могли бы запустить какой-то процесс реактивации, чтобы... вы понятия не имеете, что именно, но это явно включало совершенно беспрецедентное количество кристаллической энергии, текущей новыми путями. Кто знает, чему вы научитесь, пытаясь применить увиденное сегодня, и сможете ли вы когда-нибудь увидеть это снова...
 	</monument>
 	<mud>
-		Scattered under the giant rainbow trees you have found patches of soil turned muddy by the remnants of some kind of liquid, and judging from the weak magical energy you can detect in it, one either posessing such energies or capable of absorbing them from other sources. The patches under the trees are unsalvageable, having been polluted with the sum total of days to months of random debris from the trees above, but this phenomenon or knowledge thereof may prove helpful at some point in the future. Perhaps you can try seeing if the "magically watered" ground helps certain compatible plants...
+		Разбросанные под гигантскими радужными деревьями, вы нашли участки почвы, ставшие грязными из-за остатков какой-то жидкости, и, судя по слабой магической энергии, которую вы можете обнаружить в ней, человек либо обладает такой энергией, либо способен поглощать ее из других источников. Участки под деревьями не подлежат восстановлению, поскольку были загрязнены в общей сложности от нескольких дней до нескольких месяцев случайным мусором с деревьев выше, но это явление или знание о нем может оказаться полезным в какой-то момент в будущем. Возможно, вы можете попробовать посмотреть, помогает ли "волшебно политая" почва определенным совместимым растениям...
 	</mud>
 	<itemcharge>
-		Just as your motorized wrench and gravel launcher require energy to operate, so too do many of your magical tools, be that a wand able to bore fleeting hallways or staves that conjure bridges made of solid rainbow. One thing that does differ between these devices, however, is the mechanism by which you charge them, and these new crystal-based tools have once again broken the usual pattern, having neither an external power-bearing item nor a charging device into which to insert them. One of them did charge slightly when you were walking around outside, but what could have been out there that provided the energy?
+		Точно так же, как вашему гаечному ключу с электроприводом и пусковой установке для гравия требуется энергия для работы, так и многим вашим магическим инструментам, будь то волшебная палочка, способная просверливать мимолетные коридоры, или шесты, которые создают мосты из сплошной радуги. Однако единственное, что действительно отличает эти устройства, - это механизм, с помощью которого вы их заряжаете, и эти новые инструменты на основе кристаллов в очередной раз нарушили привычную схему, не имея ни внешнего источника питания, ни зарядного устройства, в которое их можно вставить. Один из них действительно слегка заряжался, когда вы гуляли на улице, но что там могло быть, что обеспечивало энергией?
 	</itemcharge>
 	<itembufferlink>
-		Charging items by leaving them lying on the ground is a slow process even before you consider the travel time to and from the pylon (possibly several times if you were impatient and kept checking if the charging was complete; for some reason, the last few percent seem to take ages, and despite your inability to tell the difference between tools at 94%% charge vs 100%%, you often find yourself insisting on the latter). You may eventually be able to build a more local energy source, but until then, perhaps as a last, if inefficient, resort, you can have the act of refilling your own energy buffer also charge your carried tools.
+		Зарядка предметов, оставляя их лежать на земле, - медленный процесс, даже если не учитывать время в пути до пилона и обратно (возможно, несколько раз, если вы были нетерпеливы и постоянно проверяли, завершена ли зарядка; по какой-то причине последние несколько процентов, кажется, занимают целую вечность, и, несмотря на вашу неспособность определите разницу между инструментами с 94%-ной зарядкой и 100%-ной, вы часто обнаруживаете, что настаиваете на последнем). Возможно, со временем вам удастся создать более локальный источник энергии, но до тех пор, возможно, в качестве последнего, хотя и неэффективного средства, вы можете пополнить свой собственный энергетический буфер, а также зарядить переносимые инструменты.
 	</itembufferlink>
 	<skypeater>
-		Scattered high above the large inland seas in the terraced biomes are points of light whose purpose so far eludes you. In fact, initially it was not just their purpose that proved elusive; they seem to blink in and out of existence and are all but impossible to detect at large distances, with your first several sightings being mistaken for simple reflections or other atmospheric phenomena. At any rate, aside from adding to the aesthetic value of the region, they seem to be of no use to you. Besides, you have other priorities right now, like how painful it is going to be crossing these seas with lumen transmission infrastructure.
+		Высоко над большими внутренними морями в террасированных биомах разбросаны точки света, назначение которых пока ускользает от вас. На самом деле, изначально неуловимым оказалось не только их предназначение; кажется, что они то появляются, то исчезают, и их практически невозможно обнаружить на больших расстояниях, причем первые несколько наблюдений вы принимаете за простые отражения или другие атмосферные явления. В любом случае, помимо повышения эстетической ценности региона, они, по-видимому, вам ни к чему. Кроме того, прямо сейчас у вас есть другие приоритеты, например, насколько болезненным будет пересечение этих морей с инфраструктурой передачи данных lumen.
 	</skypeater>
 	<fragmentselect>
-		The information contained within fragments seems to have largely faded with time, but in a very peculiar way: the information, rather than being removed, has instead become somewhat jumbled, and to glean comprehensible insights you have found it to be necessary to focus on a given topic and try to work out the mystery from that perspective. Of course, many such potential perspectives exist, and each piece of information could reasonably be arrived at from more than one. And of course, if you did not care about what kind of insight you obtained, you could just dump them all into chroma or something...
+		Информация, содержащаяся во фрагментах, кажется, со временем в значительной степени выцвела, но очень своеобразным образом: информация не удаляется, а наоборот, становится несколько перемешанной, и, чтобы получить доступную информацию, вы обнаружили, что необходимо сосредоточиться на заданной теме и попытаться разгадать тайну с самого начала. такая перспектива. Конечно, существует множество таких потенциальных точек зрения, и каждая часть информации может быть разумно получена более чем из одной. И, конечно, если бы вам было все равно, какого рода инсайт вы получили, вы могли бы просто сбросить их все в chroma или что-то в этом роде...
 	</fragmentselect>
 	<name>
 		
@@ -133,6 +130,6 @@
 		
 	</name>
 	<name>
-		
+
 	</name>
 </info>
