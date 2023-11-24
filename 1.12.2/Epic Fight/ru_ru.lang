@@ -1,0 +1,61 @@
+attribute.name.epicfight.impact= %.1f Отдача
+attribute.name.epicfight.armor_negation= %.0f%% Пробитие брони
+attribute.name.epicfight.max_strikes= Дальность %.0f одного взмаха
+attribute.name.epicfight.mainhand_only=Одноручное
+attribute.name.epicfight.twohanded=Двуручное
+attribute.name.epicfight.stun_armor=Сопротивление к оглушению
+attribute.name.epicfight.weight=Тяжесть
+
+effect.stun_immunity=Сопротивление к оглушению
+
+potion.effect.stun_immunity=Зелье сопротивления к оглушению
+splash_potion.effect.stun_immunity=Взрывное зелье сопротивления к оглушению
+lingering_potion.effect.stun_immunity=Туманное зелье сопротивления к оглушению
+tipped_arrow.effect.stun_immunity=Стрела с зельем сопротивления к оглушению
+
+gui.epicfight.filter_animation.on=Фильтрация анимаций: ДА
+gui.epicfight.filter_animation.off=Фильтрация анимаций: НЕТ
+gui.epicfight.health_indicator.on=Показывать индикатор здоровья: ДА
+gui.epicfight.health_indicator.off=Показывать индикатор здоровья: НЕТ
+gui.epicfight.long_press_counter=Счётчик длительных нажатий: %s
+gui.epicfight.filter_animation.tooltip=Включение этого параметра делает анимацию невидимой в режиме копания.
+gui.epicfight.health_indicator.tooltip=Отключение этого параметра делает индикатор здоровья невидимым.
+gui.epicfight.long_press_counter.tooltip=Число для распознавания длительного нажатия. Используется для специальных атак и уклонения.
+
+item.katana.name=Катана
+item.stray_hat.name=Капюшон зимогора
+item.stray_robe.name=Накидка зимогора
+item.stray_pants.name=Штаны зимогора
+item.stone_spear.name=Каменное копьё
+item.iron_spear.name=Железное копьё
+item.golden_spear.name=Золотое копьё
+item.diamond_spear.name=Алмазное копьё
+item.greatsword.name=Огромный меч
+item.skill_book.name=Книга способностей
+
+item.tooltip.weight_penalty= Штраф для скорости атаки %.2f
+
+itemGroup.items=Предметы эпических сражений
+
+key.epicfight.gui=Интерфейс эпических сражений
+key.epicfight.combat=Боевой режим эпических сражений
+key.epicfight.show_tooltip=Информация о специальной атаке
+key.epicfight.switch_mode=Боевой режим/Режим копания
+key.epicfight.dodge=Перекат
+
+skill.epicfight.dancing_edge=Танец меча
+skill.epicfight.dancing_edge_tooltip=Рубите врагов, танцуя. Бьёт три раза
+skill.epicfight.fatal_draw=Роковой взмах
+skill.epicfight.fatal_draw_tooltip=Моментальная атака мечом. Во время бега разрезает врагов на вашем пути.
+skill.epicfight.giant_whirlwind=Гигантский вихрь
+skill.epicfight.giant_whirlwind_tooltip=Вращайтесь вперед с тяжелым оружием, сокрушая врагов. Бьет три раза.
+skill.epicfight.guillotine_axe=Казнящий топор
+skill.epicfight.guillotine_axe_tooltip=Поднимите топор, затем взмахните, чтобы казнить врага.
+skill.epicfight.heartpiercer=Вонзатель
+skill.epicfight.heartpiercer_tooltip=Быстро вонзайте копьём три раза.
+skill.epicfight.slaughter_stance=Убойное вращение
+skill.epicfight.slaughter_stance_tooltip=Рубите врагов на большой площади. Бьёт дважды.
+skill.epicfight.sweeping_edge=Разящий клинок
+skill.epicfight.sweeping_edge_tooltip=Вращайтесь вперед, рубя врагов.
+
+skill.epicfight.roll=Перекат

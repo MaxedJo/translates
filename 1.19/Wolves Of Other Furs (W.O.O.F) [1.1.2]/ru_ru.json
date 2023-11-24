@@ -1,0 +1,23 @@
+//Перевёл KolyaLaif. YouTube канал - https://www.youtube.com/@KolyaLaif/featured
+//RuTube канал - https://rutube.ru/channel/24888631/
+//На покушац (если не жалко) - https://www.donationalerts.com/r/kolyalaif
+{
+  "item.woof.dyeable_lead": "Окрашиваемый свинец",
+  "block.woof.dog_bowl_block": "Собачья миска",
+  "block.woof.magenta_dog_bed": "Пурпурная собачья кровать",
+  "block.woof.pink_dog_bed": "Розовая собачья кровать",
+  "block.woof.green_dog_bed": "Зелёная собачья кровать",
+  "block.woof.lime_dog_bed": "Лаймовая собачья кровать",
+  "block.woof.light_gray_dog_bed": "Светло-серая собачья кровать",
+  "block.woof.yellow_dog_bed": "Жёлтая собачья кровать",
+  "block.woof.black_dog_bed": "Чёрная собачья кровать",
+  "block.woof.light_blue_dog_bed": "Светло-голубая собачья кровать",
+  "block.woof.brown_dog_bed": "Коричневая собачья кровать",
+  "block.woof.cyan_dog_bed": "Голубая собачья кровать",
+  "block.woof.orange_dog_bed": "Оранжевая собачья кровать",
+  "block.woof.red_dog_bed": "Красная собачья кровать",
+  "block.woof.gray_dog_bed": "Серая собачья кровать",
+  "block.woof.white_dog_bed": "Белая собачья кровать",
+  "block.woof.blue_dog_bed": "Синяя собачья кровать",
+  "block.woof.purple_dog_bed": "Фиолетовая собачья кровать"
+}

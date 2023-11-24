@@ -1,0 +1,36 @@
+{
+	"entity.sanitydim.rotting_stalker": "Гниющий Сталкер",
+	"entity.sanitydim.sneaking_terror": "Крадущийся Ужас",
+	
+	"commands.sanity.set.success.single": "Set %s's sanity to %s",
+	"commands.sanity.set.success.multiple": "Set sanity to %s for %s players",
+	"commands.sanity.add.success.single": "Added %s sanity to %s",
+	"commands.sanity.add.success.multiple": "Added %s sanity to %s players",
+	"commands.sanity.config.reload": "Reloaded dimension configs successfully",
+	
+	"gui.sanitydim.hint00": "Что это за звуки?",
+	"gui.sanitydim.hint01": "Мне неспокойно...",
+	"gui.sanitydim.hint02": "Что это было?",
+	"gui.sanitydim.hint03": "Я чувствую чье-то внимание...",
+	"gui.sanitydim.hint04": "Мне это не нравится...",
+	"gui.sanitydim.hint05": "А?",
+	"gui.sanitydim.hint06": "Хм?",
+	"gui.sanitydim.hint07": "Что?",
+	"gui.sanitydim.hint08": "Что там?",
+	"gui.sanitydim.hint09": "Это был я?",
+	"gui.sanitydim.hint010": "Странно...",
+	"gui.sanitydim.hint011": "Мне показалось?",
+	"gui.sanitydim.hint10": "КТО-ТО ЗА МОЕЙ СПИНОЙ",
+	"gui.sanitydim.hint11": "Раз, два, три, четыре...",
+	"gui.sanitydim.hint12": "...пять, шесть, семь, восемь...",
+	"gui.sanitydim.hint13": "ОНИ ЖЕ ТОЛЬКО В МОЕЙ ГОЛОВЕ, ДА!?",
+	"gui.sanitydim.hint14": "ОСТАВЬТЕ МЕНЯ В ПОКОЕ",
+	"gui.sanitydim.hint15": "ВСЕ В ПОРЯДКЕ, МНЕ ЭТО КАЖЕТСЯ",
+	"gui.sanitydim.hint16": "ПОЧЕМУ ОНИ НЕ УХОДЯТ?!",
+	"gui.sanitydim.hint17": "ГРОМКО ГРОМКО ГРОМКО ГРОМКО",
+	"gui.sanitydim.hint18": "ЭТИ ГОЛОСА... Я НЕ МОГУ",
+
+	"item.sanitydim.tooltip.press_shift": "В§7Нажми В§9SHIFTВ§7 для дополнительной информации",
+	"item.sanitydim.garland": "Цветочный венок",
+	"item.sanitydim.garland.tooltip": "В§7Это поможет успокоить нервы\n\nМедленно восстанавливает рассудок и делает немного устойчивее к стрессу"
+}

@@ -1,0 +1,22 @@
+{
+  "block.ae2extras.64m_crafting_storage": "64м Хранилище создания",
+  "block.ae2extras.1m_crafting_storage": "1м Хранилище создания",
+  "block.ae2extras.4m_crafting_storage": "4м Хранилище создания",
+  "block.ae2extras.16m_crafting_storage": "16м Хранилище создания",
+  "itemGroup.ae2extras" : "AE2 Extras",
+
+  "item.ae2extras.cell_component_1m": "1м ME Компонент хранения",
+  "item.ae2extras.cell_component_4m": "4м ME Компонент хранения",
+  "item.ae2extras.cell_component_16m": "16м ME Компонент хранения",
+  "item.ae2extras.cell_component_64m": "64м ME Компонент хранения",
+
+  "item.ae2extras.item_storage_cell_1m": "1м ME Ячейка хранения",
+  "item.ae2extras.item_storage_cell_4m": "4м ME Ячейка хранения",
+  "item.ae2extras.item_storage_cell_16m": "16м ME Ячейка хранения",
+  "item.ae2extras.item_storage_cell_64m": "64м ME Ячейка хранения",
+
+  "item.ae2extras.fluid_storage_cell_1m": "1м ME Жидкостная ячейка хранения",
+  "item.ae2extras.fluid_storage_cell_4m": "4м ME Жидкостная ячейка хранения",
+  "item.ae2extras.fluid_storage_cell_16m": "16м ME Жидкостная ячейка хранения",
+  "item.ae2extras.fluid_storage_cell_64m": "64м ME Жидкостная ячейка хранения"
+}

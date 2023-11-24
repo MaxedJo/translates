@@ -1,0 +1,2425 @@
+lycanitesmobs.name=Lycanites Mobs
+#
+# ========== Entites ==========
+entity.level=Lvl
+entity.health=HP
+entity.experience=XP
+entity.reputation=Taming
+entity.phase=Phase
+entity.summoningportal.name=Summoning Portal
+entity.fear.name=Feared
+entity.baby=Baby
+#
+#
+#
+# ========== Spawners ==========
+spawner.darkness.level1=Там кромешная тьма, тебя наверняка кто-то съест...
+spawner.darkness.level2=Ты слышишь звуки из самой тьмы... Скорее возвращайся к свету!
+spawner.darkness.level3=Темное существо появилось из тьмы!
+spawner.darkness.level1.back=Кажется, звуки прекратились... По крайней мере, пока...
+spawner.chaos.level1=Вы нарушаете баланс природы, будьте осторожны!
+spawner.chaos.level2=Твои разрушительные действия со стихиями втягивают энергию Хаоса!
+spawner.chaos.level3=Хаотическая энергия во что-то воплотилась! Остерегаться!
+spawner.chaos.level1.back=Кажется, баланс восстановлен... По крайней мере, пока...
+#
+#
+#
+# ========== Subspecies ==========
+# Common
+subspecies.normal=Normal
+# Uncommon:
+subspecies.ashen.name=пепельный
+subspecies.dark.name=Темный
+subspecies.lux.name=Люкс
+subspecies.verdant.name=Зеленый
+subspecies.scarlet.name=Скарлет
+subspecies.azure.name=Лазурный
+subspecies.golden.name=Золотой
+subspecies.violet.name=Фиолетовый
+subspecies.keppel.name=Кеппель
+subspecies.russet.name=Коричневый
+# Rare:
+subspecies.lunar.name=Лунный
+subspecies.ebon.name=Черное Дерево
+subspecies.sacred.name=Священный
+subspecies.phosphorescent.name=Фосфоресцирующий
+subspecies.crimson.name=Малиновый
+subspecies.royal.name=Королевский
+subspecies.solar.name=Солнечная
+subspecies.mottled.name=Пятнистый
+subspecies.celestial.name=Небесный
+subspecies.umber.name=Умбер
+#
+# Skins:
+subspecies.moloch.name=Молох
+subspecies.void.name=Пустота
+subspecies.sand.name=Песок
+
+#
+#
+#
+# ========== Items ==========
+item.horsearmormetal.name=Железная Броня Для Питомца
+item.horsearmorgold.name=Золотая Броня Для Питомца
+item.horsearmordiamond.name=Алмазная Броня Для Питомца
+item.lycanitesmobs.charge=Заряжать
+item.lycanitesmobs.charge.description=Заряженный Шар Энергии Элемента. Можно Использовать Для Повышения Уровня Питомцев И Частей Снаряжения С Помощью Соответствующих Элементов. Также Можно Выстрелить Из Раздатчика Или Бросить Во Время Подкрадывания.
+item.lycanitesmobs.charge.projectile=Снаряд:
+item.lycanitesmobs.charge.elements=Элементы:
+item.lycanitesmobs.charge.creature.invalid=Этот Заряд Не Имеет Элементов, Соответствующих Элементам Существа.
+#
+#
+#
+# ========== GUI ==========
+# Creative Tab names:
+itemGroup.lycanitesmobs.items=Мобы-Ликаниты: Предметы
+itemGroup.lycanitesmobs.blocks=Ликаниты Мобы: Блоки
+itemGroup.lycanitesmobs.creatures=Ликаниты Мобы: Существа
+itemGroup.lycanitesmobs.charges=Мобы Ликанитов: Заряды
+itemGroup.lycanitesmobs.equipmentparts=Мобы Ликанитов: Части Экипировки
+#
+# Beastiary:
+gui.beastiary.name=Бестиарий
+gui.beastiary.player.spirit=Ваш Дух
+gui.beastiary.player.focus=Ваш Фокус Призыва
+#
+# Index:
+gui.beastiary.index.title=Индекс
+gui.beastiary.index.description=Добро Пожаловать В Звериарий Мобов-Ликанитов! Здесь Вы Можете Найти Всех Существ, О Которых Вы Узнали, Чтобы Лучше Подготовиться К Угрозам, Которые Маячат Там! Вы Также Можете Управлять Любыми Питомцами, Маунтами И Фамильярами, Которых Вы Приручили, А Затем Привязали К Себе. Вы Также Можете Управлять Миньонами, Которых Хотите Призвать!
+gui.beastiary.index.version=Версия Мода
+gui.beastiary.index.version.newer=Доступна Более Новая Версия
+gui.beastiary.index.changes=Последние Изменения
+gui.beastiary.index.changes.name=Имя
+gui.beastiary.index.changes.new=Новые Возможности
+gui.beastiary.index.changes.config=Изменения Конфигурации
+gui.beastiary.index.changes.major=Основные Исправления
+gui.beastiary.index.changes.gameplay=Геймплей
+gui.beastiary.index.changes.balancing=Балансировка
+gui.beastiary.index.changes.minor=Незначительный
+#
+# Creatures:
+gui.beastiary.creatures=Существа
+gui.beastiary.creatures.empty.title=Нет Существ
+gui.beastiary.creatures.empty.info=В Настоящее Время В Ваш Звериарий Не Добавлено Ни Одного Существа. Чтобы Обнаружить Новых Существ, Вы Должны Создать Soulgazer, А Затем Использовать Его На Любых Существах, Которых Вы Найдете, Или Убить Многих Из Них.
+gui.beastiary.creatures.discovered=Существа Обнаружены
+gui.beastiary.creatures.select=Выберите Группу, А Затем Выберите Существо.
+gui.beastiary.website=Посмотреть На Сайте
+gui.beastiary.diet=Диета
+gui.beastiary.summary=Краткое Содержание
+gui.beastiary.combat=Бой
+gui.beastiary.habitat=Естественная Среда
+gui.beastiary.biomes=Биомы
+gui.beastiary.biomes.none=Не Зависит От Биома
+gui.beastiary.drops=Капли
+gui.beastiary.unlockedat=Разблокировано В
+gui.beastiary.tameable=Это Существо Можно Приручить
+gui.beastiary.summonable=Это Существо Можно Призвать В Качестве Миньона На 2-М Уровне Знаний.
+gui.beastiary.mountable=Это Существо Может Ездить Верхом.
+gui.beastiary.perchable=Это Существо Может Сесть Вам На Плечо.
+#
+# Pets:
+gui.beastiary.pets=Домашние Питомцы
+gui.beastiary.mounts=Маунты
+gui.beastiary.familiars=Члены Семьи
+gui.beastiary.pets.select=Выберите Питомца В Меню Слева, Чтобы Управлять Им.
+gui.beastiary.pets.empty.title=Нет Привязанных К Душе Питомцев
+gui.beastiary.pets.empty.info=У Вас Еще Нет Привязанных К Душе Питомцев. Вы Можете Привязать Душу Питомца, Создав Камень Души И Используя Его На Своем Питомце. Здесь Можно Управлять Питомцами, Привязанными К Душе, Где Их Можно Призывать И Отпускать, И Они Даже Возрождаются После Смерти.
+#
+# Summoning:
+gui.beastiary.summoning=Призыв
+gui.beastiary.summoning.select=Выберите Миньона Для Вызова.
+gui.beastiary.summoning.empty.title=Призываемые Существа Не Обнаружены
+gui.beastiary.summoning.empty.info=Вы Еще Не Добавили Существ, Которых Можно Призвать В Свой Звериарий. Продолжайте Искать, Не Каждое Существо Может Быть Вызвано, И Для Его Вызова Вам Потребуется Знание Существа 2 Ранга.
+#
+# Elements:
+gui.beastiary.elements=Элементы
+gui.beastiary.elements.about=Магическая Сила, Называемая Волнами Маны, Распространяется По Всей Вселенной, Эту Силу Можно Разделить 
+На Несколько Магических Элементов. Каждый Элемент По-Своему Влияет На Реальность И Реагирует На Другие Элементы. Существа Естественным Образом Эволюционировали, Чтобы Использовать Один Или Несколько Из Этих Элементов, И Элементали Являются Живыми Проявлениями Этих Элементов.
+gui.beastiary.elements.buffs=Благоприятные Эффекты
+gui.beastiary.elements.debuffs=Вредные Эффекты
+#
+# Summoning Pedestal:
+gui.summoningpedestal.name=Призыв Пьедестала
+#
+# Pet/Minion:
+gui.pet.actions=Действия
+gui.pet.stance=Стойка
+gui.pet.movement=Движение
+gui.pet.active=Активный
+gui.pet.summon=Призвать
+gui.pet.dismiss=Отозвать
+gui.pet.teleport=Телепорт
+gui.pet.pvp=Пвп
+gui.pet.release=Выпускать
+gui.pet.release.confirm=Вы Уверены, Что Хотите Освободить Этого Питомца? После Освобождения Существо Исчезнет Навсегда, Все Предметы, Которые У Него Есть, Будут Выброшены.
+gui.pet.passive=Пассивный
+gui.pet.defensive=Оборонительный
+gui.pet.assist=Помочь
+gui.pet.aggressive=Агрессивный
+gui.pet.follow=Следовать
+gui.pet.wander=Бродить
+gui.pet.sit=Сидеть
+#
+# Mounts:
+gui.mount.controls=Нажмите %controlA% чтобы использовать способность маунта и %controlB% to спешиться.
+#%controlA% will be replaced with the mount ability key and %controlB% with the dismount key, don't translate this!
+#
+# Equipment Forge:
+gui.equipmentforge.text.name=Название Оборудования:
+gui.equipmentforge.button.construct=Построить
+gui.equipmentforge.button.deconstruct=Деконструировать
+gui.equipmentforge.info.empty=Вставьте Деталь Базового Оборудования Или Часть Оборудования, Чтобы Начать.
+gui.equipmentforge.warning.construct=Предупреждение! Некоторые Используемые Части Снаряжения Имеют Более Высокий Уровень, Чем Эта Кузница, И Их Уровень Будет Понижен, Продолжить?
+gui.equipmentforge.warning.deconstruct=Предупреждение! У Оборудования, Которое Вы Разбираете, Есть Детали Более Высокого Уровня, Чем Эта Кузница, И Они Будут Понижены, Продолжить?
+gui.equipmentforge.error.construct=Некоторые Используемые Части Снаряжения Имеют Более Высокий Минимальный Уровень, Чем Эта Кузница, И Их Нельзя Использовать.
+gui.equipmentforge.error.deconstruct=Разбираемое Вами Снаряжение Содержит Части, Минимальный Уровень Которых Выше, Чем У Этой Кузницы, Поэтому Его Нельзя Разобрать.
+gui.equipmentforge.error.name=Вы Должны Назвать Свое Новое Оборудование!
+#
+# Diets:
+diet.carnivore=Хищник
+diet.piscivore=Рыбоядный
+diet.insectivore=Насекомоядное
+diet.herbivore=Травоядное
+diet.frugivore=Плодоядные
+diet.fungivore=Грибоядные
+diet.exudativore=Экссудативное
+diet.detritivore=Детритоядное Животное
+diet.geovore=Гевор
+#
+#
+#
+# ========== Messages ==========
+# Beastiary:
+message.beastiary.new=Вы обнаружили %creature% и теперь он добавлен в ваш Бестиарий!
+message.beastiary.rank=Вы узнали больше о %creature%, открыт %rank% ранг знаний!
+message.beastiary.tameable=Теперь вы можете приручить %creature%.
+message.beastiary.summonable=Теперь вы можете вызвать %creature% в качестве временного миньона! Вам понадобится привзывающий предмет, чтобы вызвать его.
+message.beastiary.summonable.colors=Теперь ты можешь призывать различные вариации %creature%!
+message.beastiary.summonable.skins=Теперь ты можешь призывать подвиды %creature%!
+message.beastiary.known=Теперь у тебя %rank% ранг знания об %creature%.
+message.beastiary.unknown=Об Этом Существе Ничего Нельзя Узнать.
+message.beastiary.study=Знание:
+message.beastiary.study.recharging=Вы Должны Подождать Некоторое Время, Прежде Чем Сможете Снова Изучить Существо.
+message.beastiary.study.cooldown=Время Восстановления Исследования:
+message.beastiary.study.full=Полное Знание Существ:
+#
+# Soulstone:
+message.soulstone.untamed=Камень Души Можно Привязать Только К Прирученному Существу.
+message.soulstone.invalid=Камень Души Не Может Привязываться К Этому Типу Существ.
+message.soulstone.exists=Это Существо Уже Связано.
+message.soulstone.pet.added=Ваш %creature% был привязан, теперь вы найдете его в вашем менеджере домашних животных.
+message.soulstone.mount.added=Ваше %creature% было привязано, теперь вы найдете его в вашем менеджере маунтов.
+#
+# Soulkey:
+message.soulkey.disabled=Алтари Отключены.
+message.soulkey.none=Ключ Души Не Может Найти Алтарь.
+message.soulkey.invalid=Ключ Души Начинает Активировать Алтарь... Но Алтарь Построен Неправильно И Дает Сбой!
+message.soulkey.badlocation=Душевный Ключ Почти Активируется, Но Потом Терпит Неудачу, Кажется, Это Не То Место...
+message.soulkey.active=Ключ Души Активирует Алтарь!
+#
+# Soul Contract:
+message.soul_contract.invalid=У этого существа нет привязки души, сначала попытайтесь использовать камень души, чтобы привязать его для контрактной магии.
+message.soul_contract.not_owner=Душа существа не привязана к вам, сначала попросите владельца привязать душу существа к 
+этому контракту.
+message.soul_contract.wrong_target=Этот контракт не связан с этим существом.
+message.soul_contract.owner_missing=Этот владелец контракта должен присутствовать.
+message.soul_contract.bound=Душа существа была привязана к этому контракту, теперь вы можете передать этот контракт новому владельцу, где он должен использовать его на связанном существе, чтобы забрать его.
+message.soul_contract.unbound=Душа существа была освобождена от этого контракта.
+message.soul_contract.transferred=Связывание души существа было успешно передано.
+#
+# Pet:
+# %creature% will be replaced with the name of the tamed creature, don't translate this!
+message.pet.tamed=%creature%, кажется, теперь любит тебя!
+message.pet.tamefail=%creature% хочет большего!
+message.pet.tamefail.knowledge=Вы получили знания, накормив %creature%. На 2-м ранге вы можете приручить его!
+message.pet.mount.baby=%creature% слишком молод, чтобы нести тебя!
+#
+#
+#
+# ========== Commands ==========
+lyc.command.invalid=Недопустимые аргументы.
+lyc.command.playeronly=Эту команду может использовать только игрок.
+lyc.command.debug.invalid=Invalid arguments, usage: /lycanitesmobs debug debugKey debugValue
+lyc.command.debug.set=Updated %debug%.
+#
+# Spawners:
+lyc.command.spawners.invalid=Invalid arguments, usage: /lycanitesmobs spawners [reload]
+lyc.command.spawners.reload=Json spawners были перезагружены.
+lyc.command.spawners.creative=Toggled Mob Spawn Triggers for Creative Mode players to %value%.
+lyc.command.spawners.test=Триггер проверки спаунера принудительно.
+lyc.command.spawners.test.unknown=Неизвестный спавнер.
+#
+# Equipment:
+lyc.command.equipment.invalid=Invalid arguments, usage: /lycanitesmobs equipment [reload]
+lyc.command.equipment.reload=Детали снаряжения были перезагружены.
+#
+# Dungeons:
+lyc.command.dungeon.invalid=Invalid arguments, usage: /lycanitesmobs spawners [reload]
+lyc.command.dungeon.reload=Подземелья json были перезагружены.
+lyc.command.dungeon.enable=Подземелья lycanites были включены и будут генерироваться в виде новых фрагментов.
+lyc.command.dungeon.disable=Подземелья lycanites были отключены и больше не будут генерироваться в новых чанках.
+lyc.command.dungeon.locate=Ближайшие подземелья:
+#
+# Creatures:
+lyc.command.creatures.invalid=Invalid arguments, usage: /lycanitesmobs creatures [reload]
+lyc.command.creatures.reload=Конфигурации существ были перезагружены.
+#
+# Beastiary:
+lyc.command.beastiary.invalid=Invalid arguments, usage: /lycanitesmobs beastiary [add <creature name>, complete]> for example /lycanitesmobs beastiary add quillbeast
+lyc.command.beastiary.complete=Добавлены все существа в бестиарий.
+lyc.command.beastiary.add.invalid=Invalid arguments, usage: beastiary add <creature name> for example /lycanitesmobs beastiary add quillbeast
+lyc.command.beastiary.add.unknown=Неизвестное существо. убедитесь, что имя написано строчными буквами и не содержит пробелов.
+lyc.command.beastiary.clear=Вычистили всех существ из бестиария.
+#
+# Mob Events:
+lyc.command.mobevent.invalid=Invalid arguments, usage: /lycanitesmobs mobevent [start <event name>, stop, list, enable, 
+disable]> for example /lycanitesmobs mobevent start hellsfury
+lyc.command.mobevent.start.invalid=Недопустимые аргументы, использование: mobevent start <имя события> например, mobevent start hellsfury
+lyc.command.mobevent.start.unknown=Unknown mob event. Use /lycanitesmobs mobevent list for a list of event names.
+lyc.command.mobevent.start.noworld=Объект идентификатора измерения отправителя команды не найден, введите допустимый идентификатор измерения.
+lyc.command.mobevent.start.conditions=Мобильное событие не может начаться в этом месте.
+lyc.command.mobevent.start=Мобильное событие началось.
+lyc.command.mobevent.random=Случайное событие с толпой началось.
+lyc.command.mobevent.stop=Остановлены все события мобов.
+lyc.command.mobevent.list=Мобильные события:
+lyc.command.mobevent.enable=Все события мобов включены.
+lyc.command.mobevent.disable=Все события мобов отключены.
+lyc.command.mobevent.enable.random=Включены случайные события мобов.
+lyc.command.mobevent.disable.random=Случайные события мобов отключены.
+lyc.command.mobevent.reload=События json mob были перезагружены.
+lyc.command.mobevent.creative=Toggled Mob Events for Creative Mode players to %value%.
+#
+#
+#
+# ========== System ==========
+lyc.version.newer=В настоящее время вы используете lycanites mobs {current}, но теперь доступна более новая версия {latest}, рекомендуется обновлять ее!
+#
+#
+#
+# ========== Common ==========
+common.yes=Да
+common.no=Нет
+common.ok=Хорошо
+common.none=Никто
+common.holdshift=Удерживайте shift для получения дополнительной информации.
+#
+#
+#
+# ========== Generic ==========
+generic.defense=Защита
+generic.rangedSpeed=Скорость атаки дальнего боя
+#
+#
+#
+# ========== Stats ==========
+stat.spirit.name=Дух
+stat.spirit.description=Призванные питомцы и средства передвижения удерживают ваш дух. стоимость каждого питомца или средства передвижения различается по стоимости духа, которую вы можете увидеть в списках питомцев или средств передвижения. если ваш питомец или скакун будет изгнан или умрет, ваш дух будет медленно восстанавливаться.
+stat.portal.name=Емкость портала
+stat.portal.description=Порталы призыва могут поддерживать присутствие только ограниченного количества существ и не могут призывать больше, если только текущее существо не исчезнет или не умрет.
+#
+#
+#
+# ========== Potion Effects ==========
+# Debuff:
+effect.burning=Сжигание
+effect.paralysis=Паралич
+effect.penetration=Проникновение
+effect.recklessness=Безрассудство
+effect.rage=Ярость
+effect.weight=Масса
+effect.fear=Страх
+effect.decay=Разлагаться
+effect.insomnia=Бессонница
+effect.instability=Нестабильность
+effect.bleed=Кровотечение
+effect.lifeleak=Лайфликс
+effect.plague=Чума
+effect.aphagia=Афагия
+effect.smited=Поражен
+effect.smouldering=Тлеющий
+#
+# Buffs:
+effect.leech=Пиявка
+effect.swiftswimming=Свифтплавание
+effect.fallresist=Сопротивление падению
+effect.rejuvenation=Омоложение
+effect.immunization=Иммунизация
+effect.cleansed=Очищено
+effect.heataura=Тепловая аура
+effect.staticaura=Статическая аура
+effect.freezeaura=Замораживающая аура
+effect.envenom=Отравление
+#
+#
+#
+# ========== Key Bindings ==========
+key.mount.dismount=Dismount / Unperch Pet
+key.mount.descend=Спуск с горы
+key.mount.ability=Способность маунта
+key.mount.inventory=Инвентарь скакуна
+key.index=Индекс бестиария
+key.beastiary=Бестиарий
+key.pets=Домашние питомцы
+key.summoning=Призыв
+key.minions=Выбор миньона
+#
+#
+#
+# ========== Equipment ==========
+equipment.slottype=Тип слота:
+equipment.element=Элементы заряда:
+equipment.level=Уровень:
+equipment.sharpness=Острота:
+equipment.mana=Мана:
+equipment.item.repair=Этот предмет можно использовать для ремонта созданного снаряжения.
+equipment.feature.slot=Добавляет слот:
+equipment.feature.damage=Урон:
+equipment.feature.damage.cooldown=Перезарядка:
+equipment.feature.damage.knockback=Отбрасывание:
+equipment.feature.damage.range=Диапазон:
+equipment.feature.damage.sweep=Размах:
+equipment.feature.effect=Эффект:
+equipment.feature.effect.duration=Продолжительность:
+equipment.feature.effect.strength=Сила:
+equipment.feature.harvest=Инструмент:
+equipment.feature.harvest.shape=Форма:
+equipment.feature.harvest.range=Диапазон:
+equipment.feature.summon=Призывает:
+equipment.feature.summon.chance=Шанс:
+equipment.feature.summon.count=Количество:
+equipment.feature.projectile=Снаряд:
+equipment.feature.projectile.trigger=Курок:
+equipment.feature.projectile.trigger.hit=При попадании
+equipment.feature.projectile.trigger.primary=Основное использование
+equipment.feature.projectile.trigger.secondary=Вторичное использование
+equipment.feature.projectile.pattern=Шаблон:
+equipment.feature.projectile.pattern.spread=Распространение
+equipment.feature.projectile.pattern.ring=Кольцо
+#
+#
+#
+# ========== Creatures ==========
+creature.stat.element=Элемент
+creature.stat.subspecies=Подвиды
+creature.stat.variant=Вариант
+creature.stat.variants=Варианты
+creature.stat.cost=Стоимость вызова
+creature.stat.spirit=Стоимость призыва духа
+creature.stat.focus=Стоимость концентрации призыва
+creature.stat.respawning=Возрождение
+creature.stat.knowledge=Уровень знаний
+creature.stat.base=Базовая статистика
+creature.stat.health=Здоровье
+creature.stat.defense=Защита
+creature.stat.speed=Скорость
+creature.stat.damage=Урон в ближнем бою
+creature.stat.pierce=Пирс ближнего боя
+creature.stat.effect=Эффект ближнего боя
+creature.stat.level=Уровень
+creature.stat.experience=Опыт
+# ========================================================================
+tile.summoningpedestal.name=Призыв пьедестала
+tile.summoningpedestal.description=Этот пьедестал может создавать постоянный портал призыва, который будет вызывать выбранного миньона. некоторые пьедесталы могут принадлежать игроку, а некоторые нет.
+#
+#
+# ========== Equipment Forges ==========
+tile.equipmentforge_lesser.name=Малая кузница снаряжения (уровень 1)
+tile.equipmentforge_lesser.description=Эту кузницу можно использовать для создания нового снаряжения из частей тела существ 1-го уровня (части более высокого уровня будут по возможности понижены).
+#
+tile.equipmentforge_greater.name=Большая кузница снаряжения (уровень 2)
+tile.equipmentforge_greater.description=Эта кузница может быть использована для создания нового снаряжения из частей тела существ уровня 2 или ниже (части более высокого уровня будут по возможности понижены).
+#
+tile.equipmentforge_master.name=Мастерская кузница снаряжения (ур. 3)
+tile.equipmentforge_master.description=Эта кузница может быть использована для создания нового снаряжения из частей тела существ уровня 3 или ниже.
+#
+tile.equipment_infuser=Инфузионное оборудование
+tile.equipment_infuser.description=Используется для наполнения предметов заряда частями снаряжения соответствующими элементами для повышения их уровня. также может использоваться для нанесения красителей на детали снаряжения.
+#
+tile.equipment_station=Станция оборудования
+tile.equipment_station.description=Используется для восстановления остроты снаряжения и маны.
+#
+#
+# ========== Special ==========
+tile.frostweb.name=Морозная паутина
+tile.frostweb.description=Паутина из ледяного холодного шелка, временная.
+#
+tile.quickweb.name=Квиквеб
+tile.quickweb.description=Зеленая паутина, которая вскоре развалится.
+#
+tile.poisoncloud.name=Ядовитое облако
+tile.poisoncloud.description=Ядовитое облако, отравляющее все, что соприкасается.
+#
+tile.poopcloud.name=Облако какашек
+tile.poopcloud.description=Очень вонючее облако, которое накладывает медлительность и тошноту!
+#
+#
+# ========== Fire ==========
+tile.scorchfire.name=Скорчфайр
+tile.scorchfire.description=Зачарованный огонь, не такой жаркий, как обычный огонь, но применяет проникновение, увеличивая получаемый урон.
+#
+tile.primefire.name=Прайм-огонь
+tile.primefire.description=Идеальное бело-голубое пламя высочайшей температуры, которое быстро сжигает все вокруг, наносит большой урон и накладывает тление.
+#
+tile.doomfire.name=Роковой огонь
+tile.doomfire.description=Злое пламя, корчащееся от демонической ярости. горит и распространяется быстрее, чем обычный огонь.
+#
+tile.hellfire.name=Адское пламя
+tile.hellfire.description=Злобное пламя, зараженное искривленной демонической энергией. горит дольше, распространяется медленнее, наносит больше урона, чем огонь.
+#
+tile.icefire.name=Ледяной огонь
+tile.icefire.description=Магическое пламя, которое замораживает, наносит урон и замедляет движение.
+#
+tile.shadowfire.name=Теневой огонь
+tile.shadowfire.description=Темное пламя, наносящее урон и ослепляющее.
+#
+tile.frostcloud.name=Морозное облако
+tile.frostcloud.description=Небольшое снежное облако, которое накладывает замедление движения и голод.
+#
+tile.frostfire.name=Мороз огонь
+tile.frostfire.description=Магическое пламя, которое замораживает, наносит урон и замедляет движение. может вызывать разбойников.
+#
+tile.smitefire.name=Смайтфайр
+tile.smitefire.description=Священное пламя, поражающее ненавистных, наносит ущерб и накладывает поражение, заставляя пораженных гореть на солнце.
+#
+tile.Primefire.name=Прайм-огонь
+tile.Primefire.description=Идеальное бело-голубое пламя высочайшей температуры, которое быстро сжигает все вокруг, наносит большой урон и накладывает тление.
+#
+# ========== Fluids ==========
+tile.moglava.name=Тоглава
+tile.moglava.description=Более прозрачная, чем обычная лава, течет немного быстрее, и в ней не появляются существа. может обновляться, как вода.
+#
+tile.ooze.name=Слизь
+tile.ooze.description=Ледяное гелеобразное вещество вызывает медлительность, голод и наносит небольшой урон с течением времени.
+#
+#
+# ========== Vespid ==========
+tile.veswax.name=Весвакс
+tile.veswax.description=Прочная глиноподобная субстанция, которую веспиды обычно создают для стен улья.
+#
+tile.propolis.name=Прополис
+tile.propolis.description=Прочная глиноподобная субстанция, созданная веспидами, обычно для формирования полов и потолков ульев.
+# ========================================================================
+tile.soulcubedemonic.name=Демонический куб души
+tile.soulcubedemonic.description=Источник великой демонической энергии, ожидающий высвобождения, идеальный для привлечения великого зла...
+#
+tile.soulcubeaberrant.name=Аберрантный куб души
+tile.soulcubeaberrant.description=Странное устройство с неизвестной инопланетной технологией и текущей внутри магией, возможно, какая-то форма маяка?
+#
+tile.soulcubeundead.name=Душевный куб нежити
+tile.soulcubeundead.description=Внутри тысячи искажённых захваченных душ, ожидающих побега!
+# ========================================================================
+tile.demonstonebrick_stairs.name=Кирпичная лестница из демонического камня
+tile.demonstonebrick_stairs.description=Некоторые говорят, что большие демоны порабощают меньших демонов в качестве рабов, чтобы строить храмы зла.
+#
+tile.demoncrystal.name=Кристалл демона
+tile.demoncrystal.description=Символ действует как оберег, поскольку захваченная демоническая энергия бушует внутри, излучая зловещий свет.
+#
+tile.demonstonechiseled.name=Точеный демонический камень
+tile.demonstonechiseled.description=Неизвестно, почему высшие демоны требуют таких деталей для своих храмов, возможно, они являются символом статуса?
+#
+tile.demonstonebrick_wall.name=Кирпичная стена демонического камня
+tile.demonstonebrick_wall.description=Некоторые говорят, что большие демоны порабощают меньших демонов в качестве рабов, чтобы строить храмы зла.
+#
+tile.demonstone.name=Демонический камень
+tile.demonstone.description=Камень, наполненный злой сущностью великого демона.
+#
+tile.demonstonebrick_slab.name=Кирпичная плита из демонического камня
+tile.demonstonebrick_slab.description=Некоторые говорят, что большие демоны порабощают меньших демонов в качестве рабов, чтобы строить храмы зла.
+#
+tile.demonstone_stairs.name=Лестница из демонического камня
+tile.demonstone_stairs.description=Камень, наполненный злой сущностью великого демона.
+#
+tile.demonstone_slab.name=Плита демонического камня
+tile.demonstone_slab.description=Камень, наполненный злой сущностью великого демона.
+#
+tile.demonstonebrick_fence.name=Кирпичный забор из демонического камня
+tile.demonstonebrick_fence.description=Некоторые говорят, что большие демоны порабощают меньших демонов в качестве рабов, чтобы строить храмы зла.
+#
+tile.demonstonepillar.name=Столб демонического камня
+tile.demonstonepillar.description=Демонические храмы построены большими, и хотя они покрыты кровью страждущих, они выглядят величественно.
+#
+tile.demonstonetile_slab.name=Плитка из демонического камня
+tile.demonstonetile_slab.description=Как что-то из такого зла может содержать столько красоты?
+#
+tile.demonstonetile.name=Плитка демонического камня
+tile.demonstonetile.description=Как что-то из такого зла может содержать столько красоты?
+#
+tile.demonstone_slab_double.name=Двойная плита демонического камня
+tile.demonstone_slab_double.description=Камень, наполненный злой сущностью великого демона.
+#
+tile.demonstonebrick.name=Кирпич демонического камня
+tile.demonstonebrick.description=Некоторые говорят, что большие демоны порабощают меньших демонов в качестве рабов, чтобы строить храмы зла.
+#
+tile.demonstonepolished.name=Полированный демонический камень
+tile.demonstonepolished.description=После полировки демонический камень выглядит как свежая кровь.
+#
+tile.demonstonetile_stairs.name=Лестница из плитки демонического камня
+tile.demonstonetile_stairs.description=Как что-то из такого зла может содержать столько красоты?
+# ========================================================================
+tile.aberrantstonebrick_stairs.name=Кирпичная лестница аберрантстоун
+tile.aberrantstonebrick_stairs.description=Есть что-то чуждое в этих декоративных блоках.
+#
+tile.aberrantcrystal.name=Аберрантный кристалл
+tile.aberrantcrystal.description=Испускаемый свет кажется исходящим из другого мира...
+#
+tile.aberrantstonechiseled.name=Точеный аберрантовый камень
+tile.aberrantstonechiseled.description=Есть что-то чуждое в этих декоративных блоках.
+#
+tile.aberrantstonebrick_wall.name=Кирпичная стена из аберрантстоуна
+tile.aberrantstonebrick_wall.description=Есть что-то чуждое в этих декоративных блоках.
+#
+tile.aberrantstone.name=Аберрантстоун
+tile.aberrantstone.description=Есть что-то чуждое в этих декоративных блоках.
+#
+tile.aberrantstonebrick_slab.name=Кирпичная плита из аберрантстоуна
+tile.aberrantstonebrick_slab.description=Есть что-то чуждое в этих декоративных блоках.
+#
+tile.aberrantstone_stairs.name=Лестница аберрантстоун
+tile.aberrantstone_stairs.description=Есть что-то чуждое в этих декоративных блоках.
+#
+tile.aberrantstone_slab.name=Плита аберрантового камня
+tile.aberrantstone_slab.description=Есть что-то чуждое в этих декоративных блоках.
+#
+tile.aberrantstonebrick_fence.name=Кирпичный забор из аберрантстоуна
+tile.aberrantstonebrick_fence.description=Есть что-то чуждое в этих декоративных блоках.
+#
+tile.aberrantstonepillar.name=Аберрантовый столб
+tile.aberrantstonepillar.description=Есть что-то чуждое в этих декоративных блоках.
+#
+tile.aberrantstonetile_slab.name=Плитка из аберрантового камня
+tile.aberrantstonetile_slab.description=Есть что-то чуждое в этих декоративных блоках.
+#
+tile.aberrantstonetile.name=Плитка аберрантстоуна
+tile.aberrantstonetile.description=Есть что-то чуждое в этих декоративных блоках.
+#
+tile.aberrantstone_slab_double.name=Двойная плита из аберрантового камня
+tile.aberrantstone_slab_double.description=Есть что-то чуждое в этих декоративных блоках.
+#
+tile.aberrantstonebrick.name=Кирпич аберрантстоун
+tile.aberrantstonebrick.description=Есть что-то чуждое в этих декоративных блоках.
+#
+tile.aberrantstonepolished.name=Полированный аберрантстоун
+tile.aberrantstonepolished.description=Есть что-то чуждое в этих декоративных блоках.
+#
+tile.aberrantstonetile_stairs.name=Лестница из плитки aberrantstone
+tile.aberrantstonetile_stairs.description=Есть что-то чуждое в этих декоративных блоках.
+# ========================================================================
+tile.desertstonebrick_stairs.name=Кирпичная лестница из пустынного камня
+tile.desertstonebrick_stairs.description=Очищенный песчаник, из которого строят великие монументы в пустыне.
+#
+tile.desertcrystal.name=Кристалл пустыни
+tile.desertcrystal.description=Странное стекло, зачарованное магией света.
+#
+tile.desertstonechiseled.name=Точеный камень пустыни
+tile.desertstonechiseled.description=Камень пустыни с тонкой резьбой.
+#
+tile.desertstonebrick_wall.name=Кирпичная стена из пустынного камня
+tile.desertstonebrick_wall.description=Очищенный песчаник, из которого строят великие монументы в пустыне.
+#
+tile.desertstone.name=Пустыня
+tile.desertstone.description=Очищенный песчаник, из которого строят великие монументы в пустыне.
+#
+tile.desertstonebrick_slab.name=Кирпичная плита из пустынного камня
+tile.desertstonebrick_slab.description=Очищенный песчаник, из которого строят великие монументы в пустыне.
+#
+tile.desertstone_stairs.name=Лестница пустынного камня
+tile.desertstone_stairs.description=Очищенный песчаник, из которого строят великие монументы в пустыне.
+#
+tile.desertstone_slab.name=Каменная плита пустыни
+tile.desertstone_slab.description=Очищенный песчаник, из которого строят великие монументы в пустыне.
+#
+tile.desertstonebrick_fence.name=Кирпичный забор из пустынного камня
+tile.desertstonebrick_fence.description=Очищенный песчаник, из которого строят великие монументы в пустыне.
+#
+tile.desertstonepillar.name=Столб из пустынного камня
+tile.desertstonepillar.description=Очищенный песчаник, из которого строят великие монументы в пустыне.
+#
+tile.desertstonetile_slab.name=Плитка из пустынного камня
+tile.desertstonetile_slab.description=Украшенный пустынный камень используется для мощения полов великих памятников.
+#
+tile.desertstonetile.name=Плитка пустынного камня
+tile.desertstonetile.description=Украшенный пустынный камень используется для мощения полов великих памятников.
+#
+tile.desertstone_slab_double.name=Двойная плита пустынного камня
+tile.desertstone_slab_double.description=Очищенный песчаник, из которого строят великие монументы в пустыне.
+#
+tile.desertstonebrick.name=Пустынный кирпич
+tile.desertstonebrick.description=Очищенный песчаник, из которого строят великие монументы в пустыне.
+#
+tile.desertstonepolished.name=Полированный камень пустыни
+tile.desertstonepolished.description=Очищенный песчаник, из которого строят великие монументы в пустыне.
+#
+tile.desertstonetile_stairs.name=Лестница из плитки из пустынного камня
+tile.desertstonetile_stairs.description=Украшенный пустынный камень используется для мощения полов великих памятников.
+#
+tile.soulcubedesertic.name=Пустынный куб души
+tile.soulcubedesertic.description=Странное устройство, наполненное сложной магией света, тайной и земли.
+# ========================================================================
+tile.lushstonebrick_stairs.name=Лестница из кирпича lushstone
+tile.lushstonebrick_stairs.description=Сама сущность природы течет через этот камень.
+#
+tile.lushcrystal.name=Пышный кристалл
+tile.lushcrystal.description=Символ действует как оберег, в то время как пойманная пышная энергия бушует внутри, излучая злой свет.
+#
+tile.lushstonechiseled.name=Точеный пышный камень
+tile.lushstonechiseled.description=Сама сущность природы течет через этот камень.
+#
+tile.lushstonebrick_wall.name=Кирпичная стена из пышного камня
+tile.lushstonebrick_wall.description=Сама сущность природы течет через этот камень.
+#
+tile.lushstone.name=Лушстоун
+tile.lushstone.description=Сама сущность природы течет через этот камень.
+#
+tile.lushstonebrick_slab.name=Кирпичная плита lushstone
+tile.lushstonebrick_slab.description=Сама сущность природы течет через этот камень.
+#
+tile.lushstone_stairs.name=Пышная лестница
+tile.lushstone_stairs.description=Сама сущность природы течет через этот камень.
+#
+tile.lushstone_slab.name=Каменная плита
+tile.lushstone_slab.description=Сама сущность природы течет через этот камень.
+#
+tile.lushstonebrick_fence.name=Кирпичный забор из лушстона
+tile.lushstonebrick_fence.description=Сама сущность природы течет через этот камень.
+#
+tile.lushstonepillar.name=Пышный столб
+tile.lushstonepillar.description=Сама сущность природы течет через этот камень.
+#
+tile.lushstonetile_slab.name=Lushstone плитка плитка
+tile.lushstonetile_slab.description=Сама сущность природы течет через этот камень.
+#
+tile.lushstonetile.name=Каменная плитка
+tile.lushstonetile.description=Сама сущность природы течет через этот камень.
+#
+tile.lushstone_slab_double.name=Двойная плита из пышного камня
+tile.lushstone_slab_double.description=Сама сущность природы течет через этот камень.
+#
+tile.lushstonebrick.name=Пышный кирпич
+tile.lushstonebrick.description=Сама сущность природы течет через этот камень.
+#
+tile.lushstonepolished.name=Полированный пышный камень
+tile.lushstonepolished.description=Сама сущность природы течет через этот камень.
+#
+tile.lushstonetile_stairs.name=Лестница из плитки lushstone
+tile.lushstonetile_stairs.description=Сама сущность природы течет через этот камень.
+# ========================================================================
+#
+tile.shadowstonebrick_stairs.name=Кирпичная лестница из теневого камня
+tile.shadowstonebrick_stairs.description=Колпачки между кирпичами как будто всасывают свет.
+#
+tile.shadowstonetile_stairs.name=Лестница из плитки shadowstone
+tile.shadowstonetile_stairs.description=Иди сквозь тьму и улыбайся, ты добился многого.
+#
+tile.shadowstonebrick_fence.name=Кирпичный забор из теневого камня
+tile.shadowstonebrick_fence.description=Колпачки между кирпичами как будто всасывают свет.
+#
+tile.shadowcrystal.name=Кристалл тени
+tile.shadowcrystal.description=Поскольку руна быстро притягивает свет, она становится настолько темной, что становится яркой.
+#
+tile.shadowstone_slab_double.name=Двойная плита из темного камня
+tile.shadowstone_slab_double.description=Камень, созданный из самой тени.
+#
+tile.shadowstonechiseled.name=Точеный теневой камень
+tile.shadowstonechiseled.description=Самый эффективный способ выточить shadowstone — это использовать кости своих жертв.#
+tile.shadowstone.name=Камень теней
+tile.shadowstone.description=Камень, созданный из самой тени.
+#
+tile.shadowstone_stairs.name=Лестница теневого камня
+tile.shadowstone_stairs.description=Камень, созданный из самой тени.
+#
+tile.shadowstone_slab.name=Плита теневого камня
+tile.shadowstone_slab.description=Камень, созданный из самой тени.
+#
+tile.shadowstonetile.name=Плитка теневого камня
+tile.shadowstonetile.description=Иди сквозь тьму и улыбайся, ты добился многого.
+#
+tile.shadowstonebrick_slab.name=Кирпичная плита из теневого камня
+tile.shadowstonebrick_slab.description=Колпачки между кирпичами как будто всасывают свет.
+#
+tile.shadowstonepolished.name=Полированный камень теней
+tile.shadowstonepolished.description=Хотя тени ассоциируются со страхом и отчаянием, они мягкие и несколько успокаивающие...
+#
+tile.shadowstonebrick.name=Кирпич теневого камня
+tile.shadowstonebrick.description=Колпачки между кирпичами как будто всасывают свет.
+#
+tile.shadowstonepillar.name=Столб теневого камня
+tile.shadowstonepillar.description=Позвольте тем, кто вас окружает, покорить вас, глядя на ваше темное величие.
+#
+tile.shadowstonetile_slab.name=Плитка из теневого камня
+tile.shadowstonetile_slab.description=Иди сквозь тьму и улыбайся, ты добился многого.
+#
+tile.shadowstonebrick_wall.name=Кирпичная стена из теневого камня
+tile.shadowstonebrick_wall.description=Колпачки между кирпичами как будто всасывают свет.
+# ========================================================================
+tile.ashenstonebrick_stairs.name=Кирпичная лестница эшенстона
+tile.ashenstonebrick_stairs.description=Изначальные силы земли и лавы пронизывают этот камень.
+#
+tile.ashencrystal.name=Пепельный кристалл
+tile.ashencrystal.description=Мощная связь лавы и магии земли бесконечно питает этот кристалл.
+#
+tile.ashenstonechiseled.name=Точеный пепельный камень
+tile.ashenstonechiseled.description=Изначальные силы земли и лавы пронизывают этот камень.
+#
+tile.ashenstonebrick_wall.name=Кирпичная стена пепельного камня
+tile.ashenstonebrick_wall.description=Изначальные силы земли и лавы пронизывают этот камень.
+#
+tile.ashenstone.name=Эшенстоун
+tile.ashenstone.description=Изначальные силы земли и лавы пронизывают этот камень.
+#
+tile.ashenstonebrick_slab.name=Кирпичная плита пепельного камня
+tile.ashenstonebrick_slab.description=Изначальные силы земли и лавы пронизывают этот камень.
+#
+tile.ashenstone_stairs.name=Эшенстонская лестница
+tile.ashenstone_stairs.description=Изначальные силы земли и лавы пронизывают этот камень.
+#
+tile.ashenstone_slab.name=Пепельная плита
+tile.ashenstone_slab.description=Изначальные силы земли и лавы пронизывают этот камень.
+#
+tile.ashenstonebrick_fence.name=Кирпичный забор пепельного камня
+tile.ashenstonebrick_fence.description=Изначальные силы земли и лавы пронизывают этот камень.
+#
+tile.ashenstonepillar.name=Ксенстонская колонна
+tile.ashenstonepillar.description=Изначальные силы земли и лавы пронизывают этот камень.
+#
+tile.ashenstonetile_slab.name=Плитка из пепельного камня
+tile.ashenstonetile_slab.description=Изначальные силы земли и лавы пронизывают этот камень.
+#
+tile.ashenstonetile.name=Пепельная плитка
+tile.ashenstonetile.description=Изначальные силы земли и лавы пронизывают этот камень.
+#
+tile.ashenstone_slab_double.name=Двойная плита пепельного камня
+tile.ashenstone_slab_double.description=Изначальные силы земли и лавы пронизывают этот камень.
+#
+tile.ashenstonebrick.name=Пепельный кирпич
+tile.ashenstonebrick.description=Изначальные силы земли и лавы пронизывают этот камень.
+#
+tile.ashenstonepolished.name=Полированный пепельный камень
+tile.ashenstonepolished.description=Изначальные силы земли и лавы пронизывают этот камень.
+#
+tile.ashenstonetile_stairs.name=Лестница из плитки эшенстоун
+tile.ashenstonetile_stairs.description=Изначальные силы земли и лавы пронизывают этот камень.
+# ========================================================================
+entity.lycanitesmobs.creature.name.format=Возраст|вариант|подвид|вид|уровень
+# ========================================================================
+entity.abaia.name=Абайя
+entity.abaia.description=Агрессивные угри, которые генерируют электрический ток через свое тело.
+entity.abaia.habitat=Эти рыбы являются катадромными, что означает, что они рождаются в соленых океанах, а затем мигрируют и созревают в пресноводных реках, прежде чем снова вернуться в соленую воду. некоторые из них попадают в ловушку в озерах и создают там колонию, поэтому их можно найти в большинстве мест.
+entity.abaia.combat=В то время как Абайя использует свой электрический ток, чтобы поразить все, что находится рядом с ними, они также имеют неприятный укус.
+# ========================================================================
+entity.abtu.name=Абту
+entity.abtu.description=Злобная рыба с большими зубами! взрослых редко можно встретить, так как их безрассудный характер означает, что они не живут слишком долго!
+entity.abtu.habitat=Эти рыбы обычно встречаются в соленых океанах и на пляжах.
+entity.abtu.combat=Как только абту почувствует свою добычу, он не остановится ни перед чем, чтобы сожрать ее. известно, 
+что они даже прыгают на землю и преследуют свою добычу! взрослые абту более сдержанны, но также редки, они будут звать ближайших младенцев, чтобы те окружили их добычу.
+# ========================================================================
+entity.aegis.name=Эгида
+entity.aegis.description=Элементали ордена, охраняющие правопорядок, эгида, как известно, обеспечивают соблюдение закона в деревнях, даже мелкие воры будут безжалостно преследоваться.
+entity.aegis.habitat=Будучи элементалями порядка, эгида появляется в областях, богатых элементом порядка, поэтому деревни очень часто создают этих существ.
+entity.aegis.combat=У aegis есть два режима, между которыми они переключаются: защитный режим щита, в котором они блокируют большую часть урона с помощью двух больших вращающихся щитов, и наступательный режим меча, в котором они пронзают свою цель четырьмя вращающимися лезвиями.
+# ========================================================================
+entity.afrit.name=Африт
+entity.afrit.description=Злые пламенные бесы, стремящиеся к разрушению, будут агрессивно сжигать мир вокруг себя. Будуче прирученные станут защищать хозяина от огня и лавы.
+entity.afrit.habitat=Эти бесы обычно купаются в бассейнах с лавой.
+entity.afrit.combat=Африты обычно атакуют издалека, бросая шары scorchfire, смертоносное сочетание горячего огня и сильной кислоты, ослабляющей защиту всего, что поражено.
+# ========================================================================
+entity.aglebemu.name=Аглебему
+entity.aglebemu.description=Крупные ядовитые лягушки с отличными способностями плавать, а также удивительной силой прыжка и смертоносно длинным языком!
+entity.aglebemu.habitat=Эти амфибии обычно встречаются на болотах.
+entity.aglebemu.combat=Аглебему используют свои мощные, чрезвычайно длинные и острые языки, чтобы пронзить своих жертв и ввести смертельную смесь заразных бактерий.
+# ========================================================================
+entity.archvile.name=Архвиль
+entity.archvile.description=Злобные демоны, правящие областями нижнего мира, Архвилы наслаждаются запахом горящей плоти своей жертвы и наслаждаются тем, как другие демоны разрывают своих жертв на части!
+entity.archvile.habitat=Архвиль живет в глубинах нижнего мира.
+entity.archvile.combat=Архвилы сами предпочитают избегать боя, вместо этого они усиливают ближайших демонов и медленно охватывают свою цель пламенем.
+# ========================================================================
+entity.argus.name=Аргус
+entity.argus.description=Разрушительные элементали хаоса, Аргусы сеют хаос на своем пути.
+entity.argus.habitat=Будучи элементалями хаоса, Аргус формируются, когда в области наблюдается большая концентрация хаоса, это может быть вызвано несколькими причинами, но обычно уничтожение других элементалей вызывает высокую концентрацию хаоса.
+entity.argus.combat=Эти элементали атакуют, запуская сферу концентрированной энергии хаоса, траектория этих сфер может быть непредсказуемой, и при ударе эти сферы разрушают саму ткань реальности, вызывая нестабильность.
+# ========================================================================
+entity.arisaur.name=Аризавр
+entity.arisaur.description=Аризавры, покрытые крупными растениями, аризавры миролюбивы и обычно пасутся на деревьях или на собственных спинах, разделяя симбиотические отношения.
+entity.arisaur.habitat=Аризавры обычно встречаются в густых лесах, но их также можно увидеть мигрирующими по равнинам.
+entity.arisaur.combat=Обычно аризавры миролюбивы.
+# ========================================================================
+entity.arix.name=Арикс
+entity.arix.description=Непослушные ледяные бесы, которые постоянно ищут еду.
+entity.arix.habitat=Арикс процветают при низких температурах и часто встречаются в холодных биомах, а также купаются в ледяной иле.
+entity.arix.combat=Эти бесы владеют ледяным пламенем, формой магии льда, которая выглядит и ведет себя так, как будто это огонь, но замораживает, а не сжигает.
+# ========================================================================
+entity.asmodeus.name=Асмодей
+entity.asmodeus.description=Известно, что асмодей является вдохновителем любой формы демонического вторжения, иногда даже раховарт попадает в их ряды.
+entity.asmodeus.habitat=Говорят, что асмодеи происходят из огромных адских планов бесконечной плоти, называемых чистилищем, и что изначально они были могущественными астаротами, что означает, что когда-то в своем существовании они были всего лишь простыми тритами!
+entity.asmodeus.combat=Этот великий демон, или дьявол, имеет широкий спектр атак и способен прыгать на большую высоту с 
+помощью своего демонического меха. он будет периодически использовать свою огромную пушку гатлинга для обстрела целей, а также кишит трайтами, которые будут защищать его. фаза 1: асмодей будет выпускать кольца снарядов наружу. фаза 2: асмодей призывает больших астаротов, которые будут окружать его щитом, пока не будут уничтожены. фаза 3: вместо этого астарот исцеляет асмодеуса, а также вызываются какодемоны.
+# ========================================================================
+entity.aspid.name=Аспид
+entity.aspid.description=Мирные рептилии со странными наростами на спине. аспиды любят грибы, и их можно выращивать вместе с ними. однако будьте осторожны, так как они постоянно испускают облако яда и обычно оставляют за собой след.        
+entity.aspid.habitat=Эти существа обычно обитают в болотах, темных лесах и на грибных островах из-за их любви к грибам!
+entity.aspid.combat=Аспиды обычно миролюбивы, но ядовитые облака, которые они испускают, могут быть довольно опасными, однако это не останавливает страстных фермеров!
+# ========================================================================
+entity.astaroth.name=Астарот
+entity.astaroth.description=Демонические мозгоподобные существа, установленные на механических платформах, сделанных из 
+демонической технологии красного камня, поддерживаемых банальными миньонами. если вам удастся обойти их скорострельное оружие и уничтожить их, все местные жители выползут и нападут!
+entity.astaroth.habitat=Говорят, что эти демоны происходят из бесконечного адского плана плоти, называемого чистилищем, 
+и что когда-то они были простыми тритами, их часто можно найти бродящими по нижнему миру.
+entity.astaroth.combat=Астароты используют мощное быстродействующее оружие, которое преобразует их демоническую энергию 
+в мощные снаряды, называемые дьявольскими звездами, при ударе они могут вызвать увядание. если астарот падет, из его трупа выйдет небольшой отряд тритесов и продолжит атаку!
+# ========================================================================
+entity.balayang.name=Балаянг
+entity.balayang.description=Злобные летучие мыши-циклопы со смертоносными клыками. им нравится выслеживать горгомитов и 
+другую мелкую добычу, в том числе и вас!
+entity.balayang.habitat=Балаяны летают по пустыне и небу над горами ночью.
+entity.balayang.combat=Укус балаяна оставит вас в крови с плохим зрением!
+# ========================================================================
+entity.banshee.name=Банши
+entity.banshee.description=Банши - ужасающие фазовые элементали, которые могут перемещаться сквозь саму реальность, их часто можно услышать, как они «поют». говорят, что элементаль на самом деле является парой глаз, а не трупом, который он 
+«переназначил». элементали геонаха и зефира также могут сливаться в могучую банши.
+entity.banshee.habitat=Эти элементали обитают в жутких и заброшенных местах, где их обычно можно найти вокруг заброшенных шахт, а также в темных лесах и других местах, олицетворяющих беспокойство.
+entity.banshee.combat=При контакте с банши сама душа их жертвы поражается фазовой магией, обычно это вызывает страх и панику.
+# ========================================================================
+entity.barghest.name=Баргест
+entity.barghest.description=Смертоносные горные хищники, способные совершать высокие прыжки. баргесты также очень опытные альпинисты, что делает их исключительными ездовыми животными в горах.
+entity.barghest.habitat=Эти звери обычно встречаются в горных районах, а также в саваннах.
+entity.barghest.combat=Известно, что баргесты прыгают на свою добычу и рвут ее, вызывая кровотечение.
+# ========================================================================
+entity.behemoth.name=Бегемот
+entity.behemoth.description=Высокие демонические чудовища, Бегемоты — могущественные демоны, стремящиеся к разрушению.
+entity.behemoth.habitat=Бегемот можно найти в нижнем мире, а также он будет вторгаться через незащищенные порталы, если они достаточно велики.
+entity.behemoth.combat=Эти демоны бросают шары адского пламени, зеленого пламени, созданного разрыванием душ, это пламя 
+не только горит, но и увядает.
+# ========================================================================
+entity.beholder.name=Очевидец
+entity.beholder.description=Большие враждебные массы глаз и щупалец с вечной жаждой магической энергии!
+entity.beholder.habitat=Наксири можно найти в горах, так как они любят высокие места, живут в больших пещерах и руинах и выходят ночью.
+entity.beholder.combat=Эти Очевидеци создают мощные чародейские штормы, которые они выпускают изо рта, эти атаки затем выпускают смертоносные лазеры во всех направлениях и могут быть взрывоопасными при ударе.
+# ========================================================================
+entity.necrovore.name=Некровор
+entity.necrovore.description=Ужасные псы-нежить, которые жаждут гнилой плоти, но без колебаний съедят и вашу.
+entity.necrovore.habitat=Некроворы, как правило, появляются в самую темную ночь новолуния, а также обитают в проклятых землях.
+entity.necrovore.combat=Эти гончие нежити быстры и безжалостны со злым укусом.
+# ========================================================================
+entity.belph.name=Бельфегор
+entity.belph.description=Маленькие, но опасные демоны с односторонним разумом, склонные к убийству и поеданию.
+entity.belph.habitat=Этих демонов можно найти в нижнем мире, и они будут вторгаться через порталы.
+entity.belph.combat=Бельфегор бросает шары рокового огня, пламени, созданного магией пустоты, которые горят неестественным красным цветом.
+# ========================================================================
+entity.cacodemon.name=Какодемон
+entity.cacodemon.description=Большие плавающие мерзости жизни. малврат любит издеваться над гастами за их восхитительные слезы. можно приручить как летающего питомца.
+entity.cacodemon.habitat=Эти демоны летают по огненным небесам пустоты.
+entity.cacodemon.combat=Какодемон плюется большими шарами демонической молнии, хотя на самом деле это не электрические шары, это шары взрывной энергии пустоты, которые увядают при ударе и выпускают более мелкие демонические искры во всех направлениях.
+# ========================================================================
+entity.calpod.name=Кальпод
+entity.calpod.description=Отвратительные насекомые, похожие на термитов, которые роятся в своей добыче!
+entity.calpod.habitat=Этих насекомых можно найти в подлеске и выйти ночью.
+entity.calpod.combat=Кальподы имеют неприятный укус, но их нужно убивать быстро, так как они быстро призывают к себе больше кальподов.
+# ========================================================================
+entity.cephignis.name=Цефигний
+entity.cephignis.description=Крупные мирные рыбы, приспособившиеся к жизни в условиях экстремальных температур, их тела 
+раскалены, как лава. cephignis можно выращивать, используя уголь или древесный уголь!
+entity.cephignis.habitat=Эти рыбы плавают в лаве и не могут долго выживать вне ее.
+entity.cephignis.combat=Цефигний обычно пассивны, полагаясь на окружающую среду для защиты от большинства хищников.
+# ========================================================================
+entity.chupacabra.name=Чупакабра
+entity.chupacabra.description=Ужасные существа, их ненасытная жажда плоти может быть использована для манипулирования ими и их выращивания.
+entity.chupacabra.habitat=Чупакабры обычно живут под землей в темных пещерах.
+entity.chupacabra.combat=Эти звери невероятно агрессивны со смертельным укусом и острыми когтями, однако их жадность может быть использована против них, поскольку они отдают предпочтение крупной добыче. их атаки также будут исцелять их.    
+# ========================================================================
+entity.cinder.name=Пепельный
+entity.cinder.description=Свирепые огненные элементали, стремящиеся лишь сжечь других существ вокруг себя.
+entity.cinder.habitat=Будучи огненными элементалями, Испепелители проявляются из чистого огня, поэтому они часто появляются в местах с большим количеством огня. однако они не проявляются рядом с нечистым пламенем, таким как scorchfire или doomfire.
+entity.cinder.combat=Пепельный выпускает мощную струю огня, которая сожжет его врагов, однако это пламя слишком слабое, чтобы распространять больше огня.
+# ========================================================================
+entity.clink.name=Звякун
+entity.clink.description=Странные бесы, у которых на руках быстро растут металлические лезвия, которые затем можно легко отсоединить.
+entity.clink.habitat=Этих бесов часто можно найти в пустынях, поскольку они питаются не только плотью, но и минералами. 
+они бескрылые, поэтому их не найти в горных районах.
+entity.clink.combat=Звякун отрывают отросшие лезвия и бросают их во врагов.
+# ========================================================================
+entity.cockatrice.name=Василиск
+entity.cockatrice.description=Смертоносные гигантские куроподобные виверны, очень опасные, держитесь подальше!
+entity.cockatrice.habitat=Эти драконы-виверны обычно встречаются в тропических районах, таких как джунгли, поскольку они любят есть фрукты, а также пожирать крупных насекомых, конечно, все, что движется, находится в меню!
+entity.cockatrice.combat=Василиск клюет клювом, из которого капают парализующие и вызывающие афагию токсины, которые, как говорят, заставляют их жертв чувствовать себя так, будто они превратились в камень.
+# ========================================================================
+entity.conba.name=Конба
+entity.conba.description=Озорные обезьяны со страстью к какашкам!
+entity.conba.habitat=Этих обезьян можно найти в тропических биомах, таких как джунгли.
+entity.conba.combat=Комба любит бросать свои липкие какашки в людей, вызывая медлительность и тошноту, а также создавая 
+облако какашек, которое продлевает эти эффекты. эти звери также будут стараться держаться на расстоянии.
+entity.conba.infected=Зараженный Конба
+# ========================================================================
+entity.concapede.name=Конкапед
+entity.concapede.description=Странные жуки, которые соединяются друг с другом. головы идут впереди и отращивают дополнительные сегменты сзади, и, если их кормить, они становятся озабоченными, позволяя атаковать их сегменты. этот метод используется фермерами.
+entity.concapede.habitat=Этих насекомых можно найти в тропических районах, таких как джунгли.
+entity.concapede.combat=Конкапеды имеют ядовитый укус, но враждебны только ночью.
+# ========================================================================
+entity.concapedesegment.name=Конкапедный сегмент
+entity.concapedesegment.description=Странные жуки, которые соединяются друг с другом. сегменты обычно прикрепляются к головкам и прирастают к ним. если его отделить от головы или другого сегмента впереди, он вырастет в голову. одни сегменты беззащитны.
+entity.concapedesegment.habitat=Сегменты растут из голов, которые можно найти в тропических районах, таких как джунгли.
+entity.concapedesegment.combat=Сегменты беззащитны, но будут защищены головами, если эти головы не заняты едой.
+# ========================================================================
+entity.crusk.name=Корк
+entity.crusk.description=Большие песчаные черви с толстым экзоскелетом, защищающим их. меньших детенышей крусков можно приручить, однако они очень долго растут, но из них получаются отличные питомцы-защитники.
+entity.crusk.habitat=Этих существ можно найти копающимися в дюнах пустыни.
+entity.crusk.combat=Корки имеют очень сильный укус и могут погружаться и прятаться в мягком грунте, таком как песок, трава или грязь.
+# ========================================================================
+entity.cryptkeeper.name=Хранитель склепа
+entity.cryptkeeper.description=Мумифицированные трупы, в отличие от обычной нежити, не горят на солнце.
+entity.cryptkeeper.habitat=Эта нежить часто блуждает по пустыне ночью.
+entity.cryptkeeper.combat=Хранители склепа атакуют в ближнем бою и распространяют неприятные бактерии, вызывающие афагию.
+# ========================================================================
+entity.darkling.name=Приспешник тьмы
+entity.darkling.description=Мерзкие маленькие теневые насекомые, которые любят цепляться за свою жертву и медленно выпивать ее кровь! вам лучше быстро прихлопнуть этих вредителей!
+entity.darkling.habitat=Этих насекомых можно найти в темных подземных помещениях.
+entity.darkling.combat=Приспешник тьмы будут прыгать на своих жертв и цепляться за то место, где они начнут быстро истекать кровью, это исцелит их, жизненно важно, чтобы их убили быстро.
+# ========================================================================
+entity.dawon.name=Давон
+entity.dawon.description=Кристаллические кошачьи, иногда на их теле можно найти редкие кристаллы.
+entity.dawon.habitat=Этих зверей можно найти в джунглях.
+entity.dawon.combat=Давон набрасывается на свою цель, нанося ей вред и снижая скорость передвижения.
+# ========================================================================
+entity.djinn.name=Джинн
+entity.djinn.description=Гордые элементали воздуха, охраняющие небеса от тех, кого, по их мнению, там быть не должно!
+entity.djinn.habitat=Будучи элементалями воздуха, эти существа обычно появляются высоко в небе.
+entity.djinn.combat=Джинн выпускает смертоносные кольца вихря, которые при ударе накладывают отрицательный эффект левитации.
+# ========================================================================
+entity.dweller.name=Обитатель
+entity.dweller.description=Связанные с водой земноводные, которые могут оставаться на суше в течение небольшого периода 
+времени, они должны вернуться в воду, когда станут слишком сухими, поскольку они могут умереть, если будут оставаться на суше слишком долго. они быстры и смертоносны в воде и могут выжить на суше во время дождя.
+entity.dweller.habitat=Этих существ можно встретить в водах болот, темных лесах и джунглях.
+entity.dweller.combat=У Обитателей есть ядовитая царапина, и они превосходны в воде, на суше их можно легко победить, если не идет дождь.
+# ========================================================================
+entity.eechetik.name=Токсик
+entity.eechetik.description=Опасные ядовитые элементали, полные смертельной чумы, заражающей все вокруг них. они любят грибы! элементали дженгу и аргуса также могут сливаться в могущественного Токсика.
+entity.eechetik.habitat=Будучи ядовитыми элементалями, ичетик проявляется в областях ядовитых и паразитарных наростов, грибы, кажется, часто заставляют их проявляться в темноте.
+entity.eechetik.combat=Эти элементали кажутся похожими на внешний вид и атакуют их многочисленными стрингерными руками, 
+их атаки быстро распространяют чуму, поэтому будьте готовы с исцеляющими предметами.
+# ========================================================================
+entity.ent.name=Энт
+entity.ent.description=Защитники леса, они нападут на все, что сочтут опасным для леса, как только увидят.
+entity.ent.habitat=Энтов можно найти блуждающими по лесам ночью, но они также сливаются с деревьями, поэтому будьте осторожны, рубя деревья!
+entity.ent.combat=Энты обладают ядовитой атакой и регенерируют в воде, а также истощают здоровье при атаке. топоры и подобные инструменты очень эффективны.
+# ========================================================================
+entity.epion.name=Эпион
+entity.epion.description=Гигантские теневые кровавые летучие мыши. при контакте с прямыми солнечными лучами дикие эпионы в панике падают на землю и взрываются при ударе! однако прирученных эпионов можно научить не взрываться на солнце.     
+entity.epion.habitat=Эти летучие мыши выходят ночью в полнолуние.
+entity.epion.combat=Эпионы плюют пиявками в своих жертв, вытягивая здоровье при попадании.
+# ========================================================================
+entity.erepede.name=Эрепеде
+entity.erepede.description=Насекомые, покрытые дикими камнями, которые любят охотиться на joustes и нападают на crusks, 
+как только увидят.
+entity.erepede.habitat=Этих насекомых можно найти в жарких и сухих местах, таких как пустыни и столовые горы.
+entity.erepede.combat=Эрепедес выплевывает опасные грязевые выстрелы, которые ослабляют цель.
+# ========================================================================
+entity.ettin.name=Эттин
+entity.ettin.description=Большие двухголовые чудовища. этих животных боятся за их разрушительные способности.
+entity.ettin.habitat=Эти животные часто живут на болотах.
+entity.ettin.combat=Эттины медлительны, но наносят неприятный удар. если вы подойдете слишком близко во время боя, они запаникуют и уничтожат ближайшие мягкие блоки, такие как дерево или грязь.
+# ========================================================================
+entity.eyewig.name=Глазовик
+entity.eyewig.description=В темноте глазовертки настроены враждебно и могут лазать по воде, а также скользить по ней.
+entity.eyewig.habitat=Эти насекомые часто встречаются на болотах, в темных лесах и джунглях.
+entity.eyewig.combat=Глазовертки могут стрелять ядовитым лазером из своего гигантского глаза! их укус также может вызвать слепоту!
+# ========================================================================
+entity.fear.name=Страх
+entity.fear.description=Это фиктивный объект, используемый для эффекта страха, если он находится в зверинце или имеет яйцо призыва, это ошибка, пожалуйста, сообщите об этом!
+entity.fear.habitat=Фиктивная сущность.
+entity.fear.combat=Фиктивная сущность.
+# ========================================================================
+entity.feradon.name=Ферадон
+entity.feradon.description=Львиноподобные хищники, отличные охотники.
+entity.feradon.habitat=Эти звери процветают на равнинах и в саваннах.
+entity.feradon.combat=Ферадон атакует мощным укусом, нарушающим защиту жертвы.
+# ========================================================================
+entity.frostweaver.name=Ледяной ткач
+entity.frostweaver.description=Плюющиеся пауки, которые процветают в холодных условиях.
+entity.frostweaver.habitat=Этих пауков можно найти в холодных районах, таких как тайга или ледяные равнины.
+entity.frostweaver.combat=Ледяные ткачи плетут ледяную паутину, которая вызывает замедление и создает временную морозную паутину.
+# ========================================================================
+entity.geist.name=Дух
+entity.geist.description=Призраки — оппортунистическая нежить, которая деформируется и забирается в другие формы жизни нежити или трупы и питается тем, что их хозяин способен убить. когда их хозяин умирает, призраки выпрыгивают и перестраиваются для внезапной атаки!
+entity.geist.habitat=Призраки обычно происходят от других существ-нежити, но их также можно найти в сумрачных лесах и крае.
+entity.geist.combat=Призраки имеют простую рукопашную атаку, но при смерти выпускают теневой огонь, хотя он и не горит, 
+но наносит урон и ослепляет.
+# ========================================================================
+entity.amalgalich.name=Амальгаловый
+entity.amalgalich.description=Могущественный лич, который поглотил столько душ, чтобы обрести свою колоссальную форму, что потерял свою индивидуальность и поддался безумию. это опустошительное чудовище должно быть повержено!
+entity.amalgalich.habitat=Амальгалич не является естественным и не имеет данных о среде обитания.
+entity.amalgalich.combat=Амальгалич — огромная нежить, которая будет постоянно бомбардировать цели гигантскими спектральными стрелами, вызывающими страх и слепоту. очень важно избегать их, так как страх может привести к гибели! фаза 1: амальгалич призывает жнецов и периодически использует поглощение — мощную атаку, которая поглощает все, что приводит к мгновенной смерти! любые съеденные жнецы также исцеляют амальгалич. так что не забудьте убежать, когда его глаза загорятся, постарайтесь не оставлять слишком много жнецов живыми, чтобы он мог их съесть! фаза 2: амальгалич пока перестанет пытаться есть, вместо этого призываются призраки и гигантские эпионы. со временем призраки будут расти и расти, а затем, в конце концов, ворвутся в большие области опасного shadowfire, убивая призраков до того, как они появятся, чтобы остановить это. если теневого огня слишком много, убийство эпионов очистит весь теневой огонь под ними. постарайтесь очистить арену 
+для фазы 3. фаза 3: амальгалич снова голоден, так что вам лучше бежать! на этот раз вокруг арены летают гигантские шары 
+дарклингов, лучше всего держать дарклингов в страхе и просто наносить урон боссу, не будучи съеденным. если после фазы 2 осталось слишком много привидений или эпионов, босс может и съест их, чтобы восстановить здоровье, возможно, снова вернув его в фазу 2, так что держите этих миньонов в страхе!
+# ========================================================================
+entity.geken.name=Гекен
+entity.geken.description=Ядовитые рептилии с отличными прыжковыми способностями.
+entity.geken.habitat=Эти существа любят тропические районы, такие как джунгли, но их также можно найти в болотах.
+entity.geken.combat=Гекены постоянно прыгают, по ним труднее попасть, их царапины острые и вызывают кровотечение.
+# ========================================================================
+entity.geonach.name=Генох
+entity.geonach.description=Геонахи — жестокие элементали земли, которых обычно находят ничего не подозревающие шахтеры, 
+когда они тревожат землю.
+entity.geonach.habitat=Будучи элементалями земли, геонаки проявляются там, где земля сильна, обычно в рудах, разрушение 
+этих руд усугубляет их.
+entity.geonach.combat=Геонах будет быстро атаковать своим копьем, а иногда и своим более тяжелым кулаком для большего урона. их атаки накладывают дебафф веса, который обычно ловит их жертв. кирки и подобные инструменты очень эффективны.    
+# ========================================================================
+entity.ghoul.name=Гуль
+entity.ghoul.description=Грязная ядовитая нежить, гули меньше среднего зомби, что позволяет им заползать в меньшие места.
+entity.ghoul.habitat=Гулей можно найти ночью в болотах, темных лесах и джунглях.
+entity.ghoul.combat=Гули атакуют в ближнем бою и отравляют.
+# ========================================================================
+entity.gorger.name=Пожиратель
+entity.gorger.description=Огромные магматические черви, которые плавают в расплавленной лаве, они также могут выживать на суше и зарываться в мягкую землю, как грязь.
+entity.gorger.habitat=Этих существ можно найти в больших телах лавы.
+entity.gorger.combat=Пожиратели атакуют, выпуская повсюду несколько шаров лавы, хотя эти атаки сильны, они неточны, оставляя их открытыми.
+# ========================================================================
+entity.grell.name=Грелль
+entity.grell.description=Странные парящие существа из корчащейся плоти, производящие смертельную кислоту.
+entity.grell.habitat=Эти существа обитают во плоти пустоты.
+entity.grell.combat=Грелль стреляет смертоносной кислотой, кусается и испускает феромоны, чтобы управлять ближайшим григорием.
+# ========================================================================
+entity.grigori.name=Григорий
+entity.grigori.description=Агрессивные куски плоти с крушащими кости зубами, парящие в небе. известно, что григори путешествуют большими стаями и охотятся, используя вкус и запах.
+entity.grigori.habitat=Этих существ можно найти парящими в небесах нижнего мира.
+entity.grigori.combat=У григориев разрушительный укус, от которого у жертв истекает кровью. это простодушные существа, которые нападают инстинктивно.
+# ========================================================================
+entity.gorgomite.name=Горгомит
+entity.gorgomite.description=Маленькие каменные жуки, как известно, довольно агрессивны, но боятся мантикор.
+entity.gorgomite.habitat=Горгомиты часто встречаются в пустыне, куда они выходят ночью.
+entity.gorgomite.combat=Эти жуки поначалу просто неприятны из-за простого слабого укуса, но они быстро призывают других 
+горгомитов и начинают роиться, поэтому жизненно важно, чтобы они были быстро устранены.
+# ========================================================================
+entity.grue.name=Ужас
+entity.grue.description=В кромешной тьме вас, скорее всего, съест мрак! этих элементалей тени невозможно увидеть в полной темноте. элементали пепла и аргуса могут сливаться, чтобы создавать могущественных груев.
+entity.grue.habitat=Будучи элементалями тени, Ужасы появляются там, где темно и обычно глубоко под землей.
+entity.grue.combat=Ужасы имеют неприятную атаку в ближнем бою, которая вызывает слепоту, кроме того, они иногда телепортируются за своей жертвой. кроме того, если у их жертвы активны какие-либо хорошие эффекты, мрак поглотит эти эффекты и исцелится!
+# ========================================================================
+entity.gnekk.name=Гнек
+entity.gnekk.description=Поджарые бледные бесы, которые не могут летать, но используют свои крылья, чтобы хлестать смертельно ядовитыми ядовитыми плетями.
+entity.gnekk.habitat=Гнеки прячутся глубоко в темных пещерах, они очень хорошо приспособились к этой среде.
+entity.gnekk.combat=Гнеки невероятно быстры, могут карабкаться и планировать, а также быстро атаковать в ближнем бою, вызывая чуму.
+# ========================================================================
+entity.herma.name=Херма
+entity.herma.description=Гигантские крабы, которые обычно держатся особняком, если что-то не подходит слишком близко!
+entity.herma.habitat=Эти существа водятся в соленых океанах и на пляжах.
+entity.herma.combat=Хермы атакуют своими сильными когтями.
+# ========================================================================
+entity.ignibus.name=Игнибус
+entity.ignibus.description=Большие огненные драконы-дрейки со вспыльчивым нравом, обжигающими когтями, пылающим дыханием и жгучим желанием расплавить ваше лицо!
+entity.ignibus.habitat=Игнибы (множественное число) можно найти в очень больших озерах, они редки, но невероятно сильны.entity.ignibus.combat=Эти драконы-драконы высвобождают мощный поток огненного пламени и горячих углей, которые поджигают землю и все, что попало в цель. scorchfire также нанесет пробитие, ослабляющее защиту.
+# ========================================================================
+entity.ika.name=Ика
+entity.ika.description=Медленная улитка-черепаха-моллюск! ику можно заманить и разводить овощами, однако они могут выжить на суше лишь в течение небольшого промежутка времени. фермерство с заботой!
+entity.ika.habitat=Ику можно найти в соленых океанах и бассейнах на пляжах.
+entity.ika.combat=Ика обычно пассивны.
+# ========================================================================
+entity.ioray.name=Йорай
+entity.ioray.description=Красивые существа, которые грациозно плавают с очень высокой скоростью, у них на спине большая 
+коллекция драгоценных камней, однако они довольно агрессивны.
+entity.ioray.habitat=Этих существ можно найти в соленых океанах.
+entity.ioray.combat=У йорай есть смертельная атака water jet, которая лишает защиты любого удара.
+# ========================================================================
+entity.jabberwock.name=Бармаглот
+entity.jabberwock.description=Злобные олени, похожие на существ, разрывают свою добычу в клочья.
+entity.jabberwock.habitat=Бармаглотов можно встретить ночью в горах.
+entity.jabberwock.combat=Крючковатые когти бармаглота вызывают эффект веса, который тянет жертву вниз, это предотвращает любые прыжки и увеличивает урон от падения, что делает бармаглота смертельно опасным в горах.
+# ========================================================================
+entity.jengu.name=Дженгу
+entity.jengu.description=Элементали воды, известные как защитники чистой воды, атакуют все, что видят в угрозе чистоте их воды.
+entity.jengu.habitat=Будучи элементалями воды, дженгу появляются из больших водоемов в темноте.
+entity.jengu.combat=Атака дженгу заключается в выбросе больших потоков воды, при ударе они создают временную лужу воды.
+# ========================================================================
+entity.joust.name=Джестус
+entity.joust.description=Свирепых больших насекомых, которые, несмотря на свой внешний вид, топчутся по песчаным дюнам, 
+можно разводить на мясо, кормя их зеленью кактуса и подобными растительными экстрактами!
+entity.joust.habitat=Этих существ можно найти в пустынях и столовых горах.
+entity.joust.combat=Джестусы обычно мирные, но будут кусаться, если их ударят, и будут следовать командам агрессивных alpha joustes.
+# ========================================================================
+entity.joustalpha.name=Джестус альфа
+entity.joustalpha.description=Более крупные Джестус и лидеры, они будут атаковать других Джестус альфа, как только увидят, а также не будут командовать всеми альфами, они очень враждебны.
+entity.joustalpha.habitat=Этих существ можно найти в пустынях и столовых горах.
+entity.joustalpha.combat=Джестусы быстры и быстро атакуют, они также сплотят других, не являющихся альфа-joustes, чтобы атаковать вместе с ними.
+# ========================================================================
+entity.khalk.name=Халк
+entity.khalk.description=Большие магматические звери, известные своей невероятной защитой и смертоносными атаками. после смерти их тела превращаются в лаву!
+entity.khalk.habitat=Эти звери могут быть найдены глубоко в озерах лавы, которые находятся под землей.
+entity.khalk.combat=Халки обладают невероятно мощной атакой в ​​ближнем бою, которая вызывает тление, однако они невероя
+тно медленны. обязательно держитесь подальше, когда они умирают, так как они превращаются в небольшой бассейн временной 
+лавы.
+# ========================================================================
+entity.kobold.name=Кобольд
+entity.kobold.description=Маленькие грызуны, которые не могут сопротивляться краже предметов, включая факелы! их убийство заставит их бросить украденное.
+entity.kobold.habitat=Этих грызунов обычно можно встретить на равнинах ночью.
+entity.kobold.combat=Кобольды обычно убегают от других существ, но известно, что они нападают на людей с низким уровнем 
+здоровья.
+# ========================================================================
+entity.krake.name=Кракес
+entity.krake.description=Причудливые земноводные существа, кракесы одновременно глухи и слепы, они пробуют воздух ртом и чувствительны к вибрациям.
+entity.krake.habitat=Эти аберрации часто прячутся у рек или озер, а также глубоко в лесах.
+entity.krake.combat=Кракесы нейтральны и будут атаковать, только если взволнованы, бег рядом с ними будет угрожать им, поэтому обязательно избегайте бега рядом с этими существами, поскольку они невероятно быстры!
+# ========================================================================
+entity.lacedon.name=Лакедон
+entity.lacedon.description=Странные гуманоидные водные существа, они способны выходить на сушу на короткое время и на неопределенный срок, если идет дождь.
+entity.lacedon.habitat=Лакедон можно найти в соленых океанах.
+entity.lacedon.combat=Лакедон накладывает дебафф веса при атаке, которая обычно заканчивается тем, что их жертву утаскивают на дно океана.
+# ========================================================================
+entity.lobber.name=Лоббер
+entity.lobber.description=Большие лавовые звери, Лобберы — невероятно могущественные существа.
+entity.lobber.habitat=Эти големы находятся в лавовых озерах.
+entity.lobber.combat=Лоббер названы в честь их атак, когда они бросают в своих жертв большие шары магмы, которые очень быстро начинают заливать область временной лавой.
+# ========================================================================
+entity.lurker.name=Скрытень
+entity.lurker.description=Скрытень может полностью слиться с окружающей средой. они кусают с хаотичным ядом, и как только их жертвы будут поражены, они спрячутся, позволяя яду делать свое дело. можно приручить как отличных питомцев, а также как охранников криперов!
+entity.lurker.habitat=Эти существа могут быть найдены в лесах и болотах, но избегают холодных областей.
+entity.lurker.combat=Укусы скрытня отравят и ослепят, после укуса скрытень убежит и попытается спрятаться, позволяя яду сделать свою работу, они снова атакуют, если яд перестанет действовать.
+# ========================================================================
+entity.maka.name=Макас
+entity.maka.description=Крупные миролюбивые травоядные. можно выращивать с овощами для получения мяса и кожи. будьте осторожны с альфами.
+entity.maka.habitat=Макас можно найти в планах и саваннах.
+entity.maka.combat=Маки обычно миролюбивы.
+# ========================================================================
+entity.makaalpha.name=Альфа-Макас
+entity.makaalpha.description=Более крупные Макасы, альфы обычно миролюбивы, но иногда нападают, они также много ссорятся друг с другом. альфа макас будет защищать остальную часть стада, что иногда усложняет их выращивание.
+entity.makaalpha.habitat=Мака альф можно найти на планах и в саваннах.
+entity.makaalpha.combat=При обострении альфа-мака имеют мощный укус и шипастый хвост, наносящий большой урон в ближнем бою.
+# ========================================================================
+entity.manticore.name=Мантикора
+entity.manticore.description=Злобные звери, похожие на летучих мышей, с хвостами, похожими на скорпионов. им нравится выслеживать горгомитов и другую мелкую добычу.
+entity.manticore.habitat=Мантикоры летают по небу пустыни ночью.
+entity.manticore.combat=Укус мантикоры оставит вас очень слабыми и голодными!
+# ========================================================================
+entity.maug.name=Мог
+entity.maug.description=Крупные волкоподобные арктические медведи.
+entity.maug.habitat=Этих зверей можно встретить в холодных районах, таких как заснеженные горы или тайга.
+entity.maug.combat=У маугов есть мощная кувалда, которая калечит, вызывая медлительность.
+# ========================================================================
+entity.morock.name=Морок
+entity.morock.description=Агрессивные виверны-драконы хоть и не могут изрыгать огонь, зато обладают сокрушительным укусом!
+entity.morock.habitat=Марокки встречаются в небе над открытыми местами с большим количеством вкусной добычи, например, на равнинах, к счастью, они довольно редки.
+entity.morock.combat=Мороки быстрые и сильно кусаются, против них лучше всего использовать их большие размеры.
+# ========================================================================
+entity.nymph.name=Нимфа
+entity.nymph.description=Причудливые эльфийские элементали, полные исцеляющей энергии, исцеляют все вокруг себя. у них любовь к цветам! хотя они безобидны напрямую, они могут вызвать проблемы, если их напугать. элементали дженгу и эгиды могут сливаться, создавая могущественных нимф.
+entity.nymph.habitat=Будучи элементалями фейри, нимфы проявляются вокруг источников жизни и, как таковые, проявляются вокруг цветов под солнечным светом.
+entity.nymph.combat=Нимфы миролюбивы и исцеляют все вокруг себя, это может быть вредно для нежити. при попадании нимфы убегают, стреляя цветами с острыми шипами, вызывающими кровотечение.
+# ========================================================================
+entity.pinky.name=Пинки
+entity.pinky.description=Прожорливые звери, которые особенно любят пожирать живых животных. можно выращивать и разводить с помощью живых крупных животных. малыша катогу можно приручить, а когда он повзрослеет, его можно будет использовать в качестве боевых животных.
+entity.pinky.habitat=Пинки бродят по нижнему миру в поисках еды.
+entity.pinky.combat=Эти демоны невероятно агрессивны, но отдают предпочтение более крупной и сочной добыче, которую можно использовать для их очищения.
+# ========================================================================
+entity.pixen.name=Пиксен
+entity.pixen.description=Озорные маленькие бесята, которые заманивают свою добычу ложным чувством безопасности, прежде чем сгруппироваться и съесть ее!
+entity.pixen.habitat=Пиксенов обычно можно встретить днём бродящими по лесам.
+entity.pixen.combat=Эти бесы будут бомбардировать свои цели магическими шарами, которые накладывают случайные отрицательные эффекты.
+# ========================================================================
+entity.quetzodracl.name=Кецодракл
+entity.quetzodracl.description=Мощные летающие драконы-виверны, которые до сих пор очень похожи на своих предков-драконов, птерозавров.
+entity.quetzodracl.habitat=Эти виверны летают над океанами.
+entity.quetzodracl.combat=Кетзодраклы невероятно сильны и подберут свою добычу, лучше всего использовать против них их размер.
+# ========================================================================
+entity.quillbeast.name=Игло-зверь
+entity.quillbeast.description=Крупные грызуны с острыми как бритва иглами на спине, им легко угрожать, и они стреляют этими иглами издалека.
+entity.quillbeast.habitat=Этих зверей можно встретить на равнинах, в саваннах и лесах.
+entity.quillbeast.combat=Игло-звери атакуют своими смертоносными иглами, которые также прорезают высокую траву.
+# ========================================================================
+entity.rahovart.name=Раховарт
+entity.rahovart.description=Как владыка подземного мира, одно только имя раховарта вселяет страх и ужас в сердца даже самых злых существ.
+entity.rahovart.habitat=Говорят, что раховарт - очень старый и могущественный бегемот, происходящий из подземного мира, 
+обширного плана ада.
+entity.rahovart.combat=Раховарт — могущественный демон, который атакует мощной пушкой адского пламени. фаза 1: раховарт 
+призывает белфов, со временем эти белфы становятся сильнее и в конечном итоге взрываются, давая раховарту сферу адского 
+пламени. с 5 сферами раховарт выпустит большую волну адского огня, которая наносит большой урон и сжигает любые хорошие 
+эффекты, важно убить белфов, чтобы уменьшить количество этого. фаза 2: раховарт продолжает призывать белфов, но больше не усиливает их, вместо этого он также вызывает бегемота, который получает усиление, вместо этого они дадут ему сферы, на 5 сферах раховарт создаст гигантскую стену адского пламени, которая вращается вокруг него, наносит урон и удаляет эффект похож на волну, но длится дольше, поэтому убивайте бегемотов как можно быстрее. фаза 3: раховарт теперь будет создавать сферы самостоятельно и создавать барьеры адского пламени, они не двигаются, но в конечном итоге захватят территорию вокруг раховарта, однако убийство его миньонов удалит эти барьеры, поэтому, если их слишком много, убейте белфов. и бегемот, чтобы опустить барьеры.
+# ========================================================================
+entity.raiko.name=Райко
+entity.raiko.description=Известно, что крупные морские птицы ныряют в океан и хватают добычу.
+entity.raiko.habitat=Этих птиц можно встретить летящими над океанами.
+entity.raiko.combat=Райко подберет их добычу, важно убить их, прежде чем они унесут вас слишком далеко. в конце концов райко отпустит свою добычу с помощью эффекта веса, это может нанести большой урон при падении, но обычно жертва сбрасывается в глубокий океан.
+# ========================================================================
+entity.reaper.name=Жнец
+entity.reaper.description=Извращенные духи, питающиеся смертью, жнецы тянутся к смерти и иногда принимают спящих людей за мертвых!
+entity.reaper.habitat=Эти духи иногда появляются, когда существо умирает, а иногда, когда кто-то пытается заснуть.
+entity.reaper.combat=Атаки жнецов на расстоянии заставляют их жертв бегать в страхе!
+# ========================================================================
+entity.reiver.name=Захватчик
+entity.reiver.description=Ледяные ледяные элементали, разбойники стремятся заморозить все вокруг себя. элементали дженгу и зефира могут сливаться, создавая мощных захватчиков.
+entity.reiver.habitat=Разбойников иногда можно найти бродящими по ночному небу в холодных районах, а также они появляются из-за frostfire, распространяемого другими существами.
+entity.reiver.combat=Эти элементали стреляют ледяными стрелами, которые замораживают пораженных и замедляют их движение.# ========================================================================
+entity.remobra.name=Ремобра
+entity.remobra.description=Маленькие летающие драконы-амфитеры, плюющиеся ядом.
+entity.remobra.habitat=Этих драконов можно найти на болотах и ​​в темных лесах.
+entity.remobra.combat=Ремобра атакует, выплевывая яд, если их слюна попадает в жертву, она вызывает чуму, если она попадает на землю, она взрывается ядовитым облаком.
+# ========================================================================
+entity.roa.name=Роа
+entity.roa.description=Свирепые акулы, которые доминируют над морем! смелая или глупая попытка приручить их как скакунов.
+entity.roa.habitat=Этих акул можно найти в соленых океанах.
+entity.roa.combat=Роа создают вокруг себя смертоносные водовороты, которые притягивают добычу к их смертоносным челюстям! они также могут тянуть наземных существ в воду, а подкрадывание помогает им не тянуть вас с края уступа.
+# ========================================================================
+entity.roc.name=Рух
+entity.roc.description=Рухи летают по небу в поисках добычи ночью.
+entity.roc.habitat=Эти птицы обычно летают над равнинами и саваннами.
+entity.roc.combat=У рух есть странные хвосты, которые действуют как гигантские когти, они используют их, чтобы поднимать своих жертв. однако камни враждебны только ночью или в темноте.
+# ========================================================================
+entity.salamander.name=Саламандра
+entity.salamander.description=Смертоносные земноводные, приспособившиеся к невероятным температурам. прирученные саламандры становятся прекрасными ездовыми животными и даже защищают своего всадника от огня!
+entity.salamander.habitat=Эти существа живут в озерах лавы.
+entity.salamander.combat=Саламандры имеют огненный укус, вызывающий тление.
+# ========================================================================
+entity.serpix.name=Серпикс
+entity.serpix.description=Пресловутые ледяные черви, которые зарываются в мерзлую землю.
+entity.serpix.habitat=Этих червей можно найти в больших лужах ледяной тины и холодных областях, таких как ледяные равнины.
+entity.serpix.combat=Серпикс атакует, вызывая смертельную метель, бросая на землю ледяной огонь, который одновременно наносит урон и замедляет.
+# ========================================================================
+entity.shade.name=Тень
+entity.shade.description=Большие ветхие змеиные аберрации порождались самими тенями. ходят легенды о четырех могучих змеиных всадниках, отправившихся в битву на этих зверях: д'спариле, кораксе, эйделоне и ликаните.
+entity.shade.habitat=Эти аберрации можно найти в самых темных местах, глубоко под землей.
+entity.shade.combat=Тени истощают немного здоровья при атаке, и они издают ужасающий вой, заставляя всех, кто противостоит им, бежать в страхе!
+# ========================================================================
+entity.shambler.name=Шамблер
+entity.shambler.description=Разросшиеся кустарниковые существа. их можно приручить, и это отличный способ оживить ваш сад!
+entity.shambler.habitat=Шамблеры появляются в густых лесах и джунглях.
+entity.shambler.combat=Шамблеры регенерируют из воды и могут вызвать паралич, они опасны, но очень медленны.
+# ========================================================================
+entity.silex.name=Силекс
+entity.silex.description=Красивая рыба с чешуей, инкрустированной лазуритом. известно, что силексы поедают ляписов с чешуи друг друга, а также с естественных образований из скал.
+entity.silex.habitat=Эти рыбы часто встречаются в пресноводных озерах и реках.
+entity.silex.combat=Силексы — миролюбивые существа.
+# ========================================================================
+entity.skylus.name=Скайлус
+entity.skylus.description=Кальмароподобные существа, которые формируются и живут в прочных панцирях. при достаточном повреждении их панцири сломаются.
+entity.skylus.habitat=Этих существ можно найти в соленых океанах.
+entity.skylus.combat=Скилусы хватают свою добычу и утаскивают ее глубоко под воду, их атаки также ослепляют чернилами. когда их панцирь разрушен, они становятся намного быстрее, но и более уязвимыми к повреждениям.
+# ========================================================================
+entity.spectre.name=Призрак
+entity.spectre.description=Таинственные элементали бездны, они стремятся превратить саму реальность в ничто. элементали 
+эгиды и аргуса могут сливаться, чтобы создать могущественного призрака.
+entity.spectre.habitat=Будучи элементалями бездны, спектры появляются рядом с пустотой очень глубоко под землей и в небесах края.
+entity.spectre.combat=Призраки попытаются засосать свою добычу и нападут с близкого расстояния.
+# ========================================================================
+entity.spriggan.name=Спригган
+entity.spriggan.description=Мистические элементали древостоя, спригганы защищают природу от тех, кто может ей угрожать. 
+элементали дженгу и геонаха могут сливаться, чтобы создавать могущественных спригганов.
+entity.spriggan.habitat=Будучи элементалями древостоя, спригганы могут время от времени блуждать по лесам и быстро проявлять себя в защите растительной жизни, поэтому будьте осторожны при сборе растений.
+entity.spriggan.combat=Спригганы стреляют мощными лазерами, которые ядовиты и высасывают жизнь, исцеляя сприггана.
+# ========================================================================
+entity.strider.name=Страйдер
+entity.strider.description=Эти гигантские земноводные существа чем-то напоминают креветок, их боятся за их ужасные когти-щупальца, из которых они заманивают и поедают своих жертв.
+entity.strider.habitat=Эти существа обычно водятся в больших озерах или реках.
+entity.strider.combat=Страйдер подбирает своих жертв и медленно высасывает из них жизнь, они также быстры в воде или во 
+время дождя.
+# ========================================================================
+entity.sutiramu.name=Стилум
+entity.sutiramu.description=Агрессивные гигантские скорпионы.
+entity.sutiramu.habitat=Этих существ можно найти бродящими по пустыне и плато.
+entity.sutiramu.combat=Сутираму атакует ядом, вызывающим голод.
+# ========================================================================
+entity.sylph.name=Сильфида
+entity.sylph.description=Святые элементали эфира, которые проклинают тех, кто вторгается на святую землю. зефир и эгида 
+могут сливаться, создавая могущественных сильфов.
+entity.sylph.habitat=Будучи эфирными элементалями, сильфы проявляются в местах поклонения, таких как пирамиды или храмы.entity.sylph.combat=Сильфы выпустят большую волну эфирной магии, поразив пораженных так, что они сгорят на солнце!
+# ========================================================================
+entity.tarantula.name=Ликоза
+entity.tarantula.description=Ядовитые пауки-прыгуны, оставляющие за собой след из временной липкой зеленой паутины.
+entity.tarantula.habitat=Lycosa можно найти в джунглях и болотах.
+entity.tarantula.combat=Эти пауки имеют ядовитый укус и часто прыгают, важно опасаться их липкой зеленой паутины.
+# ========================================================================
+entity.thresher.name=Молотилка
+entity.thresher.description=Гигантские величественные водные существа с огромным аппетитом и мощными плавниками, способные создавать огромные водовороты, чтобы затянуть свою добычу! очень опасно!
+entity.thresher.habitat=Этих водных существ можно найти как в пресноводных озерах и крупных реках, так и в соленых океанах.
+entity.thresher.combat=Молотилки создают большие водовороты, которые затягивают добычу со всех сторон, даже на суше это 
+небезопасно, так как они также подтягивают свою добычу в воздух к себе.
+# ========================================================================
+entity.treant.name=Треант
+entity.treant.description=Крупные стражи леса, очень похожие на энтов, только намного крупнее и сильнее.
+entity.treant.habitat=Хотя тренты встречаются редко, их можно найти в густых лесах.
+entity.treant.combat=Треанты вызывают паралич, истощают здоровье при атаке и регенерируют от воды. топоры и подобные инструменты очень эффективны.
+# ========================================================================
+entity.tremor.name=Тремор
+entity.tremor.description=Взрывоопасные элементали землетрясения, сотрясения невероятно разрушительны. элементали геонаха и аргуса могут сливаться, создавая мощные сотрясения.
+entity.tremor.habitat=Будучи элементалами землетрясений, сотрясения проявляются в результате возгорания и громких звуков, а иногда и в результате больших взрывов.
+entity.tremor.combat=Треморы атакуют, создавая вокруг себя небольшие взрывы. они довольно слабые, но могут быть довольно разрушительными, и их следует быстро устранять.
+# ========================================================================
+entity.triffid.name=Триффид
+entity.triffid.description=Большие плотоядные растения, медленные, но невероятно ядовитые и смертоносные!
+entity.triffid.habitat=Эти растительные существа часто прячутся в болотах из-за того, что они влажные, не слишком холодные и полны добычи, которую они могут поглотить.
+entity.triffid.combat=Эти существа очень медлительны, но с ними следует обращаться осторожно, так как их атаки невероятно сильны и распространяют чуму. топоры очень эффективны, но будьте осторожны, они лечат в воде!
+# ========================================================================
+entity.tpumpkyn.name=Тпумпкин
+entity.tpumpkyn.description=Это как тыква...
+entity.tpumpkyn.habitat=Tpumpkyn любит быть рядом с другими tpumpkyn...
+entity.tpumpkyn.combat=Твоя душа вкусна для тпумпкина...
+# ========================================================================
+entity.trite.name=Трит
+entity.trite.description=Маленькие и быстрые демонические существа, похожие на мозг с паучьими ногами.
+entity.trite.habitat=Триты бродят по всему нижнему миру, говорят, что они пришли из чистилища, адского плана бесконечной плоти.
+entity.trite.combat=Триты очень слабы, но по ним трудно попасть из-за их скорости и небольшого размера, их укусы также наносят урон.
+# ========================================================================
+entity.troll.name=Тролль
+entity.troll.description=На солнце кожа тролля тверда, как камень, а в темноте становится ужасной зеленой плотью. известно, что тролли разрушительны.
+entity.troll.habitat=Эти животные часто встречаются в горах.
+entity.troll.combat=Тролли обладают сильной атакой в ​​ближнем бою и разрушают мягкую местность вокруг себя. когда на со
+лнце они становятся твердыми как камень и имеют более высокую защиту, но уязвимы для кирок, вне солнца они теряют свою защиту и очень слабы для огня.
+# ========================================================================
+entity.uvaraptor.name=Увараптор
+entity.uvaraptor.description=Красочные хищники с экстремальными способностями к прыжкам и планированию. может быть приручен как полезное средство передвижения для прыжков в высоту, может почти поддерживать полет.
+entity.uvaraptor.habitat=Эти хищники обычно встречаются в джунглях.
+entity.uvaraptor.combat=Уварапторы прыгают в воздух и атакуют свою добычу, что делает их более хитрыми, но также уязвимыми для атак дальнего боя.
+# ========================================================================
+entity.vapula.name=Вапула
+entity.vapula.description=Могущественные элементали гравитации, воплощающие сущность самой структуры. геонах и элементали эгиды могут сливаться, чтобы создать мощную вапулу.
+entity.vapula.habitat=Будучи элементалями гравитации, вапула проявляется из источников сжатия и структуры, где они часто располагаются среди драгоценных камней, таких как алмазы.
+entity.vapula.combat=Вапула быстро стреляет из-за спины острыми хрустальными снарядами, после выстрела они должны перезарядиться, что делает их уязвимыми. кирки и подобные инструменты очень эффективны.
+# ========================================================================
+entity.ventoraptor.name=Вентораптор
+entity.ventoraptor.description=Стремительные хищники, скользящие с невероятной скоростью. может быть приручен как один из самых быстрых известных маунтов.
+entity.ventoraptor.habitat=Эти хищники любят охотиться на равнинах.
+entity.ventoraptor.combat=Венторапторы очень быстры и будут прыгать к своей добыче и атаковать.
+# ========================================================================
+entity.vespid.name=Веспы
+entity.vespid.description=Инвазивные гигантские осы с ядовитым жалом. веспиды в одиночку не представляют большой проблемы, но в группах или с королевой веспидов они могут быть очень опасны. известно, что они строят ульи, когда находятся рядом с королевой.
+entity.vespid.habitat=Эти насекомые живут в тропических районах, таких как джунгли.
+entity.vespid.combat=Веспиды быстрые, но довольно слабые, их укусы ядовиты. они часто находятся в группах и могут иметь 
+опасную численность в улье.
+# ========================================================================
+entity.vespidqueen.name=Веспид королева
+entity.vespidqueen.description=Большие веспиды, защищенные роем обычных веспидов. королевы будут иметь поблизости стандартных веспидов, строящих для них улей. известно, что веспидные королевы вводят яйца в конбу, превращая их в зараженные движущиеся гнезда, ожидающие вылупления!
+entity.vespidqueen.habitat=Эти насекомые живут в тропических районах, таких как джунгли.
+entity.vespidqueen.combat=Королевы веспидов более крепкие, чем обычные веспиды, с более сильным ядовитым жалом. они обычно окружены обычными веспидами, которые будут защищать свою королеву превыше всего остального.
+# ========================================================================
+entity.volcan.name=Вулкан
+entity.volcan.description=Обжигающие элементали лавы, вулканы растапливают все на своем пути! Пепельный и geonach elementals могут сливаться, чтобы создавать мощные вулканы.
+entity.volcan.habitat=Будучи элементалями лавы, вулканы проявляются вокруг больших объемов лавы под землей, они довольно редки.
+entity.volcan.combat=Вулканы превращают любой камень вокруг себя в лаву, поэтому их нужно быстро уничтожать. вулканы атакуют в ближнем бою и применяют эффект тления, однако они также имеют тепловую ауру, сжигающую все, что находится рядом с ними.
+# ========================================================================
+entity.vorach.name=Ворач
+entity.vorach.description=Грязные демоны, производящие смертоносное вещество из затылка, их хвосты превратились в третью ногу, позволяющую карабкаться.
+entity.vorach.habitat=Вораки прячутся в темных уголках нижнего мира.
+entity.vorach.combat=Эти демоны бросают вещество, которое растет у них из затылка, у этих снарядов есть собственный разум, и они нацелятся на цель ворака.
+# ========================================================================
+entity.warg.name=Губа
+entity.warg.description=Большие волкоподобные звери со злобным укусом! известно, что они охотятся стаями. при приручении из них получаются фантастические скакуны!
+entity.warg.habitat=Эти звери часто бродят по лесам.
+entity.warg.combat=У варгов есть смертельный прыжок, который ненадолго парализует все, что находится рядом с местом их приземления.
+# ========================================================================
+entity.wendigo.name=Вендиго
+entity.wendigo.description=Огромные ледяные твари, известные тем, что оставляют за собой след ледяного огня!
+entity.wendigo.habitat=Этих животных можно найти в холодных областях, таких как ледяные равнины, а также в больших лужах ледяной тины.
+entity.wendigo.combat=Вендиго медлительны, но стреляют взрывами тундры, которые при ударе создают лужи ледяной слизи. они также оставляют frostfire там, где они идут, что, как известно, вызывает reivers, если его не остановить.
+# ========================================================================
+entity.wildkin.name=Уайлдкин
+entity.wildkin.description=Мощные двуногие звери-совы-медведи, быстрые и стремительные для своего размера.
+entity.wildkin.habitat=Известно, что эти звери живут в горах и холодных районах, таких как ледяные равнины.
+entity.wildkin.combat=Уайлдкин имеет сильную атаку кувалдой, которая вызывает эффект веса.
+# ========================================================================
+entity.wisp.name=Висп
+entity.wisp.description=Элементали яркого света, огоньки иногда можно увидеть играющими друг с другом в мяч и бросающими смертоносный шар радиации. хотя они дружелюбны, неразумно провоцировать огонька. Пепельный и aegis elementals могут сливаться, чтобы создавать могущественных огоньков.
+entity.wisp.habitat=Будучи элементалями света, огоньки проявляются под прямыми солнечными лучами.
+entity.wisp.combat=Огоньки будут бросать в своих жертв шар светового излучения, при ударе это заставит их светиться, раскрывая их для любых ближайших потенциальных хищников. у огоньков также есть светлая аура, которая заставляет светиться все, что находится рядом с ними, но также дает ночное видение, они также сжигают ближайшую нежить.
+# ========================================================================
+entity.wraamon.name=Враамон
+entity.wraamon.description=Смертоносные грызуны, наполненные хаотичной энергией, испускают ее через шипы на спине, чтобы атаковать свою добычу. очень немногие существа отваживаются нападать на этих опасных грызунов.
+entity.wraamon.habitat=Эти грызуны живут глубоко под землей, говорят, что они приходят через крошечные случайные хаотические порталы, которые время от времени появляются в мире, куда они ведут, остается загадкой.
+entity.wraamon.combat=Враамоны могут быть большой угрозой, их укусы вызывают нестабильность, мощное проклятие хаоса, которое заставляет пораженных случайным образом трястись. они довольно слабые, но маленькие и быстрые.
+# ========================================================================
+entity.wraith.name=Призрак
+entity.wraith.description=Злые элементали пустоты, являющиеся символом боли и страданий. элементали зефира и аргуса могут сливаться, чтобы создать могущественного призрака.
+entity.wraith.habitat=Будучи элементалями пустоты, призраки проявляются в местах концентрации зла, таких как небеса пустоты.
+entity.wraith.combat=Призраки быстры и безрассудно летят к своей жертве и атакуют при ударе. они довольно слабы, но взрываются при уничтожении.
+# ========================================================================
+entity.xaphan.name=Ксафан
+entity.xaphan.description=Едкие кислотные элементали, которые воплощают аспект разрушения и растворения. пепел и элементали дженгу могут сливаться, чтобы создать могущественного ксафана.
+entity.xaphan.habitat=Будучи кислотными элементалями, ксафан проявляется из смесей, например, когда вода встречается с лавой.
+entity.xaphan.combat=Ксафан постоянно капает под себя кислотой и при атаке выпускает вокруг себя кольцо кислотных брызг. их кислота наносит урон и наносит проникающий урон, увеличивая любой входящий урон.
+# ========================================================================
+entity.yale.name=Йел
+entity.yale.description=Странные пушистые, похожие на баранов звери, однако под шерстяным покровом они не те, кем кажутся. йелы дают шерсть, которую можно получить с помощью ножниц, их также можно выращивать с помощью овощей. их рога на самом деле странные конечности, и у них есть крошечные крючковатые руки, которыми они просеивают траву.
+entity.yale.habitat=Этих зверей можно встретить бродящими по горам.
+entity.yale.combat=Йелы обычно пассивны.
+# ========================================================================
+entity.bobeko.name=Бобеко
+entity.bobeko.description=Крупные морозные млекопитающие, которые любят есть замороженную растительность арктики. их можно выращивать с помощью овощей, но следите за их морозными облаками. молоко бобеко - деликатес!
+entity.bobeko.habitat=Эти звери часто бродят по холодным и заснеженным местам, например, по тайге.
+entity.bobeko.combat=Бобеко обычно пассивны.
+# ========================================================================
+entity.zephyr.name=Зефир
+entity.zephyr.description=Свирепые электрические элементали с мощным электрическим полем вокруг них. Пепельный и зефир могут сливаться, чтобы создать могущественного зефира.
+entity.zephyr.habitat=Будучи электрическими элементалями, зефир проявляется из-за электрической погоды, такой как грозы, они также могут редко проявляться во время обычных ливней.
+entity.zephyr.combat=Зефир поразит любого противника, находящегося рядом с ним, а прямые атаки с его стороны вызовут паралич.
+# ========================================================================
+entity.zoataur.name=Зоатавр
+entity.zoataur.description=Зоатавры — невероятно устойчивые драконы, при этом они слишком громоздки, чтобы летать, их крылья невероятно плотные и используются для блокировки вражеских атак.
+entity.zoataur.habitat=Этих зверей можно встретить на открытых равнинах и в пустынях.
+entity.zoataur.combat=Зоатавры медленные, но сильные удары, они также будут блокировать свои крылья, поэтому лучше всего бить их медленными тяжелыми атаками, когда они незащищены. они не могут атаковать при блокировании.
+# ========================================================================
+creaturetype.spawn=Порождать
+creaturetype.beast.name=Зверь
+creaturetype.avian.name=Птичий
+creaturetype.amphibian.name=Амфибия
+creaturetype.reptile.name=Рептилия
+creaturetype.insect.name=Насекомое
+creaturetype.arachnid.name=Паукообразный
+creaturetype.plant.name=Растение
+creaturetype.aquatic.name=Водный
+creaturetype.aberration.name=Аберрация
+creaturetype.undead.name=Нежить
+creaturetype.anthronian.name=Антрониан
+creaturetype.imp.name=Бес
+creaturetype.demon.name=Демон
+creaturetype.angel.name=Ангел
+creaturetype.elemental.name=Элементаль
+creaturetype.dragon.name=Дракон
+creaturetype.worm.name=Червь
+creaturetype.golem.name=Голем
+# ========================================================================
+death.attack.ooze=%1$s был заморожен в ледяной тине!
+death.attack.acid=%1$s был болезненно растворен кислотой!
+# ========================================================================
+# Effect names must also be included in the base en_US.lang for now.
+# Debuffs
+effect.poison.description=Наносит урон с течением времени, однако эффект яда не может убить.
+#
+effect.levitation.description=Заставляет страдающих медленно всплывать вверх, а по истечении срока действия они должны падать обратно.
+#
+effect.glowing.description=Заставляет пораженных светиться, любые враждебные существа поблизости будут притягиваться к ним и всегда будут видеть, где они находятся.
+#
+effect.wither.description=Наносит урон с течением времени и может убить.
+#
+effect.weakness.description=Снижает урон, наносимый пораженными.
+#
+effect.hunger.description=Увеличивает скорость голода.
+#
+effect.blindness.description=Снижает зрение и предотвращает спринт.
+#
+effect.mining_fatigue=Горная усталость
+effect.mining_fatigue.description=Снижает скорость использования инструментов и атаки.
+#
+effect.slowness=Медлительность (замедление движения)
+effect.slowness.description=Снижает скорость передвижения.
+#
+effect.burning=Сжигание
+effect.burning.description=Наносит урон с течением времени и может убить, но его можно потушить водой. некоторые существа распространяют горение при атаке.
+#
+effect.paralysis=Паралич
+effect.paralysis.description=Резко снижает скорость передвижения и предотвращает прыжки.
+#
+effect.penetration=Проникновение
+effect.penetration.description=Ослабляет защиту, увеличивая любой получаемый урон.
+#
+effect.recklessness=Безрассудство
+effect.recklessness.description=Значительно ослабляет защиту, но также увеличивает наносимый урон.
+#
+effect.rage=Ярость
+effect.rage.description=Заставляет пораженных сходить с ума и нападать на все, что находится поблизости.
+#
+effect.weight=Масса
+effect.weight.description=Creates a constant downwards pull increasing falling speed and preventing jumping or swimming/flying upwards.
+#
+effect.fear=Страх
+effect.fear.description=Заставляет страдающих сходить с ума и бесконтрольно бегать.
+#
+effect.decay=Разлагаться
+effect.decay.description=Уменьшает все получаемое исцеление.
+#
+effect.insomnia=Бессонница
+effect.insomnia.description=Мешает спать.
+#
+effect.instability=Нестабильность
+effect.instability.description=Беспорядочно толкает пораженных во все стороны.
+#
+effect.lifeleak=Лайфликс
+effect.lifeleak.description=Вместо этого исцеляет любой урон, нанесенный пораженным.
+#
+effect.bleed=Кровотечение
+effect.bleed.description=Быстро наносит урон с течением времени, если пораженный движется.
+#
+effect.plague=Чума
+effect.plague.description=Мгновенно отравляет пораженных, а затем распространяет чуму на один уровень ниже или яд, если 
+самый низкий уровень, на ближайших существ.
+#
+effect.aphagia=Афагия
+effect.aphagia.description=Мешает приему пищи и использованию различных предметов.
+#
+effect.repulsion=Отвращение
+effect.repulsion.description=Отталкивает нападающих, а также предотвращает захват или захват.
+#
+effect.smited=Поражен
+effect.smited.description=Заставляет страдающих гореть на солнце.
+#
+effect.smouldering=Тлеющий
+effect.smouldering.description=Постоянно наносит жжение на пораженного, пребывание в воде может подавить, но не снять его.
+#
+#
+# Buffs
+effect.resistance.description=Снижает получаемый урон.
+#
+effect.saturation.description=Уменьшить чувство голода.
+#
+effect.regeneration.description=Лечит со временем.
+#
+effect.absorption.description=Дает щит, который действует как дополнительное здоровье.
+#
+effect.invisibility.description=Скрывает пострадавших, уменьшая их видимость врагам.
+#
+effect.water_breathing=Водное дыхание
+effect.water_breathing.description=Позволяет дышать под водой.
+#
+effect.jump_boost=Ускорение прыжка
+effect.jump_boost.description=Увеличивает высоту прыжка, но не предотвращает урон от падения.
+#
+effect.speed=Скорость (движение)
+effect.speed.description=Увеличивает скорость передвижения.
+#
+effect.strength=Сила
+effect.strength.description=Увеличивает наносимый урон.
+#
+effect.haste=Ускорение (скорость добычи)
+effect.haste.description=Увеличивает скорость добычи инструментов и скорость атаки некоторых видов оружия.
+#
+effect.fire_resistance=Огнестойкость
+effect.fire_resistance.description=Предотвращает горение.
+#
+effect.night_vision=Ночное видение
+effect.night_vision.description=Увеличивает видимость в темных местах.
+#
+effect.leech=Пиявка
+effect.leech.description=Высасывает здоровье при нанесении урона.
+#
+effect.swiftswimming=Свифтплавание
+effect.swiftswimming.description=Увеличивает скорость плавания.
+#
+effect.fallresist=Сопротивление падению
+effect.fallresist.description=Предотвращает урон от падения.
+#
+effect.rejuvenation=Омоложение
+effect.rejuvenation.description=Усиливает все полученное исцеление.
+#
+effect.immunization=Иммунизация
+effect.immunization.description=Снимает и дает иммунитет к яду, голоду, слабости, тошноте и параличу.
+#
+effect.cleansed=Очищено
+effect.cleansed.description=Снимает и дает иммунитет к увяданию, невезению, страху и бессоннице.
+#
+effect.heataura=Тепловая аура
+effect.heataura.description=Поджигает врагов вокруг пораженного.
+#
+effect.staticaura=Статическая аура
+effect.staticaura.description=Парализует врагов вокруг пораженного.
+#
+effect.freezeaura=Замораживающая аура
+effect.freezeaura.description=Замедляет врагов вокруг пораженного.
+#
+effect.envenom=Отравление
+effect.envenom.description=Добавляет яд к любым атакам.
+# ========================================================================
+element.xeno.name=Ксено
+element.xeno.description=Как суперэлемент, ксено является нестабильным элементом, который при контакте превращает обычную материю в магию ксено, но очень нестабилен и быстро распадается в магию хаоса.
+#
+element.coda.name=Кода
+element.coda.description=Будучи суперэлементом, кода может изменять порядок событий и эффективно ускорять и замедлять время.
+#
+element.bose.name=Бозе
+element.bose.description=Как суперэлемент, бозе представляет собой плотно упакованный набор молекул, которые настолько плотны, что действуют как одна частица, что почти не поддается разрушению.
+#
+element.mote.name=Мот
+element.mote.description=Как суперэлемент, mote является элементом распада, его взрывы превращают вещи в бесконечно мелкую пыль.
+#
+element.murati.name=Мурад
+element.murati.description=Как суперэлемент, мурати представляет собой форму воды, которая обладает свойством роения, она действует как сверхтекучесть, поэтому бесконечно колеблется и роится вокруг вещей.
+#
+element.glasma.name=Стекло ма
+element.glasma.description=Как суперэлемент, глазма представляет собой чрезвычайно горячую субстанцию, выкованную из двух огненных кристаллов (которые, в свою очередь, выкованы двумя солнцами жуткого пространства), она течет вверх и сжигает все, к чему прикасается.
+#
+element.fire.name=Огонь
+element.fire.description=Базовый элемент, представляющий плазму и чистую энергию. его можно добыть из параэлементов: кислота, лава, молния, свет и тень.
+#
+element.water.name=Вода
+element.water.description=Базовый элемент, представляющий жидкости, преимущественно саму воду. воду можно добыть из параэлементов: кислоты, дерева, мороза, фейри и яда.
+#
+element.earth.name=Земля
+element.earth.description=Базовый элемент, который представляет твердую форму, от грязи до камней, кристаллов и даже металла или кости. его можно добыть из параэлементов: лава, дерево, фаза, аркан и землетрясение.
+#
+element.air.name=Воздух
+element.air.description=Базовый элемент, представляющий газ, но часто известный только своей способностью управлять потоком ветра. его можно извлечь из параэлементов: молнии, льда, фазы, эфира и пустоты.
+#
+element.order.name=Заказ
+element.order.description=Базовый элемент, который представляет последовательность и баланс, хотя это очень гипотетические концепции, порядок имеет очень физическое присутствие в магических вселенных, а его основная форма - грубая сила. порядок можно получить из параэлементов: света, фейри, тайной магии, эфира и пустоты.
+#
+element.chaos.name=Хаос
+element.chaos.description=Базовый элемент, представляющий энтропию, рост и разрушение. его можно извлечь из параэлементов: shadow, poison, quake, nether и void.
+#
+element.acid.name=Кислота
+element.acid.description=Параэлемент, который представляет собой коррозию и физическое потребление, но может быть расширен до широкого диапазона химии, а также, несмотря на название кислота, он также охватывает основные вещества. кислота может быть слита из базовых элементов огня и воды, поскольку она воплощает в себе как свойства огня, основанные на энергии, так и свойства воды, основанные на жидком веществе.
+#
+element.lava.name=Достаточно
+element.lava.description=Параэлемент, который представляет воплощенное тепло, в то время как огонь больше связан с плазмой и энергией, лава — с хранением энергии и воздействием тепла. лава может быть слита из базовых элементов огня и земли, поскольку она воплощает в себе энергетический аспект огня и аспект плотной массы земли.
+#
+element.lightning.name=Молния
+element.lightning.description=Параэлемент, представляющий электрический ток и энергию. молния может быть слита из основных элементов огня и воздуха, поскольку она воплощает энергетический и плазменный аспекты огня с текущими и незаземленными аспектами воздуха.
+#
+element.light.name=Свет
+element.light.description=Параэлемент, который представляет собой излучение, что делает его очень опасной силой, поскольку он может варьироваться от спектра видимого света, в честь которого назван элемент, до более смертоносных диапазонов излучения, которые могут нанести серьезный ущерб. свет может быть слит из базовых элементов огня и порядка, поскольку он воплощает в себе энергетический аспект огня и утонченность порядка.
+#
+element.shadow.name=Тень
+element.shadow.description=Параэлемент, представляющий тьму как силу, останавливающую излучение или генерацию энергии. тень может быть слита из огня и хаоса, поскольку она воплощает в себе энергетический аспект огня, который затем инвертируется хаосом в 
+силу, которая идет против создания энергии, отменяя ее.
+#
+element.arbour.name=Беседка
+element.arbour.description=Параэлемент, который представляет рост и природу, тесно связан с растениями, которые активно используют этот элемент. беседка может быть слита из воды и земли, поскольку она воплощает жидкую форму воды с твердым присутствием земли.
+#
+element.frost.name=Мороз
+element.frost.description=Параэлемент, представляющий холод, где он активно отталкивает любую форму тепла. иней может быть слит из воды и воздуха, поскольку он воплощает в себе жидкую охлаждающую природу воды и охлаждающий поток воздуха.
+#
+element.fae.name=Фейри
+element.fae.description=Параэлемент, представляющий жизнь и адаптацию. фейри могут быть слиты из воды и порядка, поскольку они воплощают в себе изменчивую природу воды и структуру порядка.
+#
+element.poison.name=Яд
+element.poison.description=Параэлемент, представляющий химические вещества, обычно яды или яд, а также наркотики и лекарства, но 
+также может принимать многие другие формы, такие как масло. яд может быть слит из воды и хаоса, где вода воплощает жидкую форму, 
+которую можно изменить, которой хаос манипулирует во всевозможные странные химические вещества.
+#
+element.phase.name=Фаза
+element.phase.description=Параэлемент, представляющий фазовый сдвиг или духовную реальность, пространство, наслоенное поверх физического мира, — это то, из чего состоят и используют духи. фаза может быть слита из базовых элементов земли и воздуха, поскольку 
+она воплощает в себе твердую форму земли и текущую нетвердую форму воздуха.
+#
+element.arcane.name=Мистический
+element.arcane.description=Параэлемент, представляющий гравитацию, магнетизм, связь, сжатие и искусственную структуру. тайное может быть слито из земли и порядка, где оно воплощает твердое физическое присутствие земли, а также структуру и законы порядка.    
+#
+element.quake.name=Землетрясение
+element.quake.description=Параэлемент, представляющий вибрацию, звук, горение и разрушение. землетрясение может быть слито из земли и хаоса, где земля воплощает твердую форму, которая затем разрушается хаосом.
+#
+element.aether.name=Эфир
+element.aether.description=Параэлемент, представляющий чистоту, божественность, веру и поклонение. эфир может быть слит из воздуха и порядка, поскольку он воплощает в себе текучий аспект воздуха со структурой и законами порядка.
+#
+element.nether.name=Нижний мир
+element.nether.description=Параэлемент, представляющий испорченность, демонизм, желание и бунт. нижний мир может быть слит из воздуха и хаоса, где воздух олицетворяет течение, а хаос превращает его в порчу.
+#
+element.void.name=Пустота
+element.void.description=Параэлемент, представляющий небытие и удаление. пустота может быть слита из порядка и хаоса, где порядок воплощает структуру и постоянство, которые уравновешиваются хаосом, воплощающим энтропию и случайность.
+F:\projects\lycanites mobs 1.12.2\src\main\resources\assets\lycanitesmobs\lang\en_us\extract.txt
+# ========================================================================
+[ошибка] - не удалось записать файл...
+# ========================================================================
+item.whirlwindcharge.name=Вихревой заряд
+item.whirlwindcharge.description=Используйте, чтобы выпустить кольцо вихрей или огонь из раздатчика.
+#
+item.demoniclightningcharge.name=Демонический заряд молнии
+item.demoniclightningcharge.description=Используйте, чтобы бросить демонический взрыв молнии! также можно стрелять из дозатора.
+#
+item.magmacharge.name=Заряд магмы
+item.magmacharge.description=Используйте, чтобы бросить шар лавы! также можно стрелять из дозатора.
+#
+item.frostboltcharge.name=Заряд ледяной стрелы
+item.frostboltcharge.description=Используйте, чтобы выстрелить ледяной стрелой. также можно стрелять из дозатора.
+#
+item.spectralboltcharge.name=Призрачный заряд
+item.spectralboltcharge.description=Используйте, чтобы бросить призрачную стрелу. также можно стрелять из дозатора.
+#
+item.throwingscythe.name=Метательная коса
+item.throwingscythe.description=Изогнутое металлическое лезвие, используемое для броска или тройного выстрела из дозатора.
+#
+item.boulderblastcharge.name=Заряд валунного взрыва
+item.boulderblastcharge.description=Используйте, чтобы бросить гигантский валун! можно выстрелить из раздатчика, вызывает замедление скорости копания.
+#
+item.acidsplashcharge.name=Заряд кислотного брызга
+item.acidsplashcharge.description=Используйте, чтобы выстрелить волной кислоты. также можно стрелять из дозатора.
+#
+item.acidglobcharge.name=Кислотный заряд
+item.acidglobcharge.description=Используйте, чтобы выстрелить каплей кислоты. также можно стрелять из дозатора.
+#
+item.faeboltcharge.name=Заряд фейболта
+item.faeboltcharge.description=Используйте, чтобы выстрелить зарядом энергии фей, это не наносит урона, но накладывает дебафф утечки жизни, превращающий весь нанесенный урон в исцеление. также можно стрелять из дозатора.
+#
+item.embercharge.name=Эмбер заряжает
+item.embercharge.description=Используйте, чтобы бросить небольшое пламя или распылить из дозатора.
+#
+item.venomshotcharge.name=Ядовитый заряд
+item.venomshotcharge.description=Используйте, чтобы бросить шар яда, который создает ядовитое облако и вызывает чуму.
+#
+item.poopcharge.name=Какать
+item.poopcharge.description=Очень вонючий! брось это! также можно использовать на растениях в качестве удобрения, например, костной муки.
+#
+item.lifedraincharge.name=Заряд высасывания жизни
+item.lifedraincharge.description=Используйте, чтобы выстрелить лучом, истощающим жизнь, или выстрелить из раздатчика.
+#
+item.aquapulsecharge.name=Импульсный заряд воды
+item.aquapulsecharge.description=Используйте, чтобы бросить шар мистической воды или огня из дозатора.
+#
+item.arcanelaserstormcharge.name=Чародейский заряд лазерной бури
+item.arcanelaserstormcharge.description=Используйте, чтобы выстрелить большим взрывом тайной магической энергии, из которого вырываются лазеры. можно стрелять из дозатора.
+#
+item.lightball.name=Заряд светового шара
+item.lightball.description=Используйте, чтобы бросить шар света. также можно стрелять из дозатора.
+#
+item.doomfirecharge.name=Заряд рокового огня
+item.doomfirecharge.description=Используйте для броска шара рокового огня. также можно стрелять из дозатора.
+#
+item.aetherwavecharge.name=Заряд эфирной волны
+item.aetherwavecharge.description=Используйте, чтобы выпустить волну энергии эфира. также можно стрелять из дозатора.
+#
+item.mudshotcharge.name=Грязевой заряд
+item.mudshotcharge.description=Шар вибрирующей грязи. используется для броска или стрельбы из дозатора. применяет слабость.
+#
+item.hellfirecharge.name=Заряд адского пламени
+item.hellfirecharge.description=Используйте, чтобы бросить шар адского пламени. также можно стрелять из дозатора.
+#
+item.tundracharge.name=Заряд тундры
+item.tundracharge.description=Используйте, чтобы запустить шар слизи. также можно стрелять из дозатора.
+#
+item.quill.name=Перо
+item.quill.description=Острое как бритва перо, которое можно бросить или выстрелить из диспенсера.
+#
+item.crystalshard.name=Хрустальный осколок
+item.crystalshard.description=Используйте, чтобы бросить осколок кристалла. также можно стрелять из дозатора.
+#
+item.scorchfirecharge.name=Обжигающий заряд
+item.scorchfirecharge.description=Используйте, чтобы бросить огненный шар. также можно стрелять из дозатора.
+#
+item.bloodleechcharge.name=Кровопийца заряд
+item.bloodleechcharge.description=Используйте, чтобы бросить bloodleech. также можно стрелять из дозатора.
+#
+item.frostwebcharge.name=Заряд ледяной паутины
+item.frostwebcharge.description=Используйте, чтобы бросить ледяную паутину. также можно стрелять из дозатора.
+#
+item.chaosorbcharge.name=Заряд сферы хаоса
+item.chaosorbcharge.description=Используйте, чтобы высвободить сферу хаоса. также можно стрелять из дозатора.
+#
+item.lobdarklingscharge.name=Лоб дарклингс чарже
+item.lobdarklingscharge.description=Используйте, чтобы бросить темный шар злобных дарклингов! также можно стрелять из дозатора.
+#
+item.icefirecharge.name=Заряд ледяного пламени
+item.icefirecharge.description=Используйте, чтобы запустить шар ледяного огня. также можно стрелять из дозатора.
+#
+item.blizzardcharge.name=Снежная буря
+item.blizzardcharge.description=Используйте, чтобы бросить небольшую волну ледяного огня. также можно стрелять из дозатора.
+#
+item.waterjetcharge.name=Водоструйный заряд
+item.waterjetcharge.description=Используйте для запуска струи воды или огня из дозатора.
+#
+item.devilstarcharge.name=Заряд дьявольской звезды
+item.devilstarcharge.description=Используйте, чтобы бросить маленькую дьявольскую звезду. также можно быстро стрелять из дозатора.
+#
+item.smitefireballcharge.name=Поразить заряд огненного шара
+item.smitefireballcharge.description=Используйте, чтобы запустить шар smitefire. также можно стрелять из дозатора.
+#
+item.primefireember.name=Прайм эмбер рывок
+item.primefireember.description=Используйте, чтобы бросить небольшой тлеющий уголь. также можно быстро стрелять из дозатора.
+#
+# ========================================================================
+item.equipment.name=Создаваемое снаряжение
+item.equipment.description=
+item.equipmentpart.description=Этот предмет можно использовать для создания мощного снаряжения в кузнице снаряжения или превратить в полезный ресурс.
+#
+equipment.slot.base=База
+equipment.slot.head=Голова
+equipment.slot.blade=Лезвие
+equipment.slot.pike=Копьё
+equipment.slot.axe=Топор
+equipment.slot.jewel=Драгоценность
+equipment.slot.pommel=Навершие
+#
+equipment.harvest.type.pickaxe=Кирка
+equipment.harvest.type.axe=Топор
+equipment.harvest.type.shovel=Лопата
+equipment.harvest.type.sword=Меч
+equipment.harvest.type.shears=Ножницы
+equipment.harvest.type.hoe=Мотыга
+#
+equipment.harvest.shape.block=Блоки
+equipment.harvest.shape.random=Случайно
+equipment.harvest.shape.cross=Крест
+#
+item.woodenrod.name=Деревянный стержень
+item.woodenhilt.name=Деревянная гарда
+item.woodenpaxel.name=Деревянный паксель
+item.ironrod.name=Железный стержень
+item.ironhilt.name=Железная гарда
+item.ironpaxel.name=Железный паксель
+item.ironpikejoint.name=Железная щука
+item.ironaxehead.name=Голова железного топора
+item.goldscepterhead.name=Золотой скипетр
+item.bansheeeye.name=Глаз банши
+item.sylphwing.name=Крыло сильфиды
+item.grueclaw.name=Мрачный коготь
+item.geonachspear.name=Геонахское копье
+item.remobrawing.name=Ремобра крыло
+item.astarothclaw.name=Коготь астарота
+item.raidrablade.name=Клинок зефира
+item.sutiramustinger.name=Жало Сутираму
+item.wendigoantler.name=Вендиго рог
+item.clinkscythe.name=Клинк коса
+item.vespidstinger.name=Веспид стингер
+item.argustail.name=Хвост аргуса
+item.wargskull.name=Череп варга
+item.zephyrcloud.name=Зефирное облако
+item.ventoraptorskull.name=Череп вентораптора
+item.uvaraptorskull.name=Череп увараптора
+item.darklingskull.name=Темный череп
+item.entarm.name=Энт арм
+item.wraithskull.name=Призрачный череп
+item.sprigganroot.name=Спригган рут
+item.sprigganheart.name=Спригган сердце
+item.xaphanspine.name=Ксафан спайн
+item.cinderblade.name=Пепельный клинок
+item.geonachfist.name=Кулак геонаха
+item.spectretendril.name=Призрачное щупальце
+item.vapulacrystal.name=Кристалл вапулы
+item.reiverhorns.name=Ривер хорнс
+item.eechetikarm.name=Группа по этике
+item.gammasphere.name=Гамма-сфера
+item.apollyonclaw.name=Коготь аполлиона
+item.behemophethand.name=Бегемофет рука
+item.naxiriseye.name=Глаз наксириса
+item.belphegorarm.name=Рука бельфегора
+item.malwratheye.name=Глаз малврата
+item.conbabutt.name=Конба батт
+item.epionwing.name=Крыло эпиона
+item.eyewigeye.name=Глаз
+item.frostweaverleg.name=Нога ледяного ткача
+item.ioraystinger.name=Йорай стингер
+item.lacedonhead.name=Лакедон-хед
+item.bruchaquill.name=Бруха перо
+item.reaperclaw.name=Коготь жнеца
+item.serpixmandible.name=Серпикс мандибула
+item.wildkinarm.name=Дикая рука
+item.cherufecore.name=Ядро смерти
+item.stryderheart.name=Сердце воина
+item.afritlung.name=Африт лунг
+item.arixbrain.name=Арикс мозг
+item.erepededrill.name=Эрепеде дрилл
+item.ettinclub.name=Эттин клуб
+# ========================================================================
+item.raw_arisaur_meat.name=Сырое мясо аризавра
+item.raw_arisaur_meat.description=Мясо, похожее на говядину. «потрясающе хорошо» есть в сыром виде!
+#
+item.cooked_joust_meat.name=Приготовленное рыцарское мясо
+item.cooked_joust_meat.description=Мясо, похожее на курицу. острый! на вкус как пери пери курица!
+#
+item.amber_cake.name=Янтарный торт
+item.amber_cake.description=Пряный пирог, полный сахара! применяет повышение скорости!
+#
+item.raw_silex_meat.name=Сырое мясо силекса
+item.raw_silex_meat.description=Мясо, похожее на рыбу. очень острый и костлявый!
+#
+item.devil_lasagna.name=Дьявольская лазанья
+item.devil_lasagna.description=Восхитительное мясное блюдо из макарон, наполненное демонической силой.
+#
+item.raw_pinky_meat.name=Сырое мизинец мясо
+item.raw_pinky_meat.description=Мясо, похожее на свинину. иссушающая демоническая энергия пульсирует через это мясо, оно должно быть очищено огнем.
+#
+item.raw_yale_meat.name=Сырое йельское мясо
+item.raw_yale_meat.description=Мясо, похожее на баранину. очень жевательный в сыром виде!
+#
+item.cooked_cephignis_meat.name=Приготовленное мясо цефигни
+item.cooked_cephignis_meat.description=Мясо, похожее на рыбу. очень острый!
+#
+item.battle_burrito.name=Боевой буррито
+item.battle_burrito.description=Мощный сплав многих вкусных мясных блюд! применяется: сила, сопротивление, поглощение, повышение 
+здоровья и лечение!
+#
+item.raw_concapede_meat.name=Сырое мясо concapede
+item.raw_concapede_meat.description=Мясо, похожее на кролика. закрой глаза и представь, что это вкусно!
+#
+item.cooked_yale_meat.name=Приготовленное йельское мясо
+item.cooked_yale_meat.description=Мясо, похожее на баранину. на вкус как мятная жареная баранина.
+#
+item.peaks_kebab.name=Должен ли кебаб
+item.peaks_kebab.description=Пища гор, увеличивает силу рук для скорости добычи, лучшее, что мог съесть шахтер!
+#
+item.lapis_fish_and_chips.name=Ляпис фиш энд чипс
+item.lapis_fish_and_chips.description=Плывите по воде с грацией силекса после того, как съели это лакомство. чипсы представляют собой кусочки картофеля фри, а не тонкие хрустящие картофельные вафли.
+#
+item.cooked_pinky_meat.name=Приготовленное мясо мизинца
+item.cooked_pinky_meat.description=Мясо, похожее на свинину. на вкус очень сочная, соленая говядина. обеспечивает прочность.
+#
+item.bulwark_burger.name=Бульварк бургер
+item.bulwark_burger.description=Возьмите на себя жесткую защиту могучей маки! применяет поглощение.
+#
+item.explorers_risotto.name=Исследователи ризотто
+item.explorers_risotto.description=Могучее блюдо, наполненное силой! применяется: скорость передвижения, скорость копания, водное дыхание и усиление прыжка!
+#
+item.paleo_salad.name=Палео салат
+item.paleo_salad.description=Самая здоровая еда, которую вы можете есть! увеличивает все получаемое исцеление.
+#
+item.blood_chili.name=Кровавый перец чили
+item.blood_chili.description=Интенсивный перец чили, который дает потребителю возможность потреблять жизненную силу любого существа, на которое он нападает, исцеляя его.
+#
+item.raw_ika_meat.name=Сырое мясо ика
+item.raw_ika_meat.description=Мясо, похожее на рыбу! он кажется очень тяжелым.
+#
+item.seashell_maki.name=Морская ракушка маки
+item.seashell_maki.description=Настой вкуса глубокого синего моря! улучшает скорость плавания!
+#
+item.cooked_chupacabra_meat.name=Приготовленное мясо чупакабры
+item.cooked_chupacabra_meat.description=Мясо, похожее на говядину. в то время как существо, из которого оно сделано, отвратительно, после приготовления это богатое мясо абсолютно восхитительно!
+#
+item.searing_taco.name=Обжигающий тако
+item.searing_taco.description=Настолько острый, что делает вас невосприимчивым к огню!
+#
+item.moss_pie.name=Моховой пирог
+item.moss_pie.description=Сытный, сытный мясной пирог! применяет регенерацию.
+#
+item.cooked_aspid_meat.name=Жареное мясо аспида
+item.cooked_aspid_meat.description=Мясо, похожее на говядину. рассыпается во рту, вкусно, немного похоже на приготовленную на медленном огне говядину!
+#
+item.cooked_bobeko_meat.name=Приготовленное мясо бобеко
+item.cooked_bobeko_meat.description=Мясо, похожее на свинину. невероятно сочный.
+#
+item.raw_chupacabra_meat.name=Сырое мясо чупакабры
+item.raw_chupacabra_meat.description=Мясо, похожее на говядину. чешуйчатая плоть, сочащаяся кровью. употребление его в сыром виде может вызвать ужасающие галлюцинации!
+#
+item.raw_maka_meat.name=Сырое мясо мака
+item.raw_maka_meat.description=Мясо, похожее на свинину. очень жевательный, употребление в сыром виде вызовет слабость.
+#
+item.raw_aspid_meat.name=Сырое мясо аспида
+item.raw_aspid_meat.description=Мясо, похожее на говядину. пахнет говядиной, приправленной тмином. выглядит ядовитым.
+#
+item.cooked_silex_meat.name=Приготовленное мясо силекса
+item.cooked_silex_meat.description=Мясо, похожее на рыбу. очень освежает!
+#
+item.raw_bobeko_meat.name=Сырое запеченное мясо
+item.raw_bobeko_meat.description=Мясо, похожее на свинину. чувствуется очень холодно...
+#
+item.cooked_concapede_meat.name=Приготовленное мясо concapede
+item.cooked_concapede_meat.description=Мясо, похожее на кролика. на вкус как кролик! хотя не похоже!
+#
+item.cooked_arisaur_meat.name=Приготовленное мясо аризавра
+item.cooked_arisaur_meat.description=Мясо, похожее на говядину. пропитан даром природы с приготовленными нечистотами, увеличивает все полученное исцеление.
+#
+item.raw_joust_meat.name=Сырое мясо турнира
+item.raw_joust_meat.description=Мясо, похожее на курицу. выглядит жевательным и пахнет ногами, применяет замедление движения, лучше приготовить его.
+#
+item.pale_soup.name=Бледный суп
+item.pale_soup.description=Молочный суп, повышающий сопротивляемость.
+#
+item.cooked_maka_meat.name=Приготовленное мясо мака
+item.cooked_maka_meat.description=Мясо, похожее на свинину. имеет тонкий вкус бекона.
+#
+item.tropical_curry.name=Тропический карри
+item.tropical_curry.description=Наполненный экзотическими вкусами! бодрый!
+#
+item.cooked_ika_meat.name=Приготовленное мясо ика
+item.cooked_ika_meat.description=Мясо, похожее на рыбу. хрустящие морепродукты! приготовление сделало его намного легче!
+#
+item.raw_krake_meat.name=Сырое крабовое мясо
+item.raw_krake_meat.description=Мясо, похожее на кролика. кажется, он все еще немного шевелится, вероятно, его небезопасно есть.
+#
+item.cooked_krake_meat.name=Приготовленное мясо краке
+item.cooked_krake_meat.description=Мясо, похожее на кролика. имеет крепкую текстуру и насыщенный пикантный вкус, кажется, слегка 
+вибрирует.
+#
+item.caecilian_ramen.name=Сесилия рамен
+item.caecilian_ramen.description=Восхитительное блюдо со свежим жареным яйцом сверху, лапша, кажется, вибрирует!
+#
+# ========================================================================
+item.soulgazer.name=Созерцатель души
+item.soulgazer.description=Используйте на существе, чтобы добавить его в звериарий. чтобы открыть beastiary, либо щелкните вкладку beastiary в вашем инвентаре выживания, либо нажмите клавишу beastiary (устанавливается в меню «управление»).
+#
+item.soul_contract.name=Контракт души
+item.soul_contract.description=Этот контракт подписан с использованием магии для связывания душ. владелец питомца должен сначала 
+использовать этот контракт на своем питомце, чтобы связать его, затем новый владелец должен взять этот контракт, а также нажать на питомца, чтобы передать связывание души.
+item.lycanitesmobs.soul_contract.bound=Связано с:
+item.lycanitesmobs.soul_contract.owner=Принадлежит:
+item.lycanitesmobs.soul_contract.offline=Владелец отсутствует.
+item.lycanitesmobs.soul_contract.released=Связанное существо освобождено, этот контракт недействителен.
+#
+item.mobtoken.name=Жетон толпы
+item.mobtoken.description=Косметический предмет, используемый для отображения моделей существ в виде значков достижений и т. д.
+#
+item.wraithsigil.name=Призрачная печать
+item.wraithsigil.description=Сохранившийся призрак в стазисе, наполненный магией пустоты, с помощью которого можно высвободить ярость этого элементаля пустоты!
+#
+#
+# ========== Consumables ==========
+item.immunizer.name=Иммунизатор
+item.immunizer.description=Специальное зелье, защищающее от яда, голода, слабости, тошноты и паралича.
+#
+item.cleansingcrystal.name=Очищающий кристалл
+item.cleansingcrystal.description=Магический кристалл, наполненный духовной энергией, защищает от увядания, невезения, страха и бессонницы.
+#
+item.geistliver.name=Духовная печень
+item.geistliver.description=У него очень мускусный запах... используйте, чтобы выдавить сгусток shadowfire.
+#
+item.frostyfur.name=Морозный мех
+item.frostyfur.description=Холодный, как снег, используйте для создания морозного облака.
+#
+item.poisongland.name=Ядовитая железа
+item.poisongland.description=Сожмите, чтобы поместить ядовитое облако!
+#
+item.bucketooze.name=Ведро слизи
+item.bucketooze.description=Слизь представляет собой ледяную гелеобразную субстанцию, замедляющую и наносящую небольшой урон с течением времени.
+#
+item.bucketrabbitooze.name=Ведро с кроличьей слизью
+item.bucketrabbitooze.description=Такой же холодный и опасный, как и обычный ooze, но в нем не появляются мобы, и его можно обновлять, как воду.
+#
+item.bucketmoglava.name=Ведро моглава
+item.bucketmoglava.description=Более прозрачная, чем обычная лава, течет немного быстрее, и в ней не появляются мобы. может обновляться, как вода.
+#
+item.bucketacid.name=Кислотное ведро
+item.bucketacid.description=Смертоносное вещество, вызывает проникновение и наносит урон с течением времени.
+#
+item.bucketsharacid.name=Ведро шарацида
+item.bucketsharacid.description=Очищенная кислота, столь же смертоносная, но в ней не появляются мобы, и ее можно обновлять, как 
+воду.
+#
+item.bucketpoison.name=Ядовитое ведро
+item.bucketpoison.description=Грязная жидкость, вызывает чуму.
+#
+item.bucketvesspoison.name=Ведро с ядом
+item.bucketvesspoison.description=Такой же грязный, как и обычный яд, но в нем не появляются мобы, и его можно обновлять, как воду.
+#
+#
+item.bucketveshoney.name=Ведро вешоней
+item.bucketveshoney.description=Вкусная, липкая и полезная жидкость, образующаяся и находящаяся в ульях веспидов, вызывает медлительность.
+#
+# ========== Seasonal ==========
+item.halloweentreat.name=Угощение на хэллоуин
+item.halloweentreat.description=Кошелек или жизнь?!
+item.halloweentreat.good=Это удовольствие! повезло тебе!
+item.halloweentreat.bad=Обманывать! ух ты!
+#
+item.wintergift.name=Зимний подарок
+item.wintergift.description=Хорошие новости, счастливого рождества и счастливого рождества! открой и посмотри, что внутри!
+item.wintergift.good=Вы открываете свой подарок, и это приятный сюрприз!
+item.wintergift.bad=О, нет! это дар боли, страданий и кошмаров!
+#
+item.wintergiftlarge.name=Большой зимний подарок
+item.wintergiftlarge.description=Это 25 декабря! время открывать большие подарки! не обращайте внимания на визг коробки, это ничего...
+item.wintergiftlarge.bad=Aaaahhhhh хааа хааа хааа ха ха ха! ух ты! счастливых праздников!
+#
+#
+# ========== Keys ==========
+item.soulkey.name=Душевный ключ
+item.soulkey.description=Используйте для активации алтаря призыва, чтобы призвать редкого монстра или активировать особое событие.
+#
+item.soulkeydiamond.name=Алмазный ключ души
+item.soulkeydiamond.description=Более мощный ключ души, способный вызывать более могущественных боссов!
+#
+item.soulkeyemerald.name=Изумрудный ключ души
+item.soulkeyemerald.description=Более мощный ключ души, способный вызывать более могущественных боссов!
+#
+#
+# ========== Soulstones ==========
+item.soulstone.name=Камень души
+item.soulstone.description=Используйте на прирученном существе, чтобы привязать его к своему духу, что позволит вам призывать и отпускать его в любом месте в любое время. связанные питомцы или маунты также возрождаются после смерти.
+#
+item.soulstone_aberration.name=Камень души аберрации
+item.soulstone_aberration.description=В этом камне души обитает жуткая душа аберрации, высвободите ее и сделайте своей!
+#
+item.soulstone_angel.name=Камень души ангела
+item.soulstone_angel.description=Священная душа ангела находится в этом камне души, высвободите его и сделайте своим!
+#
+item.soulstone_aquatic.name=Водный камень души
+item.soulstone_aquatic.description=Элегантная душа водного существа обитает в этом 
+камне души, высвободите его и сделайте своим!
+#
+item.soulstone_arthropod.name=Камень души членистоногого
+item.soulstone_arthropod.description=Странная душа членистоногого обитает в этом камне души, высвободите его и сделайте своим!
+#
+item.soulstone_avian.name=Птичий камень души
+item.soulstone_avian.description=Быстрая душа птичьего существа обитает в этом камне души, высвободите его и сделайте своим!
+#
+item.soulstone_beast.name=Камень души зверя
+item.soulstone_beast.description=Порочная душа зверя обитает в этом камне души, высвободи его и сделай своим!
+#
+item.soulstone_anthronian.name=Антронский камень души
+item.soulstone_anthronian.description=В этом камне души обитает могучая душа антропониана, высвободите его и сделайте своим!
+#
+item.soulstone_demon.name=Камень души демона
+item.soulstone_demon.description=Злая душа демона обитает в этом камне души, высвободи его и сделай своим!
+#
+item.soulstone_dragon.name=Камень души дракона
+item.soulstone_dragon.description=Гордая душа дракона обитает в этом камне души, высвободи его и сделай своим!
+#
+item.soulstone_elemental.name=Стихийный эссенциальный камень
+item.soulstone_elemental.description=Магическая сущность элементаля заключена в этом эссенциальном камне, высвободите его и сделайте своим!
+#
+item.soulstone_imp.name=Камень души беса
+item.soulstone_imp.description=Озорная душа беса обитает в этом камне души, высвободи его и сделай своим!
+#
+item.soulstone_plant.name=Растение камень души
+item.soulstone_plant.description=Цветущая душа растительного существа находится в этом камне души, высвободите его и сделайте своим!
+#
+item.soulstone_undead.name=Камень души нежити
+item.soulstone_undead.description=Неутомимая душа нежити обитает в этом камне души, высвободите его и сделайте своим!
+#
+item.soulstone_worm.name=Камень души червя
+item.soulstone_worm.description=Безжалостная душа червя обитает в этом камне души, 
+высвободите его и сделайте своим!
+#
+item.soulstone_amphibian.name=Камень души амфибии
+item.soulstone_amphibian.description=Странная душа земноводного обитает в этом камне души, высвободите его и сделайте своим!
+#
+item.soulstone_arachnid.name=Камень души паука
+item.soulstone_arachnid.description=Извращенная душа паукообразных обитает в этом камне души, высвободи его и сделай своим!
+#
+item.soulstone_insect.name=Камень души насекомых
+item.soulstone_insect.description=Жуткая душа насекомого обитает в этом камне души, высвободите его и сделайте своим!
+#
+item.soulstone_reptile.name=Камень души рептилии
+item.soulstone_reptile.description=В этом камне души заключена величественная душа 
+рептилии, высвободите ее и сделайте своей!
+#
+item.soulstone_golem.name=Камень души голема
+item.soulstone_golem.description=Механическая душа голема находится в этом камне души, высвободите его и сделайте своим!
+#
+item.soulstone_slime.name=Камень души слизи
+item.soulstone_slime.description=Остаток души слизи находится в этом камне души, высвободи его и сделай своим!
+#
+#
+# ========== Spawns ==========
+item.forestspawn.name=Spawn
+item.swampspawn.name=Spawn
+item.arcticspawn.name=Spawn
+item.mountainspawn.name=Spawn
+item.elementalspawn.name=Spawn
+item.plainsspawn.name=Spawn
+item.saltwaterspawn.name=Spawn
+item.desertspawn.name=Spawn
+item.junglespawn.name=Spawn
+item.shadowspawn.name=Spawn
+item.infernospawn.name=Spawn
+item.demonspawn.name=Spawn
+item.freshwaterspawn.name=Spawn
+# ========================================================================
+# ========== Summoning Staves ==========
+item.summoningstaff.name=Посох призыва
+item.summoningstaff.description=Призывайте миньонов, чтобы они выполняли ваши приказы! начните использовать для создания портала, со временем портал истощит ваш фокус призыва (выше шкалы голода).
+#
+item.stablesummoningstaff.name=Стабильный посох призыва
+item.stablesummoningstaff.description=Призванные миньоны существуют дольше, но требуют больше внимания.
+#
+item.bloodsummoningstaff.name=Посох призыва крови
+item.bloodsummoningstaff.description=Половина стоимости фокуса, если вместо этого пожертвовать своим здоровьем.
+#
+item.savagesummoningstaff.name=Посох свирепого призыва
+item.savagesummoningstaff.description=Призывает двойных миньонов, но с половиной здоровья каждого.
+#
+item.sturdysummoningstaff.name=Прочный призывной посох
+item.sturdysummoningstaff.description=Этот посох длится намного дольше, но требует 
+больше внимания.
+#
+#
+# ========== Weapons ==========
+item.cinderfallsword.name=Пеплопадный меч
+item.cinderfallsword.description=Наполнен душами золушек! при попадании: наносит дополнительный урон в виде пробивного огненного урона, поджигает, есть шанс призвать 
+пепельного миньона.
+#
+item.azurecinderfallsword.name=Лазурный меч пепла
+item.azurecinderfallsword.description=Улучшенный меч cinderfall sword, который будет призывать azure cinders на большее количество времени и наносить больше урона.   
+#
+item.verdantcinderfallsword.name=Зеленый меч пеплопада
+item.verdantcinderfallsword.description=Улучшенный меч cinderfall sword, который с 
+большей вероятностью вызовет verdant cinders и нанесет больше урона.
+#
+item.venomaxeblade.name=Ядовитый топор
+item.venomaxeblade.description=Наполнен душами ремобра. эффективен как меч, так и топор. при попадании: накладывает яд, есть шанс призвать миньона ремобра. в ожидании: иммунитет к яду.
+#
+item.goldenvenomaxeblade.name=Золотой ядовитый топор
+item.goldenvenomaxeblade.description=Улучшенный топор venom, который вызывает золотую ремобру на увеличенное время и наносит больше урона.
+#
+item.verdantvenomaxeblade.name=Зеленый ядовитый топор
+item.verdantvenomaxeblade.description=Улучшенный топор venom, который с большей вероятностью призывает зеленую ремобру и наносит больше урона.
+# ========================================================================
+item.aberrationtreat.name=Лечение аберрации
+item.aberrationtreat.description=Темное чучело, сделанное как дань уважения таинственному существу, но сможете ли вы его победить?
+#
+item.angeltreat.name=Ангел лечить
+item.angeltreat.description=В настоящее время ангельские существа еще не добавлены.#
+item.aquatictreat.name=Водное удовольствие
+item.aquatictreat.description=Сделанный из нежной рыбы, с его помощью можно приручить некоторых водных существ.
+#
+item.amphibiantreat.name=Земноводное угощение
+item.amphibiantreat.description=Сделанный из вонючей слизи, с его помощью вы можете приручить некоторых амфибий.
+#
+item.aviantreat.name=Птичье лакомство
+item.aviantreat.description=Сделанный из легкого мяса, вы можете приручить некоторых птичьих существ.
+#
+item.beasttreat.name=Звериное угощение
+item.beasttreat.description=Сделано из сочного мяса, с его помощью можно приручить 
+некоторых зверей.
+#
+item.anthroniantreat.name=Антронианское угощение
+item.anthroniantreat.description=Сделанные из жирного мяса, бруты довольно простодушны, может ли это кого-то поколебать?
+#
+item.demontreat.name=Демон угощение
+item.demontreat.description=Все демоны, похоже, любят перекусывать адским наростом 
+между приемами живой плоти.
+#
+item.dragontreat.name=Угощение дракона
+item.dragontreat.description=Сокровище, украшенное прекрасными драгоценностями, драконы любят сокровища.
+#
+item.elementaltreat.name=Элементарное угощение
+item.elementaltreat.description=Только творчество, элементалей можно призвать, но нельзя приручить.
+#
+item.imptreat.name=Угощение беса
+item.imptreat.description=Бесы — неуправляемые изверги, но они не могут устоять перед вкусом богатства.
+#
+item.planttreat.name=Угощение для растений
+item.planttreat.description=Сделанный из свежих овощей и сахарного тростника, с его помощью можно приручить некоторых растительных существ.
+#
+item.undeadtreat.name=Угощение нежити
+item.undeadtreat.description=Сделано из лучшей гнилой плоти, но сможет ли это поколебать какое-либо нежить?
+#
+item.wormtreat.name=Угощение от червей
+item.wormtreat.description=Кажется, этим червям, сделанным из очень дикого мяса, это нравится.
+#
+item.arachnidtreat.name=Паучье угощение
+item.arachnidtreat.description=Сделанный из свежих фруктов, им захотят полакомиться всевозможные паукообразные.
+#
+item.insecttreat.name=Лечение насекомых
+item.insecttreat.description=Сделанный из свежих фруктов, им захотят полакомиться всевозможные насекомые.
+#
+item.reptiletreat.name=Угощение для рептилий
+item.reptiletreat.description=Сделано из сочного мяса, с его помощью можно приручить некоторых рептилий.
+#
+item.golemtreat.name=Угощение голема
+item.golemtreat.description=Похоже, этим големам, сделанным из лучших деталей машин, это нравится.
+#
+item.slimetreat.name=Слаймовое угощение
+item.slimetreat.description=Сделанный из очень упругой слизи, похоже, этим слизнякам это нравится.
+# ========================================================================
+item.saddle_aberration.name=Седло аберрации
+item.saddle_aberration.description=Специально адаптированное седло для самых малоизвестных существ.
+#
+item.saddle_angel.name=Седло ангела
+item.saddle_angel.description=В настоящее время ангельские существа еще не добавлены.
+#
+item.saddle_aquatic.name=Водное седло
+item.saddle_aquatic.description=Аквадинамическое седло для глубоких погружений.
+#
+item.saddle_amphibian.name=Седло амфибии
+item.saddle_amphibian.description=Это седло специально приспособлено для скользких 
+существ и воздействия различных жидкостей.
+#
+item.saddle_arachnid.name=Седло паука
+item.saddle_arachnid.description=Седло, созданное для всех восьминогих или около того существ.
+#
+item.saddle_insect.name=Седло насекомых
+item.saddle_insect.description=Легкое седло с модульными механизмами крепления.
+#
+item.saddle_avian.name=Птичье седло
+item.saddle_avian.description=Аэродинамическое седло, созданное специально для существ, адаптированных к полету и скольжению, а также дружественное к перьям.
+#
+item.saddle_beast.name=Седло зверя
+item.saddle_beast.description=Прочное седло с тугими, но удобными ремнями.
+#
+item.saddle_reptile.name=Седло для рептилий
+item.saddle_reptile.description=Седло со специальной термопрокладкой и амортизирующей фурнитурой.
+#
+item.saddle_anthronian.name=Антронианское седло
+item.saddle_anthronian.description=Седло, которое больше похоже на рюкзак или сумку, идеально подходит для двуногих верховых животных!
+#
+item.saddle_demon.name=Седло демона
+item.saddle_demon.description=Седло со злыми чарами, закаленное для самых демонических существ.
+#
+item.saddle_dragon.name=Седло дракона
+item.saddle_dragon.description=Украшенное драгоценностями седло с особыми чарами, вплетенными в каждый драгоценный камень, достойное могучего дракона!
+#
+item.saddle_elemental.name=Седло элементаля
+item.saddle_elemental.description=Только творческий режим, в настоящее время никакие элементали не могут быть оседланы.
+#
+item.saddle_imp.name=Седло беса
+item.saddle_imp.description=Странное седло в форме рюкзака с несколькими маленькими ремнями.
+#
+item.saddle_plant.name=Седло для растений
+item.saddle_plant.description=Специальное седло, изготовленное из материалов, безопасных для растений.
+#
+item.saddle_undead.name=Седло нежити
+item.saddle_undead.description=Седло с чарами, предназначенными для подавления и управления духами.
+#
+item.saddle_worm.name=Седло червя
+item.saddle_worm.description=Длинное седло с широкой фурнитурой, подходящее для самых длинных и извилистых верховых животных!
+#
+item.saddle_golem.name=Седло голема
+item.saddle_golem.description=Похоже, этим големам, сделанным из лучших деталей машин, это нравится.
+#
+item.saddle_slime.name=Седло слизи
+item.saddle_slime.description=Седло со специальными подушечками, которые можно наполнять и сливать химикатами, которые действуют как временный клей для слизистых существ.
+# ========================================================================
+# %event% will be replaced with the name of the event, don't translate this!       
+event.started=%event% началось!
+event.extended=%event% был продлен!
+event.finished=%event% больше не порождает мобов!
+event.boss.started=%event% был вызван!
+event.boss.extended=%event% приближается!
+event.boss.finished=%event% высвобождается!
+event.boss.phase=Фаза
+boss.block.protection.place=Присутствие могущественного существа мешает вам поставить этот блок.
+boss.block.protection.break=Присутствие могущественного существа мешает вам разрушить этот блок.
+boss.damage.protection.range=Это существо слишком сильное, чтобы его можно было повредить с такого расстояния.
+#
+# ========== Event Names ==========
+mobevent.aberrant_assimilation.name=Аберрантная ассимиляция
+mobevent.amalgalich.name=Амальгаловый
+mobevent.arachnophobia.name=Арахнофобия
+mobevent.asmodeus.name=Асмодей
+mobevent.bamstorm.name=Бамсторм
+mobevent.blackplague.name=Черная чума
+mobevent.bladeflurry.name=Шквал клинков
+mobevent.boulderdash.name=Валун
+mobevent.cinderfall.name=Пеплопад
+mobevent.dragonsroar.name=Рев драконов
+mobevent.eruption.name=Извержение
+mobevent.halloween.name=Счастливого хэллоуина
+mobevent.hellsfury.name=Адская ярость
+mobevent.marchofthegorgomites.name=Марш горгомитов
+mobevent.poopparty.name=Какашка вечеринка
+mobevent.primalfury.name=Первобытная ярость
+mobevent.rahovart.name=Раховарт
+mobevent.raptorrampage.name=Раптор буйство
+mobevent.reptileruckus.name=Рептилия рукус
+mobevent.roasting.name=Твоя голова горит на огне
+mobevent.rootriot.name=Корневой бунт
+mobevent.rudolph.name=Рудольф окровавленный бармаглот
+mobevent.saltytree.name=Соленое дерево
+mobevent.satanclaws.name=Когти сатаны
+mobevent.seastorm.name=Морская буря
+mobevent.shadowgames.name=Теневые игры
+mobevent.sharknado.name=Акулий торнадо
+mobevent.subzero.name=Ниже нуля
+mobevent.theswarm.name=Рой
+mobevent.tsunami.name=Цунами
+mobevent.windstorm.name=Буря
+mobevent.wingedvenom.name=Крылатый яд
+mobevent.wintersgrasp.name=Уинтерс хватка
+# ========================================================================
+entity.ember.name=Уголек
+entity.whirlwind=Вихрь
+entity.lightball=Световой шар
+entity.mudshot=Грязь
+entity.crystalshard=Хрустальный осколок
+entity.magma=Магма
+entity.frostbolt=Ледяная стрела
+entity.tundra=Тундра
+entity.spectralbolt=Спектральная стрела
+entity.venomshot=Веномшот
+entity.devilstar=Дьявольская звезда"
+entity.boulderblast=Валун взрыв
+entity.icefireball=Ледяной огненный шар
+entity.hellfireball=Адский огненный шар
+entity.quill=Перо
+entity.scorchfireball=Обжигающий огненный шар
+entity.throwingscythe=Метательная коса
+entity.tricksterflare=Трикстер флэр
+entity.demonicblast=Демонический взрыв
+entity.demonicspark=Демоническая искра
+entity.bloodleech=Кровопийца
+entity.acidsplash=Кислотный всплеск
+entity.acidglob=Кислотный шарик
+entity.lobdarklings=Лоб дарклингс
+entity.faebolt=Фейболт
+entity.frostweb=Морозная паутина
+entity.chaosorb=Сфера хаоса
+entity.poisonray=Ядовитый луч
+entity.ember=Человек
+entity.blizzard=Метель
+entity.doomfireball=Роковой огненный шар
+entity.waterjet=Струя воды
+entity.poop=Говно
+entity.lifedrain=Иссушение жизни
+entity.devilstar=Дьявольская звезда
+entity.aquapulse=Аква пульс
+entity.arcanelaserstorm=Чародейский лазерный шторм
+entity.aetherwave=Эфирвейв
+entity.summoningseed=Семя призыва
+entity.primeember=Прайм Уголек
+entity.smitefireball=Шаровая молния

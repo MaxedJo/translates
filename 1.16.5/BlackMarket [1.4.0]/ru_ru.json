@@ -1,0 +1,8 @@
+{
+  "entity.minecraft.villager.black_market.illegal_seller": "Незаконный покупатель",
+  "block.black_market.illegal_sellerblock": "Незаконный бизнес",
+  "block.black_market.illegalbuyerblock": "Незаконный блок покупателя",
+  "entity.minecraft.villager.black_market_goods.illegalbuyer": "Незаконный продавец",
+  "entity.minecraft.villager.black_market_goods.illegal_seller": "Незаконный покупатель",
+  "entity.minecraft.villager.black_market.illegalbuyer": "Незаконный продавец"
+}

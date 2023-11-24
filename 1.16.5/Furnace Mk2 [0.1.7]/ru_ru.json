@@ -1,0 +1,22 @@
+{
+  "block.furnacemk2.furnacemk2": "Печь Mk2",
+  "screen.furnacemk2.furnacemk2": "Печь Mk2",
+  "itemGroup.furnacemk2": "Печь Mk2",
+  "item.furnacemk2.experience_core": "Прояснитель опыта",
+  "item.furnacemk2.insulation_core": "Изолирующий усилитель",
+  "item.furnacemk2.thermal_core": "Термический усилитель",
+  "item.furnacemk2.crystal_gem_item": "Настроенный кристалл",
+  "message.furnace_core.experience.1": "FurnaceMK2 Улучшение: Опыт",
+  "message.furnace_core.experience.2": "Удваивает полученный опыт",
+  "message.furnace_core.efficiency.1": "FurnaceMK2 Улучшение: Эффективность",
+  "message.furnace_core.efficiency.2": "Печь расходует топливо на ~33% медленнее",
+  "message.furnace_core.speed.1": "FurnaceMK2 Улучшение: Скорость",
+  "message.furnace_core.speed.2": "Удваивает скорость обработки печи",
+  "message.crystal_gem_item.1": "Правый-Клик = Кристалл->Игрок",
+  "message.crystal_gem_item.2": "Присесть-Правый-Клик = Игрок->Кристалл",
+  "message.crystal_gem_item.3": "Опыт: ",
+  "message.furnacemk2.upgradeslot": "Слот улучшения",
+  "message.furnacemk2.fuelslot": "Слот топлива",
+  "message.furnacemk2.ingredientslot": "Слот для плавки",
+  "message.furnacemk2.experienceslot": "Слот для кристалла опыта"
+}

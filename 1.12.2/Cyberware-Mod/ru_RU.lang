@@ -1,0 +1,415 @@
+# BLOCKS
+tile.cyberware.surgery.name=Робохирург
+item.cyberware.surgery_chamber.name=Хирургическая палата
+tile.cyberware.surgery_chamber.name=Хирургическая палата
+tile.cyberware.charger.name=Зарядное устройство для киберпрограмм
+tile.cyberware.engineering_table.name=Таблица разработки киберпрограмм
+tile.cyberware.scanner.name=Сканер киберпрограмм
+tile.cyberware.blueprint_archive.name=Архив чертежей
+item.cyberware.engineering_table.name=Таблица разработки киберпрограмм
+tile.cyberware.component_box.name=Коробка компонентов
+item.cyberware.component_box.name=Коробка компонентов
+tile.cyberware.beacon.name=Радио Комплект
+tile.cyberware.beacon_large.name=радиовышка
+tile.cyberware.radio_post.name=Компонент радиовышки
+
+
+# ITEMS
+item.cyberware.body_part.brain.name=Человеческий мозг
+item.cyberware.body_part.eyes.name=Человеческий глаз
+item.cyberware.body_part.heart.name=Человеческое сердце
+item.cyberware.body_part.lungs.name=Легкие человека
+item.cyberware.body_part.stomach.name=Человеческий желудок
+item.cyberware.body_part.skin.name=Человеческая кожа
+item.cyberware.body_part.muscles.name=Мышцы человека
+item.cyberware.body_part.bones.name=Человеческие кости
+item.cyberware.body_part.arm_left.name=Левая рука человека
+item.cyberware.body_part.arm_right.name=Правая рука человека
+item.cyberware.body_part.hand_left.name=Левая ладонь человека
+item.cyberware.body_part.hand_right.name=Правая ладонь человека
+item.cyberware.body_part.leg_left.name=Левая нога человека
+item.cyberware.body_part.leg_right.name=Правая нога человека
+item.cyberware.body_part.foot_left.name=Левая стопа человека
+item.cyberware.body_part.foot_right.name=Правая стопа человека
+item.cyberware.cyberlimbs.cyberleg_left.name=Левая Кибернога
+item.cyberware.cyberlimbs.cyberleg_right.name=правая Кибернога
+item.cyberware.cyberlimbs.cyberarm_left.name=Левая киберрука
+item.cyberware.cyberlimbs.cyberarm_right.name=Правая киберрука
+
+item.cyberware.manaseer_lens.lens.name=Манасирские линзы
+item.cyberware.manaseer_lens.link.name=Маналинк
+item.cyberware.cybereyes.name=Киберглаза
+item.cyberware.cybereye_upgrades.night_vision.name=Улучшенное зрение при слабом освещении
+item.cyberware.cybereye_upgrades.underwater_vision.name=Калибратор рефракции жидкости
+item.cyberware.cybereye_upgrades.hudjack.name=ХудДжек
+item.cyberware.cybereye_upgrades.targeting.name=Наложение таргетинга
+item.cyberware.cybereye_upgrades.zoom.name=Увеличитльные линзы
+item.cyberware.eye_upgrades.hudlens.name=ХудСостояния
+item.cyberware.exp_capsule.name=Капсула опыта
+item.cyberware.brain_upgrades.cortical_stack.name=Хранилище капсулы
+item.cyberware.brain_upgrades.ender_jammer.name=АнтиТелепорт
+item.cyberware.brain_upgrades.consciousness_transmitter.name=Передачик опыта
+item.cyberware.brain_upgrades.neural_contextualizer.name=Контекстуализатор
+item.cyberware.brain_upgrades.matrix.name=Калькулятор источника угроз
+item.cyberware.brain_upgrades.radio.name=Вещатель киборгов
+cyberware.gui.radio_internal=CB
+item.cyberware.cyberheart.name=Кардиомеханический насос
+item.cyberware.creative_battery.name=Творческий конденсатор
+item.cyberware.heart_upgrades.defibrillator.name=Внутренний дефибриллятор
+item.cyberware.heart_upgrades.platelets.name=Диспетчер тромбоцитов
+item.cyberware.heart_upgrades.medkit.name=Синтезатор стволовых клеток
+item.cyberware.heart_upgrades.coupler.name=Сердечно-Сосудистый соединитель
+item.cyberware.lungs_upgrades.oxygen.name=Имплантат со сжатым кислородом
+item.cyberware.lungs_upgrades.hyperoxygenation.name=Повышение гипероксигенации
+item.cyberware.lower_organs_upgrades.liver_filter.name=Печеночный фильтр
+item.cyberware.lower_organs_upgrades.metabolic.name=Метаболический генератор
+item.cyberware.lower_organs_upgrades.battery.name=Внутренняя батарея
+item.cyberware.lower_organs_upgrades.adrenaline.name=Адреналиновый насос
+item.cyberware.dense_battery.name=Сверхплотный конденсатор
+item.cyberware.skin_upgrades.solar_skin.name=СолцеКожа
+item.cyberware.skin_upgrades.subdermal_spikes.name=Подкожные Шипы
+item.cyberware.skin_upgrades.fake_skin.name=Синтетическая Кожа
+item.cyberware.skin_upgrades.immuno.name=Целевой иммунодепрессант
+item.cyberware.muscle_upgrades.wired_reflexes.name=Проводные Рефлексы
+item.cyberware.muscle_upgrades.muscle_replacements.name=Замена Миомерных Мышц
+item.cyberware.bone_upgrades.bonelacing.name=УсиленнаяКость
+item.cyberware.bone_upgrades.boneflex.name=Повышение цитрата
+item.cyberware.bone_upgrades.bonebattery.name=Аккумуляторная батарея
+item.cyberware.hand_upgrades.craft_hands.name=Прекрасные Манипуляторы
+item.cyberware.hand_upgrades.claws.name=Выдвижные Когти
+item.cyberware.hand_upgrades.mining.name=Усиленный кулак
+item.cyberware.foot_upgrades.spurs.name=Имплантированные шпоры
+item.cyberware.foot_upgrades.aqua.name=Водная двигательная установка
+item.cyberware.foot_upgrades.wheels.name=Развертываемые колеса
+item.cyberware.arm_upgrades.bow.name=Маховики быстрого вытягивания
+item.cyberware.leg_upgrades.jump_boost.name=Линейные Приводы
+item.cyberware.leg_upgrades.fall_damage.name=Смягчители
+
+item.cyberware.tough_as_nails_upgrades.sweat.name=Переохлажденные Потовые Железы
+item.cyberware.tough_as_nails_upgrades.blubber.name=пузырь
+
+item.cyberware.neuropozyne.name=Нейропозин
+item.cyberware.blueprint.name=Пустой Чертеж
+item.cyberware.blueprint.not_blank.name=Чертеж %1$s 
+
+item.cyberware.component.actuator.name=Привод
+item.cyberware.component.reactor.name=Биореактор
+item.cyberware.component.titanium.name=Титановая сетка
+item.cyberware.component.ssc.name=Твердотельные схемы
+item.cyberware.component.plating.name=Хромирование
+item.cyberware.component.fiberoptics.name=Волоконная оптика
+item.cyberware.component.fullerene.name=Микроструктуры фуллеренов
+item.cyberware.component.synthnerves.name=Синтетические Нервы
+item.cyberware.component.storage.name=Ячейка для хранения
+item.cyberware.component.microelectric.name=Микроэлектрические элементы
+
+item.cyberware.shades.name=Зеркальные абажуры
+item.cyberware.shades2.name=Круглые Зеркальные Абажуры
+item.cyberware.katana.name=Катана
+item.cyberware.jacket.name=Байкерская куртка
+item.cyberware.trenchcoat.name=Шинель
+
+# TOOLTIPS
+itemGroup.cyberware=Кибер-ПО
+
+cyberware.gui.fine_manipulators=Мелкая Сетка Манипулятора
+
+cyberware.slot.eyes=Прорезь для глаз
+cyberware.gui.missing_essential.eyes=Отсутствие глаз приведет к слепоте
+cyberware.slot.cranium=Прорезь для черепа
+cyberware.gui.missing_essential.cranium=Отсутствие мозга приведет к смерти
+cyberware.slot.heart=Слот для сердца
+cyberware.gui.missing_essential.heart=Отсутствие сердца приведет к смерти
+cyberware.slot.lungs=Прорезь для легких
+cyberware.gui.missing_essential.lungs=Отсутствие легких приведет к смерти
+cyberware.slot.lower_organs=Прорезь для нижних Органов
+cyberware.gui.missing_essential.lower_organs=Отсутствует желудок, не сможет есть
+cyberware.slot.skin=слот для кожи
+cyberware.gui.missing_essential.skin=Отсутствует кожа, повреждение вредит больше
+cyberware.slot.muscle=Мышечный слот
+cyberware.gui.missing_essential.muscle=Отсутствие мышц приведет к смерти
+cyberware.slot.bone=Костяной слот
+cyberware.gui.missing_essential.bone=Отсутствие костей приведет к смерти
+cyberware.slot.arm=Слот руки
+cyberware.gui.missing_essential.arm.left=Отсутствующая левая рука будет непригодна для использования
+cyberware.gui.missing_essential.arm.right=Отсутствующая правая рука будет непригодна для использования
+cyberware.slot.hand=Слот ладони
+cyberware.gui.missing_essential.hand.left=Отсутствующая левая ладонь будет непригодна для использования
+cyberware.gui.missing_essential.hand.right=Отсутствующая правая ладонь будет непригодна для использования
+cyberware.slot.leg=Слот ноги
+cyberware.gui.missing_essential.leg.left=Отсутствующая левая нога будет непригодна для использования
+cyberware.gui.missing_essential.leg.right=Отсутствующая правая нога будет непригодна для использования
+cyberware.slot.foot=Слот ступни
+cyberware.gui.missing_essential.foot.left=Отсутствующая левая ступня будет непригодна для использования
+cyberware.gui.missing_essential.foot.right=Отсутствующая правая ступня будет непригодна для использования
+
+cyberware.gui.no_essence=Отсутствие терпимости приведет к смерти
+cyberware.gui.critical_essence=Низкая переносимость, вызовет отторжение
+cyberware.gui.back=Назад (или Правая кнопка мыши)
+cyberware.gui.no_power=Нет производства энергии
+cyberware.gui.remove=(Нажмите, чтобы удалить)
+cyberware.gui.add=(Нажмите, чтобы добавить %1$s)
+cyberware.gui.index=индекс
+cyberware.gui.click=Нажмите, чтобы просмотреть
+cyberware.gui.installed=Кибер ПО после операции
+cyberware.gui.added=(Будет добавлено)
+cyberware.gui.removed=(Будет удалено)
+
+cyberware.gui.destroy=Аннулирование Гарантии
+cyberware.gui.destroy_chance=%1$s шанс получить чертеж
+cyberware.gui.to_destroy=Вставьте киберпрограмму для уничтожения
+cyberware.gui.paper=Вставьте бумагу
+cyberware.gui.blueprint=Вставьте план киберпрограммы
+
+cyberware.gui.keybind.0=Справка по меню активации:
+cyberware.gui.keybind.1=Наведите курсор и отпустите сегмент, чтобы активировать
+cyberware.gui.keybind.2=Щелкните сегмент левой кнопкой мыши, чтобы установить привязку клавиш
+cyberware.gui.keybind.3=Щелкните сегмент правой кнопкой мыши, чтобы удалить привязку клавиш
+cyberware.gui.keybind.4=Escape, чтобы отменить привязку клавиш
+
+cyberware.gui.open_hud_config=Нажмите, чтобы настроить HUD
+cyberware.gui.open_color_change=Нажмите, чтобы изменить цвет HUD
+
+cyberware.gui.stick_left=Выровнять по левому краю
+cyberware.gui.stick_right=Выровнять по правому краю
+cyberware.gui.stick_up=Выровнять верхнюю часть
+cyberware.gui.stick_down=Выровнять по нижнему краю
+cyberware.gui.show=Показать элемент
+cyberware.gui.hide=Скрыть элемент
+cyberware.gui.reset_hud=Сбросить положение
+
+cyberware.gui.open_menu=Удерживайте %s, чтобы открыть меню Кибер-ПО
+
+
+cyberware.gui.to_scan=Вставьте Cyberware для сканирования
+cyberware.gui.percent=%1$s шанс
+cyberware.gui.time_left=Осталось %1$dm%2$ds
+
+cyberware.tooltip.shift_prompt=Удерживайте SNEAK для получения дополнительной информации
+cyberware.tooltip.requires=требуется
+cyberware.tooltip.joiner=,
+cyberware.tooltip.joiner_or=или
+
+cyberware.tooltip.neuropozyne=Анти-отторжение (20:00)
+cyberware.potion.neuropozyne=Анти-отторжение
+cyberware.potion.rejection=активное отторжение
+
+cyberware.tooltip.component_box=Shift-click чтобы поместить или забрать
+cyberware.tooltip.component_box2=Доступ к инженерному столу, если он находится поблизости или в инвентаре
+
+cyberware.tooltip.blueprint_archive=Доступен инженерным столом, если поблизости
+cyberware.tooltip.beacon=Слегка увеличивает число появления киберзомби поблизости
+cyberware.tooltip.beacon_large=Увеличивает число появления киберзомби поблизости
+cyberware.tooltip.beacon_post.0=Чтобы построить:
+cyberware.tooltip.beacon_post.1=6 слоев 1 компонента, по центру
+cyberware.tooltip.beacon_post.2=4 слоя компонентов 3x3
+cyberware.tooltip.blueprint_archive.0=Хранит чертежи Cyberware
+cyberware.tooltip.blueprint_archive.1=Доступен инженерным столом, если тот поблизости
+cyberware.tooltip.surgery.0=Используется для указания, какое кибер-ПО устанавливать или удалять
+cyberware.tooltip.surgery.1=Поместите на вершину хирургической камеры для работы
+cyberware.tooltip.surgery_chamber.0=Выполняет операции для Робохирурга
+cyberware.tooltip.surgery_chamber.1=Щелкните правой кнопкой мыши внутри, чтобы активировать
+cyberware.tooltip.charger.0=Заряжает объекты с помощью Cyberware
+cyberware.tooltip.charger.1=Принимает Энергия кузницы, Поток Редстоуна и Тесла
+cyberware.tooltip.engineering_table=Используется для демонтажа и создания киберпрограмм
+cyberware.tooltip.scanner=Анализирует киберпрограмму для создания чертежей   
+
+
+cyberware.tooltip.blueprint=Создает %1$s
+cyberware.tooltip.craft_blueprint=Ремесло с частью Cyberware
+
+cyberware.tooltip.power_consumption=Требуется %1$s мощ/с при использовании
+cyberware.tooltip.power_production=Производит %1$s мощ/с при использовании
+cyberware.tooltip.capacity=Мощность энергоблоков: %1$d
+cyberware.tooltip.max_install=Можно установить до %1$d
+cyberware.tooltip.essence=Стоимость допуска:%1$s
+cyberware.tooltip.essence_add=Повышение толерантности:%1$s
+
+cyberware.quality.scavenged=Спасено
+cyberware.quality.scavenged.name_modifier=Спасено %1$s
+cyberware.quality.manufactured=Изготовлено
+
+cyberware.tooltip.can_deconstruct=Может деконструировать или сканировать
+
+cyberware.gui.active.enable=включено
+cyberware.gui.active.disable=Отключено
+cyberware.gui.active.zoom=Zoom
+
+# KEYBINDS
+cyberware.keybinds.category=Cyberware
+cyberware.keybinds.menu=Cyberware меню
+
+# ITEM TOOLTIPS
+cyberware.tooltip.spider_eye=Обеспечивает паучье зрение\n_видеть в темноте
+cyberware.tooltip.body_part.0=
+cyberware.tooltip.body_part.1=
+cyberware.tooltip.body_part.2=
+cyberware.tooltip.body_part.3=
+cyberware.tooltip.body_part.4=
+cyberware.tooltip.body_part.5=
+cyberware.tooltip.body_part.6=
+cyberware.tooltip.body_part.7=
+cyberware.tooltip.body_part.8=
+cyberware.tooltip.body_part.9=
+cyberware.tooltip.body_part.10=
+cyberware.tooltip.body_part.11=
+cyberware.tooltip.body_part.12=
+cyberware.tooltip.body_part.13=
+cyberware.tooltip.body_part.14=
+cyberware.tooltip.body_part.15=
+cyberware.tooltip.cybereyes=Иммунитет к слепоте\nВключает обновления Cybereye
+cyberware.tooltip.cybereye_upgrades.0=Видеть в темноте
+cyberware.tooltip.cybereye_upgrades.1=Видеть под водой
+cyberware.tooltip.cybereye_upgrades.2=Отображает внутреннюю информацию о питании\nПозволяет обновлениям накладываться на HUD
+cyberware.tooltip.cybereye_upgrades.3=Подсвечивает ближайших существ
+cyberware.tooltip.cybereye_upgrades.4=Увеличить удаленные объекты
+cyberware.tooltip.eye_upgrades.0=Отображает информацию о внутреннем питании\nПозволяет обновлениям накладываться на HUD\nМожно использовать с органическими глазами
+cyberware.tooltip.manaseer_lens.0=Показывает функциональный радиус цветов\nОтображает дополнительную информацию о красном камне
+cyberware.tooltip.manaseer_lens.1=Показывает функциональный радиус цветов\nОтображает дополнительную информацию о красном камне
+cyberware.tooltip.exp_capsule.before=
+cyberware.tooltip.exp_capsule.after=записавает опыт и сохраняет его
+cyberware.tooltip.brain_upgrades.0=Сохраняет XP в капсуле после смерти
+cyberware.tooltip.brain_upgrades.1=Блокирует телепортацию поблизости
+cyberware.tooltip.brain_upgrades.2=Сохраняет немного опыта после смерти
+cyberware.tooltip.brain_upgrades.3=Автоматически переключаться на нужный инструмент
+cyberware.tooltip.brain_upgrades.4=Высокий шанс увернуться от атаки\nВ легкой броне или без брони
+cyberware.tooltip.brain_upgrades.5=Немного увеличивает\nпоявление кибер-зомби поблизости
+cyberware.tooltip.cyberheart=Иммунитет к слабости
+cyberware.tooltip.creative_battery=Безграничный потенциал
+cyberware.tooltip.heart_upgrades.0=Предотвращает верную смерть один раз
+cyberware.tooltip.heart_upgrades.0.power_consumption=Использует %1$d блоков питания для оживления
+cyberware.tooltip.heart_upgrades.1=Лечит, когда здоровье близко к полному
+cyberware.tooltip.heart_upgrades.2=Лечит последний удар после долгой задержки
+cyberware.tooltip.heart_upgrades.3=Использует электрические импульсы тела
+cyberware.tooltip.lungs_upgrades.0=Дополнительный кислород, медленно восстанавливается
+cyberware.tooltip.lungs_upgrades.1=Дополнительная скорость во время спринта
+cyberware.tooltip.dense_battery=Массовый накопитель\nЗаряжается только зарядным устройством
+cyberware.tooltip.lower_organs_upgrades.0=Нет отрицательных эффектов от еды и питья
+cyberware.tooltip.lower_organs_upgrades.1=Использует калории для производства энергии
+cyberware.tooltip.lower_organs_upgrades.2=Хранит энергию
+cyberware.tooltip.lower_organs_upgrades.3=Увеличивает силу и скорость при низком уровне здоровья
+cyberware.tooltip.skin_upgrades.0=Производить энергию на солнце
+cyberware.tooltip.skin_upgrades.1=Наносить урон атакующим в легкой броне или без брони
+cyberware.tooltip.skin_upgrades.2=Скрыть киберконечности
+cyberware.tooltip.skin_upgrades.3=Подавляет реакцию иммунной системы\nМенее устойчив к болезням и ядам
+cyberware.tooltip.muscle_upgrades.0=R1: Более высокая скорость атаки\nR2: Готовое оружие при атаке\nR3: Автоматически смотреть в лицо атакующему
+cyberware.tooltip.muscle_upgrades.1=Более высокая скорость передвижения\nУвеличенная сила
+cyberware.tooltip.bone_upgrades.0=Увеличение здоровья
+cyberware.tooltip.bone_upgrades.1=Устойчивость к урону от падения
+cyberware.tooltip.bone_upgrades.2=Хранит энергию
+cyberware.tooltip.cyberlimbs.0=Включает обновления Cyberarm
+cyberware.tooltip.cyberlimbs.1=Включает апгрейды Cyberarm
+cyberware.tooltip.cyberlimbs.2=Включает обновления Cyberleg
+cyberware.tooltip.cyberlimbs.3=Включает обновления Cyberleg
+cyberware.tooltip.hand_upgrades.0=3x3 личного крафта
+cyberware.tooltip.hand_upgrades.1=Более сильные атаки без оружия
+cyberware.tooltip.hand_upgrades.2=Руки мои на уровне камня
+cyberware.tooltip.arm_upgrades.0=Натягивать луки быстрее
+cyberware.tooltip.foot_upgrades.0=Ускорить лошадей
+cyberware.tooltip.foot_upgrades.1=Плавайте быстрее\nБолее мощная с двумя Cyberlegs
+cyberware.tooltip.foot_upgrades.2=Пройти полные блоки
+cyberware.tooltip.leg_upgrades.0=Прыгайте выше\nПрыгайте с Shift, чтобы запустить себя\nБолее мощная с двумя Cyberlegs
+cyberware.tooltip.leg_upgrades.1=Поглощение небольших ударов
+cyberware.tooltip.tough_as_nails_upgrades.0=Охладитесь, когда жарко\nИспользуя жажду
+cyberware.tooltip.tough_as_nails_upgrades.1=Согревает
+
+# DAMAGE TYPE
+death.attack.cyberware.brainless=Если бы только у %1$s был мозг
+death.attack.cyberware.heartless=%1$s умер от бессердечия
+death.attack.cyberware.surgery=%1$s не вернулся с операции
+death.attack.cyberware.spineless=%1$s был бесхребетным
+death.attack.cyberware.nomuscles=%1$s не мог удержаться вместе
+death.attack.cyberware.noessence=тело %1$s дало отпор
+death.attack.cyberware.lowessence=тело %1$s дало отпор
+
+# COMMAND
+Cyberware.commands.clear_cyberware.usage=Использование: /clearcyberware [player]
+Cyberware.commands.clear_cyberware.success=Удалено киберпрограммное обеспечение %1$s
+
+# ENTITIES
+entity.cyberzombie.name=Киберзомби
+
+# SCANNER SAYINGS
+# FOR TRANSLATORS - YOU CAN HAVE AS MANY OR FEW OF THESE AS YOU WANT, BUT YOU NEED AT LEAST ONE
+# DON'T BOTHER TRANSLATING THESE PHRASES, INCLUDE SOMETHING THAT'D BE MILDLY HUMOROUS IN
+# THE LANGUAGE YOU'RE TRANSLATING TO
+
+# THIS MUST BE THE NUMBER OF THE LAST KEY + 1 TO INCLUDE THE 0 SAYING
+cyberware.gui.scanner_saying.count=69
+
+cyberware.gui.scanner_saying.0=Сетчатые сплайны
+cyberware.gui.scanner_saying.1=Разрешение конфликта GUID
+cyberware.gui.scanner_saying.2=Возмущающие матрицы
+cyberware.gui.scanner_saying.3=Запутанная матрица Куигли
+cyberware.gui.scanner_saying.4=Интеграция кривых
+cyberware.gui.scanner_saying.5=Сжигание SIN
+cyberware.gui.scanner_saying.6=Графика миграции китов
+cyberware.gui.scanner_saying.7=Утверждение упакованных экземпляров
+cyberware.gui.scanner_saying.8=Имитация термоядерной войны
+cyberware.gui.scanner_saying.9=Обновление до коммунизма
+cyberware.gui.scanner_saying.10=Предсказание лотерейных номеров
+cyberware.gui.scanner_saying.11=Искоренение деревьев данных
+cyberware.gui.scanner_saying.12=Попытка POST-операций
+cyberware.gui.scanner_saying.13=Подписка на обработчики событий
+cyberware.gui.scanner_saying.14=Установка панели инструментов Ask
+cyberware.gui.scanner_saying.15=Подавление пропаганды
+cyberware.gui.scanner_saying.16=Захват средств производства
+cyberware.gui.scanner_saying.17=Ребаланс других модов
+cyberware.gui.scanner_saying.18=Обновление буфера Reddit
+cyberware.gui.scanner_saying.19=Расшифровка букв зодиака
+cyberware.gui.scanner_saying.20=Пролистывание книги правил
+cyberware.gui.scanner_saying.21=Бросок 4d6
+cyberware.gui.scanner_saying.22=Раскрытие тайны Кенноди
+cyberware.gui.scanner_saying.23=Объединение запросов на вытягивание
+cyberware.gui.scanner_saying.24=Повторение увиденных высказываний
+cyberware.gui.scanner_saying.25=Преобразование двоичного в восьмеричное
+cyberware.gui.scanner_saying.26=Разделение моделей
+cyberware.gui.scanner_saying.27=Жистикулирующие мимы
+cyberware.gui.scanner_saying.28=Разбрызгивание трансформаций
+cyberware.gui.scanner_saying.29=Последовательность частиц
+cyberware.gui.scanner_saying.30=Поиск лам
+cyberware.gui.scanner_saying.31=Втягивание шейдера Фонга
+cyberware.gui.scanner_saying.32=Повторная реализация быстрой игры
+cyberware.gui.scanner_saying.33=Удаление микротранзакций
+cyberware.gui.scanner_saying.34=Лекция о блуждающих подсистемах
+cyberware.gui.scanner_saying.35=Итерация клеточных автоматов
+cyberware.gui.scanner_saying.36=Применение шейдеров фэн-шуй
+cyberware.gui.scanner_saying.37=Обход мер DRM
+cyberware.gui.scanner_saying.38=Генерация глупых сообщений
+cyberware.gui.scanner_saying.39=Сбор источников частиц
+cyberware.gui.scanner_saying.40=Сращивание генетических источников
+cyberware.gui.scanner_saying.41=Открытие Херобрина
+cyberware.gui.scanner_saying.42=Прошивка настроенного BIOS
+cyberware.gui.scanner_saying.43=Рекомендуемые корни
+cyberware.gui.scanner_saying.44=Принудительное выполнение условий EULA
+cyberware.gui.scanner_saying.45=Подавление восстания
+cyberware.gui.scanner_saying.46=Расчет направления винта
+cyberware.gui.scanner_saying.47=Моделирование корпуса киберпрограммы
+cyberware.gui.scanner_saying.48=Полировка линз сканера
+cyberware.gui.scanner_saying.49=Извлечение прошивки
+cyberware.gui.scanner_saying.50=Взлом лицензионного ключа
+cyberware.gui.scanner_saying.51=Разделение нитей
+cyberware.gui.scanner_saying.52=Создание симуляции
+cyberware.gui.scanner_saying.53=Маршрутизация нейронных сетей
+cyberware.gui.scanner_saying.54=Мониторинг перемещения электрона
+cyberware.gui.scanner_saying.55=Попытка опровдания холокоста
+cyberware.gui.scanner_saying.56=Перерасчет маршрута
+cyberware.gui.scanner_saying.57=Разделение особенностей
+cyberware.gui.scanner_saying.58=Сжатие внутренних часов
+cyberware.gui.scanner_saying.59=Сброс индикаторов воды
+cyberware.gui.scanner_saying.60=Анализ деталей брендинга
+cyberware.gui.scanner_saying.61=Выполнение расчета Южизни
+cyberware.gui.scanner_saying.62=Абстрагирование шумовых слоев
+cyberware.gui.scanner_saying.63=Просеивание нейронных частиц
+cyberware.gui.scanner_saying.64=Решение дифференциальных уравнений
+cyberware.gui.scanner_saying.65=Начало пространственного моделирования
+cyberware.gui.scanner_saying.66=Создание дочерних элементов
+cyberware.gui.scanner_saying.67=Система очистки32
+cyberware.gui.scanner_saying.68=Вспоминая Ликаон
+
+
+# MISC
+cyberware.container.engineering=Cyberware Engineering
+cyberware.container.scanner=Scanner
+cyberware.container.blueprint_archive=Blueprint Archive
+cyberware.container.component_box=Component Box

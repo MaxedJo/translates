@@ -1,0 +1,175 @@
+#Перевёл KolaLaif. YouTube канал - https://www.youtube.com/@KolyaLaif/featured
+#RuTube канал - https://rutube.ru/channel/24888631/
+#На покушац (если не жалко) - https://www.donationalerts.com/r/kolyalaif
+itemGroup.tabVehicle=MrCrayfish's Vehicle Mod
+
+vehicle.engine_type.small.name=Маленький двигатель
+vehicle.engine_type.large.name=Большой двигатель
+vehicle.engine_type.electric.name=Электрический двигатель
+
+vehicle.engine_tier.wood.name=Деревянный ярус
+vehicle.engine_tier.stone.name=Каменный ярус
+vehicle.engine_tier.iron.name=Железный ярус
+vehicle.engine_tier.gold.name=Золотой ярус
+vehicle.engine_tier.diamond.name=Алмазный ярус
+vehicle.engine_info.acceleration=Разгон
+vehicle.engine_info.additional_max_speed=Дополнительная максимальная скорость
+vehicle.engine_info.fuel_consumption=Расход топлива
+
+vehicle.wheel_type.stock.name=Запасное
+vehicle.wheel_type.sports.name=Спортивное
+vehicle.wheel_type.racing.name=Гоночное
+vehicle.wheel_type.off_road.name=Бездорожье
+vehicle.wheel_type.snow.name=Снег
+vehicle.wheel_type.all_terrain.name=Вездеходность
+vehicle.wheel_type.plastic.name=Резина
+
+item.vehicle.small_engine.name=Маленький двигатель
+item.vehicle.large_engine.name=Большой двигатель
+item.vehicle.electric_engine.name=Электрический двигатель
+item.vehicle.spray_can.name=Баллончик с распылителем
+item.vehicle.spray_can.info=Используйте этот баллончик-распылитель для покраски транспортных средств. Чтобы добавить цвет в баллончик с распылителем, смешайте его с одним или несколькими красителями в таблице для крафта. Вы также можете наполнить баллончики с распылителем, поместив их вместе с цветным баллончиком на стол для крафта.
+item.vehicle.spray_can.empty=Нет краски
+item.vehicle.jerry_can.name=Канистра
+item.vehicle.jerry_can.info=Используйте эту канистру для транспортировки и заправки транспортных средств топливом. Он вмещает 5 вёдер топлива.
+item.vehicle.jerry_can.fuel=Fuel: %s
+item.vehicle.industrial_jerry_can.name=Промышленная канистра
+item.vehicle.industrial_jerry_can.info=Используйте эту промышленную канистру для транспортировки и заправки транспортных средств топливом. Он вмещает 15 вёдер топлива.
+item.vehicle.industrial_jerry_can.fuel=Fuel: %s
+item.vehicle.wrench.name=Гаечный ключ
+item.vehicle.key.name=Ключ зажигания
+item.vehicle.panel.name=Панель
+item.vehicle.wheel.name=Колесо
+item.vehicle.tow_bar.name=Буксировочный трос
+item.vehicle.go_kart_steering_wheel.name=Руль
+item.vehicle.handle_bar.name=Поручни
+item.vehicle.hammer.name=Молоток
+
+tile.vehicle.traffic_cone.name=Дорожный конус
+tile.vehicle.boost_pad.name=Пусковая площадка наддува
+tile.vehicle.boost_ramp.name=Наддувочная рампа
+tile.vehicle.steep_boost_ramp.name=Крутая наддувочная рампа
+tile.vehicle.gas_pump.name=Топливный насос
+tile.vehicle.fluid_extractor.name=Экстрактор жидкости
+tile.vehicle.fluid_mixer.name=Жидкостный смеситель
+tile.vehicle.fluid_pipe.name=Жидкостная труба
+tile.vehicle.fluid_pump.name=Жидкостный насос
+tile.vehicle.fuel_drum.name=Топливная бочка
+tile.vehicle.industrial_fuel_drum.name=Промышленная топливная бочка
+tile.vehicle.vehicle_crate.name=Ящик для автомобиля
+tile.vehicle.workstation.name=Рабочая станция
+tile.vehicle.jack.name=Домкрат
+
+fluid.fuelium=Топливо
+fluid.ender_sap=Сок Эндера
+fluid.blaze_juice=Пылающий сок
+
+container.fluid_extractor=Экстрактор жидкости
+container.fluid_mixer=Жидкостный смеситель
+container.edit_vehicle.window_help=Нажмите, чтобы переместить и повернуть
+
+vehicle.info_help=Удерживайте SHIFT для получения информации
+tile.vehicle.boost_pad.info=Езжайте на этой ускорительной площадке, чтобы увеличить скорость вашего автомобиля!
+tile.vehicle.boost_ramp.info=Проезжайте по этому ускоряющему пандусу, чтобы увеличить скорость вашего автомобиля и отправить его в полет!
+tile.vehicle.steep_boost_ramp.info=Проезжайте по этому крутому подъемному пандусу, чтобы увеличить скорость вашего автомобиля и поднять его высоко в воздух!
+tile.vehicle.traffic_cone.info=Используйте этот конус для блокировки транспортных средств с дополнительной высотой столкновения. Его также можно использовать в качестве шляпы!
+tile.vehicle.fluid_pipe.info=Используйте эту трубу для транспортировки жидкостей. Серая линия на трубе указывает направление движения. Для работы жидкость необходимо сначала закачать с помощью жидкостного насоса или любого другого совместимого насоса. Трубу можно отключить прямым сигналом красного камня.
+tile.vehicle.fluid_pump.info=Используйте этот насос для откачивания жидкости из любого совместимого хранилища жидкости в трубу или другое хранилище жидкости. Чтобы насос работал, он должен питаться напрямую от красного камня.
+tile.vehicle.fuel_drum.info=Эту топливную бочку можно использовать для хранения топлива или любой другой жидкости. Онс очень взрывоопаснс, поэтому держите её подальше от огня.
+tile.vehicle.vehicle_crate.info=Ящик, содержащий %s. Чтобы открыть ящик, просто щелкните правой кнопкой мыши по верху гаечным ключом.
+
+entity.vehicle.lawn_mower.name=Газонокосилка
+entity.vehicle.mini_bike.name=Мини-велосипед
+entity.vehicle.shopping_cart.name=Корзина
+entity.vehicle.speed_boat.name=Скоростной катер
+entity.vehicle.bath.name=Ванна
+entity.vehicle.bumper_car.name=Автомобильный бампер
+entity.vehicle.aluminum_boat.name=Алюминиевая лодка
+entity.vehicle.dune_buggy.name=Дюнный багги
+entity.vehicle.sofacopter.name=Диван-коптер
+entity.vehicle.smart_car.name=Умный автомобиль
+entity.vehicle.couch.name=Диван
+entity.vehicle.moped.name=Мопед
+entity.vehicle.off_roader.name=Внедорожник
+entity.vehicle.sports_plane.name=Спортивный самолет
+entity.vehicle.golf_cart.name=Машина для гольфа
+entity.vehicle.go_kart.name=Картинг
+entity.vehicle.jet_ski.name=Гидроцикл
+entity.vehicle.trailer.name=Автомобильный прицеп
+entity.vehicle.atv.name=Квадроцикл
+entity.vehicle.storage_trailer.name=Прицеп для хранения
+entity.vehicle.seeder_trailer.name=Сеялка
+entity.vehicle.fertilizer_trailer.name=Прицеп для удобрения
+entity.vehicle.fluid_trailer.name=Жидкостный прицеп
+entity.vehicle.tractor.name=Трактор
+entity.vehicle.mini_bus.name=Мини-Автобус
+entity.vehicle.dirt_bike.name=Грязевой велосипед
+
+vehicle.config.title=MrCrayfish's Vehicle Mod Config
+vehicle.config.client=Клиент
+vehicle.config.client.tooltip=Конфигурации только для клиента
+vehicle.config.client.debug=Отлаживать
+vehicle.config.client.debug.tooltip=Варианты конфигурации для отладки транспортных средств
+vehicle.config.client.debug.render_outlines=Визуализация контуров транспортных средств
+vehicle.config.client.debug.render_outlines.tooltip=Если установлено значение true, отображается контур всех элементов модели транспортного средства. Полезно для отладки взаимодействий.
+vehicle.config.client.debug.raytracer.continuous_reload=Перезагружать Raytracer каждый такт
+vehicle.config.client.debug.raytracer.continuous_reload.tooltip=Если установлено значение true, трассировщик лучей будет перезагружаться каждый такт.
+vehicle.config.client.interaction=Взаимодействие
+vehicle.config.client.interaction.tooltip=Варианты настройки взаимодействия с автомобилем
+vehicle.config.client.interaction.left_click=Щелчок левой кнопкой мыши включен
+vehicle.config.client.interaction.left_click.tooltip=Если установлено значение true, трассировка лучей будет выполняться на близлежащих транспортных средствах при щелчке левой кнопкой мыши, а не просто щелчке правой кнопкой мыши. Это позволяет повредить/сломать объект при щелчке в любом месте объекта, а не только в его ограничивающей рамке.
+vehicle.config.client.display=Дисплей
+vehicle.config.client.display.tooltip=Настройка элементов HUD
+vehicle.config.client.display.speedometer=Показывать спидометр
+vehicle.config.client.display.speedometer.tooltip=Если установлено значение true, отображает спидометр на HUD во время вождения автомобиля.
+vehicle.config.client.display.auto_perspective=Автоматическая перспектива
+vehicle.config.client.display.auto_perspective.tooltip=Если установлен значение true, автоматически переключается на вид от третьего лица при монтаже транспортных средств
+vehicle.config.client.display.workstation_animation=Анимация рабочей станции
+vehicle.config.client.display.workstation_animation.tooltip=Если установлено значение true, анимация выполняется при движении транспортных средств на рабочей станции.
+vehicle.config.client.controller=Контроллер
+vehicle.config.client.controller.tooltip=Варианты конфигурации для поддержки контроллера (необходима контролируемая установка)
+vehicle.config.client.controller.use_triggers=Использовать триггеры
+vehicle.config.client.controller.use_triggers.tooltip=Если установлено значение true, будут использоваться триггеры на контроллере для управления ускорением автомобиля.
+
+vehicle.config.server=Сервер
+vehicle.config.server.tooltip=Конфигурации только для сервера
+vehicle.config.server.fuel_enabled=Топливо включено
+vehicle.config.server.fuel_enabled.tooltip=Если установлено значение true, транспортным средствам для движения потребуется топливо.
+vehicle.config.server.vehicle_damage=Повреждения автомобиля
+vehicle.config.server.vehicle_damage.tooltip=Если установлено значение true, транспортные средства получат повреждения.
+vehicle.config.server.trailer_detach_threshold=Порог отсоединения прицепа
+vehicle.config.server.trailer_detach_threshold.tooltip=Расстояние до отсоединения прицепа от автомобиля
+vehicle.config.server.trailer_sync_cooldown=Время восстановления синхронизации прицепа
+vehicle.config.server.trailer_sync_cooldown.tooltip=Количество тиков, ожидаемых перед синхронизацией данных с клиентами о подключении к прицепу. Это важно для плавного перемещения прицепа со стороны клиента.
+vehicle.config.server.trailer_inventory_sync_cooldown=Время восстановления синхронизации инвентаря прицепа
+vehicle.config.server.trailer_inventory_sync_cooldown.tooltip=Количество тиков ожидания перед синхронизацией инвентаря прицепа с клиентами отслеживания. Если для значения установлено значение 0 или меньше, проверка не будет синхронизироваться и будет экономиться на использовании сети.
+vehicle.config.server.pick_up_vehicles=Пикап
+vehicle.config.server.pick_up_vehicles.tooltip=Позволяет игрокам подбирать транспортные средства, приседая и щелкая правой кнопкой мыши.
+vehicle.config.server.max_hose_distance=Макс. расстояние между шлангами
+vehicle.config.server.max_hose_distance.tooltip=Максимальное расстояние до разрыва шланга от бензонасоса или жидкостного шланга
+
+vehicle.chat.pump.power=§bPower Mode:§r %s
+vehicle.chat.pump.power.off=требует отключения сигнала
+vehicle.chat.pump.power.on=требуется включение сигнала
+vehicle.chat.pump.power.always=всегда активен
+
+vehicle.status.invalid_owner=Вы не являетесь владельцем этого транспортного средства
+vehicle.status.key_added=Автомобиль успешно заперт этим ключом
+vehicle.status.key_created=Ключ успешно привязан к автомобилю
+vehicle.status.not_lockable=Этот автомобиль невозможно запереть
+vehicle.status.key_invalid=Этот ключ не подходит к этому автомобилю
+vehicle.status.key_removed=Автомобиль разблокирован
+
+vehicle.tooltip.optional=Необязательный
+vehicle.tooltip.required=Требующий
+vehicle.tooltip.not_applicable=Непригодный
+vehicle.tooltip.paint_color=Цвет краски
+vehicle.tooltip.engine=Двигатель
+vehicle.tooltip.wheels=Колёса
+
+key.categories.vehicle=MrCrayfish's Vehicle Mod
+key.vehicle.horn=Рог
+key.vehicle.cycle_seats=Велосипедные сиденья
+#Перевёл KolaLaif. YouTube канал - https://www.youtube.com/@KolyaLaif/featured
+#RuTube канал - https://rutube.ru/channel/24888631/
+#На покушац (если не жалко) - https://www.donationalerts.com/r/kolyalaif

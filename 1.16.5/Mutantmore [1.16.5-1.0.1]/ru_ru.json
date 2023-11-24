@@ -1,0 +1,127 @@
+{
+	"entity.mutantmore.mutant_husk" : "Мутатнт Кадавр",
+	"entity.mutantmore.mutant_wither_skeleton" : "Мутант Скелет-иссушитель",
+	"entity.mutantmore.mutant_blaze" : "Мутант Ифрит",
+	"entity.mutantmore.rodling" : "Родлинг",
+	"entity.mutantmore.mutant_hoglin" : "Мутант Хоглин",
+	"entity.mutantmore.mutant_shulker" : "Мутант Шалкер",
+	"entity.mutantmore.mutant_shulker_box" : "Шалкеровый ящик мутанта",
+	"entity.mutantmore.rodling_fireball" : "Огненный шар",
+	"entity.mutantmore.seismic_wave" : "Сейсмическая волна",
+	"entity.mutantmore.thrown_block" : "Брошенный Блок",
+	"entity.mutantmore.mutant_wither_skeleton_shockwave" : "Горящий болт",
+	
+	"entity.mutantmore.wither_body_part" : "Мутант Скелет-иссушитель Часть Тела",
+	"entity.mutantmore.blaze_rod" : "Пылающий Стержень",
+	
+	"item.mutantmore.mutant_husk_spawn_egg" : "Яйцо призыва мутанта Кадавра",
+	"item.mutantmore.mutant_wither_skeleton_spawn_egg" : "Яйцо призыва мутанта Скелета-иссушителя",
+	"item.mutantmore.mutant_blaze_spawn_egg" : "Яйцо призыва мутанта Ифрита",
+	"item.mutantmore.rodling_spawn_egg" : "Яйцо призыва Родлинга",
+	"item.mutantmore.mutant_hoglin_spawn_egg" : "Яйцо призыва мутанта Хоглина",
+	"item.mutantmore.mutant_shulker_spawn_egg" : "Яйцо призыва мутанта Шалкера",
+
+	"item.mutantmore.formula_y": "Формула Y",
+	"item.mutantmore.compound_z": "Компонент Z",
+		
+	"item.mutantmore.mutant_hoglin_tusk": "Бивень мутанта хоглина",
+	"item.mutantmore.mutant_shulker_box": "Шалкеровый ящик мутанта",
+	
+	"item.mutantmore.mutant_blaze_core": "Ядро ифрита",
+	"item.mutantmore.rodling_checker": "Родлинга чекер",
+	
+	"item.mutantmore.mutant_wither_skeleton_arms": "Руки скелета-иссушителя",
+	"item.mutantmore.mutant_wither_skeleton_limb": "Конечность скелета-иссушителя",
+	"item.mutantmore.mutant_wither_skeleton_pelvis": "Таз скелета-иссушителя",
+	"item.mutantmore.mutant_wither_skeleton_rib_cage": "Грудная клетка скелета-иссушителя",
+	"item.mutantmore.mutant_wither_skeleton_rib": "Ребро скелета-иссушителя",
+	"item.mutantmore.mutant_wither_skeleton_shoulder_pad": "Наплечник скелета-иссушителя",
+	"item.mutantmore.mutant_wither_skeleton_skull": "Череп скелета-иссушителя",
+	"item.mutantmore.mutant_wither_skeleton_chestplate": "Нагрудник скелета-иссушителя",
+	"item.mutantmore.mutant_wither_skeleton_leggings": "Поножи скелета-иссушителя",
+	"item.mutantmore.mutant_wither_skeleton_boots": "Ботинки якелета-иссушителя",
+	"item.mutantmore.withered_claymore": "Увядший Клеймор",
+	"item.mutantmore.empty_cactus_jug": "Пустой Кувшин Кактуса",
+	"item.mutantmore.filled_cactus_jug": "Полный Кувшин Кактуса",
+	
+	"death.fallingMob": "%1$s был раздавлен",	
+	"death.attack.fallingMob": "%1$s был раздавлен %2$s",
+	
+	"block.mutantmore.mutant_wither_skeleton_skull": "Череп мутанта скелета-иссушителя",
+	"block.mutantmore.mutant_wither_skeleton_wall_skull": "Череп мутанта скелета-иссушителя",
+	
+	"gui.mutantmore.rodling_checker.health": "Здоровье",
+	"gui.mutantmore.rodling_checker.explosion": "Взрыв",
+	"gui.mutantmore.rodling_checker.fireball_strength": "Сила огненного шара",
+	"gui.mutantmore.rodling_checker.show_name": "Всегда аоказывайть имя",
+	"gui.mutantmore.rodling_checker.burns_blocks": "Поджигает блоки",
+	"gui.mutantmore.rodling_checker.ride_on_shoulder": "Поездка на плече",
+	
+	"effect.mutantmore.hog_power" : "Сила свиньи",
+		
+	"item.minecraft.potion.effect.hog_power": "Зелье силы свиньи",
+	"item.minecraft.potion.effect.strong_hog_power": "Зелье силы свиньи",
+	"item.minecraft.potion.effect.long_hog_power": "Зелье силы свиньи",
+	
+	"item.minecraft.splash_potion.effect.hog_power": "Взрывное зелье силы свиньи",
+	"item.minecraft.splash_potion.effect.strong_hog_power": "Взрывное зелье силы свиньи",
+	"item.minecraft.splash_potion.effect.long_hog_power": "Взрывное зелье силы свиньи",
+	
+	"item.minecraft.lingering_potion.effect.hog_power": "Туманное зелье силы свиньи",
+	"item.minecraft.lingering_potion.effect.strong_hog_power": "Туманное зелье силы свиньи",
+	"item.minecraft.lingering_potion.effect.long_hog_power": "Туманное зелье силы свиньи",
+	
+	"item.minecraft.tipped_arrow.effect.hog_power": "Стрела силы свиньи",
+	"item.minecraft.tipped_arrow.effect.strong_hog_power": "Стрела силы свиньи",
+	"item.minecraft.tipped_arrow.effect.long_hog_power": "Стрела силы свиньи",
+	
+	"advancements.mutantmore.root.title": "Больше Мутантов!",
+	"advancements.mutantmore.root.description": "Приготовьтесь к ожесточенным сражениям!",
+	
+	"advancements.mutantmore.hog_power.title": "ТЫ ГОТОВ К СИЛЕ СВИНЬИИИИ!?!?!?",
+	"advancements.mutantmore.hog_power.description": "Выпейте зелье силы свиньи и приготовьтесь громыхать!",
+	
+	"advancements.mutantmore.dont_try_this_at_home.title": "Не пытайтесь делать это дома",
+	"advancements.mutantmore.dont_try_this_at_home.description": "Заварите себе флакон формулы Y",
+	
+	"advancements.mutantmore.a_hazardous_mix.title": "Опасная смесь",
+	"advancements.mutantmore.a_hazardous_mix.description": "Свари Компонент Z, не валяй дурака.",
+	
+	"advancements.mutantmore.knock_knock.title": "Тук Тук",
+	"advancements.mutantmore.knock_knock.description": "Заставьте Мутанта Шалкера открыться, постучав по его оболочке",
+	
+	"advancements.mutantmore.ole.title": "Оле!",
+	"advancements.mutantmore.ole.description": "Уклонитесь от атаки Мутант Хоглина, держа в руках большую красную тряпку",
+	
+	"advancements.mutantmore.heart_of_the_storm.title": "Сердце Бури",
+	"advancements.mutantmore.heart_of_the_storm.description": "Победите Мутанта Ифрита и получите его ядро",
+	
+	"advancements.mutantmore.tame_a_rodling.title": "Вспыльчивый маленький друг!",
+	"advancements.mutantmore.tame_a_rodling.description": "После победы над Мутантом Ифритом возьмите один из его стержней и наблюдайте, как вы получите своего нового друга!",
+	
+	"advancements.mutantmore.daily_checkup.title": "Ежедневный Осмотр",
+	"advancements.mutantmore.daily_checkup.description": "Проверьте одного из ваших маленьких компаньонов с помощью назначенного им предмета",
+	
+	"advancements.mutantmore.make_a_mutant.title": "Сделать Мутанта",
+	"advancements.mutantmore.make_a_mutant.description": "Используйте либо формулу Y, либо соединение Z, чтобы мутировать монстра",
+	
+	"advancements.mutantmore.kill_a_mutant.title": "Охотник на мутанта",
+	"advancements.mutantmore.kill_a_mutant.description": "Победите мутанта",
+	
+	"advancements.mutantmore.kill_all_mutants.title": "Охота на Мутантов",
+	"advancements.mutantmore.kill_all_mutants.description": "Победите всех мутантов",
+	
+	"advancements.mutantmore.wither_skeleton_armour.title": "ООООООХ, СТРАШНЫЙ!!!!!!!",
+	"advancements.mutantmore.wither_skeleton_armour.description": "Создайте несколько частей доспехов Мутанта Скелета-иссушителя из костей вашего поверженного врага",
+	
+	"advancements.mutantmore.not_your_average_beartrap.title": "Необычная ловушка на медведей",
+	"advancements.mutantmore.not_your_average_beartrap.description": "Победите Шалкера и получите его оболочку",
+	
+	"advancements.mutantmore.husk_smash.title": "Халк Крушить!!!",
+	"advancements.mutantmore.husk_smash.description": "Получить удар от Мутанта Кадавра в воздухе",
+	
+	"advancements.mutantmore.an_unlikely_refreshment.title": "Маловероятное Освежение",
+	"advancements.mutantmore.an_unlikely_refreshment.description": "Вкусите освежающей кактусовой воды, выпив из наполненного кактусового кувшина",
+	
+	"itemGroup.mutant_more": "Больше Мутантов"
+}

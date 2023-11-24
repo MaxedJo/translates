@@ -1,0 +1,29 @@
+{
+  "itemGroup.culturalTab": "Cultural Delights",
+
+  "item.alexsdelight.cooked_bison": "Приготовленный бизон",
+  "item.alexsdelight.raw_bison": "Сырой бизон",
+  "item.alexsdelight.cooked_bunfungus": "Приготовленный бунфунгус",
+  "item.alexsdelight.raw_bunfungus": "Сырой бунфунгус",
+  "item.alexsdelight.cooked_centipede_leg": "Приготовленная ножка сороконожки",
+
+  "item.alexsdelight.kangaroo_shank": "Голень кенгуру",
+  "item.alexsdelight.cooked_kangaroo_shank": "Приготовленная голень кенгуру",
+  "item.alexsdelight.loose_moose_rib": "Ребра лося",
+  "item.alexsdelight.cooked_loose_moose_rib": "Приготовленные ребра лося",
+  "item.alexsdelight.bison_mince": "Бизоний фарш",
+  "item.alexsdelight.bison_patty": "Бизон Патти",
+  "item.alexsdelight.raw_bunfungus_drumstick": "Сырая барабулька с грибами",
+  "item.alexsdelight.cooked_bunfungus_drumstick": "Приготовленная барабулька с грибами",
+  "item.alexsdelight.raw_catfish_slice": "Кусочек сырого сома",
+  "item.alexsdelight.cooked_catfish_slice": "Кусочек вареного сома",
+
+  "item.alexsdelight.gongylidia_bruschetta": "Брускетта из гонгилидии",
+  "item.alexsdelight.maggot_salad": "Салат из личинок",
+  "item.alexsdelight.kangaroo_stew": "Рагу из кенгуру",
+  "item.alexsdelight.acacia_blossom_soup": "Суп из цветков акации",
+  "item.alexsdelight.lobster_pasta": "Паста с омаром",
+  "item.alexsdelight.bison_burger": "Бургер с бизоном",
+  "item.alexsdelight.bunfungus_sandwich": "Сэндвич с бунфунгус",
+  "item.alexsdelight.kangaroo_pasta": "Паста с кенгуру"
+}

@@ -1,0 +1,239 @@
+# Essential Translations
+## Menus
+# Friends Menu
+gui.menu.friends.titletext=Друзья
+
+# Cosmetic Studio Menu
+gui.menu.cosmeticstudio.next=Следующая вещь
+gui.menu.cosmeticstudio.previous=Предыдущая вещь
+gui.menu.cosmeticstudio.previewnone=Предварительный просмотр отсутствует
+gui.menu.cosmeticstudio.togglespin=Включить вращение
+gui.menu.cosmeticstudio.togglefollowmouse=Включить слежение за мышью
+gui.menu.cosmeticstudio.resetspin=Отключить вращение
+gui.menu.cosmeticstudio.previewing=Предварительный просмотр:
+gui.menu.cosmeticstudio.none=Никого
+gui.menu.cosmeticstudio.adjustposition=Отрегулировать положение:
+
+studio.BACK=Спина
+studio.EARS=Уши
+studio.FACE=Лицо
+studio.FULL_BODY=Костюм
+studio.HAT=Шляпа
+studio.PET=Питомец
+studio.TAIL=Хвост
+studio.ARMS=Руки
+studio.SUITS=Костюмы
+studio.SHOES=Ботинки
+studio.PANTS=Штаны
+studio.WINGS=Крылья
+studio.FEATURED=Рекомендуемое
+studio.OWNED=Купленные
+studio.CAPE=Плащ
+studio.PARTNER=Напарник
+studio.NEW=Новое
+studio.SHOULDERS=Плечи
+studio.test=Пробное событие
+studio.100T=100 Воров
+studio.INSANE=InsaneCraft
+studio.HALLOWEEN=Страшные
+studio.TEAMSEAS=#TeamSeas
+studio.RED=(Популярное)
+studio.WINTER=Зима
+studio.EFFECT=Эффект
+studio.FLAME=Пламя
+studio.HACKER=ХАкер
+
+## Configuration
+# Configuration Names
+gui.config.name.friendnotifications=Уведомления о новых Друзьях
+gui.config.name.messagereceivednotifications=Уведомления о входящих сообщениях
+gui.config.name.messagegroupupdate=Обновление группы сообщений
+
+# Configuration Descriptions
+gui.config.description.displayfriendnotifs=Отображение уведомлений о действиях друзей
+gui.config.description.displaymessagenotifs=Отображение уведомлений о полученных сообщениях
+gui.config.description.displaygroupupdates=Отображение уведомлений об обновлениях группы
+
+# Configuration Categories
+gui.config.category.notifications=Уведомления
+
+# Configuration Subcategories
+gui.config.subcategory.friends=Друзья
+gui.config.subcategory.messages=Сообщения
+
+## Feedback
+# Command Feedback
+command.feedback.refreshpurchases=Обновление вашего профиля
+
+# Keybind Feedback
+keybind.feedback.lookatplayerfriend=Посмотрите на игрока, чтобы добавить его в друзья!
+keybind.feedback.alreadyfriends=Этот игрок уже у вас в друзьях!
+keybind.feedback.blockedbyplayerfriend=Вы не можете добавить этого игрока в друзья, потому что он заблокировал вас!
+keybind.feedback.hasplayerblockedfriend=Вы не можете добавить этого игрока в друзья, потому что вы заблокировали его! (Сначала разблокируйте игрока)
+keybind.feedback.alreadypendingfriendrequest=Вы уже отправили игроку(ам) запрос на добавление в друзья!
+keybind.feedback.sendingfriendrequest=Отправка запроса о дружбе игроку %s
+keybind.feedback.lookatplayermessage=Посмотрите на игрока, чтобы отправить ему сообщение!
+keybind.feedback.notfriendedmessage=Вы не можете отправить сообщене игроку, ведь его нет в списке ваших друзей! (Добавьте игрока в друзья)
+keybind.feedback.openconversationmessage=Попытка поговорить с игроком %s
+## Keybinds
+keybind.name.ADD_FRIEND=Добавить Друга
+keybind.name.ESSENTIAL_FRIENDS=Открыть список Друзей
+keybind.name.COSMETIC_STUDIO=Открыть Гардероб
+Open Cosmetic Studio=Открыть Гардероб
+keybind.name.ZOOM=Приблизть
+keybind.name.COSMETICS_VISIBILITY_TOGGLE=Включить видимсоть вещей
+keybind.name.CHAT_PEEK=Проверить чат
+keybind.name.INVITE_FRIENDS=Пригласить Друзей
+keybind.name.SCREENSHOT_MANAGER=Менеджер Скриншотов
+
+keybind.error.nonplayer=Данный вами игрок не является действительным!
+## Notifications
+# Notification Titles
+notification.title.message=Сообщение
+notification.title.friends=Друзья
+notification.title.messages=Сообщения
+notification.title.failedgroupcreation=Не удалось создать группу
+notification.title.groupcreated=Группа создана
+
+# Notification Messages - Friends
+notification.message.acceptedfriend=Теперь вы друзья с %s!
+notification.message.removedfriend=Вы удалили из друзей %s!
+notification.message.sentfriendrequest=%s отправил вам запрос на добавление в друзья!
+notification.message.cancelledfriendrequest=Запрос на дружбу %s %s отменён!
+notification.message.cancelledfriendrequestto=к
+notification.message.cancelledfriendr[]'equestfrom=from44notification.message.deniedfriendrequest=%s отклонил ваш запрос на добавление в друзья!
+notification.message.deniedfriendrequest_alt=Отклонен запрос на добавление в друзья от %s
+notification.message.blockedfriendrequest=%s заблокировал вас!
+notification.message.hasblockedfriendrequest=%s был заблокирован!
+notification.message.unblockedfriendrequest=%s разблокировал вас!
+notification.message.hasunblockedfriendrequest=%s был разблокирован!
+notification.message.requestsuccess=Запрос на добавление в друзья игроку %s был успешно отправлен
+
+# Notification Messages - Messaging
+notification.message.newmessage=Сообщение от %s игроку %s
+notification.message.newmessage_dm=Сообщение от %s
+notification.message.groupcreated=Группа создана!
+
+# Cosmetics
+cosmetics.WINGS=Крылья
+cosmetics.DRAGON_COMPANION=Спутник Дракон
+cosmetics.DRAGON_HEAD=Голова Дракона
+cosmetics.FEZ_HAT=Шляпа FEZ
+cosmetics.LEGO_HAT=LEGO Шляпа
+cosmetics.TOP_HAT=Лучшая Шляпа
+cosmetics.CUSTOM_CAPE_STATIC=Кастомный Статичный Плащ
+cosmetics.CUSTOM_CAPE_DYNAMIC=Кастомный Динамичесикй Плащ
+cosmetics.NITRO_CAPE=Nitro Плащ
+cosmetics.EXAMPLE_CAPE=Образцовый Плащ
+cosmetics.TAB_DOT=Tab Dot
+cosmetics.HEAD_TEXT=Head Text
+cosmetics.COLONIST_HAT=Шляпа Колониста
+cosmetics.JETPACK=Джетпак
+cosmetics.GENERIC_BACKPACK=Generic Backpack
+cosmetics.DOG_BACKPACK=Собачий Рюкзак
+cosmetics.AIRPODS=Airpods
+cosmetics.TAN_BACKPACK=Tan Backpack
+cosmetics.ELEPHANT_BACKPACK=Elephant Backpack
+cosmetics.FEATHER_TOPHAT=Feather Tophat
+cosmetics.EARS=Ears
+cosmetics.HEADSET=Headset
+cosmetics.SUNGLASSES=Sunglasses
+cosmetics.CUSTOM_SKIN_STATIC=Custom Skin Static
+cosmetics.CUSTOM_SKIN_DYNAMIC=Custom Skin Dynamic
+cosmetics.LEGO_MAESTRO_CAPE=Lego Maestro Cape
+cosmetics.FLIP=Flip
+cosmetics.DOG_FILTER=Dog Filter
+cosmetics.TURTLE_BACKPACK=Turtle Backpack
+cosmetics.MONKEY_BACKPACK=Monkey Backpack
+cosmetics.KING_CROWN=King Crown
+cosmetics.QUEEN_CROWN=Queen Crown
+cosmetics.FLOWER_CROWN=Flower Crown
+cosmetics.FIRE_JETPACK=Fire Jetpack
+cosmetics.WATER_JETPACK=Water Jetpack
+cosmetics.MAGIC_JETPACK=Magic Jetpack
+cosmetics.ANGEL_WINGS=Angel Wings
+cosmetics.DEMON_WINGS=Demon Wings
+cosmetics.HEADPHONES=Headphones
+cosmetics.ROBOT_HELPMET=Robot Helpmet
+cosmetics.FROG_HAT=Frog Hat
+cosmetics.SPACESUIT_HELMET=Spacesuit Helmet
+cosmetics.PROPELLER_HAT=Propeller Hat
+cosmetics.FRANKENSTEIN_BOLTS=Frankenstein Bolts
+cosmetics.EARMUFFS=Earmuffs
+cosmetics.HEADBANDS=Headbands
+cosmetics.UNICORN__HORN=Unicorn Horn
+cosmetics.VIKING_HELMET=Viking Helmet
+cosmetics.ARROW_THROUGH_HEAD=Arrow Through Head
+cosmetics.DEVIL_HORNS=Devil Horns
+cosmetics.COWBOY_HAT=Cowboy Hat
+cosmetics.TALL_COWBOY_HAT=Tall Cowboy Hat
+cosmetics.CAT_EARS=Cat Ears
+cosmetics.RABBIT_EARS=Rabbit Ears
+cosmetics.DOG_EARS=Dog Ears
+cosmetics.PANDA_EARS=Panda Ears
+cosmetics.KANGAROO_EARS=Kangaroo Ears
+cosmetics.ALIEN_EARS=Alien Ears
+cosmetics.SUPER_TALL_COWBOY_HAT=Super Tall Cowboy Hat
+cosmetics.DEAL_WITH_IT_GLASSES=Deal With It Glasses
+cosmetics.THREE_D_GLASSES=3D Glasses
+cosmetics.CAT_FILTER=Cat Filter
+cosmetics.RABBIT_FILTER=Rabbit Filter
+cosmetics.MONOCLE=Monocle
+cosmetics.TIKI_MASK=Tiki Mask
+cosmetics.BANANA_OUTFIT=Banana Outfit
+cosmetics.ENDER_DRAGON_OUTFIT=Ender Dragon Outfit
+cosmetics.SPACE_SUIT=Space Suit
+cosmetics.GOATEE=Goatee
+cosmetics.OLD_DUTCH_BEARD=Old Dutch Beard
+cosmetics.SOUL_PATCH=Soul Patch
+cosmetics.MUTTON_CHOPS_BEARD=Mutton Chops Beard
+cosmetics.A_LA_SOUVAROV_BEARD=A La Souvarov Beard
+cosmetics.PHARAOH_HEADDRESS=Pharaoh Headdress
+cosmetics.VAN_DYKE_BEARD=Van Dyke Beard
+cosmetics.SHORT_BOXED_BEARD=Short Boxed Beard
+cosmetics.SPARROW_BEARD=Sparrow Beard
+cosmetics.FRANZ_JOSEF_BEARD=Franz Josef Beard
+cosmetics.HOLLYWOOD_BEARD=Hollywood Beard
+cosmetics.FU_MANCHU_MUSTACHE=Fu Manchu Mustache
+cosmetics.LONG_BOXED_BEARD=Long Boxed Beard
+cosmetics.PHARAOH_BEARD=Pharaoh Beard
+cosmetics.SAMURAI_MASK_HELMET=Samurai Mask Helmet
+cosmetics.SAMURAI_HELMET=Samurai Helmet
+cosmetics.DRAGON_TAIL=Dragon Tail
+cosmetics.CHEF_HAT=Chef Hat
+cosmetics.FIREFIGHTER_HELMET=Firefighter Helmet
+cosmetics.SODA_HAT=Soda Hat
+cosmetics.SOMBRERO=Sombrero
+cosmetics.CLOWN_MASK=Clown Mask
+cosmetics.ARMY_HELMET=Army Helmet
+cosmetics.PILOT_HAT=Pilot Hat
+cosmetics.PIRATE_HAT=Pirate Hat
+cosmetics.STEAMPUNK_HAT=Steampunk Hat
+cosmetics.RASTA_WIG=Rasta Wig
+cosmetics.GAS_MASK=Gas Mask
+cosmetic.BIONIC_CYBORG_FACE=Bionic
+cosmetic.BITZEL_SOCK_MONKEY.partnername=Bitzel
+cosmetic.HAPICO_FROG.partnername=Hapico
+cosmetic.BIFFLE_MONOCLE.partnername=Biffle
+cosmetic.HENRY_COSMETIC.partnername=Henwy
+cosmetic.JEROME_BEAR_ONESIE.partnername=JeromeASF
+cosmetic.SSUNDEE_FOOT_ONESIE.partnername=SSundee
+cosmetic.SIGILS_STARTER_KIT.partnername=Sigils
+cosmetic.MEFS_TACO_WINGS.partnername=Mefs
+cosmetic.MICHAELMCCHIL_ALESIA_BACKPACK.partnername=Michaelmcchill
+cosmetic.KRINIOS_KEY_WINGS.partnername=Krinios
+
+
+connectionmanager.friends.EXISTING_REQUEST_IS_PENDING=Вы уже отправили запрос на добавление в друзья данному игроку
+connectionmanager.friends.SENDER_TYPE_VERIFIED_SLOT_LIMIT=Вы достигли максимального количества друзей. Удалите кого-то, чтобы добавить других.
+connectionmanager.friends.TARGET_TYPE_VERIFIED_SLOT_LIMIT=Этот игрок достиг максимального количества запросов на добавление в друзья
+connectionmanager.friends.NO_PENDING_REQUEST_TO_VERIFY=Не найдено ни одного запроса на добавление в друзья.
+connectionmanager.friends.VERIFIED_RELATIONSHIP_ALREADY_EXISTS=Этот игрок уже у вас в друзьях
+connectionmanager.friends.NO_BLOCKED_RELATIONSHIP_TO_CONVERT=Произошла ошибка при блокировке этого игрока
+connectionmanager.friends.SENDER_BLOCKED_TARGET=Этот игрок был вами заблокирован ранее. Чтобы отправить запрос на добваление в друзья, разблокируйте его.
+connectionmanager.friends.TARGET_BLOCKED_SENDER=Этот игрок заблокировал вас.
+connectionmanager.friends.SENDER_TYPE_OUTGOING_SLOT_LIMIT=Вы достигли максимального количества запросов на добавление в друзья. Отмените некоторые, прежде чем отправлять другие
+connectionmanager.friends.TARGET_TYPE_INCOMING_SLOT_LIMIT=У этого игрока слишком много входящих запросов на ддобавление в друзья.
+connectionmanager.friends.TARGET_PRIVACY_SETTING_FRIEND_OF_FRIENDS=Этот игрок принимает запросы на добавление в друзья только от общих друзей
+connectionmanager.friends.TARGET_PRIVACY_SETTING_NO_ONE=Этот человек решмл не принимать запросы на добавление в друзья прямо сейчас
+connectionmanager.friends.TARGET_NOT_EXIST=Этот игрок не был найден
